@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -276,7 +276,7 @@ Version Consolidée au 2001-12-29
         - [Chapitre V : De la faillite personnelle et des autres mesures d'interdiction (art. L625-1 à L625-10)](#273)
         - [Chapitre VI : De la banqueroute et des autres infractions (art. L626-1 à L626-19)](#274)
           - [Section 1 : De la banqueroute (art. L626-1 à L626-7)](#275)
-          - [Section 2 : Des autres infractions (art. L626-9 à L626-14)](#276)
+          - [Section 2 : Des autres infractions (art. L626-8 à L626-14)](#276)
           - [Section 3 : Des règles de procédure (art. L626-15 à L626-19)](#277)
         - [Chapitre VII : Dispositions communes (art. L627-1 à L627-5)](#278)
         - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle (art. L628-1 à L628-2)](#279)
@@ -299,83 +299,79 @@ Version Consolidée au 2001-12-29
           - [Section 1 : Du jugement de liquidation judiciaire (art. L622-2 à L622-5)](#296)
             - [Sous-section 1 : De la liquidation judiciaire ouverte sans période d'observation. (art. L622-2)](#297)
             - [Sous-section 2 : De la liquidation judiciaire prononcée au cours de la période d'observation. (art. L622-5)](#298)
-        - [Chapitre VI : De la banqueroute et des autres infractions (art. L626-3 à L626-8)](#299)
-          - [Section 1 : De la banqueroute. (art. L626-3 à L626-4)](#300)
-          - [Section 2 : Des autres infractions. (art. L626-8)](#301)
-        - [Chapitre VII : Dispositions communes. (art. L627-4)](#302)
-        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle. (art. L628-3)](#303)
-    - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L730-17)](#304)
-      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#305)
-        - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#306)
-        - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#307)
-        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#308)
-      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#309)
-      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#310)
-    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#311)
-      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-6)](#312)
-        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#313)
-          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#314)
-            - [Sous-section 1 : Des missions. (art. L811-1)](#315)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#316)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#317)
-            - [Sous-section 4 : Des incompatibilités. (art. L811-10)](#318)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#319)
-            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#320)
-            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#321)
-        - [Chapitre II : Des mandataires judiciaires à la liquidation des entreprises (art. L812-1 à L812-10)](#322)
-          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#323)
-            - [Sous-section 1 : Des missions. (art. L812-1)](#324)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#325)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#326)
-            - [Sous-section 4 : Des incompatibilités. (art. L812-8)](#327)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#328)
-        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#329)
-          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#330)
-          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#331)
-        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-6)](#332)
-          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#333)
-            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#334)
-            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#335)
-          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-6)](#336)
-            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#337)
-            - [Sous-section 2 : De la rémunération. (art. L814-6)](#338)
-      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#339)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#340)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#341)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#342)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#343)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#344)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#345)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#346)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#347)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#348)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#349)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#350)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#351)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#352)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#353)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#354)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-12)](#355)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#356)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#357)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#358)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#359)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#360)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-12)](#361)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#362)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#363)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#364)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#365)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-12)](#366)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#367)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#368)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#369)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#370)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#371)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#372)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-8)](#373)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#374)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#375)
+        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle. (art. L628-3)](#299)
+    - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L730-17)](#300)
+      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#301)
+        - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#302)
+        - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#303)
+        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#304)
+      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#305)
+      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#306)
+    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#307)
+      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-6)](#308)
+        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#309)
+          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#310)
+            - [Sous-section 1 : Des missions. (art. L811-1)](#311)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#312)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#313)
+            - [Sous-section 4 : Des incompatibilités. (art. L811-10)](#314)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#315)
+            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#316)
+            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#317)
+        - [Chapitre II : Des mandataires judiciaires à la liquidation des entreprises (art. L812-1 à L812-10)](#318)
+          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#319)
+            - [Sous-section 1 : Des missions. (art. L812-1)](#320)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#321)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#322)
+            - [Sous-section 4 : Des incompatibilités. (art. L812-8)](#323)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#324)
+        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#325)
+          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#326)
+          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#327)
+        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-6)](#328)
+          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#329)
+            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#330)
+            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#331)
+          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-6)](#332)
+            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#333)
+            - [Sous-section 2 : De la rémunération. (art. L814-6)](#334)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#335)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#336)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#337)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#338)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#339)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#340)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#341)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#342)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#343)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#344)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#345)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#346)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#347)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#348)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#349)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#350)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-12)](#351)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#352)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#353)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#354)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#355)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#356)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-12)](#357)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#358)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#359)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#360)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#361)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-12)](#362)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#363)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#364)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#365)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#366)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#367)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#368)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-8)](#369)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#370)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#371)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -775,10 +771,15 @@ _Anciens textes_:
 ###### Article L122-2
 
 Toute infraction aux prescriptions de l'article L. 122-1 et à celles du décret d'application prévu à l'article L. 122-4 est
-punie d'un emprisonnement de six mois et d'une amende de 25000 F. En cas de récidive, les peines sont portées au double. Le
-tribunal peut, en outre, ordonner la fermeture de l'établissement.
+punie d'un emprisonnement de six mois et d'une amende de 3750 euros. En cas de récidive, les peines sont portées au double.
+Le tribunal peut, en outre, ordonner la fermeture de l'établissement.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1938-11-12 art. 1 al. 2
+  - Décret-loi du 12 novembre 1938 - art. 1 (Ab)
 
 _Cité par_:
 
@@ -792,15 +793,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
   - Code de commerce. - art. L122-1 (M)
   - Code de commerce. - art. L122-4 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°1938-11-12 art. 1 al. 2
-  - Décret-loi du 12 novembre 1938 - art. 1 (Ab)
 
 
 ###### Article L122-3
@@ -1008,7 +1008,7 @@ _Codifié par_:
 Le fait pour toute personne tenue de requérir une immatriculation, une mention complémentaire ou rectificative, ou une
 radiation au registre du commerce et des sociétés, de ne pas, sans excuse jugée valable dans les quinze jours de la date à
 laquelle est devenue définitive l'ordonnance rendue par le juge commis à la surveillance du registre lui enjoignant de
-requérir l'une de ces formalités, déférer à cette injonction, est puni d'une amende de 25 000 F.
+requérir l'une de ces formalités, déférer à cette injonction, est puni d'une amende de 3750 euros.
 
 Le tribunal peut, en outre, priver l'intéressé, pendant un temps qui n'excédera pas cinq ans, du droit de vote et
 d'éligibilité aux élections des tribunaux de commerce, chambres de commerce et d'industrie et conseils de prud'hommes.
@@ -1036,12 +1036,16 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L123-5
 
 Le fait de donner, de mauvaise foi, des indications inexactes ou incomplètes en vue d'une immatriculation, d'une radiation ou
-d'une mention complémentaire ou rectificative au registre du commerce et des sociétés est puni d'une amende de 30000 F et
-d'un emprisonnement de six mois.
+d'une mention complémentaire ou rectificative au registre du commerce et des sociétés est puni d'une amende de 4500 euros et
+d'un emprisonnement de six mois. 
 
 Les dispositions des deuxième et troisième alinéas de l'article L. 123-4 sont applicables dans les cas prévus au présent
 article.
@@ -1057,9 +1061,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de commerce. - art. L123-4 (M)
+  - Code de commerce. - art. L123-4 (V)
 
 _Cité par_:
 
@@ -2304,13 +2312,13 @@ _Cite_:
 
 ###### Article L124-15
 
-Tout groupement de commerçants détaillants établi en vu de l'exercice d'une ou plusieurs activités visées aux 1°, 3° et 4° de
+Tout groupement de commerçants détaillants établi en vu de l'exercice d'une ou plusieurs activités visées aux 1°,3° et 4° de
 l'article L. 124-1 doit, s'il n'a pas adopté la forme de société coopérative de commerçants détaillants régie par les
 dispositions du présent chapitre, être constitué sous la forme de société anonyme, de société à responsabilité limitée, de
-groupement d'intér^t économique ou de groupement européen d'intérêt économique.
+groupement d'intérêt économique ou de groupement européen d'intérêt économique. 
 
-Est puni d'une amende de 60000 F le fait de constituer un groupement de commerçants détaillants en infraction aux
-dispositions de l'alinéa précédent.
+Est puni d'une amende de 9000 euros le fait de constituer un groupement de commerçants détaillants en infraction aux
+dispositions de l'alinéa précédent. 
 
 Le tribunal peut en outre ordonner la cessation des opérations de l'organisme en cause et, s'il y a lieu, la confiscation des
 marchandises achetées et la fermeture des locaux utilisés.
@@ -2319,13 +2327,16 @@ marchandises achetées et la fermeture des locaux utilisés.
 
 _Anciens textes_:
 
-  - Loi n°72-652 du 11 juillet 1972 - art. 17 (M)
   - Loi n°72-652 du 11 juillet 1972 - art. 17 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -3020,20 +3031,24 @@ _Anciens textes_:
 ###### Article L131-11
 
 Le fait pour un courtier d'être chargé d'une opération de courtage pour une affaire où il avait un intérêt personnel, sans en
-prévenir les parties auxquelles il aura servi d'intermédiaire, est puni d'une amende de 25000 F, sans préjudice de l'action
-des parties en dommages-intérêts. S'il est inscrit sur la liste des courtiers, dressée conformément aux dispositions
+prévenir les parties auxquelles il aura servi d'intermédiaire, est puni d'une amende de 3 750 euros sans préjudice de
+l'action des parties en dommages-intérêts. S'il est inscrit sur la liste des courtiers, dressée conformément aux dispositions
 réglementaires, il en est rayé et ne peut plus y être inscrit de nouveau.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1866-07-18 art. 7
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Anciens textes_:
+
+  - Loi du 18 juillet 1866, art. 7 v. init.
 
 _Cité par_:
 
@@ -8861,7 +8876,7 @@ _Codifié par_:
 
 ###### Article L223-2
 
-Le capital de la société doit être de 50 000 F au moins. Il est divisé en parts sociales égales.
+Le capital de la société doit être de 7 500 euros au moins. Il est divisé en parts sociales égales.
 
 La réduction du capital social à un montant inférieur ne peut être décidée que sous la condition suspensive d'une
 augmentation de capital destinée à amener celui-ci à un montant au moins égal au montant prévu à l'alinéa précédent, à moins
@@ -8870,8 +8885,8 @@ intéressé peut demander en justice la dissolution de la société. Cette disso
 tribunal statue sur le fond, la régularisation a eu lieu.
 
 Par dérogation au premier alinéa, le capital de la société à responsabilité limitée exploitant une entreprise de presse
-définie par l'article 2 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse est de 2 000 F
-au moins.
+définie par l'article 2 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse est de 300
+euros au moins.
 
 **Liens relatifs à cet article**
 
@@ -8897,6 +8912,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L223-3
@@ -9070,8 +9089,8 @@ et établi sous sa responsabilité par un commissaire aux apports désigné à l
 décision de justice à la demande du futur associé le plus diligent.
 
 Toutefois, les futurs associés peuvent décider à l'unanimité que le recours à un commissaire aux apports ne sera pas
-obligatoire, lorsque la valeur d'aucun apport en nature n'excède 50 000 F et si la valeur totale de l'ensemble des apports en
-nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital.
+obligatoire, lorsque la valeur d'aucun apport en nature n'excède 7 500 euros et si la valeur totale de l'ensemble des apports
+en nature non soumis à l'évaluation d'un commissaire aux apports n'excède pas la moitié du capital.
 
 Lorsque la société est constituée par une seule personne, le commissaire aux apports est désigné par l'associé unique.
 Toutefois le recours à un commissaire aux apports n'est pas obligatoire si les conditions prévues à l'alinéa précédent sont
@@ -9085,13 +9104,16 @@ attribuée aux apports en nature lors de la constitution de la société.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 40
   - Loi n°66-537 du 24 juillet 1966 - art. 40 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -10224,7 +10246,7 @@ par actions, exige l'accord unanime des associés.
 
 La transformation en société anonyme est décidée à la majorité requise pour la modification des statuts. Toutefois, elle peut
 être décidée par des associés représentant la majorité des parts sociales si les capitaux propres figurant au dernier bilan
-excèdent 5 000 000 F.
+excèdent 750 000 euros.
 
 La décision est précédée du rapport d'un commissaire aux comptes inscrit, sur la situation de la société.
 
@@ -10234,13 +10256,16 @@ Toute transformation, effectuée en violation des règles du présent article, e
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 69
   - Loi n°66-537 du 24 juillet 1966 - art. 69 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -10283,7 +10308,7 @@ _Cité par_:
 
 ###### Article L224-2
 
-Le capital social doit être de 1 500 000 F au moins si la société fait publiquement appel à l'épargne et de 250 000 F au
+Le capital social doit être de 225 000 euros au moins si la société fait publiquement appel à l'épargne et de 37 000 euros au
 moins dans le cas contraire.
 
 La réduction du capital social à un montant inférieur ne peut être décidée que sous la condition suspensive d'une
@@ -10292,7 +10317,7 @@ que la société ne se transforme en société d'une autre forme. En cas d'inobs
 intéressé peut demander en justice la dissolution de la société. Cette dissolution ne peut être prononcée si, au jour où le
 tribunal statue sur le fond, la régularisation a eu lieu.
 
-Par dérogation au premier alinéa, le capital des sociétés de rédacteurs de presse est de 2 000 F au moins lorsqu'elles sont
+Par dérogation au premier alinéa, le capital des sociétés de rédacteurs de presse est de 300 euros au moins lorsqu'elles sont
 constituées sous la forme de société anonyme.
 
 **Liens relatifs à cet article**
@@ -10326,6 +10351,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L224-3
@@ -12657,7 +12686,7 @@ _Cite_:
 La société anonyme est dirigée par un directoire composé de cinq membres au plus. Lorsque les actions de la société sont
 admises aux négociations sur un marché réglementé, ce nombre peut être porté par les statuts à sept.
 
-Dans les sociétés anonymes dont le capital est inférieur à 1 000 000 F, les fonctions dévolues au directoire peuvent être
+Dans les sociétés anonymes dont le capital est inférieur à 150 000 euros, les fonctions dévolues au directoire peuvent être
 exercées par une seule personne.
 
 Le directoire exerce ses fonctions sous le contrôle d'un conseil de surveillance.
@@ -12673,6 +12702,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L225-59
@@ -15230,16 +15263,26 @@ regrouper en associations destinées à représenter leurs intérêts au sein de
 reconnus aux articles L. 225-103, L. 225-105, L. 225-230, L. 225-231, L. 225-232, L. 225-233 et L. 225-252, ces associations
 doivent avoir communiqué leur statut à la société et à la Commission des opérations de bourse.
 
-II. - Toutefois, lorsque le capital de la société est supérieur à 5 000 000 F, la part des droits de vote à représenter en
+II. - Toutefois, lorsque le capital de la société est supérieur à 750 000 euros, la part des droits de vote à représenter en
 application de l'alinéa précédent, est, selon l'importance des droits de vote afférent au capital, réduite ainsi qu'il suit :
 
-1° 4 % entre 5 000 000 F et jusqu'à 30 000 000 F ;
+1° 4 % entre 750 000 euros et jusqu'à 4 500 000 euros ;
 
-2° 3 % entre 30 000 000 F et 50 000 000 F ;
+2° 3 % entre 4 500 000 euros et 7 500 000 euros ;
 
-3° 2 % entre 50 000 000 F et 100 000 000 F ;
+3° 2 % entre 7 500 000 euros et 15 000 000 euros ;
 
-4° 1 % au-delà de 100 000 000 F.
+4° 1 % au-delà de 15 000 000 euros.
+
+**Nota:**
+
+: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ; 
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -15252,6 +15295,11 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -25299,15 +25347,14 @@ _Nouveaux textes_:
 
 Lorsque la moitié de leur capital appartient à une ou plusieurs sociétés dont les actions sont admises aux négociations sur
 un marché réglementé, les sociétés dont les actions n'y sont pas admises et celles qui ne revêtent pas la forme de sociétés
-par actions sont tenues, si leur bilan dépasse 20 000 000 F ou si la valeur d'inventaire ou la valeur boursière de leur
-portefeuille excède 2 000 000 F, d'annexer à leurs comptes annuels un inventaire des valeurs mobilières détenues en
+par actions sont tenues, si leur bilan dépasse 3 000 000 euros ou si la valeur d'inventaire ou la valeur boursière de leur
+portefeuille excède 300 000 euros, d'annexer à leurs comptes annuels un inventaire des valeurs mobilières détenues en
 portefeuille à la clôture de l'exercice.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 342-2
   - Loi n°66-537 du 24 juillet 1966 - art. 341-2 (Ab)
 
 _Cité par_:
@@ -25321,6 +25368,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 29
 
 _Nouveaux textes_:
 
@@ -29709,7 +29764,7 @@ _Cite_:
 
 ###### Article L241-1
 
-Est puni d'un emprisonnement de six mois et d'une amende de 60 000 F le fait, pour les associés d'une société à
+Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait, pour les associés d'une société à
 responsabilité limitée, de faire dans l'acte de société une déclaration fausse concernant la répartition des parts sociales
 entre tous les associés, la libération des parts ou le dépôt des fonds, ou d'omettre cette déclaration.
 
@@ -29727,11 +29782,15 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L241-2
 
-Est puni d'un emprisonnement de six mois et d'une amende de 60 000 F le fait, pour des gérants, d'émettre, directement ou par
-personne interposée, pour le compte de la société des valeurs mobilières quelconques.
+Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait, pour des gérants, d'émettre, directement ou
+par personne interposée, pour le compte de la société des valeurs mobilières quelconques.
 
 **Liens relatifs à cet article**
 
@@ -29745,6 +29804,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de commerce. - art. L245-7 (Ab)
@@ -29752,7 +29815,7 @@ _Cité par_:
 
 ###### Article L241-3
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 2500000 F :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros :
 
 1° Le fait, pour toute personne, de faire attribuer frauduleusement à un apport en nature une évaluation supérieure à sa
 valeur réelle ;
@@ -29776,7 +29839,6 @@ autre société ou une autre entreprise dans laquelle ils sont intéressés dire
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 425
   - Loi n°66-537 du 24 juillet 1966 - art. 425 (Ab)
 
 _Cité par_:
@@ -29792,10 +29854,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L241-4
 
-Est puni d'une amende de 60000 F :
+Est puni d'une amende de 9000 euros :
 
 1° Le fait, pour les gérants, de ne pas, pour chaque exercice, dresser l'inventaire, établir les comptes annuels et un
 rapport de gestion ;
@@ -29806,7 +29872,6 @@ rapport de gestion ;
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 426
   - Loi n°66-537 du 24 juillet 1966 - art. 426 (Ab)
 
 _Codifié par_:
@@ -29816,7 +29881,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29825,7 +29890,7 @@ _Cité par_:
 
 ###### Article L241-5
 
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait, pour les gérants, de ne pas procéder à la
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait, pour les gérants, de ne pas procéder à la
 réunion de l'assemblée des associés dans les six mois de la clôture de l'exercice ou, en cas de prolongation, dans le délai
 fixé par décision de justice, ou de ne pas soumettre à l'approbation de ladite assemblée ou de l'associé unique les documents
 prévus au 1° de l'article L. 241-4.
@@ -29834,13 +29899,16 @@ prévus au 1° de l'article L. 241-4.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 427
   - Loi n°66-537 du 24 juillet 1966 - art. 427 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -29849,9 +29917,9 @@ _Cite_:
 
 ###### Article L241-6
 
-Est puni d'un emprisonnement de six mois et d'une amende de 30000 F le fait, pour les gérants, lorsque les capitaux propres
-de la société, du fait de pertes constatées dans les documents comptables, deviennent inférieurs à la moitié du capital
-social :
+Est puni d'un emprisonnement de six mois et d'une amende de 4 500 euros le fait, pour les gérants, lorsque les capitaux
+propres de la société, du fait de pertes constatées dans les documents comptables, deviennent inférieurs à la moitié du
+capital social :
 
 1° De ne pas dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître ces pertes, consulter les
 associés afin de décider s'il y a lieu à dissolution anticipée de la société ;
@@ -29863,18 +29931,25 @@ journal d'annonces légales, la décision adoptée par les associés.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 428
   - Loi n°66-537 du 24 juillet 1966 - art. 428 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 
 ###### Article L241-7
 
-Est puni d'une amende de 25000 F le fait, pour les gérants d'une société à responsabilité limitée, d'omettre de mentionner
+Est puni d'une amende de 3750 euros le fait, pour les gérants d'une société à responsabilité limitée, d'omettre de mentionner
 sur tous actes ou sur tous documents émanant de la société et destinés aux tiers, l'indication de sa dénomination sociale,
 précédée ou suivie immédiatement des mots "Société à responsabilité limitée" ou des initiales "SARL" et de l'énonciation du
 capital social.
@@ -29883,7 +29958,6 @@ capital social.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 429
   - Loi n°66-537 du 24 juillet 1966 - art. 429 (Ab)
 
 _Cité par_:
@@ -29894,6 +29968,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-721 2003-08-01 art. 9 2° JORF 5 août 2003
 
 
 ###### Article L241-9
@@ -29925,10 +30007,10 @@ _Cite_:
 
 ###### Article L242-1
 
-Est puni d'une amende de 60000 F le fait, pour les fondateurs, le président, les administrateurs ou les directeurs généraux
-d'une société anonyme, d'émettre des actions ou des coupures d'actions soit avant l'immatriculation de ladite société au
-registre du commerce et des sociétés, soit à une époque quelconque, si l'immatriculation a ét obtenue par fraude, soit encore
-sans que les formalités de constitution de ladite société aient été régulièrement accomplies.
+Est puni d'une amende de 9 000 euros le fait, pour les fondateurs, le président, les administrateurs ou les directeurs
+généraux d'une société anonyme, d'émettre des actions ou des coupures d'actions soit avant l'immatriculation de ladite
+société au registre du commerce et des sociétés, soit à une époque quelconque, si l'immatriculation a été obtenue par fraude,
+soit encore sans que les formalités de constitution de ladite société aient été régulièrement accomplies.
 
 Un emprisonnement d'un an peut, en outre, être prononcé si les actions ou coupures d'actions sont émises sans que les actions
 de numéraire aient été libérées à la souscription d'un quart au moins ou sans que les actions d'apport aient été
@@ -29952,9 +30034,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29967,7 +30049,7 @@ _Cité par_:
 
 ###### Article L242-2
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 60000 F le fait, pour toute personne :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 9000 euros le fait, pour toute personne :
 
 1°, 2° et 3° (supprimés) ;
 
@@ -29987,7 +30069,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29997,7 +30079,7 @@ _Cité par_:
 
 ###### Article L242-3
 
-Est puni d'un emprisonnement d'un an et d'une amende de 60 000 F le fait, pour les fondateurs, le président du conseil
+Est puni d'un emprisonnement d'un an et d'une amende de 9000 euros le fait, pour les fondateurs, le président du conseil
 d'administration, les administrateurs ou les directeurs généraux d'une société anonyme, ainsi que pour les titulaires ou
 porteurs d'actions, de négocier :
 
@@ -30011,7 +30093,6 @@ porteurs d'actions, de négocier :
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 434
   - Loi n°66-537 du 24 juillet 1966 - art. 434 (Ab)
 
 _Codifié par_:
@@ -30021,7 +30102,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -30057,14 +30138,13 @@ _Cite_:
 
 ###### Article L242-5
 
-Est puni d'un emprisonnement de six mois et d'une amende de 60 000 F le fait d'accepter ou de conserver les fonctions de
+Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait d'accepter ou de conserver les fonctions de
 commissaire aux apports, nonobstant les incompatibilités et interdictions légales.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 436
   - Loi n°66-537 du 24 juillet 1966 - art. 436 (Ab)
 
 _Codifié par_:
@@ -30072,12 +30152,16 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 2 : Des infractions relatives à la direction et à l'administration<a id=119></a>
 
 ###### Article L242-6
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 2 500 000 F le fait pour :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le fait pour :
 
 1° Le président, les administrateurs ou les directeurs généraux d'une société anonyme d'opérer entre les actionnaires la
 répartition de dividendes fictifs, en l'absence d'inventaire, ou au moyen d'inventaires frauduleux ;
@@ -30118,17 +30202,20 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L242-7
 
-Est puni d'une amende de 25 000 F le fait, pour le président ou l'administrateur président de séance de ne pas constater les
-délibérations du conseil d'administration par des procès-verbaux formant un registre spécial tenu au siège de la société.
+Est puni d'une amende de 3750 euros le fait, pour le président ou l'administrateur président de séance de ne pas constater
+les délibérations du conseil d'administration par des procès-verbaux formant un registre spécial tenu au siège de la société.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 438
   - Loi n°66-537 du 24 juillet 1966 - art. 438 (Ab)
 
 _Codifié par_:
@@ -30136,14 +30223,22 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2004-274 du 25 mars 2004 - art. 20 () JORF 27 mars 2004
+
 
 ###### Article L242-8
 
-Est puni d'une amende de 60000 F le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
+Est puni d'une amende de 9000 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
 anonyme, de ne pas, pour chaque exercice, dresser l'inventaire et établir des comptes annuels et un rapport de gestion.
 
 **Liens relatifs à cet article**
@@ -30174,12 +30269,16 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ##### Section 3 : Des infractions relatives aux assemblées d'actionnaires<a id=120></a>
 
 ###### Article L242-9
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 60000 F :
+Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros :
 
 1° Le fait d'empêcher un actionnaire de participer à une assemblée d'actionnaires ;
 
@@ -30201,25 +30300,32 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L242-10
 
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait, pour le président ou les administrateurs d'une
-société anonyme, de ne pas réunir l'assemblée générale ordinaire dans les six mois de la clôture de l'exercice ou, en cas de
-prolongation, dans le délai fixé par décision de justice ou de ne pas soumettre à l'approbation de ladite assemblée les
-comptes annuels et le rapport de gestion prévus à l'article L. 232-1.
+Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait, pour le président ou les administrateurs
+d'une société anonyme, de ne pas réunir l'assemblée générale ordinaire dans les six mois de la clôture de l'exercice ou, en
+cas de prolongation, dans le délai fixé par décision de justice ou de ne pas soumettre à l'approbation de ladite assemblée
+les comptes annuels et le rapport de gestion prévus à l'article L. 232-1.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 441
   - Loi n°66-537 du 24 juillet 1966 - art. 441 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -30234,7 +30340,7 @@ _Cité par_:
 
 ###### Article L242-11
 
-Est puni d'une amende de 60000 F le fait, pour le président ou les administrateurs d'une société anonyme, de ne pas
+Est puni d'une amende de 9000 euros le fait, pour le président ou les administrateurs d'une société anonyme, de ne pas
 convoquer, à toute assemblée, dans le délai légal, les actionnaires titulaires depuis un mois au moins de titres nominatifs,
 soit par lettre ordinaire, soit, si les statuts le prévoient ou si les intéressés en ont fait la demande, par lettre
 recommandée à leurs frais.
@@ -30243,7 +30349,6 @@ recommandée à leurs frais.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 442
   - Loi n°66-537 du 24 juillet 1966 - art. 442 (Ab)
 
 _Codifié par_:
@@ -30251,10 +30356,18 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+
 
 ###### Article L242-12
 
-Est puni d'une amende de 30000 F le fait, pour le président d'une société anonyme, de ne pas porter à la connaissance des
+Est puni d'une amende de 4500 euros le fait, pour le président d'une société anonyme, de ne pas porter à la connaissance des
 actionnaires, dans les conditions fixées par décret en Conseil d'Etat, les renseignements exigés par ledit décret en vue de
 la tenue des assemblées.
 
@@ -30262,7 +30375,6 @@ la tenue des assemblées.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 443
   - Loi n°66-537 du 24 juillet 1966 - art. 443 (Ab)
 
 _Codifié par_:
@@ -30270,14 +30382,22 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2004-274 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
+
 
 ###### Article L242-13
 
-Est puni d'une amende de 25000 F le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
+Est puni d'une amende de 3750 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
 anonyme, de ne pas adresser, à tout actionnaire qui en a fait la demande, une formule de procuration conforme aux
 prescriptions fixées par décret en Conseil d'Etat, ainsi que :
 
@@ -30295,7 +30415,6 @@ prescriptions fixées par décret en Conseil d'Etat, ainsi que :
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 444
   - Loi n°66-537 du 24 juillet 1966 - art. 444 (Ab)
 
 _Codifié par_:
@@ -30303,14 +30422,22 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2004-274 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
+
 
 ###### Article L242-15
 
-Est puni d'une amende de 25000 F le fait, pour le président ou les administrateurs d'une société anonyme :
+Est puni d'une amende de 3750 euros le fait, pour le président ou les administrateurs d'une société anonyme :
 
 1° De ne pas faire tenir pour toute réunion de l'assemblée des actionnaires, une feuille de présence émargée par les
 actionnaires présents et les mandataires, certifiée exacte par le bureau de l'assemblée, et contenant :
@@ -30343,6 +30470,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -30382,7 +30513,7 @@ _Cite_:
 
 ###### Article L242-17
 
-I. - Est puni d'une amende de 60000 F le fait, pour le président, les administrateurs ou les directeurs généraux d'une
+I. - Est puni d'une amende de 9000 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une
 société anonyme, d'émettre, lors d'une augmentation de capital, des actions ou des coupures d'actions :
 
 1° Soit avant que le certificat du dépositaire ait été établi, ou le contrat de garantie prévu à l'article L. 225-145 signé ;
@@ -30395,7 +30526,7 @@ capital antérieurement souscrit de la société ait été intégralement libér
 sans que les actions de numéraire nouvelles aient été libérées, lors de la souscription, d'un quart au moins de leur valeur
 nominale et, le cas échéant, de la totalité de la prime d'émission.
 
-III. - Est puni des peines d'amende et d'emprisonnement prévues aux I et au II le fait, pour les mêmes personnes de ne pas
+III. - Est puni des peines d'amende et d'emprisonnement prévues au I et au II le fait, pour les mêmes personnes de ne pas
 maintenir les actions de numéraire en la forme nominative jusqu'à leur entière libération.
 
 IV. - Les peines prévues au présent article peuvent être doublées, lorsqu'il s'agit de sociétés anonymes faisant publiquement
@@ -30417,6 +30548,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de commerce - art. L244-1 (V)
@@ -30430,7 +30565,7 @@ _Cite_:
 
 ###### Article L242-18
 
-Sous réserve des dispositions des articles L. 225-133 à L. 225-138, est puni d'une amende de 120 000 F le fait, pour le
+Sous réserve des dispositions des articles L. 225-133 à L. 225-138, est puni d'une amende de 18000 euros le fait, pour le
 président, les administrateurs ou les directeurs généraux d'une société anonyme, lors d'une augmentation de capital :
 
 1° De ne pas faire bénéficier les actionnaires, proportionnellement au montant de leurs actions, d'un droit de préférence à
@@ -30461,7 +30596,6 @@ répartition des bénéfices avant que toutes ces obligations aient été échan
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 450
   - Loi n°66-537 du 24 juillet 1966 - art. 450 (Ab)
 
 _Cité par_:
@@ -30475,6 +30609,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+
 _Cite_:
 
   - Code de commerce L225-133 à L225-138, L225-141
@@ -30483,7 +30625,7 @@ _Cite_:
 
 ###### Article L242-19
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 500000 F le fait d'avoir commis les infractions prévues à
+Est puni d'un emprisonnement de cinq ans et d'une amende de 75000 euros le fait d'avoir commis les infractions prévues à
 l'article L. 242-18, en vue de priver soit les actionnaires ou certains d'entre eux, soit les titulaires ou porteurs de bons
 de souscriptions ou d'obligations convertibles ou échangeables, ou certains d'entre eux, d'une part de leurs droits dans le
 patrimoine de la société.
@@ -30500,6 +30642,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de commerce. - art. L228-95 (M)
@@ -30511,21 +30657,24 @@ _Cite_:
 
 ###### Article L242-20
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 120000 F le fait, pour le président, les administrateurs ou les
-commissaires aux comptes d'une société anonyme, de donner ou confirmer des indications inexactes dans les rapports présentés
-à l'assemblée générale appelée à décider de la suppression du droit préférentiel de souscription des actionnaires.
+Est puni d'un emprisonnement de deux ans et d'une amende de 18 000 euros le fait, pour le président, les administrateurs ou
+les commissaires aux comptes d'une société anonyme, de donner ou confirmer des indications inexactes dans les rapports
+présentés à l'assemblée générale appelée à décider de la suppression du droit préférentiel de souscription des actionnaires.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 452
   - Loi n°66-537 du 24 juillet 1966 - art. 452 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -30558,8 +30707,8 @@ _Cite_:
 
 ###### Article L242-23
 
-Est puni d'une amende de 60000 F le fait, pour le président ou les administrateurs d'une société anonyme, de procéder à une
-réduction du capital social :
+Est puni d'une amende de 9000 euros le fait, pour le président ou les administrateurs d'une société anonyme, de procéder à
+une réduction du capital social :
 
 1° Sans respecter l'égalité des actionnaires ;
 
@@ -30570,7 +30719,6 @@ journal habilité à recevoir les annonces légales.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 454
   - Loi n°66-537 du 24 juillet 1966 - art. 454 (Ab)
 
 _Cité par_:
@@ -30582,6 +30730,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L242-24
@@ -30619,9 +30771,9 @@ _Cite_:
 
 ###### Article L242-29
 
-Est puni d'un emprisonnement de six mois et d'une amende de 30000 F le fait, pour le président ou les administrateurs d'une
-société anonyme, lorsque les capitaux propres de la société, du fait de pertes constatées dans les documents comptables,
-deviennent inférieurs à la moitié du capital social :
+Est puni d'un emprisonnement de six mois et d'une amende de 4500 euros le fait, pour le président ou les administrateurs
+d'une société anonyme, lorsque les capitaux propres de la société, du fait de pertes constatées dans les documents
+comptables, deviennent inférieurs à la moitié du capital social :
 
 1° De ne pas, dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître ces pertes, convoquer
 l'assemblée générale extraordinaire à l'effet de décider s'il y a lieu à dissolution anticipée de la société ;
@@ -30633,13 +30785,20 @@ journal d'annonces légales la décision adoptée par l'assemblée générale.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 459
   - Loi n°66-537 du 24 juillet 1966 - art. 459 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 
 ##### Section 7 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=125></a>
@@ -30682,7 +30841,7 @@ _Cite_:
 
 ###### Article L242-31
 
-Est puni d'une amende de 25000 F le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
+Est puni d'une amende de 3 750 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
 anonyme à participation ouvrière, usant de la faculté d'émettre des actions de travail, de ne pas mentionner cette
 circonstance par l'addition des mots "à participation ouvrière" sur tous actes ou sur tous documents émanant de la société et
 destinés aux tiers.
@@ -30692,12 +30851,19 @@ destinés aux tiers.
 _Anciens textes_:
 
   - Loi n°1867-07-24 du 24 juillet 1867 - art. 64 (Ab)
-  - Loi n°1867-07-24 art. 64 al. 2 et 3
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 _Cité par_:
 
@@ -30775,7 +30941,7 @@ _Cite_:
 
 ###### Article L244-2
 
-Est puni d'une amende de 25000 F le fait, pour le président d'une société par actions simplifiée, d'omettre de mentionner,
+Est puni d'une amende de 3750 euros le fait, pour le président d'une société par actions simplifiée, d'omettre de mentionner,
 sur tous actes et sur tous documents émanant de la société et destinés aux tiers, l'indication de la dénomination sociale,
 précédée ou suivie immédiatement des mots : société par actions simplifiée ou des initiales : SAS et de l'énonciation du
 capital social.
@@ -30783,7 +30949,7 @@ capital social.
 Le fait, pour un président ou un dirigeant de société par actions simplifiée de ne pas consulter les associés dans les
 conditions prévues par les statuts en cas d'augmentation, d'amortissement ou de réduction du capital, de fusion, de scission,
 de dissolution ou de transformation en une société d'une autre forme, de nomination de commissaires aux comptes,
-d'approbation des comptes annuels et de répartition des bénéfices est puni de six mois d'emprisonnement et de 50000 F
+d'approbation des comptes annuels et de répartition des bénéfices est puni de six mois d'emprisonnement et de 7500 euros
 d'amende.
 
 **Liens relatifs à cet article**
@@ -30808,13 +30974,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 128 () JORF 16 mai 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L244-3
 
-Est puni d'une amende de 120000 F le fait, pour les dirigeants d'une société par actions simplifiée, de faire publiquement
-appel à l'épargne.
+Est puni d'une amende de 18 000 euros le fait, pour les dirigeants d'une société par actions simplifiée, de faire
+publiquement appel à l'épargne.
 
 **Liens relatifs à cet article**
 
@@ -30827,6 +30993,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -30863,7 +31033,7 @@ _Cite_:
 
 ###### Article L245-3
 
-Sont punis d'un emprisonnement de six mois et d'une amende de 40000 F le président et les administrateurs, les directeurs
+Sont punis d'un emprisonnement de six mois et d'une amende de 6000 euros le président et les administrateurs, les directeurs
 généraux, les membres du directoire et du conseil de surveillance d'une société anonyme, les gérants d'une société en
 commandite par actions :
 
@@ -30894,6 +31064,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -30934,31 +31108,38 @@ _Cite_:
 
 ###### Article L245-5
 
-Est puni d'un emprisonnement de six mois et d'une amende de 40000 F le fait, pour le liquidateur d'une société, de ne pas
+Est puni d'un emprisonnement de six mois et d'une amende de 6 000 euros le fait, pour le liquidateur d'une société, de ne pas
 respecter les dispositions de l'article L. 237-30.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 467-3
   - Loi n°66-537 du 24 juillet 1966 - art. 467-3 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 _Cite_:
 
-  - Code de commerce. - art. L237-30 (V)
+  - Code de commerce - art. L237-30
 
 
 ##### Section 3 : Des infractions relatives aux obligations<a id=131></a>
 
 ###### Article L245-9
 
-Est puni d'une amende de 60000 F le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
+Est puni d'une amende de 9000 euros le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
 d'une société par actions :
 
 1° D'émettre, pour le compte de cette société, des obligations négociables qui, dans une même émission, ne confèrent pas les
@@ -30971,13 +31152,16 @@ légal.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 471
   - Loi n°66-537 du 24 juillet 1966 - art. 471 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -30993,7 +31177,7 @@ _Nouveaux textes_:
 
 ###### Article L245-10
 
-Est puni d'un emprisonnement de six mois et d'une amende de 40000 F le fait, pour le président, les administrateurs, les
+Est puni d'un emprisonnement de six mois et d'une amende de 6000 euros le fait, pour le président, les administrateurs, les
 directeurs généraux ou les gérants d'une société par actions, d'émettre, pour le compte de cette société, des obligations à
 lots sans autorisation.
 
@@ -31001,13 +31185,20 @@ lots sans autorisation.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 472
   - Loi n°66-537 du 24 juillet 1966 - art. 472 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -31020,7 +31211,7 @@ _Nouveaux textes_:
 
 ###### Article L245-11
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 60000 F le fait :
+Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait :
 
 1° D'empêcher un obligataire de participer à une assemblée générale d'obligataires ;
 
@@ -31042,10 +31233,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L245-12
 
-Est puni d'une amende de 40000 F le fait :
+Est puni d'une amende de 6000 euros le fait :
 
 1° Pour le président, les administrateurs, les directeurs généraux, les gérants, les commissaires aux comptes, les membres du
 conseil de surveillance ou les employés de la société débitrice ou de la société garante de tout ou partie des engagements de
@@ -31080,6 +31275,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Code de commerce. - art. L245-15 (V)
@@ -31087,8 +31286,8 @@ _Cité par_:
 
 ###### Article L245-13
 
-Est puni d'une amende de 30000 F le fait, pour le président de l'assemblée générale des obligataires, de ne pas procéder à la
-constatation des décisions de toute assemblée générale d'obligataires par procès-verbal, transcrit sur un registre spécial
+Est puni d'une amende de 4500 euros le fait, pour le président de l'assemblée générale des obligataires, de ne pas procéder à
+la constatation des décisions de toute assemblée générale d'obligataires par procès-verbal, transcrit sur un registre spécial
 tenu au siège social et mentionnant la date et le lieu de la réunion, le mode de convocation, l'ordre du jour, la composition
 du bureau, le nombre d'obligataires participant au vote et le quorum atteint, les documents et rapports soumis à l'assemblée,
 un résumé des débats, le texte des résolutions mises aux voix et le résultat des votes.
@@ -31105,6 +31304,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
@@ -31115,7 +31318,7 @@ _Cité par_:
 
 ###### Article L245-14
 
-Est puni d'une amende de 120000 F le fait :
+Est puni d'une amende de 18000 euros le fait :
 
 1° Pour le président, les administrateurs ou les gérants d'une société par actions, d'offrir ou de verser aux représentants
 de la masse des obligataires une rémunération supérieure à celle qui leur a été allouée par l'assemblée ou par décision de
@@ -31128,13 +31331,20 @@ par l'assemblée ou par décision de justice, sans préjudice de la restitution 
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 476
   - Loi n°66-537 du 24 juillet 1966 - art. 476 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -31144,7 +31354,7 @@ _Cité par_:
 ###### Article L245-15
 
 Les infractions prévues aux 1° et 2° de l'article L. 245-9 et aux articles L. 245-12, L. 245-13 et L. 245-14 sont punies de
-cinq ans d'emprisonnement et de 120000 F d'amende lorsqu'elles ont été commises frauduleusement en vue de priver les
+cinq ans d'emprisonnement et de 18000 euros d'amende lorsqu'elles ont été commises frauduleusement en vue de priver les
 obligataires ou certains d'entre eux d'une part des droits attachés à leur titre de créance.
 
 **Liens relatifs à cet article**
@@ -31158,6 +31368,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31224,18 +31438,15 @@ _Cite_:
 
 ###### Article L246-1
 
-Est puni d'une amende de 25000 F le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
+Est puni d'une amende de 3750 euros le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
 d'une société par actions, d'omettre de mentionner, sur tous actes ou sur tous documents émanant de la société et destinés
 aux tiers, l'indication de la dénomination sociale, précédée ou suivie immédiatement des mots : "société anonyme", des
-initiales : "S.A.", ou des mots :
-
-"société en commandite par actions", et de l'énonciation du capital social.
+initiales : "S.A.", ou des mots : "société en commandite par actions", et de l'énonciation du capital social.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 462
   - Loi n°66-537 du 24 juillet 1966 - art. 462 (Ab)
 
 _Cité par_:
@@ -31251,6 +31462,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2003-721 2003-08-01 art. 9 2° JORF 5 août 2003
 
 
 ###### Article L246-2
@@ -31290,39 +31509,42 @@ _Cite_:
 
 ###### Article L247-1
 
-I. - Est puni d'un emprisonnement de deux ans et d'une amende de 60000 F le fait, pour les présidents, les administrateurs,
-les directeurs généraux ou les gérants de toute société :
+I.-Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait, pour les présidents, les administrateurs,
+les directeurs généraux ou les gérants de toute société : 
 
 1° De ne pas faire mention dans le rapport annuel présenté aux associés sur les opérations de l'exercice, d'une prise de
 participation dans une société ayant son siège sur le territoire de la République française représentant plus du vingtième,
 du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote aux assemblées générales
-de cette société ou de la prise de contrôle d'une telle société ;
+de cette société ou de la prise de contrôle d'une telle société ; 
 
 2° De ne pas, dans le même rapport, rendre compte de l'activité et des résultats de l'ensemble de la société, des filiales de
-la société et des sociétés qu'elle contrôle par branche d'activité ;
+la société et des sociétés qu'elle contrôle par branche d'activité ; 
 
 3° De ne pas annexer au bilan de la société le tableau prévu à l'article L. 233-15 et comportant les renseignements en vue de
-faire apparaître la situation desdites filiales et participations.
+faire apparaître la situation desdites filiales et participations. 
 
-II. - Est puni d'une amende de 60000 F le fait, pour les membres du directoire, du conseil d'administration ou les gérants
+II.-Est puni d'une amende de 9000 euros le fait, pour les membres du directoire, du conseil d'administration ou les gérants
 des sociétés visées à l'article L. 233-16, sous réserve des dérogations prévues à l'article L. 233-17, de ne pas établir et
 adresser aux actionnaires ou associés, dans les délais prévus par la loi, les comptes consolidés. Le tribunal peut en outre
-ordonner l'insertion du jugement, aux frais du condamné, dans un ou plusieurs journaux.
+ordonner l'insertion du jugement, aux frais du condamné, dans un ou plusieurs journaux. 
 
-III. - Est puni des peines mentionnées au I le fait, pour le commissaire aux comptes, de ne pas faire figurer dans son
-rapport les mentions visées au 1° du I du présent article.
+III.-Est puni des peines mentionnées au I le fait, pour le commissaire aux comptes, de ne pas faire figurer dans son rapport
+les mentions visées au 1° du I du présent article.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 481
   - Loi n°66-537 du 24 juillet 1966 - art. 481 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31332,9 +31554,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce. - art. L233-15 (V)
-  - Code de commerce. - art. L233-16 (M)
-  - Code de commerce. - art. L233-17 (V)
+  - Code de commerce - art. L123-17 (VT)
+  - Code de commerce - art. L233-15 (VT)
+  - Code de commerce - art. L233-16 (VT)
 
 **Liens**:
 
@@ -31343,7 +31565,7 @@ _Cite_:
 
 ###### Article L247-2
 
-I. - Est puni d'une amende de 120000 F le fait pour les présidents, les administrateurs, les membres du directoire, les
+I. - Est puni d'une amende de 18000 euros le fait pour les présidents, les administrateurs, les membres du directoire, les
 gérants ou les directeurs généraux des personnes morales, ainsi que pour les personnes physiques de s'abstenir de remplir les
 obligations d'informations auxquelles cette personne est tenue, en application de l'article L. 233-7, du fait des
 participations qu'elle détient.
@@ -31385,9 +31607,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -31433,14 +31655,13 @@ _Cite_:
 
 ###### Article L247-4
 
-Est puni d'une amende de 60000 F le fait, pour toute personne, de ne pas satisfaire aux obligations résultant de l'article L.
-225-109 dans le délai et suivant les modalités fixées par décret en Conseil d'Etat.
+Est puni d'une amende de 9 000 euros le fait, pour toute personne, de ne pas satisfaire aux obligations résultant de
+l'article L. 225-109 dans le délai et suivant les modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 485-1
   - Loi n°66-537 du 24 juillet 1966 - art. 485-1 (Ab)
 
 _Codifié par_:
@@ -31448,16 +31669,24 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
+
 _Cite_:
 
-  - Code de commerce. - art. L225-109 (V)
+  - Code de commerce - art. L225-109
 
 
 ##### Section 3 : Des infractions relatives à la liquidation<a id=138></a>
 
 ###### Article L247-5
 
-Est puni d'un emprisonnement de deux ans et d'une amende 60000 F le fait de contrevenir à l'interdiction d'exercer les
+Est puni d'un emprisonnement de deux ans et d'une amende 9 000 euros le fait de contrevenir à l'interdiction d'exercer les
 fonctions de liquidateur.
 
 Quiconque est condamné par application de l'alinéa précédent ne peut plus être employé, à quelque titre que ce soit, par la
@@ -31468,7 +31697,6 @@ son employeur, si ce dernier en a eu connaissance, sont punis des peines prévue
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 498 al. 2 et 3
   - Loi n°66-537 du 24 juillet 1966 - art. 498 (Ab)
 
 _Codifié par_:
@@ -31476,10 +31704,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 
 ###### Article L247-6
 
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait, pour le liquidateur d'une société :
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait, pour le liquidateur d'une société :
 
 1° De ne pas publier dans le délai d'un mois de sa nomination, dans un journal d'annonces légales dans le département du
 siège social, l'acte le nommant liquidateur et déposer au registre du commerce et des sociétés les décisions prononçant la
@@ -31493,7 +31725,6 @@ et la décharge de son mandat, et pour constater la clôture de la liquidation, 
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 486
   - Loi n°66-537 du 24 juillet 1966 - art. 486 (Ab)
 
 _Codifié par_:
@@ -31501,9 +31732,17 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
+
 _Cite_:
 
-  - Code de commerce. - art. L237-10 (V)
+  - Code de commerce - art. L237-10
 
 _Cité par_:
 
@@ -31557,11 +31796,11 @@ _Cite_:
 
 ###### Article L247-8
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 60000 F le fait, pour un liquidateur, de mauvaise foi :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 9000 euros le fait, pour un liquidateur, de mauvaise foi : 
 
 1° De faire des biens ou du crédit de la société en liquidation, un usage qu'il sait contraire à l'intérêt de celle-ci, à des
 fins personnelles ou pour favoriser une autre société ou entreprise dans laquelle il est intéressé directement ou
-indirectement ;
+indirectement ; 
 
 2° De céder tout ou partie de l'actif de la société en liquidation contrairement aux dispositions des articles L. 237-6 et L.
 237-7.
@@ -31570,7 +31809,6 @@ indirectement ;
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 488
   - Loi n°66-537 du 24 juillet 1966 - art. 488 (Ab)
 
 _Codifié par_:
@@ -31578,14 +31816,18 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cité par_:
 
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 
 _Cite_:
 
-  - Code de commerce. - art. L237-6 (V)
-  - Code de commerce. - art. L237-7 (V)
+  - Code de commerce - art. L237-6 (V)
+  - Code de commerce - art. L237-7 (V)
 
 
 ##### Section 4 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=139></a>
@@ -31617,21 +31859,24 @@ _Cite_:
 
 ###### Article L247-10
 
-Est puni d'une amende de 25000 F le fait, pour le président, le gérant ou, de façon générale, le dirigeant d'une société
-usant de la faculté prévue à l'article L. 231-1 de ne pas mentionner cette circonstance par l'addition des mots "à capital
-variable" sur tous actes et sur tous documents émanant de la société et destinés aux tiers.
+Est puni d'une amende de 3 750 euros le fait, pour le président, le gérant ou, de façon générale, le dirigeant d'une société
+usant de la faculté prévue à l'article L. 231-1 de ne pas mentionner cette circonstance par l'addition des mots " à capital
+variable " sur tous actes et sur tous documents émanant de la société et destinés aux tiers.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°1867-07-24 art. 64 al. 1 et 3
   - Loi n°1867-07-24 du 24 juillet 1867 - art. 64 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -31642,9 +31887,13 @@ _Cité par_:
   - Code monétaire et financier - art. L214-7-3 (V)
   - Code monétaire et financier - art. L512-73 (V)
 
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 21
+
 _Cite_:
 
-  - Code de commerce. - art. L231-1 (M)
+  - Code de commerce - art. L231-1
 
 
 #### Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes.<a id=141></a>
@@ -32161,7 +32410,7 @@ du sigle :
 
 "GIE".
 
-Toute infraction aux dispositions de l'alinéa ci-dessus est punie d'une amende de 25000 F.
+Toute infraction aux dispositions de l'alinéa ci-dessus est punie d'une amende de 3 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -32174,6 +32423,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32292,7 +32545,7 @@ _Codifié par_:
 
 L'appellation "groupement d'intérêt économique" et le sigle "GIE" ne peuvent être utilisés que par les groupements soumis aux
 dispositions du présent chapitre. L'emploi illicite de cette appellation, de ce sigle ou de toute expression de nature à
-prêter à confusion avec ceux-ci est puni d'un emprisonnement de un an et d'une amende de 40000 F.
+prêter à confusion avec ceux-ci est puni d'un emprisonnement de un an et d'une amende de 6000 euros.
 
 Le tribunal peut, en outre, ordonner la publication du jugement, aux frais du condamné, dans trois journaux au maximum et son
 affichage dans les conditions prévues à l'article 131-35 du code pénal.
@@ -32308,6 +32561,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32505,7 +32762,7 @@ _Cite_:
 Les groupements européens d'intérêt économique ne peuvent, à peine de nullité des contrats conclus ou des titres émis, faire
 publiquement appel à l'épargne.
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 2000000 F le fait, pour le ou les gérants d'un groupement
+Est puni d'un emprisonnement de deux ans et d'une amende de 300 000 euros le fait, pour le ou les gérants d'un groupement
 européen d'intérêt économique ou le représentant permanent d'une personne morale gérant d'un groupement européen d'intérêt
 économique de faire appel public à l'épargne.
 
@@ -32519,6 +32776,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -32814,7 +33075,7 @@ _Codifié par_:
 
 ###### Article L310-5
 
-Est puni d'une amende de 100000 F :
+Est puni d'une amende de 15000 euros :
 
 1° Le fait de procéder à une liquidation sans l'autorisation prévue à l'article L. 310-1 ou en méconnaissance de cette
 autorisation ;
@@ -32845,6 +33106,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -33446,7 +33711,7 @@ _Codifié par_:
 
 ###### Article L321-15
 
-I. - Est puni de deux ans d'emprisonnement et de 2500000 F d'amende le fait de procéder ou de faire procéder à une ou
+I. - Est puni de deux ans d'emprisonnement et de 375 000 euros d'amende le fait de procéder ou de faire procéder à une ou
 plusieurs ventes volontaires de meubles aux enchères publiques :
 
 1° Si la société qui organise la vente ne dispose pas de l'agrément prévu à l'article L. 321-5 soit qu'elle n'en est pas
@@ -33488,6 +33753,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -34267,8 +34536,8 @@ _Cité par_:
 ###### Article L322-5
 
 Toute infraction aux dispositions des articles L. 320-1, L. 320-2 et L. 322-1 à L. 322-7 est punie de la confiscation des
-marchandises mises en vente et, en outre, d'une amende de 25000 F, qui est prononcée solidairement tant contre le vendeur que
-contre l'officier public qui l'a assisté, sans préjudice des dommages intérêts, s'il y a lieu.
+marchandises mises en vente et, en outre, d'une amende de 3 750 euros, qui est prononcée solidairement tant contre le vendeur
+que contre l'officier public qui l'a assisté, sans préjudice des dommages intérêts, s'il y a lieu.
 
 Est considérée comme complice et frappée des mêmes peines toute personne dont l'interposition a pour but de tourner
 l'interdiction formulée à l'article L. 320-1.
@@ -34280,6 +34549,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Anciens textes_:
+
+  - Loi du 25 juin 1841, art. 7 v. init.
+
 _Cité par_:
 
   - Code de commerce - art. L322-6 (VD)
@@ -34289,10 +34566,6 @@ _Cite_:
   - Code de commerce L320-1, L320-2, L322-1 à L322-7
   - Code de commerce. - art. L320-1 (V)
   - Code de commerce. - art. L320-2 (V)
-
-_Anciens textes_:
-
-  - Loi n°1841-06-25 art. 7 al. 1 et 2
 
 
 ###### Article L322-6
@@ -35085,12 +35358,12 @@ _Cité par_:
 
 ###### Article L420-6
 
-Est puni d'un emprisonnement de quatre ans et d'une amende de 500000 F le fait, pour toute personne physique, de prendre
+Est puni d'un emprisonnement de quatre ans et d'une amende de 75000 euros le fait, pour toute personne physique de prendre
 frauduleusement une part personnelle et déterminante dans la conception, l'organisation ou la mise en oeuvre de pratiques
-visées aux articles L. 420-1 et L. 420-2.
+visées aux articles L. 420-1 et L. 420-2. 
 
 Le tribunal peut ordonner que sa décision soit publiée intégralement ou par extraits dans les journaux qu'il désigne, aux
-frais du condamné.
+frais du condamné. 
 
 Les actes interruptifs de la prescription devant le Conseil de la concurrence en application de l'article L. 462-7 sont
 également interruptifs de la prescription de l'action publique.
@@ -35109,7 +35382,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 67 () JORF 16 mai 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -35857,7 +36130,7 @@ interprofessionnel, conclu conformément aux dispositions de l'article L. 632-1 
 telle annonce est possible et ses modalités. Cet accord interprofessionnel peut être étendu conformément aux dispositions des
 articles L. 632-3 et L. 632-4 du même code.
 
-Toute infraction aux dispositions des alinéas ci-dessus est punie d'une amende de 100000 F.
+Toute infraction aux dispositions des alinéas ci-dessus est punie d'une amende de 15000 euros.
 
 La cessation de la publicité réalisée dans des conditions non conformes aux dispositions du présent article peut être
 ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.
@@ -35876,7 +36149,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 49 () JORF 16 mai 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 14 (infractions - sanctions pénales)
 
 _Cité par_:
 
@@ -35976,7 +36253,7 @@ _Modifié par_:
 
 ###### Article L441-4
 
-Toute infraction aux dispositions de l'article L. 441-3 est punie d'une amende de 500000 F.
+Toute infraction aux dispositions de l'article L. 441-3 est punie d'une amende de 75 000 euros. 
 
 L'amende peut être portée à 50 % de la somme facturée ou de celle qui aurait dû être facturée.
 
@@ -36003,9 +36280,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de commerce. - art. L441-3 (M)
+  - Code de commerce - art. L441-3 (V)
 
 
 ###### Article L441-5
@@ -36067,7 +36348,7 @@ Les conditions dans lesquelles un distributeur ou un prestataire de services se 
 contrepartie de services spécifiques, doivent faire l'objet d'un contrat écrit en double exemplaire détenu par chacune des
 deux parties.
 
-Toute infraction aux dispositions visées ci-dessus est punie d'une amende de 100000 F.
+Toute infraction aux dispositions visées ci-dessus est punie d'une amende de 15000 euros.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
 pénal.
@@ -36181,7 +36462,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 53 () JORF 16 mai 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -36291,8 +36572,8 @@ _Cité par_:
 ###### Article L442-2
 
 Le fait, pour tout commerçant, de revendre ou d'annoncer la revente d'un produit en l'état à un prix inférieur à son prix
-d'achat effectif est puni de 500000 F d'amende. Cette amende peut être portée à la moitié des dépenses de publicité dans le
-cas où une annonce publicitaire, quel qu'en soit le support, fait état d'un prix inférieur au prix d'achat effectif.
+d'achat effectif est puni de 75000 euros d'amende. Cette amende peut être portée à la moitié des dépenses de publicité dans
+le cas où une annonce publicitaire, quel qu'en soit le support, fait état d'un prix inférieur au prix d'achat effectif.
 
 Le prix d'achat effectif est le prix unitaire figurant sur la facture majoré des taxes sur le chiffre d'affaires, des taxes
 spécifiques afférentes à cette revente et du prix du transport.
@@ -36308,6 +36589,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -36422,8 +36707,8 @@ _Cite_:
 
 ###### Article L442-5
 
-Est puni d'une amende de 100000 F le fait par toute personne d'imposer, directement ou indirectement, un caractère minimal au
-prix de revente d'un produit ou d'un bien, au prix d'une prestation de service ou à une marge commerciale.
+Est puni d'une amende de 15 000 euros le fait par toute personne d'imposer, directement ou indirectement, un caractère
+minimal au prix de revente d'un produit ou d'un bien, au prix d'une prestation de service ou à une marge commerciale.
 
 **Liens relatifs à cet article**
 
@@ -36436,6 +36721,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -36632,7 +36921,7 @@ _Cite_:
 
 ###### Article L443-1
 
-A peine d'une amende de 500000 F, le délai de paiement, par tout producteur, revendeur ou prestataire de services, ne peut
+A peine d'une amende de 75000 euros, le délai de paiement, par tout producteur, revendeur ou prestataire de services, ne peut
 être supérieur :
 
 1° A trente jours après la fin de la décade de livraison pour les achats de produits alimentaires périssables et de viandes
@@ -36653,6 +36942,11 @@ prévus à l'article 438 du même code.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 403
+  - Code rural L326-1 à L326-3, 438
+
 _Anciens textes_:
 
   - Ordonnance n°86-1243 du 1 décembre 1986 - art. 35 (M)
@@ -36662,6 +36956,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -36680,21 +36978,16 @@ _Cité par_:
   - Code rural et  de la pêche maritime - art. L664-8 (T)
   - Code rural et de la pêche maritime - art. L631-25 (V)
 
-_Cite_:
-
-  - CGI 403
-  - Code rural L326-1 à L326-3, 438
-
 
 ###### Article L443-2
 
 I. - Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le
 marché des offres destinées à troubler les cours ou des sur offres faites aux prix demandés par les vendeurs, ou en utilisant
 tout autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de
-services ou d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 200000 F d'amende.
+services ou d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
 
 II. - Lorsque la hausse ou la baisse artificielle des prix concerne des produits alimentaires, la peine est portée à trois
-ans d'emprisonnement et 300000 F d'amende.
+ans d'emprisonnement et 45000 euros d'amende.
 
 III. - Les personnes physiques coupables des infractions prévues au présent article encourent également les peines
 complémentaires suivantes :
@@ -36713,6 +37006,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -37251,8 +37548,8 @@ _Codifié par_:
 
 ###### Article L450-8
 
-Est puni d'un emprisonnement de six mois et d'une amende de 50000 F le fait pour quiconque de s'opposer, de quelque façon que
-ce soit, à l'exercice des fonctions dont les agents désignés à l'article L. 450-1 et les rapporteurs du Conseil de la
+Est puni d'un emprisonnement de six mois et d'une amende de 7500 euros le fait pour quiconque de s'opposer, de quelque façon
+que ce soit, à l'exercice des fonctions dont les agents désignés à l'article L. 450-1 et les rapporteurs du Conseil de la
 concurrence sont chargés en application du présent livre.
 
 **Liens relatifs à cet article**
@@ -37298,6 +37595,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -42163,9 +42464,9 @@ _Cite_:
 
 Il est interdit d'ouvrir et d'exploiter sans l'autorisation prescrite à l'article L. 522-1 un établissement recevant en dépôt
 des marchandises pour lesquelles sont délivrés aux déposants, sous le nom de warrants, ou tout autre nom, des bulletins de
-gages négociables.
+gages négociables. 
 
-Toute infraction à cette prohibition est punie d'une amende de 40000 F et d'un emprisonnement d'un an.
+Toute infraction à cette prohibition est punie d'une amende de 6000 euros et d'un emprisonnement d'un an. 
 
 Le tribunal peut ordonner que le jugement de condamnation sera publié intégralement ou par extraits dans les journaux qu'il
 désigne et affiché dans les lieux qu'il indique, notamment aux portes du domicile et des magasins du condamné, le tout aux
@@ -42182,9 +42483,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code de commerce. - art. L522-1 (V)
+  - Code de commerce - art. L522-1 (V)
 
 
 ###### Article L522-39
@@ -51984,6 +52289,105 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-2 (V)
 
 
+###### Article L626-3
+
+La banqueroute est punie de cinq ans d'emprisonnement et de 75000 euros d'amende.
+
+Encourent les mêmes peines les complices de banqueroute, même s'ils n'ont pas la qualité de commerçant, d'agriculteur ou
+d'artisan ou ne dirigent pas, directement ou indirectement, en droit ou en fait, une personne morale de droit privé ayant une
+activité économique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 198 (M)
+  - Loi n°85-98 du 25 janvier 1985 - art. 198 (Ab)
+  - Code de commerce. - art. L621-58 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cité par_:
+
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 125 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 202 (Ab)
+  - Code de commerce - art. L626-10 (V)
+  - Code de commerce - art. L626-18 (V)
+  - Code de commerce - art. L626-31 (VD)
+  - Code de commerce - art. L631-19 (V)
+  - Code de commerce - art. L631-9-1 (V)
+  - Code de commerce - art. L936-1 (V)
+  - Code de commerce - art. L956-1 (V)
+  - Code de commerce - art. R626-1 (V)
+  - Code de commerce - art. R631-34-5 (V)
+  - Code de commerce. - art. L626-5 (M)
+  - Code de commerce. - art. L626-7 (M)
+  - Code de commerce. - art. L627-3 (VD)
+  - Code de commerce. - art. R631-34 (V)
+  - Code de la sécurité sociale. - art. L931-28 (V)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L654-3 (V)
+
+
+###### Article L626-4
+
+Lorsque l'auteur ou le complice de banqueroute est un dirigeant d'une entreprise prestataire de services d'investissement,
+les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 199 (M)
+  - Loi n°85-98 du 25 janvier 1985 - art. 199 (Ab)
+  - Code de commerce. - art. L621-59 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cité par_:
+
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 128 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 130 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 183 (Ab)
+  - Code de commerce - art. L228-86 (V)
+  - Code de commerce. - art. L626-5 (M)
+  - Code de commerce. - art. L626-7 (M)
+  - Code de commerce. - art. R626-4 (Ab)
+  - Code de commerce. - art. R626-6 (Ab)
+  - Code de commerce. - art. R631-14 (V)
+  - Code de la sécurité sociale. - art. L931-28 (V)
+  - Code du travail - art. L2323-45 (VD)
+  - Code du travail - art. L432-1 (AbD)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L654-4 (V)
+
+
 ###### Article L626-5
 
 Les personnes physiques coupables des infractions prévues par les articles L. 626-3 et L. 626-4 encourent également les
@@ -52150,6 +52554,66 @@ _Nouveaux textes_:
 
 
 ##### Section 2 : Des autres infractions<a id=276></a>
+
+###### Article L626-8
+
+Est passible d'un emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
+
+1° Pour tout commerçant, toute personne immatriculée au répertoire des métiers, tout agriculteur ou tout dirigeant, de droit
+ou de fait, rémunéré ou non, d'une personne morale, de consentir pendant la période d'observation une hypothèque ou un
+nantissement ou de faire un acte de disposition sans l'autorisation prévue par l'article L. 621-24 ou de payer, en tout ou
+partie, une dette née antérieurement à la décision d'ouverture de la procédure ;
+
+2° Pour tout commerçant, toute personne immatriculée au répertoire des métiers, tout agriculteur ou tout dirigeant, de droit
+ou de fait, rémunéré ou non, d'une personne morale d'effectuer un paiement en violation des modalités de règlement du passif
+prévues au plan de continuation ou de faire un acte de disposition sans l'autorisation prévue par l'article L. 621-72 ;
+
+3° Pour toute personne, pendant la période d'observation ou celle d'exécution du plan de continuation, en connaissance de la
+situation du débiteur, de passer avec celui-ci l'un des actes mentionnés aux 1° et 2° ci-dessus ou d'en recevoir un paiement
+irrégulier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 1985-01-25 art. 203
+  - Loi n°85-98 du 25 janvier 1985 - art. 203 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cité par_:
+
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 102 (Ab)
+  - Code de commerce - art. L626-30-3 (VD)
+  - Code de commerce - art. L631-19 (V)
+  - Code de commerce - art. L692-5 (V)
+  - Code de commerce. - art. L626-9 (VD)
+  - Code de commerce. - art. L627-3 (VD)
+  - Code de commerce. - art. R623-1 (V)
+  - Code du travail - art. L2312-53 (VD)
+  - Code du travail - art. L2323-44 (VT)
+  - Code du travail - art. L432-1 (AbD)
+
+_Cite_:
+
+  - Code de commerce. - art. L621-24 (M)
+  - Code de commerce. - art. L621-72 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L654-8 (V)
+
 
 ###### Article L626-9
 
@@ -52700,6 +53164,42 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de commerce. - art. L663-1 (V)
+
+
+###### Article L627-4
+
+Le fait, pour toute personne, d'exercer une activité professionnelle ou des fonctions en violation des interdictions,
+déchéances ou incapacité prévues par les articles L. 625-2 et L. 625-8, est puni d'un emprisonnement de deux ans et d'une
+amende de 375000 euros.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 1985-01-25 art. 216
+  - Loi n°85-98 du 25 janvier 1985 - art. 216 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L625-2 (M)
+  - Code de commerce. - art. L625-8 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L654-15 (V)
 
 
 ###### Article L627-5
@@ -53405,178 +53905,7 @@ _Cite_:
   - Code du travail - art. L321-9 (M)
 
 
-#### Chapitre VI : De la banqueroute et des autres infractions<a id=299></a>
-
-##### Section 1 : De la banqueroute.<a id=300></a>
-
-###### Article L626-3
-
-La banqueroute est punie de cinq ans d'emprisonnement et de 500000 F d'amende.
-
-Encourent les mêmes peines les complices de banqueroute, même s'ils n'ont pas la qualité de commerçant, d'agriculteur ou
-d'artisan ou ne dirigent pas, directement ou indirectement, en droit ou en fait, une personne morale de droit privé ayant une
-activité économique.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 198 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 198 (Ab)
-  - Code de commerce. - art. L621-58 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cité par_:
-
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 125 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 202 (Ab)
-  - Code de commerce - art. L626-10 (V)
-  - Code de commerce - art. L626-18 (V)
-  - Code de commerce - art. L626-31 (VD)
-  - Code de commerce - art. L631-19 (V)
-  - Code de commerce - art. L631-9-1 (V)
-  - Code de commerce - art. L936-1 (V)
-  - Code de commerce - art. L956-1 (V)
-  - Code de commerce - art. R626-1 (V)
-  - Code de commerce - art. R631-34-5 (V)
-  - Code de commerce. - art. L626-5 (M)
-  - Code de commerce. - art. L626-7 (M)
-  - Code de commerce. - art. L627-3 (VD)
-  - Code de commerce. - art. R631-34 (V)
-  - Code de la sécurité sociale. - art. L931-28 (V)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L654-3 (V)
-
-
-###### Article L626-4
-
-Lorsque l'auteur ou le complice de banqueroute est un dirigeant d'une entreprise prestataire de services d'investissement,
-les peines sont portées à sept ans d'emprisonnement et 700000 F d'amende.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 199 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 199 (Ab)
-  - Code de commerce. - art. L621-59 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cité par_:
-
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 128 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 130 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 183 (Ab)
-  - Code de commerce - art. L228-86 (V)
-  - Code de commerce. - art. L626-5 (M)
-  - Code de commerce. - art. L626-7 (M)
-  - Code de commerce. - art. R626-4 (Ab)
-  - Code de commerce. - art. R626-6 (Ab)
-  - Code de commerce. - art. R631-14 (V)
-  - Code de la sécurité sociale. - art. L931-28 (V)
-  - Code du travail - art. L2323-45 (VD)
-  - Code du travail - art. L432-1 (AbD)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L654-4 (V)
-
-
-##### Section 2 : Des autres infractions.<a id=301></a>
-
-###### Article L626-8
-
-Est passible d'un emprisonnement de deux ans et d'une amende de 200000 F le fait :
-
-1° Pour tout commerçant, toute personne immatriculée au répertoire des métiers, tout agriculteur ou tout dirigeant, de droit
-ou de fait, rémunéré ou non, d'une personne morale, de consentir pendant la période d'observation une hypothèque ou un
-nantissement ou de faire un acte de disposition sans l'autorisation prévue par l'article L. 621-24 ou de payer, en tout ou
-partie, une dette née antérieurement à la décision d'ouverture de la procédure ;
-
-2° Pour tout commerçant, toute personne immatriculée au répertoire des métiers, tout agriculteur ou tout dirigeant, de droit
-ou de fait, rémunéré ou non, d'une personne morale d'effectuer un paiement en violation des modalités de règlement du passif
-prévues au plan de continuation ou de faire un acte de disposition sans l'autorisation prévue par l'article L. 621-72 ;
-
-3° Pour toute personne, pendant la période d'observation ou celle d'exécution du plan de continuation, en connaissance de la
-situation du débiteur, de passer avec celui-ci l'un des actes mentionnés aux 1° et 2° ci-dessus ou d'en recevoir un paiement
-irrégulier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art.  203
-  - Loi n°85-98 du 25 janvier 1985 - art. 203 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cité par_:
-
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 102 (Ab)
-  - Code de commerce - art. L626-30-3 (VD)
-  - Code de commerce - art. L631-19 (V)
-  - Code de commerce - art. L692-5 (V)
-  - Code de commerce. - art. L626-9 (VD)
-  - Code de commerce. - art. L627-3 (VD)
-  - Code de commerce. - art. R623-1 (V)
-  - Code du travail - art. L2312-53 (VD)
-  - Code du travail - art. L2323-44 (VT)
-  - Code du travail - art. L432-1 (AbD)
-
-_Cite_:
-
-  - Code de commerce. - art. L621-24 (M)
-  - Code de commerce. - art. L621-72 (M)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L654-8 (V)
-
-
-#### Chapitre VII : Dispositions communes.<a id=302></a>
-
-###### Article L627-4
-
-Le fait, pour toute personne, d'exercer une activité professionnelle ou des fonctions en violation des interdictions,
-déchéances ou incapacité prévues par les articles L. 625-2 et L. 625-8, est puni d'un emprisonnement de deux ans et d'une
-amende de 2500000 F.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 216
-  - Loi n°85-98 du 25 janvier 1985 - art. 216 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cite_:
-
-  - Code de commerce. - art. L625-2 (M)
-  - Code de commerce. - art. L625-8 (M)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L654-15 (V)
-
-
-#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.<a id=303></a>
+#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.<a id=299></a>
 
 ###### Article L628-3
 
@@ -53611,11 +53940,11 @@ _Nouveaux textes_:
   - Code de commerce. - art. L670-3 (V)
 
 
-## LIVRE VII : De l'organisation du commerce<a id=304></a>
+## LIVRE VII : De l'organisation du commerce<a id=300></a>
 
-### TITRE Ier : Des chambres de commerce et d'industrie<a id=305></a>
+### TITRE Ier : Des chambres de commerce et d'industrie<a id=301></a>
 
-#### Chapitre Ier : De l'organisation et des attributions.<a id=306></a>
+#### Chapitre Ier : De l'organisation et des attributions.<a id=302></a>
 
 ###### Article L711-1
 
@@ -54012,7 +54341,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre II : De l'administration financière.<a id=307></a>
+#### Chapitre II : De l'administration financière.<a id=303></a>
 
 ###### Article L712-1
 
@@ -54128,7 +54457,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L712-6 (V)
 
 
-#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=308></a>
+#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=304></a>
 
 ###### Article L713-1
 
@@ -54786,7 +55115,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R713-64 (V)
 
 
-### TITRE II : De l'équipement commercial<a id=309></a>
+### TITRE II : De l'équipement commercial<a id=305></a>
 
 ###### Article L720-1
 
@@ -55175,7 +55504,7 @@ immatérielles.
 Cette communication intervient dans les deux mois suivant la conclusion des contrats ou, s'il s'agit de contrats antérieurs à
 l'autorisation, dans un délai de deux mois à compter de l'autorisation.
 
-Toute infraction aux dispositions du présent article est punie de 100000 F d'amende.
+Toute infraction aux dispositions du présent article est punie de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -55191,6 +55520,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 _Cite_:
 
@@ -55430,7 +55767,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE III : Des marchés d'intérêt national.<a id=310></a>
+### TITRE III : Des marchés d'intérêt national.<a id=306></a>
 
 ###### Article L730-1
 
@@ -55741,7 +56078,7 @@ _Cite_:
 
 Les infractions aux interdictions des articles L. 730-5 à L. 730-7 ainsi qu'aux dispositions prises en application de ces
 articles sont constatées et poursuivies dans les conditions fixées par le premier alinéa de l'article L. 450-1 et les
-articles L. 450-2 et L. 450-3 et sanctionnées d'une peine d'amende de 100000 F. Les articles L. 470-1 et L. 470-4 sont
+articles L. 450-2 et L. 450-3 et sanctionnées d'une peine d'amende de 15000 euros. Les articles L. 470-1 et L. 470-4 sont
 applicables.
 
 **Liens relatifs à cet article**
@@ -55755,6 +56092,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -56007,15 +56348,15 @@ _Cité par_:
   - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
 
 
-## LIVRE VIII : De quelques professions réglementées.<a id=311></a>
+## LIVRE VIII : De quelques professions réglementées.<a id=307></a>
 
-### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=312></a>
+### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=308></a>
 
-#### Chapitre Ier : Des administrateurs judiciaires<a id=313></a>
+#### Chapitre Ier : Des administrateurs judiciaires<a id=309></a>
 
-##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=314></a>
+##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=310></a>
 
-##### Sous-section 1 : Des missions.<a id=315></a>
+##### Sous-section 1 : Des missions.<a id=311></a>
 
 ###### Article L811-1
 
@@ -56047,7 +56388,7 @@ _Cité par_:
   - Code de l'éducation - art. D613-31 (V)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=316></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=312></a>
 
 ###### Article L811-2
 
@@ -56301,7 +56642,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=317></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=313></a>
 
 ###### Article L811-6
 
@@ -56463,7 +56804,7 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### Sous-section 4 : Des incompatibilités.<a id=318></a>
+##### Sous-section 4 : Des incompatibilités.<a id=314></a>
 
 ###### Article L811-10
 
@@ -56514,9 +56855,9 @@ _Cite_:
   - Code rural L351-4
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=319></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=315></a>
 
-##### Sous-section 1 : De la surveillance et de l'inspection.<a id=320></a>
+##### Sous-section 1 : De la surveillance et de l'inspection.<a id=316></a>
 
 ###### Article L811-11
 
@@ -56556,7 +56897,7 @@ _Cite_:
   - Code de commerce. - art. L811-2 (M)
 
 
-##### Sous-section 2 : De la discipline.<a id=321></a>
+##### Sous-section 2 : De la discipline.<a id=317></a>
 
 ###### Article L811-12
 
@@ -56753,11 +57094,11 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre II : Des mandataires judiciaires à la liquidation des entreprises<a id=322></a>
+#### Chapitre II : Des mandataires judiciaires à la liquidation des entreprises<a id=318></a>
 
-##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=323></a>
+##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=319></a>
 
-##### Sous-section 1 : Des missions.<a id=324></a>
+##### Sous-section 1 : Des missions.<a id=320></a>
 
 ###### Article L812-1
 
@@ -56790,7 +57131,7 @@ _Cité par_:
   - Code de l'éducation - art. D613-31 (V)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=325></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=321></a>
 
 ###### Article L812-2
 
@@ -57030,7 +57371,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=326></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=322></a>
 
 ###### Article L812-4
 
@@ -57188,7 +57529,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-##### Sous-section 4 : Des incompatibilités.<a id=327></a>
+##### Sous-section 4 : Des incompatibilités.<a id=323></a>
 
 ###### Article L812-8
 
@@ -57234,7 +57575,7 @@ _Cite_:
   - Code rural L351-4
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=328></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=324></a>
 
 ###### Article L812-9
 
@@ -57313,9 +57654,9 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre III : Des experts en diagnostic d'entreprise<a id=329></a>
+#### Chapitre III : Des experts en diagnostic d'entreprise<a id=325></a>
 
-##### Section 1 : Des missions et des conditions de désignation.<a id=330></a>
+##### Section 1 : Des missions et des conditions de désignation.<a id=326></a>
 
 ###### Article L813-1
 
@@ -57360,7 +57701,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-##### Section 2 : De la cessation des fonctions.<a id=331></a>
+##### Section 2 : De la cessation des fonctions.<a id=327></a>
 
 ###### Article L813-2
 
@@ -57397,11 +57738,11 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-#### Chapitre IV : Dispositions communes<a id=332></a>
+#### Chapitre IV : Dispositions communes<a id=328></a>
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=333></a>
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=329></a>
 
-##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=334></a>
+##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=330></a>
 
 ###### Article L814-1
 
@@ -57446,7 +57787,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=335></a>
+##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=331></a>
 
 ###### Article L814-2
 
@@ -57499,9 +57840,9 @@ _Cité par_:
   - Code de commerce. - art. Annexe 8-3 (V)
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=336></a>
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=332></a>
 
-##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=337></a>
+##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=333></a>
 
 ###### Article L814-3
 
@@ -57639,7 +57980,7 @@ _Cite_:
   - Code de commerce. - art. L811-2 (M)
 
 
-##### Sous-section 2 : De la rémunération.<a id=338></a>
+##### Sous-section 2 : De la rémunération.<a id=334></a>
 
 ###### Article L814-6
 
@@ -57671,7 +58012,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
-### TITRE II : Des commissaires aux comptes.<a id=339></a>
+### TITRE II : Des commissaires aux comptes.<a id=335></a>
 
 ###### Article L820-1
 
@@ -57777,12 +58118,12 @@ _Cité par_:
 
 Nonobstant toute disposition contraire :
 
-1° Est puni d'un emprisonnement de deux ans et d'une amende de 200000 F le fait, pour tout dirigeant de personne morale tenue
-d'avoir un commissaire aux comptes, de ne pas en provoquer la désignation ou de ne pas le convoquer à toute assemblée
+1° Est puni d'un emprisonnement de deux ans et d'une amende de 30000 euros le fait, pour tout dirigeant de personne morale
+tenue d'avoir un commissaire aux comptes, de ne pas en provoquer la désignation ou de ne pas le convoquer à toute assemblée
 générale ;
 
-2° Est puni d'un emprisonnement de cinq ans et d'une amende de 500000 F le fait, pour les dirigeants d'une personne morale ou
-toute personne au service d'une personne morale tenue d'avoir un commissaire aux comptes, de mettre obstacle aux
+2° Est puni d'un emprisonnement de cinq ans et d'une amende de 75000 euros le fait, pour les dirigeants d'une personne morale
+ou toute personne au service d'une personne morale tenue d'avoir un commissaire aux comptes, de mettre obstacle aux
 vérifications ou contrôles des commissaires aux comptes ou des experts nommés en exécution des articles L. 223-37 et L.
 225-231, ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission et,
 notamment, de tous contrats, livres, documents comptables et registres de procès-verbaux.
@@ -57794,13 +58135,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -57815,7 +58156,7 @@ _Cite_:
 
 ###### Article L820-5
 
-Est puni d'un an d'emprisonnement et de 100000 F d'amende le fait, pour toute personne :
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, pour toute personne :
 
 1° De faire usage du titre de commissaire aux comptes ou de titres quelconques tendant à créer une similitude ou une
 confusion avec celui-ci, sans être régulièrement inscrite sur la liste prévue au I de l'article L. 225-219 et avoir prêté
@@ -57833,13 +58174,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cite_:
 
@@ -57855,9 +58196,9 @@ _Cité par_:
 
 ###### Article L820-6
 
-Est puni d'un emprisonnement de six mois et d'une amende de 50000 F le fait, pour toute personne d'accepter, d'exercer ou de
-conserver les fonctions de commissaire aux comptes, nonobstant les incompatibilités légales, soit en son nom personnel, soit
-au titre d'associé dans une société de commissaires aux comptes.
+Est puni d'un emprisonnement de six mois et d'une amende de 7500 euros le fait, pour toute personne d'accepter, d'exercer ou
+de conserver les fonctions de commissaire aux comptes, nonobstant les incompatibilités légales, soit en son nom personnel,
+soit au titre d'associé dans une société de commissaires aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -57866,13 +58207,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -57883,7 +58224,7 @@ _Cité par_:
 
 ###### Article L820-7
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 500000 F le fait, pour toute personne, de donner ou confirmer
+Est puni d'un emprisonnement de cinq ans et d'une amende de 75000 euros le fait, pour toute personne, de donner ou confirmer
 soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes des informations mensongères
 sur la situation de la personne morale ou de ne pas révéler au procureur de la République les faits délictueux dont il a eu
 connaissance.
@@ -57895,13 +58236,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -57909,9 +58250,9 @@ _Cité par_:
   - Code monétaire et financier - art. L571-5 (V)
 
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=340></a>
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=336></a>
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=341></a>
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=337></a>
 
 ###### Article L910-1
 
@@ -58017,7 +58358,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=342></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=338></a>
 
 ###### Article L911-1
 
@@ -58308,7 +58649,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=343></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=339></a>
 
 ###### Article L912-1
 
@@ -58425,7 +58766,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=344></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=340></a>
 
 ###### Article L913-1
 
@@ -58446,7 +58787,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=345></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=341></a>
 
 ###### Article L914-1
 
@@ -58493,7 +58834,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=346></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=342></a>
 
 ###### Article L915-1
 
@@ -58593,7 +58934,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=347></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=343></a>
 
 ###### Article L917-1
 
@@ -58681,7 +59022,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=348></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=344></a>
 
 ###### Article L920-1
 
@@ -58831,7 +59172,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=349></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=345></a>
 
 ###### Article L921-1
 
@@ -59133,7 +59474,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=350></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=346></a>
 
 ###### Article L922-1
 
@@ -59329,7 +59670,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=351></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=347></a>
 
 ###### Article L923-1
 
@@ -59373,7 +59714,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=352></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=348></a>
 
 ###### Article L924-1
 
@@ -59522,7 +59863,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L924-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=353></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=349></a>
 
 ###### Article L925-1
 
@@ -59647,7 +59988,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=354></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=350></a>
 
 ###### Article L926-1
 
@@ -59882,7 +60223,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=355></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=351></a>
 
 ###### Article L930-1
 
@@ -60019,7 +60360,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=356></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=352></a>
 
 ###### Article L931-1
 
@@ -60416,7 +60757,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=357></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=353></a>
 
 ###### Article L932-1
 
@@ -60759,7 +61100,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=358></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=354></a>
 
 ###### Article L933-1
 
@@ -60901,7 +61242,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=359></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=355></a>
 
 ###### Article L935-1
 
@@ -61069,7 +61410,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=360></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=356></a>
 
 ###### Article L936-1
 
@@ -61410,7 +61751,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L936-11 (M)
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=361></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=357></a>
 
 ###### Article L940-1
 
@@ -61566,7 +61907,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=362></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=358></a>
 
 ###### Article L941-1
 
@@ -61940,7 +62281,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=363></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=359></a>
 
 ###### Article L942-1
 
@@ -62202,7 +62543,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=364></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=360></a>
 
 ###### Article L943-1
 
@@ -62340,7 +62681,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=365></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=361></a>
 
 ###### Article L945-1
 
@@ -62506,7 +62847,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=366></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=362></a>
 
 ###### Article L946-1
 
@@ -62765,7 +63106,7 @@ _Créé par_:
   - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=367></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=363></a>
 
 ###### Article L950-1
 
@@ -62917,7 +63258,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=368></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=364></a>
 
 ###### Article L951-1
 
@@ -63222,7 +63563,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=369></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=365></a>
 
 ###### Article L952-1
 
@@ -63409,7 +63750,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=370></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=366></a>
 
 ###### Article L953-1
 
@@ -63470,7 +63811,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L953-3 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=371></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=367></a>
 
 ###### Article L954-1
 
@@ -63647,7 +63988,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L954-7 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=372></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=368></a>
 
 ###### Article L955-1
 
@@ -63780,7 +64121,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=373></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=369></a>
 
 ###### Article L956-1
 
@@ -64038,7 +64379,7 @@ _Anciens textes_:
   - Code de commerce. - art. L956-9 (M)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=374></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=370></a>
 
 ###### Article L957-1
 
@@ -64091,7 +64432,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=375></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=371></a>
 
 ###### Article L958-1
 
