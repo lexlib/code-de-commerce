@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-08-21
+Version Consolidée au 2004-10-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -57123,6 +57123,40 @@ _Nouveaux textes_:
   - Code de commerce. - art. L713-18 (M)
   - Code de commerce. - art. L713-18 (V)
   - Code de commerce. - art. R713-64 (V)
+
+
+###### Article L713-16
+
+Les délégués consulaires et les membres des chambres de commerce et d'industrie sont élus au scrutin majoritaire plurinominal
+à un tour. Si plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé est proclamé élu.
+
+**Nota:**
+
+: L'article 6-1 de l'ordonnance 2004-328 est inséré par l'article 78 XIX de la loi 2004-1343 du 9 décembre 2004 JORF du 10
+décembre 2004.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°91-739 du 18 juillet 1991 - art. 26 (Ab)
+  - Décret n°2004-799 du 29 juillet 2004 - art. 24 (Ab)
+  - Code de commerce - art. R713-19 (V)
+  - Code de commerce - art. R713-53 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 6-1 () JORF 17 avril 2004
+
+_Anciens textes_:
+
+  - Code de commerce. - art. L713-12 (T)
 
 
 ###### Article L713-17
