@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-07-31
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -238,7 +238,7 @@ Version Consolidée au 2003-07-22
                 - [Sous-paragraphe 4 : De l'arrêt du cours des intérêts et de l'absence de déchéance du terme (art. L621-48 à L621-49)](#235)
                 - [Sous-paragraphe 5 : De l'interdiction des inscriptions (art. L621-50)](#236)
                 - [Sous-paragraphe 6 : Des cautions et des coobligés (art. L621-51 à L621-53)](#237)
-            - [Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise (art. L621-55 à L621-61)](#238)
+            - [Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise (art. L621-54 à L621-61)](#238)
           - [Section 2 : Du plan de continuation ou de cession de l'entreprise (art. L621-62 à L621-101)](#239)
             - [Sous-section 1 : Du jugement arrêtant le plan (art. L621-62 à L621-69)](#240)
             - [Sous-section 2 : De la continuation de l'entreprise (art. L621-70 à L621-82)](#241)
@@ -282,90 +282,88 @@ Version Consolidée au 2003-07-22
           - [Section 3 : Des règles de procédure (art. L626-15 à L626-19)](#279)
         - [Chapitre VII : Dispositions communes (art. L627-1 à L627-6)](#280)
         - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle (art. L628-1 à L628-2)](#281)
-      - [TITRE II : Du redressement et de la liquidation judiciaires des entreprises (art. L621-54 à L628-3)](#282)
-        - [Chapitre Ier : Du redressement judiciaire (art. L621-54 à L621-132)](#283)
-          - [Section 1 : De la période d'observation (art. L621-54)](#284)
-            - [Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise. (art. L621-54)](#285)
-          - [Section 4 : Du règlement des créances résultant du contrat de travail (art. L621-132)](#286)
-            - [Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L621-132)](#287)
-        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle. (art. L628-3)](#288)
-    - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L730-17)](#289)
-      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#290)
-        - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#291)
-        - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#292)
-        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#293)
-      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#294)
-      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#295)
-    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#296)
-      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-10)](#297)
-        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#298)
-          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#299)
-            - [Sous-section 1 : Des missions (art. L811-1)](#300)
-              - [(En vigueur jusqu'au 1er janvier 2006) (art. L811-1)](#301)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#302)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#303)
-            - [Sous-section 4 : Des incompatibilités (art. L811-10)](#304)
-              - [(en vigueur jusqu'au 1er janvier 2006) (art. L811-10)](#305)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#306)
-            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#307)
-            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#308)
-        - [Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises (art. L812-1 à L812-10)](#309)
-          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#310)
-            - [Sous-section 1 : Des missions. (art. L812-1)](#311)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#312)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#313)
-            - [Sous-section 4 : Des incompatibilités (art. L812-8)](#314)
-              - [(en vigueur jusqu'au 1er janvier 2006) (art. L812-8)](#315)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#316)
-        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#317)
-          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#318)
-          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#319)
-        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#320)
-          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#321)
-            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#322)
-            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#323)
-          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#324)
-            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#325)
-            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#326)
-          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#327)
-            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#328)
-      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#329)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#330)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#331)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#332)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#333)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#334)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#335)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#336)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#337)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#338)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#339)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#340)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#341)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#342)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#343)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#344)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#345)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#346)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#347)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#348)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#349)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#350)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#351)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#352)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#353)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#354)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#355)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#356)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#357)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#358)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#359)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#360)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#361)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#362)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#363)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#364)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#365)
+      - [TITRE II : Du redressement et de la liquidation judiciaires des entreprises (art. L621-132 à L628-3)](#282)
+        - [Chapitre Ier : Du redressement judiciaire (art. L621-132)](#283)
+          - [Section 4 : Du règlement des créances résultant du contrat de travail (art. L621-132)](#284)
+            - [Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L621-132)](#285)
+        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle. (art. L628-3)](#286)
+    - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L730-17)](#287)
+      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#288)
+        - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#289)
+        - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#290)
+        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#291)
+      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#292)
+      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#293)
+    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#294)
+      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-10)](#295)
+        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#296)
+          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#297)
+            - [Sous-section 1 : Des missions (art. L811-1)](#298)
+              - [(En vigueur jusqu'au 1er janvier 2006) (art. L811-1)](#299)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#300)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#301)
+            - [Sous-section 4 : Des incompatibilités (art. L811-10)](#302)
+              - [(en vigueur jusqu'au 1er janvier 2006) (art. L811-10)](#303)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#304)
+            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#305)
+            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#306)
+        - [Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises (art. L812-1 à L812-10)](#307)
+          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#308)
+            - [Sous-section 1 : Des missions. (art. L812-1)](#309)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#310)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#311)
+            - [Sous-section 4 : Des incompatibilités (art. L812-8)](#312)
+              - [(en vigueur jusqu'au 1er janvier 2006) (art. L812-8)](#313)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#314)
+        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#315)
+          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#316)
+          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#317)
+        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#318)
+          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#319)
+            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#320)
+            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#321)
+          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#322)
+            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#323)
+            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#324)
+          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#325)
+            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#326)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#327)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#328)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#329)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#330)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#331)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#332)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#333)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#334)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#335)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#336)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#337)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#338)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#339)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#340)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#341)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#342)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#343)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#344)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#345)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#346)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#347)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#348)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#349)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#350)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#351)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#352)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#353)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#354)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#355)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#356)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#357)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#358)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#359)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#360)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#361)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#362)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#363)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -14812,6 +14810,40 @@ _Cite_:
 
   - Code de commerce. - art. L225-102 (M)
   - Code de commerce. - art. L233-16 (M)
+
+
+###### Article L225-102-2
+
+Pour les sociétés exploitant au moins une installation figurant sur la liste prévue au IV de l'article L. 515-8 du code de
+l'environnement, le rapport mentionné à l'article L. 225-102 du présent code :
+
+- informe de la politique de prévention du risque d'accident technologique menée par la société ;
+
+- rend compte de la capacité de la société à couvrir sa responsabilité civile vis-à-vis des biens et des personnes du fait de
+l'exploitation de telles installations ;
+
+- précise les moyens prévus par la société pour assurer la gestion de l'indemnisation des victimes en cas d'accident
+technologique engageant sa responsabilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 23 () JORF 31 juillet 2003
+
+_Cite_:
+
+  - Code de commerce - art. L225-102 (V)
+  - Code de l'environnement - art. L515-8 (VT)
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VT)
 
 
 ###### Article L225-103
@@ -47647,6 +47679,62 @@ _Nouveaux textes_:
 
 ##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise<a id=238></a>
 
+###### Article L621-54
+
+L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser
+dans un rapport le bilan économique et social de l'entreprise. Au vu de ce bilan, l'administrateur propose soit un plan de
+redressement, soit la liquidation judiciaire.
+
+Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.
+
+Dans le cas où l'entreprise exploite une ou des installations classées au sens du titre Ier du livre V du code de
+l'environnement, le bilan économique et social est complété par un bilan environnemental que l'administrateur fait réaliser
+dans des conditions prévues par décret en Conseil d'Etat.
+
+Le projet de plan de redressement de l'entreprise détermine les perspectives de redressement en fonction des possibilités et
+des modalités d'activités, de l'état du marché et des moyens de financement disponibles.
+
+Il définit les modalités de règlement du passif et les garanties éventuelles que le chef d'entreprise doit souscrire pour en
+assurer l'exécution.
+
+Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagées pour la
+poursuite d'activité. Lorsque le projet prévoit des licenciements pour motif économique, il rappelle les mesures déjà
+intervenues et définit les actions à entreprendre en vue de faciliter le reclassement et l'indemnisation des salariés dont
+l'emploi est menacé.
+
+Ce projet tient compte des travaux recensés par le bilan environnemental.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 18 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-1388 du 27 décembre 1985 - art. 41-1 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
+  - Code de commerce. - art. L621-7 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 24 () JORF 31 juillet 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L623-1 (V)
+
+
 ###### Article L621-55
 
 Le juge-commissaire peut, nonobstant toute disposition législative ou réglementaire contraire, obtenir communication par les
@@ -54591,56 +54679,9 @@ _Nouveaux textes_:
 
 #### Chapitre Ier : Du redressement judiciaire<a id=283></a>
 
-##### Section 1 : De la période d'observation<a id=284></a>
+##### Section 4 : Du règlement des créances résultant du contrat de travail<a id=284></a>
 
-##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise.<a id=285></a>
-
-###### Article L621-54
-
-L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser
-dans un rapport le bilan économique et social de l'entreprise. Au vu de ce bilan, l'administrateur propose soit un plan de
-redressement, soit la liquidation judiciaire.
-
-Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.
-
-Le projet de plan de redressement de l'entreprise détermine les perspectives de redressement en fonction des possibilités et
-des modalités d'activités, de l'état du marché et des moyens de financement disponibles.
-
-Il définit les modalités de règlement du passif et les garanties éventuelles que le chef d'entreprise doit souscrire pour en
-assurer l'exécution.
-
-Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagées pour la
-poursuite d'activité. Lorsque le projet prévoit des licenciements pour motif économique, il rappelle les mesures déjà
-intervenues et définit les actions à entreprendre en vue de faciliter le reclassement et l'indemnisation des salariés dont
-l'emploi est menacé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 18
-  - Loi n°85-98 du 25 janvier 1985 - art. 18 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1388 du 27 décembre 1985 - art. 41-1 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
-  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
-  - Code de commerce. - art. L621-7 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L623-1 (V)
-
-
-##### Section 4 : Du règlement des créances résultant du contrat de travail<a id=286></a>
-
-##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail.<a id=287></a>
+##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail.<a id=285></a>
 
 ###### Article L621-132
 
@@ -54855,7 +54896,7 @@ _Cité par_:
   - Code de commerce. - art. L950-1 (M)
 
 
-#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.<a id=288></a>
+#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.<a id=286></a>
 
 ###### Article L628-3
 
@@ -54890,11 +54931,11 @@ _Nouveaux textes_:
   - Code de commerce. - art. L670-3 (V)
 
 
-## LIVRE VII : De l'organisation du commerce<a id=289></a>
+## LIVRE VII : De l'organisation du commerce<a id=287></a>
 
-### TITRE Ier : Des chambres de commerce et d'industrie<a id=290></a>
+### TITRE Ier : Des chambres de commerce et d'industrie<a id=288></a>
 
-#### Chapitre Ier : De l'organisation et des attributions.<a id=291></a>
+#### Chapitre Ier : De l'organisation et des attributions.<a id=289></a>
 
 ###### Article L711-1
 
@@ -55305,7 +55346,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
-#### Chapitre II : De l'administration financière.<a id=292></a>
+#### Chapitre II : De l'administration financière.<a id=290></a>
 
 ###### Article L712-1
 
@@ -55423,7 +55464,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L712-6 (V)
 
 
-#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=293></a>
+#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=291></a>
 
 ###### Article L713-1
 
@@ -56090,7 +56131,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R713-64 (V)
 
 
-### TITRE II : De l'équipement commercial<a id=294></a>
+### TITRE II : De l'équipement commercial<a id=292></a>
 
 ###### Article L720-1
 
@@ -56747,7 +56788,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE III : Des marchés d'intérêt national.<a id=295></a>
+### TITRE III : Des marchés d'intérêt national.<a id=293></a>
 
 ###### Article L730-1
 
@@ -57328,17 +57369,17 @@ _Cité par_:
   - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
 
 
-## LIVRE VIII : De quelques professions réglementées.<a id=296></a>
+## LIVRE VIII : De quelques professions réglementées.<a id=294></a>
 
-### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=297></a>
+### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=295></a>
 
-#### Chapitre Ier : Des administrateurs judiciaires<a id=298></a>
+#### Chapitre Ier : Des administrateurs judiciaires<a id=296></a>
 
-##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=299></a>
+##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=297></a>
 
-##### Sous-section 1 : Des missions<a id=300></a>
+##### Sous-section 1 : Des missions<a id=298></a>
 
-##### (En vigueur jusqu'au 1er janvier 2006)<a id=301></a>
+##### (En vigueur jusqu'au 1er janvier 2006)<a id=299></a>
 
 ###### Article L811-1
 
@@ -57381,7 +57422,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=302></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=300></a>
 
 ###### Article L811-2
 
@@ -57690,7 +57731,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 5 () JORF 4 janvier 2003
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=303></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=301></a>
 
 ###### Article L811-6
 
@@ -57855,9 +57896,9 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### Sous-section 4 : Des incompatibilités<a id=304></a>
+##### Sous-section 4 : Des incompatibilités<a id=302></a>
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=305></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=303></a>
 
 ###### Article L811-10
 
@@ -57919,9 +57960,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 8 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=306></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=304></a>
 
-##### Sous-section 1 : De la surveillance et de l'inspection.<a id=307></a>
+##### Sous-section 1 : De la surveillance et de l'inspection.<a id=305></a>
 
 ###### Article L811-11
 
@@ -57968,7 +58009,7 @@ _Cite_:
   - Code de commerce. - art. L811-2 (M)
 
 
-##### Sous-section 2 : De la discipline.<a id=308></a>
+##### Sous-section 2 : De la discipline.<a id=306></a>
 
 ###### Article L811-12
 
@@ -58197,11 +58238,11 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises<a id=309></a>
+#### Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises<a id=307></a>
 
-##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=310></a>
+##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=308></a>
 
-##### Sous-section 1 : Des missions.<a id=311></a>
+##### Sous-section 1 : Des missions.<a id=309></a>
 
 ###### Article L812-1
 
@@ -58245,7 +58286,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=312></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=310></a>
 
 ###### Article L812-2
 
@@ -58592,7 +58633,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=313></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=311></a>
 
 ###### Article L812-4
 
@@ -58748,9 +58789,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 4 : Des incompatibilités<a id=314></a>
+##### Sous-section 4 : Des incompatibilités<a id=312></a>
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=315></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=313></a>
 
 ###### Article L812-8
 
@@ -58810,7 +58851,7 @@ _Cite_:
   - Code rural L351-4
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=316></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=314></a>
 
 ###### Article L812-9
 
@@ -58888,9 +58929,9 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre III : Des experts en diagnostic d'entreprise<a id=317></a>
+#### Chapitre III : Des experts en diagnostic d'entreprise<a id=315></a>
 
-##### Section 1 : Des missions et des conditions de désignation.<a id=318></a>
+##### Section 1 : Des missions et des conditions de désignation.<a id=316></a>
 
 ###### Article L813-1
 
@@ -58944,7 +58985,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la cessation des fonctions.<a id=319></a>
+##### Section 2 : De la cessation des fonctions.<a id=317></a>
 
 ###### Article L813-2
 
@@ -58985,11 +59026,11 @@ _Abrogé par_:
   - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=320></a>
+#### Chapitre IV : Dispositions communes<a id=318></a>
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=321></a>
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=319></a>
 
-##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=322></a>
+##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=320></a>
 
 ###### Article L814-1
 
@@ -59033,7 +59074,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=323></a>
+##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=321></a>
 
 ###### Article L814-2
 
@@ -59092,9 +59133,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=324></a>
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=322></a>
 
-##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=325></a>
+##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=323></a>
 
 ###### Article L814-3
 
@@ -59248,7 +59289,7 @@ _Cite_:
   - Code de commerce. - art. L812-2 (M)
 
 
-##### Sous-section 2 : De la rémunération.<a id=326></a>
+##### Sous-section 2 : De la rémunération.<a id=324></a>
 
 ###### Article L814-6
 
@@ -59337,7 +59378,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Section 3 : Dispositions diverses.<a id=327></a>
+##### Section 3 : Dispositions diverses.<a id=325></a>
 
 ###### Article L814-8
 
@@ -59431,7 +59472,7 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=328></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=326></a>
 
 ###### Article L814-10
 
@@ -59479,7 +59520,7 @@ _Cite_:
   - Code de commerce. - art. L811-12 (M)
 
 
-### TITRE II : Des commissaires aux comptes.<a id=329></a>
+### TITRE II : Des commissaires aux comptes.<a id=327></a>
 
 ###### Article L820-1
 
@@ -59726,9 +59767,9 @@ _Modifié par_:
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
 
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=330></a>
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=328></a>
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=331></a>
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=329></a>
 
 ###### Article L910-1
 
@@ -59834,7 +59875,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=332></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=330></a>
 
 ###### Article L911-1
 
@@ -60133,7 +60174,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=333></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=331></a>
 
 ###### Article L912-1
 
@@ -60250,7 +60291,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=334></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=332></a>
 
 ###### Article L913-1
 
@@ -60271,7 +60312,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=335></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=333></a>
 
 ###### Article L914-1
 
@@ -60318,7 +60359,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=336></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=334></a>
 
 ###### Article L915-1
 
@@ -60418,7 +60459,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=337></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=335></a>
 
 ###### Article L917-1
 
@@ -60506,7 +60547,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=338></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=336></a>
 
 ###### Article L920-1
 
@@ -60656,7 +60697,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=339></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=337></a>
 
 ###### Article L921-1
 
@@ -60962,7 +61003,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=340></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=338></a>
 
 ###### Article L922-1
 
@@ -61158,7 +61199,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=341></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=339></a>
 
 ###### Article L923-1
 
@@ -61202,7 +61243,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=342></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=340></a>
 
 ###### Article L924-1
 
@@ -61351,7 +61392,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L924-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=343></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=341></a>
 
 ###### Article L925-1
 
@@ -61476,7 +61517,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=344></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=342></a>
 
 ###### Article L926-1
 
@@ -61711,7 +61752,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=345></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=343></a>
 
 ###### Article L930-1
 
@@ -61848,7 +61889,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=346></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=344></a>
 
 ###### Article L931-1
 
@@ -62253,7 +62294,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=347></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=345></a>
 
 ###### Article L932-1
 
@@ -62596,7 +62637,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=348></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=346></a>
 
 ###### Article L933-1
 
@@ -62738,7 +62779,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=349></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=347></a>
 
 ###### Article L935-1
 
@@ -62906,7 +62947,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=350></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=348></a>
 
 ###### Article L936-1
 
@@ -63273,7 +63314,7 @@ _Cite_:
   - Code de commerce. - art. L622-2 (M)
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=351></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=349></a>
 
 ###### Article L940-1
 
@@ -63433,7 +63474,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=352></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=350></a>
 
 ###### Article L941-1
 
@@ -63811,7 +63852,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=353></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=351></a>
 
 ###### Article L942-1
 
@@ -64073,7 +64114,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=354></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=352></a>
 
 ###### Article L943-1
 
@@ -64211,7 +64252,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=355></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=353></a>
 
 ###### Article L945-1
 
@@ -64377,7 +64418,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=356></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=354></a>
 
 ###### Article L946-1
 
@@ -64658,7 +64699,7 @@ _Créé par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=357></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=355></a>
 
 ###### Article L950-1
 
@@ -64810,7 +64851,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=358></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=356></a>
 
 ###### Article L951-1
 
@@ -65123,7 +65164,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=359></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=357></a>
 
 ###### Article L952-1
 
@@ -65310,7 +65351,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=360></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=358></a>
 
 ###### Article L953-1
 
@@ -65371,7 +65412,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L953-3 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=361></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=359></a>
 
 ###### Article L954-1
 
@@ -65549,7 +65590,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L954-7 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=362></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=360></a>
 
 ###### Article L955-1
 
@@ -65682,7 +65723,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=363></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=361></a>
 
 ###### Article L956-1
 
@@ -65971,7 +66012,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L956-8 (V)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=364></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=362></a>
 
 ###### Article L957-1
 
@@ -66024,7 +66065,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=365></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=363></a>
 
 ###### Article L958-1
 
