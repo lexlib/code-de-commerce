@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2002-10-30
+Version Consolidée au 2003-01-04
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -223,7 +223,7 @@ Version Consolidée au 2002-10-30
           - [Section 1 : De la période d'observation (art. L621-1 à L621-61)](#220)
             - [Sous-section 1 : De l'ouverture de la procédure (art. L621-1 à L621-15)](#221)
               - [Paragraphe 1 : De la saisine et de la décision du tribunal (art. L621-1 à L621-7)](#222)
-              - [Paragraphe 2 : Des organes de la procédure et des contrôleurs (art. L621-9 à L621-13)](#223)
+              - [Paragraphe 2 : Des organes de la procédure et des contrôleurs (art. L621-8 à L621-13)](#223)
               - [Paragraphe 3 : Des cas particuliers (art. L621-14 à L621-15)](#224)
             - [Sous-section 2 : De l'entreprise au cours de la période d'observation (art. L621-16 à L621-53)](#225)
               - [Paragraphe 1 : Des mesures conservatoires (art. L621-16 à L621-21)](#226)
@@ -234,7 +234,7 @@ Version Consolidée au 2002-10-30
               - [Paragraphe 4 : De la situation des créanciers (art. L621-39 à L621-53)](#231)
                 - [Sous-paragraphe 1 : De la représentation des créanciers (art. L621-39)](#232)
                 - [Sous-paragraphe 2 : De l'arrêt des poursuites individuelles (art. L621-40 à L621-42)](#233)
-                - [Sous-paragraphe 3 : De la déclaration des créances (art. L621-45 à L621-47)](#234)
+                - [Sous-paragraphe 3 : De la déclaration des créances (art. L621-43 à L621-47)](#234)
                 - [Sous-paragraphe 4 : De l'arrêt du cours des intérêts et de l'absence de déchéance du terme (art. L621-48 à L621-49)](#235)
                 - [Sous-paragraphe 5 : De l'interdiction des inscriptions (art. L621-50)](#236)
                 - [Sous-paragraphe 6 : Des cautions et des coobligés (art. L621-51 à L621-53)](#237)
@@ -252,7 +252,7 @@ Version Consolidée au 2002-10-30
               - [Paragraphe 5 : De la location-gérance (art. L621-97 à L621-101)](#249)
           - [Section 3 : Du patrimoine de l'entreprise (art. L621-102 à L621-124)](#250)
             - [Sous-section 1 : De la vérification et de l'admission des créances (art. L621-102 à L621-106)](#251)
-            - [Sous-section 2 : De la nullité de certains actes (art. L621-108 à L621-110)](#252)
+            - [Sous-section 2 : De la nullité de certains actes (art. L621-107 à L621-110)](#252)
             - [Sous-section 3 : Des droits du conjoint (art. L621-111 à L621-114)](#253)
             - [Sous-section 4 : Des droits du vendeur de meubles et des revendications (art. L621-115 à L621-124)](#254)
           - [Section 4 : Du règlement des créances résultant du contrat de travail (art. L621-125 à L621-131)](#255)
@@ -265,116 +265,107 @@ Version Consolidée au 2002-10-30
         - [Chapitre II : De la liquidation judiciaire (art. L622-1 à L622-34)](#262)
           - [Section 1 : Du jugement de liquidation judiciaire (art. L622-1 à L622-15)](#263)
             - [Sous-section 1 : De la liquidation judiciaire ouverte sans période d'observation (art. L622-1 à L622-4)](#264)
-            - [Sous-section 3 : Dispositions communes (art. L622-6 à L622-15)](#265)
-          - [Section 2 : De la réalisation de l'actif (art. L622-16 à L622-21)](#266)
-          - [Section 3 : De l'apurement du passif (art. L622-22 à L622-34)](#267)
-            - [Sous-section 1 : Du règlement des créanciers (art. L622-22 à L622-29)](#268)
-              - [Paragraphe 1 : Du droit de poursuite individuelle (art. L622-23 à L622-24)](#269)
-              - [Paragraphe 2 : De la répartition du produit de la liquidation judiciaire (art. L622-25 à L622-29)](#270)
-            - [Sous-section 2 : De la clôture des opérations de liquidation judiciaire (art. L622-30 à L622-34)](#271)
-        - [Chapitre III : Des voies de recours (art. L623-1 à L623-10)](#272)
-        - [Chapitre IV : Dispositions particulières aux personnes morales et à leurs dirigeants (art. L624-1 à L624-7)](#273)
-        - [Chapitre V : De la faillite personnelle et des autres mesures d'interdiction (art. L625-1 à L625-10)](#274)
-        - [Chapitre VI : De la banqueroute et des autres infractions (art. L626-1 à L626-19)](#275)
-          - [Section 1 : De la banqueroute (art. L626-1 à L626-7)](#276)
-          - [Section 2 : Des autres infractions (art. L626-8 à L626-14)](#277)
-          - [Section 3 : Des règles de procédure (art. L626-15 à L626-19)](#278)
-        - [Chapitre VII : Dispositions communes (art. L627-1 à L627-5)](#279)
-        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle (art. L628-1 à L628-2)](#280)
-      - [TITRE II : Du redressement et de la liquidation judiciaires des entreprises (art. L621-8 à L628-3)](#281)
-        - [Chapitre Ier : Du redressement judiciaire (art. L621-8 à L621-137)](#282)
-          - [Section 1 : De la période d'observation (art. L621-8 à L621-60)](#283)
-            - [Sous-section 1 : De l'ouverture de la procédure (art. L621-8 à L621-10)](#284)
-              - [Paragraphe 2 : Des organes de la procédure et des contrôleurs. (art. L621-8 à L621-10)](#285)
-            - [Sous-section 2 : De l'entreprise au cours de la période d'observation (art. L621-43 à L621-44)](#286)
-              - [Paragraphe 4 : De la situation des créanciers (art. L621-43 à L621-44)](#287)
-                - [Sous-paragraphe 3 : De la déclaration des créances. (art. L621-43 à L621-44)](#288)
-            - [Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise. (art. L621-54 à L621-60)](#289)
-          - [Section 2 : Du plan de continuation ou de cession de l'entreprise (art. L621-68)](#290)
-            - [Sous-section 1 : Du jugement arrêtant le plan. (art. L621-68)](#291)
-          - [Section 3 : Du patrimoine de l'entreprise (art. L621-107)](#292)
-            - [Sous-section 2 : De la nullité de certains actes. (art. L621-107)](#293)
-          - [Section 4 : Du règlement des créances résultant du contrat de travail (art. L621-132)](#294)
-            - [Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L621-132)](#295)
-          - [Section 5 : De la procédure simplifiée applicable à certaines entreprises (art. L621-137)](#296)
-            - [Sous-section 1 : Du jugement d'ouverture et de la période d'observation. (art. L621-137)](#297)
-        - [Chapitre II : De la liquidation judiciaire (art. L622-2 à L622-5)](#298)
-          - [Section 1 : Du jugement de liquidation judiciaire (art. L622-2 à L622-5)](#299)
-            - [Sous-section 1 : De la liquidation judiciaire ouverte sans période d'observation. (art. L622-2)](#300)
-            - [Sous-section 2 : De la liquidation judiciaire prononcée au cours de la période d'observation. (art. L622-5)](#301)
-        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle. (art. L628-3)](#302)
-    - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L730-17)](#303)
-      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#304)
-        - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#305)
-        - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#306)
-        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#307)
-      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#308)
-      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#309)
-    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#310)
-      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-6)](#311)
-        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#312)
-          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#313)
-            - [Sous-section 1 : Des missions. (art. L811-1)](#314)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#315)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#316)
-            - [Sous-section 4 : Des incompatibilités. (art. L811-10)](#317)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#318)
-            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#319)
-            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#320)
-        - [Chapitre II : Des mandataires judiciaires à la liquidation des entreprises (art. L812-1 à L812-10)](#321)
-          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#322)
-            - [Sous-section 1 : Des missions. (art. L812-1)](#323)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#324)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#325)
-            - [Sous-section 4 : Des incompatibilités. (art. L812-8)](#326)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#327)
-        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#328)
-          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#329)
-          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#330)
-        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-6)](#331)
-          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#332)
-            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#333)
-            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#334)
-          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-6)](#335)
-            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#336)
-            - [Sous-section 2 : De la rémunération. (art. L814-6)](#337)
-      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#338)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#339)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#340)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#341)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#342)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#343)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#344)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#345)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#346)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#347)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#348)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#349)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#350)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#351)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#352)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#353)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-12)](#354)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#355)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#356)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#357)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#358)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#359)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-12)](#360)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#361)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#362)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#363)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#364)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-12)](#365)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#366)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#367)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#368)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#369)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#370)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#371)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-8)](#372)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#373)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#374)
+            - [Sous-section 2 : De la liquidation judiciaire prononcée au cours de la période d'observation (art. L622-5)](#265)
+            - [Sous-section 3 : Dispositions communes (art. L622-6 à L622-15)](#266)
+          - [Section 2 : De la réalisation de l'actif (art. L622-16 à L622-21)](#267)
+          - [Section 3 : De l'apurement du passif (art. L622-22 à L622-34)](#268)
+            - [Sous-section 1 : Du règlement des créanciers (art. L622-22 à L622-29)](#269)
+              - [Paragraphe 1 : Du droit de poursuite individuelle (art. L622-23 à L622-24)](#270)
+              - [Paragraphe 2 : De la répartition du produit de la liquidation judiciaire (art. L622-25 à L622-29)](#271)
+            - [Sous-section 2 : De la clôture des opérations de liquidation judiciaire (art. L622-30 à L622-34)](#272)
+        - [Chapitre III : Des voies de recours (art. L623-1 à L623-10)](#273)
+        - [Chapitre IV : Dispositions particulières aux personnes morales et à leurs dirigeants (art. L624-1 à L624-7)](#274)
+        - [Chapitre V : De la faillite personnelle et des autres mesures d'interdiction (art. L625-1 à L625-10)](#275)
+        - [Chapitre VI : De la banqueroute et des autres infractions (art. L626-1 à L626-19)](#276)
+          - [Section 1 : De la banqueroute (art. L626-1 à L626-7)](#277)
+          - [Section 2 : Des autres infractions (art. L626-8 à L626-14)](#278)
+          - [Section 3 : Des règles de procédure (art. L626-15 à L626-19)](#279)
+        - [Chapitre VII : Dispositions communes (art. L627-1 à L627-6)](#280)
+        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle (art. L628-1 à L628-2)](#281)
+      - [TITRE II : Du redressement et de la liquidation judiciaires des entreprises (art. L621-54 à L628-3)](#282)
+        - [Chapitre Ier : Du redressement judiciaire (art. L621-54 à L621-132)](#283)
+          - [Section 1 : De la période d'observation (art. L621-54)](#284)
+            - [Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise. (art. L621-54)](#285)
+          - [Section 4 : Du règlement des créances résultant du contrat de travail (art. L621-132)](#286)
+            - [Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L621-132)](#287)
+        - [Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle. (art. L628-3)](#288)
+    - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L730-17)](#289)
+      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#290)
+        - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#291)
+        - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#292)
+        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#293)
+      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#294)
+      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#295)
+    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#296)
+      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-10)](#297)
+        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#298)
+          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#299)
+            - [Sous-section 1 : Des missions (art. L811-1)](#300)
+              - [(En vigueur jusqu'au 1er janvier 2006) (art. L811-1)](#301)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#302)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#303)
+            - [Sous-section 4 : Des incompatibilités (art. L811-10)](#304)
+              - [(en vigueur jusqu'au 1er janvier 2006) (art. L811-10)](#305)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#306)
+            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#307)
+            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#308)
+        - [Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises (art. L812-1 à L812-10)](#309)
+          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#310)
+            - [Sous-section 1 : Des missions. (art. L812-1)](#311)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#312)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#313)
+            - [Sous-section 4 : Des incompatibilités (art. L812-8)](#314)
+              - [(en vigueur jusqu'au 1er janvier 2006) (art. L812-8)](#315)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#316)
+        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#317)
+          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#318)
+          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#319)
+        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#320)
+          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#321)
+            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#322)
+            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#323)
+          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#324)
+            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#325)
+            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#326)
+          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#327)
+            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#328)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#329)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#330)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#331)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#332)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#333)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#334)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#335)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#336)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#337)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#338)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#339)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#340)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#341)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#342)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#343)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#344)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#345)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#346)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#347)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#348)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#349)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#350)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#351)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#352)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#353)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#354)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#355)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#356)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#357)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#358)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#359)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#360)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#361)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#362)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#363)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#364)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#365)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -1010,7 +1001,7 @@ _Codifié par_:
 ###### Article L123-4
 
 Le fait pour toute personne tenue de requérir une immatriculation, une mention complémentaire ou rectificative, ou une
-radiation au registre du commerce et des sociétés, de ne pas, sans excuse jugée valable dans les quinze jours de la date à
+radiation au registre du commerce et des sociétés, de ne pas, sans excuse jugée valable, dans les quinze jours de la date à
 laquelle est devenue définitive l'ordonnance rendue par le juge commis à la surveillance du registre lui enjoignant de
 requérir l'une de ces formalités, déférer à cette injonction, est puni d'une amende de 3750 euros.
 
@@ -1042,7 +1033,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L123-5
@@ -1674,7 +1665,7 @@ _Anciens textes_:
 
 ###### Article L123-22
 
-Les documents comptables sont établis en francs et en langue française.
+Les documents comptables sont établis en euros et en langue française.
 
 Les documents comptables et les pièces justificatives sont conservés pendant dix ans.
 
@@ -1687,6 +1678,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Anciens textes_:
 
@@ -1728,8 +1723,7 @@ _Anciens textes_:
 
 ###### Article L123-24
 
-Tout commerçant est tenu de se faire ouvrir un compte dans une banque, dans un établissement de crédit ou dans un bureau de
-chèques postaux.
+Tout commerçant est tenu de se faire ouvrir un compte dans un établissement de crédit ou dans un bureau de chèques postaux.
 
 **Liens relatifs à cet article**
 
@@ -1742,6 +1736,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -2852,11 +2850,11 @@ _Cité par_:
 Dans les cas prévus au premier alinéa de l'article L. 125-17, le groupement ou la société ne peuvent procéder à
 l'installation d'un nouvel attributaire que si ont été versées à l'ancien titulaire des parts ou, en cas de décès, à ses
 ayants droit, les sommes prévues audit article L. 125-17, ou à défaut, une provision fixée par le président du tribunal de
-grande instance statuant en la forme des référés.
+grande instance statuant en la forme des référés. 
 
 Toutefois, ce versement préalable n'est pas exigé lorsqu'une caution a été donnée pour le montant de ces sommes ou de cette
-provision par une banque ou un établissement financier spécialement habilité à cet effet, ou lorsque ce montant a été
-consigné entre les mains d'un mandataire désigné au besoin par ordonnance rendue en la forme des référés.
+provision par un établissement de crédit ou un établissement financier spécialement habilité à cet effet, ou lorsque ce
+montant a été consigné entre les mains d'un mandataire désigné au besoin par ordonnance rendue en la forme des référés. 
 
 En outre, s'il s'agit d'une coopérative, le conseil d'administration ou le directoire, selon le cas, peut invoquer les
 dispositions du second alinéa de l'article L. 124-11.
@@ -2871,6 +2869,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -2990,7 +2992,7 @@ _Anciens textes_:
 
 Les courtiers de transport par terre et par eau constitués selon la loi ont seuls, dans les lieux où ils sont établis, le
 droit de faire le courtage des transports par terre et par eau. Ils ne peuvent cumuler leurs fonctions avec celles de
-courtiers de marchandises ou de courtiers conducteurs de navires, désignés aux articles L. 131-1 et L. 131-2.
+courtiers de marchandises ou de courtiers conducteurs de navires, désignés à l'article L. 131-1.
 
 **Liens relatifs à cet article**
 
@@ -2998,6 +3000,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Anciens textes_:
 
@@ -3007,7 +3013,6 @@ _Anciens textes_:
 _Cite_:
 
   - Code de commerce. - art. L131-1 (V)
-  - Code de commerce. - art. L131-2 (Ab)
 
 
 ###### Article L131-5
@@ -4262,9 +4267,9 @@ Sous réserve des dispositions relatives à l'apport en société des fonds de c
 141-22, toute vente ou cession de fonds de commerce, consentie même sous condition ou sous la forme d'un autre contrat, ainsi
 que toute attribution de fonds de commerce par partage ou licitation, est, dans la quinzaine de sa date, publiée à la
 diligence de l'acquéreur sous forme d'extrait ou d'avis dans un journal habilité à recevoir les annonces légales dans
-l'arrondissement ou le département dans lequel le fonds est exploité et au Bulletin officiel des annonces civiles et
-commerciales. En ce qui concerne les fonds forains, le lieu d'exploitation est celui où le vendeur est inscrit au registre du
-commerce et des sociétés.
+l'arrondissement ou le département dans lequel le fonds est exploité et, dans la quinzaine de cette publication, au Bulletin
+officiel des annonces civiles et commerciales. En ce qui concerne les fonds forains, le lieu d'exploitation est celui où le
+vendeur est inscrit au registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
 
@@ -4272,6 +4277,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -4333,7 +4342,7 @@ _Cite_:
 
 ###### Article L141-14
 
-Dans les dix jours suivant la dernière en date des publications visées à l'article L. 141-13, tout créancier du précédent
+Dans les dix jours suivant la dernière en date des publications visées à l'article L. 141-12, tout créancier du précédent
 propriétaire, que sa créance soit ou non exigible, peut former au domicile élu, par simple acte extrajudiciaire, opposition
 au paiement du prix. L'opposition, à peine de nullité, énonce le chiffre et les causes de la créance et contient une élection
 de domicile dans le ressort de la situation du fonds. Le bailleur ne peut former opposition pour loyers en cours ou à échoir,
@@ -4342,23 +4351,27 @@ opposable aux créanciers qui se sont ainsi fait connaître dans ce délai.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Loi du 17 mars 1909 - art. 3 (V)
+
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce - art. L141-12 (V)
+
 _Cité par_:
 
   - Code de commerce - art. L141-19 (M)
   - Code de commerce - art. R141-2 (V)
-
-_Cite_:
-
-  - Code de commerce. - art. L141-13 (V)
-
-_Anciens textes_:
-
-  - Loi n°1909-03-17 art. 3 al. 4
 
 
 ###### Article L141-15
@@ -6701,7 +6714,7 @@ _Codifié par_:
 
 ###### Article L145-23
 
-Les dispositions de l'article L. 145-21 ne sont pas applicables aux bailleurs de nationalité étrangère, agissant directement
+Les dispositions de l'article L. 145-22 ne sont pas applicables aux bailleurs de nationalité étrangère, agissant directement
 ou par personne interposée, à moins que, pendant les guerres de 1914 et de 1939, ils n'aient combattu dans les armées
 françaises ou alliées, ou qu'ils n'aient des enfants ayant la qualité de Français.
 
@@ -6712,17 +6725,24 @@ l'accord sur l'Espace économique européen.
 
 _Anciens textes_:
 
-  - Décret n°53-960 1953-09-30 art. 38 al. 3
   - Décret n°53-960 du 30 septembre 1953 - art. 38 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 5
 
 _Cite_:
 
-  - Code de commerce. - art. L145-21 (V)
+  - Code de commerce - art. L145-22
 
 
 ###### Article L145-24
@@ -8816,7 +8836,7 @@ _Cite_:
 
 ###### Article L222-12
 
-Les dispositions de l'article L. 221-17 sont applicables aux sociétés en commandite par actions.
+Les dispositions de l'article L. 221-17 sont applicables aux sociétés en commandite simple.
 
 **Liens relatifs à cet article**
 
@@ -8825,9 +8845,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
 _Cite_:
 
-  - Code de commerce. - art. L221-17 (V)
+  - Code de commerce - art. L221-17 (V)
 
 _Cité par_:
 
@@ -9694,7 +9718,7 @@ _Codifié par_:
 
 Les décisions sont prises en assemblée. Toutefois, les statuts peuvent stipuler qu'à l'exception de celles prévues au premier
 alinéa de l'article L. 223-26 toutes les décisions ou certaines d'entre elles peuvent être prises par consultation écrite des
-associés ou pourront résulter du consentement de tous les associés exprimés dans un acte.
+associés ou pourront résulter du consentement de tous les associés exprimé dans un acte.
 
 Les associés sont convoqués aux assemblées dans les formes et délais prévus par décret en Conseil d'Etat. La convocation est
 faite par le gérant ou, à défaut, par le commissaire aux comptes, s'il en existe un.
@@ -9731,6 +9755,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -9900,13 +9928,12 @@ justice à la demande d'un gérant.
 
 Lorsqu'il n'y a pas eu de commissaire aux apports ou lorsque la valeur retenue est différente de celle proposée par le
 commissaire aux apports, les gérants de la société et les personnes ayant souscrit à l'augmentation du capital sont
-solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée audits apports.
+solidairement responsables pendant cinq ans, à l'égard des tiers, de la valeur attribuée auxdits apports.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 62
   - Loi n°66-537 du 24 juillet 1966 - art. 62 (Ab)
 
 _Cité par_:
@@ -9919,6 +9946,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -10768,7 +10799,7 @@ _Cite_:
 ###### Article L225-12
 
 Lorsqu'il n'est pas fait publiquement appel à l'épargne, les dispositions de la sous-section 1 sont applicables, à
-l'exception des articles L. 225-2, L. 225-4, L. 225-7 des deuxième, troisième et quatrième alinéas de l'article L. 225-8 et
+l'exception des articles L. 225-2, L. 225-4, L. 225-7, des deuxième, troisième et quatrième alinéas de l'article L. 225-8 et
 des articles L. 225-9 et L. 225-10.
 
 **Liens relatifs à cet article**
@@ -10782,6 +10813,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -15603,10 +15638,10 @@ Elle peut également déléguer au conseil d'administration ou au directoire sel
 réaliser, en une ou plusieurs fois l'émission d'une catégorie de valeurs mobilières, d'en fixer le ou les montants, d'en
 constater la réalisation et de procéder à la modification corrélative des statuts.
 
-Elle peut aussi, dans le limite d'un plafond qu'elle assigne à l'augmentation de capital qu'elle décide et à condition de
+Elle peut aussi, dans la limite d'un plafond qu'elle assigne à l'augmentation de capital qu'elle décide et à condition de
 déterminer elle-même, par une résolution séparée prise sur le rapport spécial des commissaires aux comptes, le montant de
-l'augmentation de capital qui peut être réalisée sans droits préférentiel de souscription, déléguer au conseil
-d'administration ou au directoire selon le cas, les pouvoirs nécessaire à l'effet de procéder dans un délai de vingt-six
+l'augmentation de capital qui peut être réalisée sans droit préférentiel de souscription, déléguer au conseil
+d'administration ou au directoire selon le cas, les pouvoirs nécessaires à l'effet de procéder dans un délai de vingt-six
 mois, en une ou plusieurs fois, aux émissions de valeurs mobilières conduisant à cette augmentation, d'en constater la
 réalisation et de procéder à la modification corrélative des statuts.
 
@@ -15620,12 +15655,12 @@ d'investissement émis en application de l'article L. 228-30. Elle peut en outre
 autre catégorie de valeurs mobilières.
 
 IV. - Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange sur les titres
-de la société, sauf si l'assemblée générale, préalablement à l'offre, a autorisée expressément, pour une durée comprise entre
+de la société, sauf si l'assemblée générale, préalablement à l'offre, a autorisé expressément, pour une durée comprise entre
 les dates de réunion de deux assemblées appelées à statuer sur les comptes de l'exercice écoulé, une augmentation de capital
 pendant ladite période d'offre publique d'achat ou d'échange et si l'augmentation envisagée n'a pas été réservée.
 
 V. - Dans les sociétés anonymes dont les titres sont admis aux négociations sur un marché réglementé, le conseil
-d'administration ou le directoire, selon le cas, peut déléguer au président les pouvoirs nécessaire à la réalisation de
+d'administration ou le directoire, selon le cas, peut déléguer au président les pouvoirs nécessaires à la réalisation de
 l'augmentation de capital, ainsi que celui d'y surseoir, dans les limites et selon les modalités qu'il peut préalablement
 fixer.
 
@@ -15687,11 +15722,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-152 du 19 février 2001 - art. 29
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 20 (dérogations au VII de l'article L225-129 du code de commerce)
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -18391,7 +18422,7 @@ résolution adoptée par l'assemblée générale.
 
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par tous moyens. Ces actions peuvent être
 annulées dans la limite de 10 % du capital de la société par périodes de vingt-quatre mois. La société informe chaque mois le
-Conseil des marchés financiers des achats, des cessions, transferts et annulations ainsi réalisées. Le Conseil des marchés
+Conseil des marchés financiers des achats, cessions, transferts et annulations ainsi réalisés. Le Conseil des marchés
 financiers porte cette information à la connaissance du public.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de l'entreprise par l'attribution de leurs propres
@@ -18447,6 +18478,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -18728,7 +18763,7 @@ Lorsqu'une société de commissaires aux comptes a une participation dans le cap
 comptes, les actionnaires ou associés non commissaires aux comptes ne peuvent détenir plus de 25 % de l'ensemble du capital
 des deux sociétés. Les fonctions de gérant, de président du conseil d'administration ou du directoire, de président du
 conseil de surveillance et de directeur général sont assurées par des commissaires aux comptes. Les trois quarts au moins des
-membres des organes de gestion d'administration, de direction ou de surveillance et les trois quarts au moins des
+membres des organes de gestion, d'administration, de direction ou de surveillance et les trois quarts au moins des
 actionnaires ou associés doivent être des commissaires aux comptes. Les représentants permanents des sociétés de commissaires
 aux comptes associés ou actionnaires doivent être des commissaires aux comptes.
 
@@ -18768,6 +18803,18 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L822-9 (V)
 
 
 ###### Article L225-219
@@ -20397,7 +20444,7 @@ limite d'un chiffre maximum égal à autant de voix que le salaire annuel de l'i
 clôture de l'exercice précédent, comprend de fois le chiffre du salaire le plus faible attribué par la société aux salariés
 âgés de plus de dix-huit ans.
 
-Le statuts peuvent prévoir que les participants sont répartis par collèges regroupant chacun une catégorie de personnel,
+Les statuts peuvent prévoir que les participants sont répartis par collèges regroupant chacun une catégorie de personnel,
 chaque collège élisant son ou ses mandataires et que l'accord de chaque collège, à des majorités que les statuts précisent,
 est nécessaire pour la modification des statuts de la coopérative et d'autres décisions énumérées par les statuts.
 
@@ -20405,13 +20452,16 @@ est nécessaire pour la modification des statuts de la coopérative et d'autres 
 
 _Anciens textes_:
 
-  - Loi n°1867-07-24 art. 76-1
   - Loi n°1867-07-24 du 24 juillet 1867 - art. 76-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -20760,7 +20810,7 @@ _Codifié par_:
 ###### Article L226-5
 
 Les statuts doivent prévoir pour l'exercice des fonctions de membre du conseil de surveillance une limite d'âge s'appliquant
-soit à l'ensemble des administrateurs, soit à un pourcentage déterminé d'entre eux.
+soit à l'ensemble des membres du conseil de surveillance, soit à un pourcentage déterminé d'entre eux.
 
 A défaut de disposition expresse dans les statuts, le nombre des membres du conseil de surveillance ayant atteint l'âge de
 soixante-dix ans ne peut être supérieur au tiers des membres du conseil de surveillance en fonctions.
@@ -20775,13 +20825,16 @@ réputé démissionnaire d'office.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 253-1
   - Loi n°66-537 du 24 juillet 1966 - art. 253-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L226-6
@@ -22282,7 +22335,7 @@ Toute clause contraire est réputée non écrite.
 
 L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote peut émettre un avis avant toute décision de
 l'assemblée générale. Elle statue alors à la majorité des voix exprimées par les actionnaires présents ou représentés. Dans
-le cas ou il est procédé à un scrutin, il n'est pas tenu compte des bulletins blancs. L'avis est transmis à la société. Il
+le cas où il est procédé à un scrutin, il n'est pas tenu compte des bulletins blancs. L'avis est transmis à la société. Il
 est porté à la connaissance de l'assemblée générale et consigné à son procès-verbal.
 
 L'assemblée spéciale peut désigner un ou, si les statuts le prévoient, plusieurs mandataires chargés de représenter les
@@ -22319,6 +22372,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -22668,7 +22725,7 @@ Si la société n'agrée pas l'acquéreur, le conseil d'administration, le direc
 trente jours de bourse à compter de la notification du refus, de faire acquérir les actions, soit par un actionnaire ou par
 un tiers, soit par la société en vue d'une réduction du capital.
 
-Le prix retenu est celui de la négociation initiale ; toutefois, la somme versée à l'acquéreur non agrée ne peut être
+Le prix retenu est celui de la négociation initiale ; toutefois, la somme versée à l'acquéreur non agréé ne peut être
 inférieure à celle qui résulte du cours de bourse au jour du refus d'agrément ou, à défaut de cotation ce jour, au jour de la
 dernière cotation précédant ledit refus.
 
@@ -22679,13 +22736,20 @@ donné.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 276
   - Loi n°66-537 du 24 juillet 1966 - art. 276 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 _Cite_:
 
@@ -24776,7 +24840,7 @@ _Cité par_:
 
 Il peut être stipulé dans les statuts des sociétés qui n'ont pas la forme de société anonyme ainsi que dans toute société
 coopérative que le capital social est susceptible d'augmentation par des versements successifs des associés ou l'admission
-d'associés nouveaux et de diminution par la reprise totale ou partielle des apports.
+d'associés nouveaux et de diminution par la reprise totale ou partielle des apports effectués.
 
 Les sociétés dont les statuts contiennent la stipulation ci-dessus sont soumises, indépendamment des règles générales qui
 leur sont propres suivant leur forme spéciale, aux dispositions du présent chapitre.
@@ -24786,7 +24850,6 @@ leur sont propres suivant leur forme spéciale, aux dispositions du présent cha
 _Anciens textes_:
 
   - Loi n°1867-07-24 du 24 juillet 1867 - art. 48 (Ab)
-  - Loi n°1867-07-24 art. 48
 
 _Cité par_:
 
@@ -24822,6 +24885,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 124 II 2° (libération du capital social - délai de mise en conformité)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L231-2
@@ -25467,7 +25534,7 @@ _Codifié par_:
 Le bénéfice distribuable est constitué par le bénéfice de l'exercice, diminué des pertes antérieures, ainsi que des sommes à
 porter en réserve en application de la loi ou des statuts, et augmenté du report bénéficiaire.
 
-En outre, l'assemblée générale peut décider la mise en distribution de sommes prélevées sur les réserves dont elle à la
+En outre, l'assemblée générale peut décider la mise en distribution de sommes prélevées sur les réserves dont elle a la
 disposition. En ce cas, la décision indique expressément les postes de réserve sur lesquels les prélèvements sont effectués.
 Toutefois, les dividendes sont prélevés par priorité sur le bénéfice distribuable de l'exercice.
 
@@ -25481,7 +25548,6 @@ L'écart de réévaluation n'est pas distribuable. Il peut être incorporé en t
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 346
   - Loi n°66-537 du 24 juillet 1966 - art. 346 (Ab)
 
 _Cité par_:
@@ -25511,6 +25577,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L232-12
@@ -25577,7 +25647,7 @@ _Codifié par_:
 ###### Article L232-14
 
 Une majoration de dividendes dans la limite de 10 % peut être attribuée par des statuts à tout actionnaire qui justifie, à la
-clôture de l'exercice, d'une inscription nominative depuis deux ans au moins et du maintient de celle ci à la date de mise en
+clôture de l'exercice, d'une inscription nominative depuis deux ans au moins et du maintien de celle-ci à la date de mise en
 paiement du dividende. Son taux est fixé par l'assemblée générale extraordinaire. Dans les sociétés admises aux négociations
 sur un marché réglementé, le nombre de titres éligibles à cette majoration de dividendes ne peut excéder, pour un même
 actionnaire, 0,5 % du capital de la société. La même majoration peut être attribuée, dans les mêmes conditions en cas de
@@ -25596,6 +25666,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -26699,7 +26773,7 @@ directoire ou ses gérants ;
 
 2° Entre une société et les sociétés qu'elle contrôle au sens de l'article L. 233-3 ;
 
-3° Entre des sociétés contrôlées par là même ou les mêmes personnes ;
+3° Entre des sociétés contrôlées par la même ou les mêmes personnes ;
 
 4° Entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle.
 
@@ -26720,7 +26794,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 28 () JORF 12 décembre 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -26901,7 +26975,7 @@ _Cite_:
 ###### Article L233-14
 
 A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux premier et deuxième alinéas de l'article L.
-233-7 les actions excédant la fraction qui aurait du être déclarée, lorsqu'elles sont admises aux négociations sur un marché
+233-7 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
 réglementé d'instruments financiers, sont privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait
 jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la notification.
 
@@ -26916,9 +26990,8 @@ notification.
 Le tribunal de commerce dans le ressort duquel la société a son siège social peut, le ministère public entendu, sur demande
 du président de la société, d'un actionnaire ou de la Commission des opérations de bourse, prononcer la suspension totale ou
 partielle, pour une durée ne pouvant excéder cinq ans, de ses droits de vote à l'encontre de tout actionnaire qui n'aurait
-pas procédé aux déclarations prévues à l'article L. 233-7. ou qui n'aurait pas respecté le contenu de la déclaration prévue
-au septième alinéa de cet article pendant la période de douze mois suivant sa publication par le Conseil des marchés
-financiers.
+pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le contenu de la déclaration prévue au
+septième alinéa de cet article pendant la période de douze mois suivant sa publication par le Conseil des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -26931,6 +27004,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -28586,7 +28663,7 @@ _Codifié par_:
 ###### Article L236-13
 
 Le projet de fusion est soumis aux assemblées d'obligataires des sociétés absorbées, à moins que le remboursement des titres
-sur simple demande de leur part ne soit offert audits obligataires. L'offre de remboursement est soumise à publicité, dont
+sur simple demande de leur part ne soit offert auxdits obligataires. L'offre de remboursement est soumise à publicité, dont
 les modalités sont fixées par décret en Conseil d'Etat.
 
 Lorsqu'il y a lieu à remboursement sur simple demande, la société absorbante devient débitrice des obligataires de la société
@@ -28620,6 +28697,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L236-14
@@ -28750,8 +28831,8 @@ _Cite_:
 ###### Article L236-18
 
 Le projet de scission est soumis aux assemblées d'obligataires de la société scindée, conformément aux dispositions du 3° du
-I de l'article L. 228-65, à moins que le remboursement des titres sur simple demande de leur part ne soit offert audits
-obligataires. L'offre de remboursement est soumise à publicité, dont les modalités sont fixées par décret en Conseil d'Etat.
+I de l'article L. 228-65, à moins que le remboursement des titres sur simple demande de leur part ne soit offert auxdits
+obligataires. L'offre de remboursement est soumise à publicité, dont les modalités sont fixées par décret en Conseil d'Etat. 
 
 Lorsqu'il y a lieu à remboursement sur simple demande, les sociétés bénéficiaires des apports résultant de la scission sont
 débitrices solidaires des obligataires qui demandent le remboursement.
@@ -28774,6 +28855,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L236-19
@@ -29025,20 +29110,23 @@ _Cité par_:
 ###### Article L237-4
 
 Ne peuvent être nommées liquidateurs les personnes auxquelles l'exercice des fonctions de directeur général,
-d'administrateur, de gérant de société, de membres du directoire ou du conseil de surveillance est interdit ou qui sont
+d'administrateur, de gérant de société, de membre du directoire ou du conseil de surveillance est interdit ou qui sont
 déchues du droit d'exercer ces fonctions.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 498 al. 1
   - Loi n°66-537 du 24 juillet 1966 - art. 498 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L237-5
@@ -29114,11 +29202,11 @@ _Cité par_:
 ###### Article L237-8
 
 La cession globale de l'actif de la société ou l'apport de l'actif à une autre société, notamment par voie de fusion, est
-autorisée :
+autorisé :
 
 1° Dans les sociétés en nom collectif, à l'unanimité des associés ;
 
-2° Dans les société en commandite simple, à l'unanimité des commandités et à la majorité en nombre et en capital des
+2° Dans les sociétés en commandite simple, à l'unanimité des commandités et à la majorité en nombre et en capital des
 commanditaires ;
 
 3° Dans les sociétés à responsabilité limitée, à la majorité exigée pour la modification des statuts ;
@@ -29130,13 +29218,16 @@ outre, dans les sociétés en commandite par actions, avec l'accord unanime des 
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 396
   - Loi n°66-537 du 24 juillet 1966 - art. 396 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L237-9
@@ -30382,7 +30473,7 @@ Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros :
 1° Le fait d'empêcher un actionnaire de participer à une assemblée d'actionnaires ;
 
 2° Le fait de participer au vote dans une assemblée d'actionnaires, directement ou par personne interposée, en se présentant
-faussement comme propriétaire d'actions ou de coupure d'actions ;
+faussement comme propriétaire d'actions ou de coupures d'actions ;
 
 3° Le fait de se faire accorder, garantir ou promettre des avantages pour voter dans un certain sens ou pour ne pas
 participer au vote, ainsi que le fait d'accorder, garantir ou promettre ces avantages.
@@ -30401,7 +30492,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L242-10
@@ -30726,14 +30817,13 @@ _Cite_:
 
 Est puni d'un emprisonnement de cinq ans et d'une amende de 75000 euros le fait d'avoir commis les infractions prévues à
 l'article L. 242-18, en vue de priver soit les actionnaires ou certains d'entre eux, soit les titulaires ou porteurs de bons
-de souscriptions ou d'obligations convertibles ou échangeables, ou certains d'entre eux, d'une part de leurs droits dans le
+de souscription ou d'obligations convertibles ou échangeables, ou certains d'entre eux, d'une part de leurs droits dans le
 patrimoine de la société.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 451
   - Loi n°66-537 du 24 juillet 1966 - art. 451 (Ab)
 
 _Codifié par_:
@@ -30743,7 +30833,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -32138,12 +32232,12 @@ _Cité par_:
 ###### Article L251-5
 
 La nullité du groupement d'intérêt économique ainsi que des actes ou délibérations de celui-ci ne peut résulter que de la
-violation des dispositions impératives du présent chapitre, ou de l'une des causes de nullité des contrats en général.
+violation des dispositions impératives du présent chapitre, ou de l'une des causes de nullité des contrats en général. 
 
 L'action en nullité est éteinte lorsque la cause de la nullité a cessé d'exister le jour où le tribunal statue sur le fond en
-première instance, sauf si cette nullité est fondée sur l'illicéité de l'objet du groupement.
+première instance, sauf si cette nullité est fondée sur l'illicéité de l'objet du groupement. 
 
-Les articles 1844-12 et 1844-17 du code civil sont applicables aux groupements d'intérêt économique.
+Les articles 1844-12 à 1844-17 du code civil sont applicables aux groupements d'intérêt économique.
 
 **Liens relatifs à cet article**
 
@@ -32156,10 +32250,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
 _Cite_:
 
   - Code civil - art. 1844-12 (V)
-  - Code civil - art. 1844-17 (V)
 
 
 ###### Article L251-6
@@ -32587,7 +32684,7 @@ _Cite_:
 ###### Article L251-20
 
 Si l'un des membres est frappé d'incapacité, de faillite personnelle ou de l'interdiction de diriger, gérer, administrer ou
-contrôler une entreprise commerciale, qu'elle qu'en soit la forme, ou une personne morale de droit privé non commerçante, le
+contrôler une entreprise commerciale, quelle qu'en soit la forme, ou une personne morale de droit privé non commerçante, le
 groupement est dissous, à moins que sa continuation ne soit prévue par le contrat ou que les autres membres ne la décident à
 l'unanimité.
 
@@ -32601,6 +32698,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L251-21
@@ -32644,7 +32745,7 @@ _Codifié par_:
 
 L'appellation "groupement d'intérêt économique" et le sigle "GIE" ne peuvent être utilisés que par les groupements soumis aux
 dispositions du présent chapitre. L'emploi illicite de cette appellation, de ce sigle ou de toute expression de nature à
-prêter à confusion avec ceux-ci est puni d'un emprisonnement de un an et d'une amende de 6000 euros.
+prêter à confusion avec ceux-ci est puni d'un emprisonnement d'un an et d'une amende de 6 000 euros.
 
 Le tribunal peut, en outre, ordonner la publication du jugement, aux frais du condamné, dans trois journaux au maximum et son
 affichage dans les conditions prévues à l'article 131-35 du code pénal.
@@ -32663,7 +32764,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -34488,25 +34589,29 @@ _Codifié par_:
 ###### Article L321-38
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre et notamment, le régime du cautionnement
-prévu à l'article L. 321-6 les conditions d'information du conseil des ventes volontaires de meubles aux enchères publiques
-lorsque l'exposition ou la vente n'a pas lieu dans les locaux visés dans la première phrase de l'article L. 321-7 les
-mentions devant figurer sur la publicité prévue à l'article L. 321-11 les modalités d'organisation et de fonctionnement du
+prévu à l'article L. 321-6, les conditions d'information du conseil des ventes volontaires de meubles aux enchères publiques
+lorsque l'exposition ou la vente n'a pas lieu dans les locaux visés dans la première phrase de l'article L. 321-7, les
+mentions devant figurer sur la publicité prévue à l'article L. 321-11, les modalités d'organisation et de fonctionnement du
 conseil des ventes aux enchères publiques et les conditions d'agrément des experts par le conseil.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2000-642 du 10 juillet 2000 - art. 66 (Ab)
 
 _Cité par_:
 
   - Loi n°2000-642 du 10 juillet 2000 - art. 43 (VT)
 
+_Anciens textes_:
+
+  - Loi n°2000-642 du 10 juillet 2000 - art. 66 (Ab)
+
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cite_:
 
@@ -36625,25 +36730,27 @@ _Cite_:
 Les règles relatives aux ventes ou prestations avec primes, aux refus de vente ou de prestation, prestations par lots ou par
 quantités imposées sont fixées par les articles L. 121-35 et L. 122-1 du code de la consommation reproduits ci-après : 
 
-" Art.L. 121-35.-Est interdite toute vente ou offre de vente de produits ou de bien ou toute prestation ou offre de
-prestation de services, faite aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime
+" Art.L. 121-35.-Est interdite toute vente ou offre de vente de produits ou de biens ou toute prestation ou offre de
+prestation de services, faite aux consommateurs et donnant droit à titre gratuit, immédiatement ou à terme, à une prime
 consistant en produits, biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la
 prestation. 
 
 Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. 
 
-Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'articles L. 113-2. 
 
 Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
-règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même code ". 
+règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même code. " 
 
 " Art.L. 122-1.-Il est interdit de refuser à un consommateur la vente d'un produit ou la prestation d'un service, sauf motif
 légitime, et de subordonner la vente d'un produit à l'achat d'une quantité imposée ou à l'achat concomitant d'un autre
 produit ou d'un autre service ainsi que de subordonner la prestation d'un service à celle d'un autre service ou à l'achat
 d'un produit. 
 
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'articles L. 113-2. 
+
 Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
-règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du même code ".
+règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du même code. "
 
 **Liens relatifs à cet article**
 
@@ -36654,7 +36761,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 13 IV 2° JORF 12 décembre 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -36835,7 +36942,7 @@ _Cité par_:
 ###### Article L442-6
 
 I. - Engage la responsabilité de son auteur et l'oblige à réparer le préjudice causé le fait, par tout producteur,
-commerçant, industriel ou artisan :
+commerçant, industriel ou personne immatriculée au répertoire des métiers :
 
 1° De pratiquer, à l'égard d'un partenaire économique, ou d'obtenir de lui des prix, des délais de paiement, des conditions
 de vente ou des modalités de vente ou d'achat discriminatoires et non justifiés par des contreparties réelles en créant, de
@@ -36875,8 +36982,8 @@ lié par un accord de distribution sélective ou exclusive exempté au titre des
 usages commerciaux, et s'écartant au détriment du créancier, sans raison objective, du délai indiqué au deuxième alinéa de
 l'article L. 441-6. .
 
-II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un commerçant, un industriel ou un artisan, la
-possibilité :
+II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un commerçant, un industriel ou une personne
+immatriculée au répertoire des métiers, la possibilité :
 
 a) De bénéficier rétroactivement de remises, de ristournes ou d'accords de coopération commerciale ;
 
@@ -36912,10 +37019,6 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 56 () JORF 16 mai 2001
-
 _Cité par_:
 
   - Décret n°2002-689 du 30 avril 2002 - art. 48 (Ab)
@@ -36941,6 +37044,10 @@ _Cité par_:
   - Code de commerce. - art. D442-4 (VD)
   - Code de commerce. - art. L442-10 (V)
   - Code de commerce. - art. L442-9 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L442-7
@@ -38360,8 +38467,8 @@ information.
 Le rapporteur général, le ou les rapporteurs généraux adjoints et le commissaire du Gouvernement peuvent présenter des
 observations.
 
-Le rapporteur général, le ou les rapporteurs généraux adjoints et le rapporteur assistent au délibéré sans voix délibérative,
-sauf lorsque le conseil statue sur des pratiques dont il a été saisi en application de l'article L. 462-5.
+Le rapporteur général, le ou les rapporteurs généraux adjoints et le rapporteur assistent au délibéré, sans voix
+délibérative, sauf lorsque le conseil statue sur des pratiques dont il a été saisi en application de l'article L. 462-5.
 
 **Liens relatifs à cet article**
 
@@ -38374,6 +38481,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -43883,22 +43994,22 @@ _Cité par_:
 
 ###### Article L525-9
 
-I. - Le privilège du créancier nanti en application des dispositions du présent chapitre s'exerce sur les biens grevés par
-préférence à tous autres privilèges, à l'exception :
+I.-Le privilège du créancier nanti en application des dispositions du présent chapitre s'exerce sur les biens grevés par
+préférence à tous autres privilèges, à l'exception : 
 
-1° Du privilège des frais de justice ;
+1° Du privilège des frais de justice ; 
 
-2° Du privilège des frais faits pour la conservation de la chose ;
+2° Du privilège des frais faits pour la conservation de la chose ; 
 
-3° Du privilège accordé aux salariés par l'article L. 143-10 du code du travail.
+3° Du privilège accordé aux salariés par l'article L. 143-10 du code du travail. 
 
-II. - Il s'exerce, notamment, à l'encontre du tout créancier hypothécaire et par préférence au privilège du Trésor, au
+II.-Il s'exerce, notamment, à l'encontre de tout créancier hypothécaire et par préférence au privilège du Trésor, au
 privilège visé à l'article L. 243-4 du code de la sécurité sociale, au privilège du vendeur du fonds de commerce à
-l'exploitation duquel est affecté le bien grevé, ainsi qu'au privilège du créancier nanti sur l'ensemble dudit fonds.
+l'exploitation duquel est affecté le bien grevé, ainsi qu'au privilège du créancier nanti sur l'ensemble dudit fonds. 
 
-III. - Toutefois, pour que son privilège soit opposable au créancier hypothécaire, au vendeur du fonds de commerce et au
+III.-Toutefois, pour que son privilège soit opposable au créancier hypothécaire, au vendeur du fonds de commerce et au
 créancier nanti sur l'ensemble dudit fonds, préalablement inscrits, le bénéficiaire du nantissement conclu en application du
-présent chapitre doit signifier audits créanciers, par acte extrajudiciaire, une copie de l'acte constatant le nantissement.
+présent chapitre doit signifier auxdits créanciers, par acte extrajudiciaire, une copie de l'acte constatant le nantissement.
 Cette signification doit, à peine de nullité, être faite dans les deux mois de la conclusion du nantissement.
 
 **Liens relatifs à cet article**
@@ -43912,6 +44023,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
 _Cité par_:
 
   - Code de commerce - art. L915-4 (V)
@@ -43922,8 +44037,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L143-10 (M)
-  - Code de la sécurité sociale. - art. L243-4 (M)
+  - Code de la sécurité sociale. - art. L243-4 (V)
 
 
 ###### Article L525-10
@@ -44068,22 +44182,22 @@ _Codifié par_:
 
 Si l'acquéreur n'a pas la qualité de commerçant, le nantissement est soumis aux dispositions des articles L. 525-1 à L.
 525-9, L. 525-11 et L. 525-12 et du présent article. L'inscription prévue à l'article L. 525-3 est alors prise au greffe du
-tribunal de commerce dans le ressort duquel est domicilié l'acquéreur du bien grevé, ou, s'il s'agit d'un artisan, dans le
-ressort duquel est situé son fonds artisanal.
+tribunal de commerce dans le ressort duquel est domicilié l'acquéreur du bien grevé, ou, s'il s'agit d'une personne
+immatriculée au répertoire des métiers, dans le ressort duquel est situé son fonds artisanal. 
 
 A défaut de paiement à l'échéance, le créancier bénéficiaire du privilège établi par le présent chapitre peut faire procéder
-à la vente publique du bien grevé conformément aux dispositions de l'article L. 521-3.
+à la vente publique du bien grevé conformément aux dispositions de l'article L. 521-3. 
 
 Les inscriptions sont rayées soit du consentement des parties intéressées, soit en vertu d'un jugement passé en force de
-chose jugée.
+chose jugée. 
 
 A défaut de jugement, la radiation totale ou partielle ne peut être opérée par le greffier que sur le dépôt d'un acte
-authentique de consentement donné par le créancier.
+authentique de consentement donné par le créancier. 
 
 Lorsque la radiation non consentie par le créancier est demandée par voie d'action principale, cette action est portée devant
-le tribunal de commerce du lieu où l'inscription a été prise.
+le tribunal de commerce du lieu où l'inscription a été prise. 
 
-La radiation est opérée au moyen d'une mention faite par le greffier en marge de l'inscription.
+La radiation est opérée au moyen d'une mention faite par le greffier en marge de l'inscription. 
 
 Il en est délivré certificat aux parties qui le demandent.
 
@@ -44098,15 +44212,16 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
 _Cite_:
 
-  - Code de commerce L525-3, L521-3, L525-1 à L525-9, L525-11 et L525-12
-  - Code de commerce. - art. L521-3 (M)
-  - Code de commerce. - art. L525-3 (V)
-
-_Cité par_:
-
-  - Code de commerce. - art. L525-1 (V)
+  - Code de commerce - art. L521-3 (V)
+  - Code de commerce - art. L525-1 (V)
+  - Code de commerce - art. L525-11 (V)
+  - Code de commerce - art. L525-3 (V)
 
 
 ###### Article L525-17
@@ -45326,6 +45441,64 @@ _Cite_:
 
 ##### Paragraphe 2 : Des organes de la procédure et des contrôleurs<a id=223></a>
 
+###### Article L621-8
+
+Dans le jugement d'ouverture, le tribunal désigne le juge-commissaire et deux mandataires de justice qui sont
+l'administrateur et le représentant des créanciers. Il invite le comité d'entreprise ou, à défaut, les délégués du personnel
+ou, à défaut de ceux-ci, les salariés à désigner, au sein de l'entreprise, un représentant des salariés. Les salariés élisent
+leur représentant par vote secret au scrutin uninominal à un tour.
+
+Le tribunal peut, soit d'office, soit à la demande du procureur de la République, désigner plusieurs administrateurs et
+plusieurs représentants des créanciers.
+
+L'administrateur peut demander la désignation d'un ou plusieurs experts.
+
+L'administrateur informe par courrier recommandé avec accusé de réception le maire de la commune et le président de
+l'établissement public de coopération intercommunale, s'il existe, du fait qu'une procédure de redressement judiciaire vient
+d'être ouverte vis-à-vis d'une société ayant son siège sur le territoire de la commune.
+
+Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants, s'il s'agit d'une
+personne morale, ne peut être désigné à l'une des fonctions prévues au présent article sauf dans les cas où cette disposition
+empêche la désignation d'un représentant des salariés.
+
+Lorsque aucun représentant des salariés ne peut être désigné, un procès-verbal de carence est établi par le chef
+d'entreprise.
+
+En l'absence de comité d'entreprise ou de délégué du personnel, le représentant des salariés exerce les fonctions dévolues à
+ces institutions par les dispositions du chapitre premier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 1985-01-25 art. 10
+  - Loi n°85-98 du 25 janvier 1985 - art. 10 (Ab)
+  - Code de commerce. - art. L621-11 (M)
+
+_Cité par_:
+
+  - Décret n°85-1388 du 27 décembre 1985 - art. 15 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-4 (Ab)
+  - Code de commerce. - art. L621-132 (T)
+  - Code de commerce. - art. L621-36 (T)
+  - Code de commerce. - art. L622-2 (M)
+  - Code de commerce. - art. L627-5 (T)
+  - Code de commerce. - art. L641-11 (VD)
+  - Code du travail - art. L143-11-1 (AbD)
+  - Code du travail applicable à Mayotte. - art. L143-11 (V)
+  - Code monétaire et financier - art. L621-8-3 (V)
+  - Livre des procédures fiscales - art. L145 B (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 40 () JORF 4 janvier 2003
+
+
 ###### Article L621-9
 
 Le représentant des salariés ainsi que les salariés participant à sa désignation ne doivent avoir encouru aucune des
@@ -45369,6 +45542,59 @@ _Cite_:
 
   - Code électoral - art. L5 (M)
   - Code électoral - art. L6 (M)
+
+
+###### Article L621-10
+
+Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à la demande du procureur de la République,
+procéder au remplacement de l'administrateur, de l'expert ou du représentant des créanciers. Il peut adjoindre dans les mêmes
+conditions un ou plusieurs administrateurs ou représentants des créanciers à ceux déjà nommés.
+
+L'administrateur, le représentant des créanciers ou un contrôleur peut demander au juge-commissaire de saisir à cette fin le
+tribunal. Dans les mêmes conditions, le débiteur peut demander le remplacement de l'administrateur ou de l'expert. Les
+créanciers peuvent demander le remplacement de leur représentant.
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les salariés de l'entreprise peuvent seuls
+procéder au remplacement du représentant des salariés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 1985-01-25 art. 12
+  - Loi n°85-98 du 25 janvier 1985 - art. 12 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 30 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 74 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 96 (Ab)
+  - Code de commerce - art. L695-2 (V)
+  - Code de commerce - art. L926-1 (VT)
+  - Code de commerce - art. L926-3 (Ab)
+  - Code de commerce - art. L956-4 (VD)
+  - Code de commerce - art. R621-24 (V)
+  - Code de commerce - art. R622-21 (VD)
+  - Code de commerce. - art. L622-2 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 41 () JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L621-7 (M)
+  - Code de commerce. - art. L621-7 (V)
 
 
 ###### Article L621-11
@@ -45798,6 +46024,37 @@ _Transféré par_:
 _Nouveaux textes_:
 
   - Code de commerce. - art. L622-1 (V)
+
+
+###### Article L621-22-1
+
+Le commissaire aux comptes du débiteur ne peut opposer le secret professionnel aux demandes du commissaire aux comptes de
+l'administrateur judiciaire tendant à la communication de tous renseignements ou documents relatifs au fonctionnement, à
+compter de la désignation de cet administrateur, des comptes bancaires ou postaux ouverts au nom du débiteur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°1935-10-30
+  - Code de commerce 65-2, 68 al. 3
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L622-2 (M)
+
+_Créé par_:
+
+  - Loi n°2003-7 2003-7 2003-01-03 art. 42 JORF 4 janvier 2003
 
 
 ###### Article L621-23
@@ -46591,6 +46848,120 @@ _Cité par_:
 
 ##### Sous-paragraphe 3 : De la déclaration des créances<a id=234></a>
 
+###### Article L621-43
+
+A partir de la publication du jugement, tous les créanciers dont la créance a son origine antérieurement au jugement
+d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au représentant des créanciers. Les
+créanciers titulaires d'une sûreté ayant fait l'objet d'une publication ou d'un contrat de crédit-bail publié sont avertis
+personnellement et, s'il y a lieu, à domicile élu.
+
+La déclaration des créances peut être faite par le créancier ou par tout préposé ou mandataire de son choix.
+
+La déclaration des créances doit être faite alors même qu'elles ne sont pas établies par un titre. Les créances du Trésor
+public et des organismes de prévoyance et de sécurité sociale ainsi que les créances recouvrées par les organismes visés à
+l'article L. 351-21 du code du travail qui n'ont pas fait l'objet d'un titre exécutoire au moment de leur déclaration sont
+admises à titre provisionnel pour leur montant déclaré. En tout état de cause, les déclarations du Trésor et de la sécurité
+sociale sont toujours faites sous réserve des impôts et autres créances non établis à la date de la déclaration. Sous réserve
+des procédures judiciaires ou administratives en cours, leur établissement définitif doit, à peine de forclusion, être
+effectué dans le délai prévu à l'article L. 621-103.
+
+Les institutions mentionnées à l'article L. 143-11-4 du code du travail sont soumises aux dispositions du présent article
+pour les sommes qu'elles ont avancées et qui leur sont remboursées dans les conditions prévues pour les créances nées
+antérieurement au jugement ouvrant la procédure.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-708 du 24 juillet 1984 - art. 12-3 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 68 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 74 (Ab)
+  - Code de commerce. - art. L621-46 (Ab)
+  - Code de commerce. - art. L621-50 (T)
+  - Code de commerce. - art. L621-60 (Ab)
+  - Code de commerce. - art. L926-3 (M)
+  - Code de commerce. - art. L926-4 (M)
+  - Code de commerce. - art. L936-8 (M)
+  - Code de commerce. - art. L936-9 (M)
+  - Code de commerce. - art. L956-4 (M)
+  - Code de commerce. - art. L956-5 (M)
+  - Code de la mutualité - art. L212-18 (VT)
+  - Code de la sécurité sociale. - art. L931-21-1 (V)
+  - Code des assurances - art. L326-4 (V)
+  - Code monétaire et financier - art. L211-6 (M)
+  - Code monétaire et financier - art. L431-6 (T)
+  - Code monétaire et financier - art. L515-31 (M)
+  - Code monétaire et financier - art. L613-30 (M)
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 50 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L621-103 (M)
+  - Code du travail - art. L143-11-4 (T)
+  - Code du travail - art. L351-21 (T)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L622-24 (V)
+
+
+###### Article L621-44
+
+La déclaration porte le montant de la créance due au jour du jugement d'ouverture avec indication des sommes à échoir et de
+la date de leurs échéances. Elle précise la nature du privilège ou de la sûreté dont la créance est éventuellement assortie.
+
+Lorsqu'il s'agit de créances en monnaie étrangère, la conversion en euros a lieu selon le cours du change à la date du
+jugement d'ouverture.
+
+Sauf si elle résulte d'un titre exécutoire, la créance déclarée est certifiée sincère par le créancier. Le visa du
+commissaire aux comptes ou, à défaut, de l'expert-comptable sur la déclaration de créance peut être demandé par le juge-
+commissaire. Le refus de visa est motivé.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 51 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-1388 du 27 décembre 1985 - art. 67 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 73 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L622-25 (V)
+
+
 ###### Article L621-45
 
 Le débiteur remet au représentant des créanciers la liste certifiée de ses créanciers et du montant de ses dettes.
@@ -47104,6 +47475,77 @@ _Nouveaux textes_:
   - Code de commerce. - art. L626-4 (V)
 
 
+###### Article L621-60
+
+Les propositions pour le règlement des dettes sont, au fur et à mesure de leur élaboration et sous la surveillance du juge-
+commissaire, communiquées par l'administrateur au représentant des créanciers, aux contrôleurs, ainsi qu'au comité
+d'entreprise ou, à défaut, aux délégués du personnel.
+
+Le représentant des créanciers recueille individuellement ou collectivement l'accord de chaque créancier qui a déclaré sa
+créance conformément à l'article L. 621-43, sur les délais et remises qui lui sont proposés. En cas de consultation par
+écrit, le défaut de réponse dans le délai de trente jours à compter de la réception de la lettre du représentant des
+créanciers vaut acceptation. Ces dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du code du
+travail pour les sommes dont elles font l'avance en application du troisième alinéa de l'article L. 621-43, même si leurs
+créances ne sont pas encore déclarées.
+
+En ce qui concerne les créances du Trésor public, des organismes de sécurité sociale et des institutions régies par le livre
+IX du code de la sécurité sociale, des remises peuvent être consenties dans les conditions précisées par décret en Conseil
+d'Etat. Il en est de même pour les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés.
+
+Le représentant des créanciers dresse un état des réponses faites par les créanciers. Cet état est adressé à l'administrateur
+en vue de l'établissement de son rapport.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-936 du 22 octobre 1984 - art. 18-1 (Ab)
+  - Décret n°84-936 du 22 octobre 1984 - art. 18-2 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 180 (V)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 42 (Ab)
+  - Code de commerce. - art. L621-139 (T)
+  - Code de commerce. - art. L621-76 (T)
+  - Code de commerce. - art. L926-4 (M)
+  - Code de commerce. - art. L926-5 (M)
+  - Code de commerce. - art. L936-1 (M)
+  - Code de commerce. - art. L936-10 (M)
+  - Code de commerce. - art. L936-9 (M)
+  - Code de commerce. - art. L946-10 (V)
+  - Code de commerce. - art. L956-1 (M)
+  - Code de commerce. - art. L956-5 (M)
+  - Code de commerce. - art. L956-6 (M)
+  - Code de la sécurité sociale. - art. R243-20-2 (T)
+  - Code de la sécurité sociale. - art. R731-22 (V)
+  - Code de la sécurité sociale. - art. R731-23 (V)
+  - Code du travail applicable à Mayotte. - art. L442-1 (VT)
+  - Code rural - art. R741-29 (M)
+  - Code rural et de la pêche maritime - art. R731-74 (M)
+  - Livre des procédures fiscales - art. R*247-17 (P)
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 24 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L621-43 (M)
+  - Code du travail - art. L143-11-4 (T)
+  - Code de la sécurité sociale
+
+
 ###### Article L621-61
 
 Le débiteur, le comité d'entreprise ou, à défaut, les délégués du personnel, un contrôleur et le représentant des créanciers
@@ -47352,6 +47794,60 @@ _Transféré par_:
 _Nouveaux textes_:
 
   - Code de commerce. - art. L626-24 (V)
+
+
+###### Article L621-68
+
+Le tribunal nomme pour la durée fixée à l'article L. 621-66 à laquelle s'ajoute éventuellement celle résultant des
+dispositions de l'article L. 621-100 ci-après un commissaire chargé de veiller à l'exécution du plan. L'administrateur ou le
+représentant des créanciers peut être nommé à cette fonction. Le commissaire à l'exécution du plan peut être remplacé par le
+tribunal soit d'office, soit à la demande du procureur de la République.
+
+Les actions introduites avant le jugement qui arrête le plan soit par l'administrateur, soit par le représentant des
+créanciers, sont poursuivies par le commissaire à l'exécution du plan.
+
+Le commissaire à l'exécution du plan peut se faire communiquer tous les documents et informations utiles à sa mission.
+
+Il rend compte au président du tribunal et au procureur de la République du défaut d'exécution du plan. Il en informe le
+comité d'entreprise ou, à défaut, les délégués du personnel.
+
+Toute somme perçue par le commissaire à l'exécution du plan est immédiatement versée en compte de dépôt à la Caisse des
+dépôts et consignations. En cas de retard, le commissaire à l'exécution du plan doit, pour les sommes qu'il n'a pas versées,
+un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 67 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (M)
+  - Code de commerce. - art. L621-90 (Ab)
+  - Code de commerce. - art. L814-7 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 43 () JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L621-100 (Ab)
+  - Code de commerce. - art. L621-66 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L626-25 (V)
 
 
 ###### Article L621-69
@@ -48686,6 +49182,67 @@ _Nouveaux textes_:
 
 ##### Sous-section 2 : De la nullité de certains actes<a id=252></a>
 
+###### Article L621-107
+
+I. - Sont nuls, lorsqu'ils auront été faits par le débiteur depuis la date de cessation des paiements, les actes suivants :
+
+1° Tous les actes à titre gratuit translatifs de propriété mobilière ou immobilière ;
+
+2° Tout contrat commutatif dans lequel les obligations du débiteur excèdent notablement celles de l'autre partie ;
+
+3° Tout paiement, quel qu'en ait été le mode, pour dettes non échues au jour du paiement ;
+
+4° Tout paiement pour dettes échues, fait autrement qu'en espèces, effets de commerce, virements, bordereaux de cession visés
+par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises ou tout autre mode de paiement communément admis
+dans les relations d'affaires ;
+
+5° Tout dépôt et toute consignation de sommes effectués en application de l'article 2075-1 du code civil, à défaut d'une
+décision de justice ayant acquis force de chose jugée ;
+
+6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
+nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
+
+7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
+paiement.
+
+II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du I faits dans les six mois précédant la
+date de cessation des paiements.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°81-1 1981-01-02
+  - Code civil - art. 2075-1 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 107 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cité par_:
+
+  - Code de commerce. - art. L621-109 (T)
+  - Code de la mutualité - art. L223-15 (VD)
+  - Code des assurances - art. L132-14 (VD)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L632-1 (V)
+
+
 ###### Article L621-108
 
 Les paiements pour dettes échues effectués après la date de cessation des paiements et les actes à titre onéreux accomplis
@@ -49673,6 +50230,64 @@ _Cite_:
   - Code de commerce. - art. L621-55 (M)
 
 
+###### Article L621-137
+
+I. - Pendant cette période, l'activité est poursuivie par le débiteur sauf s'il apparaît nécessaire au tribunal de nommer un
+administrateur qui peut être soit un administrateur judiciaire, soit une personne choisie sur le fondement du deuxième alinéa
+de l'article L. 811-2. Dans ce cas, le débiteur est soit dessaisi et représenté par l'administrateur, soit assisté par celui-
+ci.
+
+II. - En l'absence d'administrateur :
+
+1° Le débiteur exerce les fonctions dévolues à celui-ci par l'article L. 621-37 ; il exerce la faculté ouverte par l'article
+L. 621-122 et par l'article L. 621-28 s'il y est autorisé par le juge-commissaire ;
+
+2° Le représentant des créanciers exerce les fonctions dévolues à l'administrateur par l'article L. 621-19 ;
+
+3° L'assemblée générale extraordinaire ou l'assemblée des associés est, pour l'application de l'article L. 621-58, convoquée
+à la demande du juge-commissaire qui fixe le montant de l'augmentation du capital proposée à l'assemblée pour reconstituer
+les capitaux propres.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 141 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-1388 du 27 décembre 1985 - art. 111 (Ab)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 2 (M)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 6 (M)
+  - Code de commerce. - art. L812-8 (V)
+  - Code de commerce. - art. L814-10 (M)
+  - Code de commerce. - art. L814-5 (M)
+  - Code de la consommation - art. L321-1 (VD)
+  - Code de la consommation - art. L322-2 (VT)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 44 () JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L621-122 (M)
+  - Code de commerce. - art. L621-19 (M)
+  - Code de commerce. - art. L621-28 (M)
+  - Code de commerce. - art. L621-37 (Ab)
+  - Code de commerce. - art. L621-58 (M)
+  - Code de commerce. - art. L811-2 (M)
+
+
 ###### Article L621-138
 
 Le tribunal peut décider soit la poursuite de l'activité en vue de l'élaboration d'un projet de plan de redressement de
@@ -49890,6 +50505,57 @@ _Cite_:
   - Code de commerce. - art. L621-7 (M)
 
 
+###### Article L622-2
+
+Dans le jugement qui ouvre la liquidation judiciaire, le tribunal désigne le juge-commissaire et, en qualité de liquidateur,
+un mandataire judiciaire inscrit ou une personne choisie sur le fondement du premier alinéa du II de l'article L. 812-2. Le
+liquidateur est remplacé suivant les règles prévues au deuxième alinéa de l'article L. 622-5. Il peut lui être adjoint dans
+les mêmes conditions un ou plusieurs liquidateurs.
+
+Un représentant des salariés est désigné dans les conditions prévues au premier alinéa de l'article L. 621-8 ou au premier
+alinéa de l'article L. 621-135 selon le cas. Il est remplacé dans les conditions prévues au troisième alinéa de l'article L.
+621-10. Il exerce la mission prévue à l'article L. 621-36 et, dans le cas mentionné au deuxième alinéa de l'article L.
+621-135, les fonctions qui lui sont dévolues par ces dispositions.
+
+Les contrôleurs sont désignés comme il est dit à l'article L. 621-13 et exercent leurs attributions dans les mêmes conditions
+que celles prévues au chapitre Ier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 148-1 (Ab)
+  - Code de commerce. - art. L621-22-1 (T)
+
+_Cité par_:
+
+  - Décret n°85-1390 du 27 décembre 1985 - art. 12-1 (M)
+  - Code de commerce. - art. L627-5 (T)
+  - Code de commerce. - art. L936-13 (Ab)
+  - Code de commerce. - art. L956-9 (M)
+  - Code monétaire et financier - art. L613-29 (M)
+  - Livre des procédures fiscales - art. L145 B (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 45 () JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L621-10 (M)
+  - Code de commerce. - art. L621-13 (Ab)
+  - Code de commerce. - art. L621-135 (Ab)
+  - Code de commerce. - art. L621-36 (M)
+  - Code de commerce. - art. L621-8 (M)
+  - Code de commerce. - art. L622-5 (M)
+  - Code de commerce. - art. L812-2 (M)
+
+
 ###### Article L622-3
 
 Le jugement qui ouvre la liquidation judiciaire a les mêmes effets que ceux qui sont prévus en cas de redressement judiciaire
@@ -49964,7 +50630,65 @@ _Cite_:
   - Code de commerce. - art. L622-5 (M)
 
 
-##### Sous-section 3 : Dispositions communes<a id=265></a>
+##### Sous-section 2 : De la liquidation judiciaire prononcée au cours de la période d'observation<a id=265></a>
+
+###### Article L622-5
+
+Le tribunal qui prononce la liquidation judiciaire nomme le représentant des créanciers en qualité de liquidateur. Toutefois,
+le tribunal peut, par décision motivée, à la demande de l'administrateur, d'un créancier, du débiteur ou du procureur de la
+République, désigner en qualité de liquidateur une autre personne dans les conditions prévues à l'article L. 812-2.
+
+Le tribunal peut soit d'office, soit sur proposition du juge-commissaire ou à la demande du procureur de la République,
+procéder au remplacement du liquidateur. Le débiteur ou un créancier peut demander au juge-commissaire de saisir à cette fin
+le tribunal.
+
+Le liquidateur procède aux opérations de liquidation en même temps qu'il achève éventuellement la vérification des créances
+et qu'il établit l'ordre des créanciers. Il poursuit les actions introduites avant le jugement de liquidation soit par
+l'administrateur, soit par le représentant des créanciers, et peut introduire les actions qui relèvent de la compétence du
+représentant des créanciers.
+
+Les licenciements auxquels procède le liquidateur en application de la décision prononçant la liquidation sont soumis aux
+dispositions des articles L. 321-8 et L. 321-9 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°85-98 du 25 janvier 1985 - art. 148-4 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
+  - Décret n°85-1388 du 27 décembre 1985 - art. 30 (Ab)
+  - Code de commerce. - art. L622-2 (M)
+  - Code de commerce. - art. L622-4 (M)
+  - Code du travail - art. L321-8 (M)
+  - Code monétaire et financier - art. L613-29 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 46 () JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L641-5 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L812-2 (M)
+  - Code du travail - art. L321-9 (M)
+
+
+##### Sous-section 3 : Dispositions communes<a id=266></a>
 
 ###### Article L622-6
 
@@ -50379,7 +51103,7 @@ _Cité par_:
   - Code de commerce. - art. L641-12 (V)
 
 
-##### Section 2 : De la réalisation de l'actif<a id=266></a>
+##### Section 2 : De la réalisation de l'actif<a id=267></a>
 
 ###### Article L622-16
 
@@ -50684,9 +51408,9 @@ _Nouveaux textes_:
   - Code de commerce. - art. L642-25 (V)
 
 
-##### Section 3 : De l'apurement du passif<a id=267></a>
+##### Section 3 : De l'apurement du passif<a id=268></a>
 
-##### Sous-section 1 : Du règlement des créanciers<a id=268></a>
+##### Sous-section 1 : Du règlement des créanciers<a id=269></a>
 
 ###### Article L622-22
 
@@ -50724,7 +51448,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L643-1 (V)
 
 
-##### Paragraphe 1 : Du droit de poursuite individuelle<a id=269></a>
+##### Paragraphe 1 : Du droit de poursuite individuelle<a id=270></a>
 
 ###### Article L622-23
 
@@ -50848,7 +51572,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L643-3 (V)
 
 
-##### Paragraphe 2 : De la répartition du produit de la liquidation judiciaire<a id=270></a>
+##### Paragraphe 2 : De la répartition du produit de la liquidation judiciaire<a id=271></a>
 
 ###### Article L622-25
 
@@ -51042,7 +51766,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L643-8 (V)
 
 
-##### Sous-section 2 : De la clôture des opérations de liquidation judiciaire<a id=271></a>
+##### Sous-section 2 : De la clôture des opérations de liquidation judiciaire<a id=272></a>
 
 ###### Article L622-30
 
@@ -51212,7 +51936,7 @@ _Abrogé par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-#### Chapitre III : Des voies de recours<a id=272></a>
+#### Chapitre III : Des voies de recours<a id=273></a>
 
 ###### Article L623-1
 
@@ -51564,7 +52288,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L661-10 (V)
 
 
-#### Chapitre IV : Dispositions particulières aux personnes morales et à leurs dirigeants<a id=273></a>
+#### Chapitre IV : Dispositions particulières aux personnes morales et à leurs dirigeants<a id=274></a>
 
 ###### Article L624-1
 
@@ -51828,7 +52552,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L651-4 (V)
 
 
-#### Chapitre V : De la faillite personnelle et des autres mesures d'interdiction<a id=274></a>
+#### Chapitre V : De la faillite personnelle et des autres mesures d'interdiction<a id=275></a>
 
 ###### Article L625-1
 
@@ -52279,9 +53003,9 @@ _Cite_:
   - Code de commerce. - art. L625-8 (M)
 
 
-#### Chapitre VI : De la banqueroute et des autres infractions<a id=275></a>
+#### Chapitre VI : De la banqueroute et des autres infractions<a id=276></a>
 
-##### Section 1 : De la banqueroute<a id=276></a>
+##### Section 1 : De la banqueroute<a id=277></a>
 
 ###### Article L626-1
 
@@ -52654,7 +53378,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-7 (V)
 
 
-##### Section 2 : Des autres infractions<a id=277></a>
+##### Section 2 : Des autres infractions<a id=278></a>
 
 ###### Article L626-8
 
@@ -52989,7 +53713,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-14 (V)
 
 
-##### Section 3 : Des règles de procédure<a id=278></a>
+##### Section 3 : Des règles de procédure<a id=279></a>
 
 ###### Article L626-15
 
@@ -53155,7 +53879,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-20 (V)
 
 
-#### Chapitre VII : Dispositions communes<a id=279></a>
+#### Chapitre VII : Dispositions communes<a id=280></a>
 
 ###### Article L627-1
 
@@ -53363,13 +54087,45 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. R445-6 (V)
 
 
-#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle<a id=280></a>
+###### Article L627-6
+
+Les fonds détenus par les syndics au titre des procédures de règlement judiciaire ou de liquidation des biens régies par la
+loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
+banqueroutes sont immédiatement versés en compte de dépôt à la Caisse des dépôts et consignations. En cas de retard, le
+syndic doit, pour les sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de
+cinq points.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°67-563 1967-07-13
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 47 () JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L662-5 (V)
+
+
+#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle<a id=281></a>
 
 ###### Article L628-1
 
 Les dispositions du présent titre s'appliquent aux personnes physiques, domiciliées dans les départements du Haut-Rhin, du
-Bas-Rhin et de la Moselle, et à leur succession, qui ne sont ni des commerçants, ni des artisans, ni des agriculteurs,
-lorsqu'elles sont en état d'insolvabilité notoire.
+Bas-Rhin et de la Moselle, et à leur succession, qui ne sont ni des commerçants, ni des personnes immatriculées au répertoire
+des métiers, ni des agriculteurs, lorsqu'elles sont en état d'insolvabilité notoire.
 
 Les déchéances et interdictions qui résultent de la faillite personnelle ne sont pas applicables à ces personnes.
 
@@ -53377,13 +54133,17 @@ Les déchéances et interdictions qui résultent de la faillite personnelle ne s
 
 _Anciens textes_:
 
-  - Loi n°1924-06-01 art. 22
   - Loi n°1924-06-01 du 1 juin 1924 - art. 22 (Ab)
+  - Loi n°1924-06-01 art. 22
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -53435,222 +54195,13 @@ _Nouveaux textes_:
   - Code de commerce. - art. L670-2 (V)
 
 
-### TITRE II : Du redressement et de la liquidation judiciaires des entreprises<a id=281></a>
+### TITRE II : Du redressement et de la liquidation judiciaires des entreprises<a id=282></a>
 
-#### Chapitre Ier : Du redressement judiciaire<a id=282></a>
+#### Chapitre Ier : Du redressement judiciaire<a id=283></a>
 
-##### Section 1 : De la période d'observation<a id=283></a>
+##### Section 1 : De la période d'observation<a id=284></a>
 
-##### Sous-section 1 : De l'ouverture de la procédure<a id=284></a>
-
-##### Paragraphe 2 : Des organes de la procédure et des contrôleurs.<a id=285></a>
-
-###### Article L621-8
-
-Dans le jugement d'ouverture, le tribunal désigne le juge-commissaire et deux mandataires de justice qui sont
-l'administrateur et le représentant des créanciers. Il invite le comité d'entreprise ou, à défaut, les délégués du personnel
-ou, à défaut de ceux-ci, les salariés à désigner, au sein de l'entreprise, un représentant des salariés. Les salariés élisent
-leur représentant par vote secret au scrutin uninominal à un tour.
-
-L'administrateur peut demander la désignation d'un ou plusieurs experts.
-
-L'administrateur informe par courrier recommandé avec accusé de réception le maire de la commune et le président de
-l'établissement public de coopération intercommunale, s'il existe, du fait qu'une procédure de redressement judiciaire vient
-d'être ouverte vis-à-vis d'une société ayant son siège sur le territoire de la commune.
-
-Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants, s'il s'agit d'une
-personne morale, ne peut être désigné à l'une des fonctions prévues au présent article sauf dans les cas où cette disposition
-empêche la désignation d'un représentant des salariés.
-
-Lorsque aucun représentant des salariés ne peut être désigné, un procès-verbal de carence est établi par le chef
-d'entreprise.
-
-En l'absence de comité d'entreprise ou de délégué du personnel, le représentant des salariés exerce les fonctions dévolues à
-ces institutions par les dispositions du chapitre premier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 10
-  - Loi n°85-98 du 25 janvier 1985 - art. 10 (Ab)
-  - Code de commerce. - art. L621-11 (M)
-
-_Cité par_:
-
-  - Décret n°85-1388 du 27 décembre 1985 - art. 15 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L412-4 (Ab)
-  - Code de commerce. - art. L621-132 (T)
-  - Code de commerce. - art. L621-36 (T)
-  - Code de commerce. - art. L622-2 (M)
-  - Code de commerce. - art. L627-5 (T)
-  - Code de commerce. - art. L641-11 (VD)
-  - Code du travail - art. L143-11-1 (AbD)
-  - Code du travail applicable à Mayotte. - art. L143-11 (V)
-  - Code monétaire et financier - art. L621-8-3 (V)
-  - Livre des procédures fiscales - art. L145 B (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Modifié par_:
-
-  - Loi n°2002-73 du 17 janvier 2002 - art. 122 () JORF 18 janvier 2002
-
-
-###### Article L621-10
-
-Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à la demande du procureur de la République,
-procéder au remplacement de l'administrateur, de l'expert ou du représentant des créanciers. Il peut adjoindre dans les mêmes
-conditions un ou plusieurs administrateurs à l'administrateur déjà nommé.
-
-L'administrateur, le représentant des créanciers ou un contrôleur peut demander au juge-commissaire de saisir à cette fin le
-tribunal. Dans les mêmes conditions, le débiteur peut demander le remplacement de l'administrateur ou de l'expert. Les
-créanciers peuvent demander le remplacement de leur représentant.
-
-Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les salariés de l'entreprise peuvent seuls
-procéder au remplacement du représentant des salariés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 12
-  - Loi n°85-98 du 25 janvier 1985 - art. 12 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 30 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 74 (Ab)
-  - Décret n°2005-1677 du 28 décembre 2005 - art. 96 (Ab)
-  - Code de commerce - art. L695-2 (V)
-  - Code de commerce - art. L926-1 (VT)
-  - Code de commerce - art. L926-3 (Ab)
-  - Code de commerce - art. L956-4 (VD)
-  - Code de commerce - art. R621-24 (V)
-  - Code de commerce - art. R622-21 (VD)
-  - Code de commerce. - art. L622-2 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L621-7 (V)
-
-
-##### Sous-section 2 : De l'entreprise au cours de la période d'observation<a id=286></a>
-
-##### Paragraphe 4 : De la situation des créanciers<a id=287></a>
-
-##### Sous-paragraphe 3 : De la déclaration des créances.<a id=288></a>
-
-###### Article L621-43
-
-A partir de la publication du jugement, tous les créanciers dont la créance a son origine antérieurement au jugement
-d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au représentant des créanciers. Les
-créanciers titulaires d'une sûreté ayant fait l'objet d'une publication ou d'un contrat de crédit-bail publié sont avertis
-personnellement et, s'il y a lieu, à domicile élu.
-
-La déclaration des créances peut être faite par le créancier ou par tout préposé ou mandataire de son choix.
-
-La déclaration des créances doit être faite alors même qu'elles ne sont pas établies par un titre. Les créances du Trésor
-public et des organismes de prévoyance et de sécurité ainsi que les créances recouvrées par les organismes visés à l'article
-L. 351-21 du code du travail qui n'ont pas fait l'objet d'un titre exécutoire au moment de leur déclaration sont admises à
-titre provisionnel pour leur montant déclaré. En tout état de cause, les déclarations du Trésor et de la sécurité sociale
-sont toujours faites sous réserve des impôts et autres créances non établis à la date de la déclaration. Sous réserve des
-procédures judiciaires ou administratives en cours, leur établissement définitif doit, à peine de forclusion, être effectué
-dans le délai prévu à l'article L. 621-103.
-
-Les institutions mentionnées à l'article L. 143-11-4 du code du travail sont soumises aux dispositions du présent article
-pour les sommes qu'elles ont avancées et qui leur sont remboursées dans les conditions prévues pour les créances nées
-antérieurement au jugement ouvrant la procédure.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°84-708 du 24 juillet 1984 - art. 12-3 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 68 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 74 (Ab)
-  - Code de commerce. - art. L621-46 (Ab)
-  - Code de commerce. - art. L621-50 (T)
-  - Code de commerce. - art. L621-60 (Ab)
-  - Code de commerce. - art. L926-3 (M)
-  - Code de commerce. - art. L926-4 (M)
-  - Code de commerce. - art. L936-8 (M)
-  - Code de commerce. - art. L936-9 (M)
-  - Code de commerce. - art. L956-4 (M)
-  - Code de commerce. - art. L956-5 (M)
-  - Code de la mutualité - art. L212-18 (VT)
-  - Code de la sécurité sociale. - art. L931-21-1 (V)
-  - Code des assurances - art. L326-4 (V)
-  - Code monétaire et financier - art. L211-6 (M)
-  - Code monétaire et financier - art. L431-6 (T)
-  - Code monétaire et financier - art. L515-31 (M)
-  - Code monétaire et financier - art. L613-30 (M)
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 50
-  - Loi n°85-98 du 25 janvier 1985 - art. 50 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cite_:
-
-  - Code de commerce. - art. L621-103 (M)
-  - Code du travail - art. L143-11-4 (T)
-  - Code du travail - art. L351-21 (T)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L622-24 (V)
-
-
-###### Article L621-44
-
-La déclaration porte le montant de la créance due au jour du jugement d'ouverture avec indication des sommes à échoir et de
-la date de leurs échéances. Elle précise la nature du privilège ou de la sûreté dont la créance est éventuellement assortie.
-
-Lorsqu'il s'agit de créances en monnaie étrangère, la conversion en francs français a lieu selon le cours du change à la date
-du jugement d'ouverture.
-
-Sauf si elle résulte d'un titre exécutoire, la créance déclarée est certifiée sincère par le créancier. Le visa du
-commissaire aux comptes ou, à défaut, de l'expert-comptable sur la déclaration de créance peut être demandé par le juge-
-commissaire. Le refus de visa est motivé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 51 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 51 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1388 du 27 décembre 1985 - art. 67 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 73 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L622-25 (V)
-
-
-##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise.<a id=289></a>
+##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise.<a id=285></a>
 
 ###### Article L621-54
 
@@ -53695,177 +54246,9 @@ _Nouveaux textes_:
   - Code de commerce. - art. L623-1 (V)
 
 
-###### Article L621-60
+##### Section 4 : Du règlement des créances résultant du contrat de travail<a id=286></a>
 
-Les propositions pour le règlement des dettes sont, au fur et à mesure de leur élaboration et sous la surveillance du juge-
-commissaire, communiquées par l'administrateur au représentant des créanciers, aux contrôleurs, ainsi qu'au comité
-d'entreprise ou, à défaut, aux délégués du personnel.
-
-Le représentant des créanciers recueille individuellement ou collectivement l'accord de chaque créancier qui a déclaré sa
-créance conformément à l'article L. 621-43, sur les délais et remises qui lui sont proposés. En cas de consultation par
-écrit, le défaut de réponse dans le délai de trente jours à compter de la réception de la lettre du représentant des
-créanciers vaut acceptation. Ces dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du code du
-travail pour les sommes dont elles font l'avance en application du troisième alinéa de l'article L. 621-43, même si leurs
-créances ne sont pas encore déclarées.
-
-En ce qui concerne les créances du Trésor public des organismes de sécurité sociale et des institutions régies par le livre
-IX du code de la sécurité sociale, des remises peuvent être consenties dans les conditions précisées par décret en Conseil
-d'Etat. Il en est de même pour les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés.
-
-Le représentant des créanciers dresse un état des réponses faites par les créanciers. Cet état est adressé à l'administrateur
-en vue de l'établissement de son rapport.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°84-936 du 22 octobre 1984 - art. 18-1 (Ab)
-  - Décret n°84-936 du 22 octobre 1984 - art. 18-2 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 180 (V)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 42 (Ab)
-  - Code de commerce. - art. L621-139 (T)
-  - Code de commerce. - art. L621-76 (T)
-  - Code de commerce. - art. L926-4 (M)
-  - Code de commerce. - art. L926-5 (M)
-  - Code de commerce. - art. L936-1 (M)
-  - Code de commerce. - art. L936-10 (M)
-  - Code de commerce. - art. L936-9 (M)
-  - Code de commerce. - art. L946-10 (V)
-  - Code de commerce. - art. L956-1 (M)
-  - Code de commerce. - art. L956-5 (M)
-  - Code de commerce. - art. L956-6 (M)
-  - Code de la sécurité sociale. - art. R243-20-2 (T)
-  - Code de la sécurité sociale. - art. R731-22 (V)
-  - Code de la sécurité sociale. - art. R731-23 (V)
-  - Code du travail applicable à Mayotte. - art. L442-1 (VT)
-  - Code rural - art. R741-29 (M)
-  - Code rural et de la pêche maritime - art. R731-74 (M)
-  - Livre des procédures fiscales - art. R*247-17 (P)
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 24
-  - Loi n°85-98 du 25 janvier 1985 - art. 24 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cite_:
-
-  - Code de commerce. - art. L621-43 (M)
-  - Code du travail - art. L143-11-4 (T)
-  - Code de la sécurité sociale
-
-
-##### Section 2 : Du plan de continuation ou de cession de l'entreprise<a id=290></a>
-
-##### Sous-section 1 : Du jugement arrêtant le plan.<a id=291></a>
-
-###### Article L621-68
-
-Le tribunal nomme pour la durée fixée à l'article L. 621-66 à laquelle s'ajoute éventuellement celle résultant des
-dispositions de l'article L. 621-100 ci-après un commissaire chargé de veiller à l'exécution du plan. L'administrateur ou le
-représentant des créanciers peut être nommé à cette fonction. Le commissaire à l'exécution du plan peut être remplacé par le
-tribunal soit d'office, soit à la demande du procureur de la République.
-
-Les actions introduites avant le jugement qui arrête le plan soit par l'administrateur, soit par le représentant des
-créanciers, sont poursuivies par le commissaire à l'exécution du plan.
-
-Le commissaire à l'exécution du plan peut se faire communiquer tous les documents et informations utiles à sa mission.
-
-Il rend compte au président du tribunal et au procureur de la République du défaut d'exécution du plan. Il en informe le
-comité d'entreprise ou, à défaut, les délégués du personnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 67 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (M)
-  - Code de commerce. - art. L621-90 (Ab)
-  - Code de commerce. - art. L814-7 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cite_:
-
-  - Code de commerce. - art. L621-100 (Ab)
-  - Code de commerce. - art. L621-66 (Ab)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L626-25 (V)
-
-
-##### Section 3 : Du patrimoine de l'entreprise<a id=292></a>
-
-##### Sous-section 2 : De la nullité de certains actes.<a id=293></a>
-
-###### Article L621-107
-
-I. - Sont nuls, lorsqu'ils auront été faits par le débiteur depuis la date de cessation des paiements, les actes suivants :
-
-1° Tous les actes à titre gratuit translatifs de propriété mobilière ou immobilière ;
-
-2° Tout contrat commutatif dans lequel les obligations du débiteur excèdent notablement celles de l'autre partie ;
-
-3° Tout paiement, quel qu'en ait été le mode, pour dettes non échues au jour du paiement ;
-
-4° Tout paiement pour dettes échues, fait autrement qu'en espèces, effets de commerce, virements, bordereaux de cession visés
-par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises ou tout autre mode de paiement communément admis
-dans les relations d'affaires ;
-
-5° Tout dépôt et toute consignation de sommes effectués en application de l'article 2075-1 du code civil, à défaut d'une
-décision de justice ayant acquis force de chose jugée ;
-
-6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
-nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
-
-7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
-paiement.
-
-II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du présent article faits dans les six mois
-précédant la date de cessation des paiements.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°81-1 1981-01-02
-  - Code civil - art. 2075-1 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°85-98 1985-01-25 art. 107
-  - Loi n°85-98 du 25 janvier 1985 - art. 107 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cité par_:
-
-  - Code de commerce. - art. L621-109 (T)
-  - Code de la mutualité - art. L223-15 (VD)
-  - Code des assurances - art. L132-14 (VD)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L632-1 (V)
-
-
-##### Section 4 : Du règlement des créances résultant du contrat de travail<a id=294></a>
-
-##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail.<a id=295></a>
+##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail.<a id=287></a>
 
 ###### Article L621-132
 
@@ -54080,159 +54463,7 @@ _Cité par_:
   - Code de commerce. - art. L950-1 (M)
 
 
-##### Section 5 : De la procédure simplifiée applicable à certaines entreprises<a id=296></a>
-
-##### Sous-section 1 : Du jugement d'ouverture et de la période d'observation.<a id=297></a>
-
-###### Article L621-137
-
-I. - Pendant cette période, l'activité est poursuivie par le débiteur sauf s'il apparaît nécessaire au tribunal de nommer un
-administrateur qui peut être soit un administrateur judiciaire, soit toute personne qualifiée. Dans ce cas, le débiteur est
-soit dessaisi et représenté par l'administrateur, soit assisté par celui-ci.
-
-II. - En l'absence d'administrateur :
-
-1° Le débiteur exerce les fonctions dévolues à celui-ci par l'article L. 621-37 ; il exerce la faculté ouverte par l'article
-L. 621-122 et par l'article L. 621-28 s'il y est autorisé par le juge-commissaire ;
-
-2° Le représentant des créanciers exerce les fonctions dévolues à l'administrateur par l'article L. 621-19 ;
-
-3° L'assemblée générale extraordinaire ou l'assemblée des associés est, pour l'application de l'article L. 621-58, convoquée
-à la demande du juge-commissaire qui fixe le montant de l'augmentation du capital proposée à l'assemblée pour reconstituer
-les capitaux propres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 141 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 141 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1388 du 27 décembre 1985 - art. 111 (Ab)
-  - Décret n°85-1390 du 27 décembre 1985 - art. 2 (M)
-  - Décret n°85-1390 du 27 décembre 1985 - art. 6 (M)
-  - Code de commerce. - art. L812-8 (V)
-  - Code de commerce. - art. L814-10 (M)
-  - Code de commerce. - art. L814-5 (M)
-  - Code de la consommation - art. L321-1 (VD)
-  - Code de la consommation - art. L322-2 (VT)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cite_:
-
-  - Code de commerce. - art. L621-122 (M)
-  - Code de commerce. - art. L621-19 (M)
-  - Code de commerce. - art. L621-28 (M)
-  - Code de commerce. - art. L621-37 (Ab)
-  - Code de commerce. - art. L621-58 (M)
-
-
-#### Chapitre II : De la liquidation judiciaire<a id=298></a>
-
-##### Section 1 : Du jugement de liquidation judiciaire<a id=299></a>
-
-##### Sous-section 1 : De la liquidation judiciaire ouverte sans période d'observation.<a id=300></a>
-
-###### Article L622-2
-
-Dans le jugement qui ouvre la liquidation judiciaire, le tribunal désigne le juge-commissaire et un mandataire judiciaire en
-qualité de liquidateur. Le liquidateur est remplacé suivant les règles prévues au deuxième alinéa de l'article L. 622-5.
-
-Un représentant des salariés est désigné dans les conditions prévues au premier alinéa de l'article L. 621-8 ou au premier
-alinéa de l'article L. 621-135 selon le cas. Il est remplacé dans les conditions prévues au troisième alinéa de l'article L.
-621-10. Il exerce la mission prévue à l'article L. 621-36 et, dans le cas mentionné au deuxième alinéa de l'article L.
-621-135, les fonctions qui lui sont dévolues par ces dispositions.
-
-Les contrôleurs sont désignés comme il est dit à l'article L. 621-13 et exercent leurs attributions dans les mêmes conditions
-que celles prévues au chapitre Ier.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 148-1 (Ab)
-  - Code de commerce. - art. L621-22-1 (T)
-
-_Cité par_:
-
-  - Décret n°85-1390 du 27 décembre 1985 - art. 12-1 (M)
-  - Code de commerce. - art. L627-5 (T)
-  - Code de commerce. - art. L936-13 (Ab)
-  - Code de commerce. - art. L956-9 (M)
-  - Code monétaire et financier - art. L613-29 (M)
-  - Livre des procédures fiscales - art. L145 B (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Cite_:
-
-  - Code de commerce. - art. L621-10 (M)
-  - Code de commerce. - art. L621-13 (Ab)
-  - Code de commerce. - art. L621-135 (Ab)
-  - Code de commerce. - art. L621-36 (M)
-  - Code de commerce. - art. L621-8 (M)
-  - Code de commerce. - art. L622-5 (M)
-
-
-##### Sous-section 2 : De la liquidation judiciaire prononcée au cours de la période d'observation.<a id=301></a>
-
-###### Article L622-5
-
-Le tribunal qui prononce la liquidation judiciaire nomme le représentant des créanciers en qualité de liquidateur. Toutefois,
-le tribunal peut, par décision motivée, à la demande de l'administrateur, d'un créancier, du débiteur ou du procureur de la
-République, désigner le liquidateur parmi les autres mandataires judiciaires à la liquidation des entreprises.
-
-Le tribunal peut soit d'office, soit sur proposition du juge-commissaire ou à la demande du procureur de la République,
-procéder au remplacement du liquidateur. Le débiteur ou un créancier peut demander au juge-commissaire de saisir à cette fin
-le tribunal.
-
-Le liquidateur procède aux opérations de liquidation en même temps qu'il achève éventuellement la vérification des créances
-et qu'il établit l'ordre des créanciers. Il poursuit les actions introduites avant le jugement de liquidation soit par
-l'administrateur, soit par le représentant des créanciers, et peut introduire les actions qui relèvent de la compétence du
-représentant des créanciers.
-
-Les licenciements auxquels procède le liquidateur en application de la décision prononçant la liquidation sont soumis aux
-dispositions des articles L. 321-8 et L. 321-9 du code du travail.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-98 du 25 janvier 1985 - art. 148-4 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
-  - Décret n°85-1388 du 27 décembre 1985 - art. 30 (Ab)
-  - Code de commerce. - art. L622-2 (M)
-  - Code de commerce. - art. L622-4 (M)
-  - Code du travail - art. L321-8 (M)
-  - Code monétaire et financier - art. L613-29 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L641-5 (V)
-
-_Cite_:
-
-  - Code du travail - art. L321-9 (M)
-
-
-#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.<a id=302></a>
+#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.<a id=288></a>
 
 ###### Article L628-3
 
@@ -54267,11 +54498,11 @@ _Nouveaux textes_:
   - Code de commerce. - art. L670-3 (V)
 
 
-## LIVRE VII : De l'organisation du commerce<a id=303></a>
+## LIVRE VII : De l'organisation du commerce<a id=289></a>
 
-### TITRE Ier : Des chambres de commerce et d'industrie<a id=304></a>
+### TITRE Ier : Des chambres de commerce et d'industrie<a id=290></a>
 
-#### Chapitre Ier : De l'organisation et des attributions.<a id=305></a>
+#### Chapitre Ier : De l'organisation et des attributions.<a id=291></a>
 
 ###### Article L711-1
 
@@ -54638,7 +54869,7 @@ _Cité par_:
 
 ###### Article L711-10
 
-Les chambre de commerce et d'industrie sont regroupées en chambres régionales de commerce et d'industrie. Sous réserve du
+Les chambres de commerce et d'industrie sont regroupées en chambres régionales de commerce et d'industrie. Sous réserve du
 droit que conservent les chambres de commerce et d'industrie de former des groupements en vue de la défense d'intérêts
 spéciaux et communs à certaines d'entre elles, les chambres régionales de commerce et d'industrie représentent, auprès des
 pouvoirs publics, les organes consultatifs des intérêts régionaux du commerce et de l'industrie.
@@ -54651,24 +54882,28 @@ en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code de commerce - art. R711-32 (V)
-  - Code de commerce - art. R711-33 (V)
-  - Code de commerce. - art. D711-67-7 (V)
-  - Loi n°1898-04-09 du 9 avril 1898 - art. 21 (Ab)
-
 _Anciens textes_:
 
   - Loi n°1898-04-09 art. 18 al. 2, 3 et 4
+
+_Cité par_:
+
+  - Loi n°1898-04-09 du 9 avril 1898 - art. 21 (Ab)
+  - Code de commerce - art. R711-32 (V)
+  - Code de commerce - art. R711-33 (V)
+  - Code de commerce. - art. D711-67-7 (V)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
 
-#### Chapitre II : De l'administration financière.<a id=306></a>
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+
+#### Chapitre II : De l'administration financière.<a id=292></a>
 
 ###### Article L712-1
 
@@ -54784,7 +55019,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L712-6 (V)
 
 
-#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=307></a>
+#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=293></a>
 
 ###### Article L713-1
 
@@ -55442,7 +55677,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. R713-64 (V)
 
 
-### TITRE II : De l'équipement commercial<a id=308></a>
+### TITRE II : De l'équipement commercial<a id=294></a>
 
 ###### Article L720-1
 
@@ -56094,7 +56329,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE III : Des marchés d'intérêt national.<a id=309></a>
+### TITRE III : Des marchés d'intérêt national.<a id=295></a>
 
 ###### Article L730-1
 
@@ -56675,20 +56910,29 @@ _Cité par_:
   - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
 
 
-## LIVRE VIII : De quelques professions réglementées.<a id=310></a>
+## LIVRE VIII : De quelques professions réglementées.<a id=296></a>
 
-### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=311></a>
+### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=297></a>
 
-#### Chapitre Ier : Des administrateurs judiciaires<a id=312></a>
+#### Chapitre Ier : Des administrateurs judiciaires<a id=298></a>
 
-##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=313></a>
+##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=299></a>
 
-##### Sous-section 1 : Des missions.<a id=314></a>
+##### Sous-section 1 : Des missions<a id=300></a>
+
+##### (En vigueur jusqu'au 1er janvier 2006)<a id=301></a>
 
 ###### Article L811-1
 
-Les administrateurs judiciaires sont les mandataires chargés par décision de justice d'administrer les biens d'autrui ou
-d'exercer des fonctions d'assistance ou de surveillance dans la gestion de ces biens.
+Les administrateurs judiciaires sont les mandataires, personnes physiques ou morales, chargés par décision de justice
+d'administrer les biens d'autrui ou d'exercer des fonctions d'assistance ou de surveillance dans la gestion de ces biens.
+
+Les tâches que comporte l'exécution de leur mandat leur incombent personnellement. Ils peuvent toutefois, lorsque le bon
+déroulement de la procédure le requiert et sur autorisation motivée du président du tribunal, confier sous leur
+responsabilité à des tiers une partie de ces tâches.
+
+Lorsque les administrateurs judiciaires confient à des tiers des tâches qui relèvent de la mission que leur a confiée le
+tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en application du décret prévu à l'article L. 814-6.
 
 **Liens relatifs à cet article**
 
@@ -56704,7 +56948,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 1 () JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -56714,8 +56958,12 @@ _Cité par_:
   - Code de commerce. - art. R626-40 (V)
   - Code de l'éducation - art. D613-31 (V)
 
+_Cite_:
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=315></a>
+  - Code de commerce. - art. L814-6 (M)
+
+
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=302></a>
 
 ###### Article L811-2
 
@@ -56724,9 +56972,29 @@ matières, notamment celles relatives aux mineurs et aux majeurs protégés, ou 
 peuvent être confiées aux membres des professions judiciaires et juridiques en matière civile, s'il n'est inscrit sur la
 liste établie par une commission nationale instituée à cet effet.
 
-Toutefois, à titre exceptionnel, les tribunaux peuvent, par décision motivée, désigner comme administrateurs judiciaires des
-personnes physiques ayant une expérience ou une qualification particulière, même non inscrites sur la liste des
-administrateurs judiciaires.
+Toutefois, à titre exceptionnel, le tribunal peut, par décision spécialement motivée et après avis du procureur de la
+République, désigner comme administrateur judiciaire une personne physique justifiant d'une expérience ou d'une qualification
+particulière au regard de la nature de l'affaire et remplissant les conditions définies aux 1° à 4° de l'article L. 811-5.
+
+Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq années précédentes, avoir perçu à quelque titre
+que ce soit, directement ou indirectement, une rétribution ou un paiement de la part de la personne physique ou morale
+faisant l'objet d'une mesure d'administration, d'assistance ou de surveillance, d'une personne qui détient le contrôle de
+cette personne morale ou de l'une des sociétés contrôlées par elle au sens des II et III de l'article L. 233-16, ni s'être
+trouvées en situation de conseil de la personne physique ou morale concernée ou de subordination par rapport à elle. Elles
+doivent, en outre, n'avoir aucun intérêt dans le mandat qui leur est donné et n'être pas au nombre des anciens
+administrateurs ou mandataires judiciaires ayant fait l'objet d'une décision de radiation ou de retrait des listes en
+application des articles L. 811-6, L. 811-12 et L. 812-4. Elles sont tenues d'exécuter les mandats qui leur sont confiés en
+se conformant, dans l'accomplissement de leurs diligences professionnelles, aux mêmes obligations que celles qui s'imposent
+aux administrateurs judiciaires inscrits sur la liste. Elles ne peuvent exercer les fonctions d'administrateur judiciaire à
+titre habituel.
+
+Les personnes désignées en application du deuxième alinéa doivent, lors de l'acceptation de leur mandat, attester sur
+l'honneur qu'elles remplissent les conditions fixées aux 1° à 4° de l'article L. 811-5 qu'elles se conforment aux obligations
+énumérées à l'alinéa précédent et qu'elles ne font pas l'objet d'une interdiction d'exercice en application de l'avant-
+dernier alinéa de l'article L. 814-10.
+
+Lorsque le tribunal nomme une personne morale, il désigne en son sein une ou plusieurs personnes physiques pour la
+représenter dans l'accomplissement du mandat qui lui est confié.
 
 **Liens relatifs à cet article**
 
@@ -56812,12 +57080,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 2 () JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
+  - Code de commerce. - art. L811-12 (M)
+  - Code de commerce. - art. L811-5 (M)
+  - Code de commerce. - art. L812-4 (M)
 
 
 ###### Article L811-3
 
-La liste nationale est divisée en sections régionales correspondant au ressort de chaque cour d'appel.
+La liste nationale est divisée en sections correspondant au ressort de chaque cour d'appel.
 
 **Liens relatifs à cet article**
 
@@ -56840,38 +57115,41 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 3 () JORF 4 janvier 2003
 
 
 ###### Article L811-4
 
-I. - La commission nationale mentionnée à l'article L. 811-2 est composée ainsi qu'il suit :
+La commission nationale prévue à l'article L. 811-2 est composée ainsi qu'il suit :
 
-1° Un conseiller à la Cour de cassation, président ;
+- un conseiller à la Cour de cassation, président, désigné par le premier président de la Cour de cassation ;
 
-2° Un magistrat de la Cour des comptes ;
+- un magistrat de la Cour des comptes, désigné par le premier président de la Cour des comptes ;
 
-3° Un membre de l'inspection générale des finances ;
+- un membre de l'inspection générale des finances, désigné par le ministre chargé de l'économie et des finances ;
 
-4° Un magistrat du siège d'une cour d'appel ;
+- un magistrat du siège d'une cour d'appel, désigné par le premier président de la Cour de cassation ;
 
-5° Un membre d'une juridiction commerciale du premier degré ;
+- un membre d'une juridiction commerciale du premier degré, désigné par le premier président de la Cour de cassation ;
 
-6° Un professeur de droit, de sciences économiques ou de gestion ;
+- un professeur de droit, de sciences économiques ou de gestion, désigné par le ministre chargé des universités ;
 
-7° Deux personnes qualifiées en matière économique ou sociale ;
+- un représentant du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ;
 
-8° Trois administrateurs judiciaires.
+- deux personnes qualifiées en matière économique ou sociale, désignées par le garde des sceaux, ministre de la justice ;
 
-II. - En cas d'égalité des voix, celle du président est prépondérante.
+- trois administrateurs judiciaires, inscrits sur la liste, élus par leurs pairs dans des conditions déterminées par décret
+en Conseil d'Etat.
 
-III. - Le président et les membres de la commission ainsi que leurs suppléants, en nombre égal et choisis dans les mêmes
-catégories, sont désignés pour trois ans dans des conditions fixées par décret.
+En cas d'égalité des voix, celle du président est prépondérante.
 
-IV. - Un magistrat du parquet est désigné pour exercer les fonctions de commissaire du gouvernement auprès de la commission
-nationale et assurer notamment l'instruction des demandes d'inscription.
+Le président et les membres de la commission ainsi que leurs suppléants, en nombre égal et choisis dans les mêmes catégories,
+sont désignés pour un mandat de trois ans renouvelable une fois.
 
-V. - Les frais de fonctionnement de la commission sont à la charge de l'Etat.
+Un magistrat du parquet et son suppléant sont désignés pour exercer les fonctions de commissaire du Gouvernement auprès de la
+commission nationale et assurer notamment l'instruction des demandes d'inscription.
+
+Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -56892,7 +57170,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 4 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -56901,30 +57179,53 @@ _Cite_:
 
 ###### Article L811-5
 
-Nul ne peut être inscrit sur la liste des administrateurs judiciaires s'il n'est de nationalité française.
+Nul ne peut être inscrit sur la liste par la commission s'il ne remplit les conditions suivantes :
 
-La commission ne peut inscrire que des personnes présentant des garanties de moralité suffisantes et ayant subi avec succès
-l'examen d'aptitude aux fonctions d'administrateur judiciaire après l'accomplissement d'un stage professionnel.
+1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen ;
 
-Ne peuvent être admises à accomplir le stage professionnel prévu à l'alinéa précédent que les personnes titulaires des titres
-ou diplômes déterminés par décret.
+2° N'avoir pas été l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ;
 
-Par dérogation aux dispositions des deuxième et troisième alinéas ci-dessus, peuvent être admises à subir l'examen
-d'aptitude, en étant dispensées de tout ou partie du stage professionnel, les personnes qui, même non titulaires des titres
-ou diplômes exigés, ont acquis, en matière de gestion d'entreprise, une expérience et une compétence jugées suffisantes par
-la commission.
+3° N'avoir pas été l'auteur de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de
+destitution, de radiation, de révocation, de retrait d'agrément ou de retrait d'autorisation ;
 
-Peuvent être dispensées de l'examen d'aptitude ou de certaines épreuves de celui-ci, ainsi que de tout ou partie du stage
-professionnel, les personnes ayant exercé l'une des professions énoncées par décret en Conseil d'Etat, dans des conditions de
-temps et de durée fixées également par décret en Conseil d'Etat.
+4° N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre V
+du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
+liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
+juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ;
 
-Sont dispensées de conditions de diplôme, de stage et d'examen professionnel prévues aux deuxième et troisième alinéas les
+5° Avoir subi avec succès l'examen d'accès au stage professionnel, accompli ce stage et subi avec succès l'examen d'aptitude
+aux fonctions d'administrateur judiciaire.
+
+Ne peuvent être admises à se présenter à l'examen d'accès au stage professionnel que les personnes titulaires des titres ou
+diplômes déterminés par décret.
+
+Par dérogation aux dispositions qui précèdent, les personnes remplissant des conditions de compétence et d'expérience
+professionnelle fixées par décret en Conseil d'Etat sont dispensées de l'examen d'accès au stage professionnel. La commission
+peut, en outre, dispenser ces personnes, dans des conditions fixées par décret en Conseil d'Etat, d'une partie du stage
+professionnel et de tout ou partie de l'examen d'aptitude aux fonctions d'administrateur judiciaire.
+
+Les personnes morales inscrites ne peuvent exercer les fonctions d'administrateur judiciaire que par l'intermédiaire d'un de
+leurs membres lui-même inscrit sur la liste.
+
+Sont dispensées de conditions de diplôme, de stage et d'examen professionnel prévues aux sixième et septième alinéas les
 personnes qui justifient avoir acquis, dans un Etat membre des Communautés européennes autre que la France ou un autre Etat
 partie à l'accord sur l'Espace économique européen, une qualification suffisante pour l'exercice de la profession
 d'administrateur judiciaire, sous réserve d'avoir subi, dans des conditions fixées par décret en Conseil d'Etat, un examen de
 contrôle des connaissances. La liste des candidats admis à se présenter à l'examen est arrêtée par la commission.
 
+**Nota:**
+
+- Loi 2003-7 2003-01-03 art. 39 I : Les dispositions du présent article L. 811-5 du code de commerce, en tant qu'elles
+instituent un examen d'accès au stage professionnel, ne sont applicables qu'aux personnes qui, à la date de promulgation de
+la présente loi ne sont pas encore inscrites sur le registre de stage.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°67-563 1967-07-13
+  - Loi n°85-98 1985-01-25
 
 _Anciens textes_:
 
@@ -56966,18 +57267,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 5 () JORF 4 janvier 2003
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=316></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=303></a>
 
 ###### Article L811-6
 
-La commission nationale peut, par décision motivée, et après avoir mis l'intéressé en demeure de présenter ses observations,
-retirer de la liste mentionnée à l'article L. 811-2 l'administrateur judiciaire qui, en raison de son état physique ou
-mental, est empêché d'assurer l'exercice normal de ses fonctions. Les mêmes dispositions sont applicables lorsque, par des
-manquements répétés à ses obligations professionnelles, l'administrateur judiciaire a révélé son inaptitude à assurer
-l'exercice normal de ses fonctions.
+La commission nationale, de sa propre initiative ou saisie sur requête du garde des sceaux, ministre de la justice, du
+président du Conseil national des administrateurs judiciaires et des mandataires judiciaires au redressement et à la
+liquidation des entreprises, du commissaire du Gouvernement ou du procureur de la République du ressort de la juridiction
+dans lequel est établi l'administrateur judiciaire, peut, par décision motivée et après avoir mis l'intéressé en demeure de
+présenter ses observations, retirer de la liste mentionnée à l'article L. 811-2 l'administrateur judiciaire qui, en raison de
+son état physique ou mental, est empêché d'assurer l'exercice normal de ses fonctions ou l'administrateur judiciaire qui a
+révélé son inaptitude à assurer l'exercice normal de ses fonctions.
 
 Le retrait de la liste ne fait pas obstacle à l'exercice de poursuites disciplinaires contre l'administrateur judiciaire si
 les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions.
@@ -57014,7 +57318,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 6 () JORF 4 janvier 2003
 
 
 ###### Article L811-7
@@ -57057,18 +57361,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
 ###### Article L811-8
 
 Les dossiers suivis par l'administrateur judiciaire qui quitte ses fonctions, pour quelque motif que ce soit, sont répartis
-par la juridiction entre les autres administrateurs.
+par la juridiction entre les autres administrateurs dans un délai de trois mois à compter de la cessation de fonctions.
 
-Toutefois, la juridiction, dans l'intérêt d'une bonne administration de la justice, peut autoriser l'ancien administrateur
-judiciaire à poursuivre un ou plusieurs dossiers en cours, sauf si une radiation est la cause de l'abandon de ses fonctions.
-L'ancien administrateur judiciaire autorisé à poursuivre un ou plusieurs dossiers en cours demeure soumis aux dispositions
-des articles L. 811-10 à L. 811-16, L. 814-1 et L. 814-5.
+Toutefois, dans l'intérêt d'une bonne administration de la justice, la juridiction peut autoriser l'ancien administrateur
+judiciaire à poursuivre le traitement d'un ou de plusieurs dossiers en cours, sauf si une radiation est la cause de l'abandon
+de ses fonctions. Cet administrateur judiciaire demeure soumis aux dispositions des articles L. 811-10 à L. 811-16, L. 814-1
+et L. 814-5.
 
 **Liens relatifs à cet article**
 
@@ -57097,7 +57401,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 7 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -57124,31 +57429,49 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cité par_:
 
   - Code de commerce - art. L950-1 (VT)
 
 
-##### Sous-section 4 : Des incompatibilités.<a id=317></a>
+##### Sous-section 4 : Des incompatibilités<a id=304></a>
+
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=305></a>
 
 ###### Article L811-10
 
 La qualité d'administrateur judiciaire inscrit sur la liste est incompatible avec l'exercice de toute autre profession, à
-l'exception de celle d'avocat. Toutefois, la même personne ne peut exercer simultanément ou successivement pour une même
-entreprise les fonctions d'avocat et d'administrateur judiciaire. Cette interdiction s'applique également aux associés, aux
-collaborateurs et aux salariés de ladite personne.
+l'exception de celle d'avocat.
 
-En cas de cumul de la profession d'administrateur judiciaire avec celle d'avocat, les modalités d'accès à ces professions et
-leur exercice demeurent soumis aux règles qui les régissent respectivement.
+Elle est, par ailleurs, incompatible avec :
+
+1° Toutes les activités à caractère commercial, qu'elles soient exercées directement ou par personne interposée ;
+
+2° La qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou par
+actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire,
+directeur général ou directeur général délégué d'une société anonyme, de président ou de dirigeant d'une société par actions
+simplifiée, de membre du conseil de surveillance ou d'administrateur d'une société commerciale, de gérant d'une société
+civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession d'administrateur judiciaire ou l'acquisition
+de locaux pour cet exercice. Un administrateur judiciaire peut en outre exercer les fonctions de gérant d'une société civile
+dont l'objet exclusif est la gestion d'intérêts à caractère familial.
 
 La qualité d'administrateur judiciaire inscrit sur la liste ne fait pas obstacle à l'exercice d'une activité de consultation
-dans les matières relevant de la qualification de l'intéressé ni à l'accomplissement des mandats de conciliateur prévus par
-l'article L. 611-3 et par l'article L. 351-4 du code rural, de commissaire à l'exécution du plan, d'administrateur ou de
-liquidateur amiable, d'expert judiciaire et de séquestre amiable ou judiciaire.
+dans les matières relevant de la qualification de l'intéressé, ni à l'accomplissement des mandats de mandataire ad hoc et de
+conciliateur prévus par l'article L. 611-3 du présent code et par l'article L. 351-4 du code rural, de commissaire à
+l'exécution du plan, d'administrateur ou de liquidateur amiable, d'expert judiciaire et de séquestre amiable ou judiciaire.
+Cette activité et ces mandats, à l'exception des mandats de mandataire ad hoc, de conciliateur et de commissaire à
+l'exécution du plan, ne peuvent être exercés qu'à titre accessoire.
+
+Les conditions du présent article sont, à l'exception du quatrième alinéa, applicables aux personnes morales inscrites.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L351-4
+  - Code de commerce. - art. L611-3 (M)
 
 _Anciens textes_:
 
@@ -57174,26 +57497,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
-
-_Cite_:
-
-  - Code de commerce. - art. L611-3 (M)
-  - Code rural L351-4
+  - Loi n°2003-7 du 3 janvier 2003 - art. 8 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=318></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=306></a>
 
-##### Sous-section 1 : De la surveillance et de l'inspection.<a id=319></a>
+##### Sous-section 1 : De la surveillance et de l'inspection.<a id=307></a>
 
 ###### Article L811-11
 
-Les administrateurs judiciaires, y compris ceux qui sont désignés dans les conditions du deuxième alinéa de l'article L.
-811-2, sont placés sous la surveillance du ministère public. Les administrateurs judiciaires sont soumis, dans leur activité
+Les administrateurs judiciaires sont placés sous la surveillance du ministère public. Ils sont soumis, dans leur activité
 professionnelle, à des inspections confiées à l'autorité publique et à l'occasion desquelles ils sont tenus de fournir tous
 renseignements ou documents utiles sans pouvoir opposer le secret professionnel.
 
 L'organisation et les modalités de ces inspections sont déterminées par décret en Conseil d'Etat.
+
+Dans le cadre du contrôle dont est chargé le conseil national mentionné à l'article L. 814-2, les administrateurs judiciaires
+sont tenus, sans pouvoir opposer le secret professionnel, de déférer aux demandes des personnes chargées du contrôle tendant
+à la communication de tous renseignements ou documents utiles.
+
+Le commissaire aux comptes de l'administrateur judiciaire soumis à un contrôle ou à une inspection est tenu, sans pouvoir
+opposer le secret professionnel, de déférer aux demandes des personnes chargées du contrôle ou de l'inspection tendant à la
+communication de tout renseignement recueilli ou de tout document établi dans le cadre de l'exécution de sa mission.
 
 **Liens relatifs à cet article**
 
@@ -57209,7 +57534,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 9 () JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -57224,9 +57549,15 @@ _Cite_:
   - Code de commerce. - art. L811-2 (M)
 
 
-##### Sous-section 2 : De la discipline.<a id=320></a>
+##### Sous-section 2 : De la discipline.<a id=308></a>
 
 ###### Article L811-12
+
+L'action disciplinaire est engagée par le garde des sceaux, ministre de la justice, le procureur général près la cour d'appel
+dans le ressort de laquelle ont été commis les faits, le commissaire du Gouvernement ou le président du Conseil national des
+administrateurs judiciaires et des mandataires judiciaires au redressement et à la liquidation des entreprises. L'acceptation
+de la démission d'une personne inscrite sur la liste des administrateurs judiciaires ne fait pas obstacle aux poursuites
+disciplinaires si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions. 
 
 I. - La commission nationale d'inscription siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les
 fonctions du ministère public. Elle peut prononcer les peines disciplinaires suivantes :
@@ -57235,7 +57566,7 @@ fonctions du ministère public. Elle peut prononcer les peines disciplinaires su
 
 2° Le blâme ;
 
-3° L'interdiction temporaire pour une durée n'excédant pas un an ;
+3° L'interdiction temporaire pour une durée n'excédant pas trois ans ;
 
 4° La radiation de la liste des administrateurs judiciaires.
 
@@ -57243,9 +57574,9 @@ II. - L'avertissement et le blâme peuvent être accompagnés, pendant un délai
 l'administrateur judiciaire à des obligations particulières déterminées par la commission. Ces obligations peuvent également
 être prescrites par la commission lorsque l'administrateur judiciaire interdit temporairement reprend ses fonctions.
 
-III. - L'acceptation de la démission d'une personne inscrite sur la liste des administrateurs judiciaires ne fait pas
-obstacle au prononcé d'une mesure disciplinaire si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses
-fonctions.
+III. - Lorsqu'elle prononce une peine disciplinaire, la commission peut décider, eu égard à la gravité des faits commis, de
+mettre à la charge de l'administrateur judiciaire tout ou partie des frais occasionnés par la présence d'un commissaire aux
+comptes ou d'un expert lors des contrôles ou des inspections ayant permis la constatation de ces faits.
 
 **Liens relatifs à cet article**
 
@@ -57276,7 +57607,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 11 () JORF 4 janvier 2003
+
+
+###### Article L811-12 A
+
+Toute contravention aux lois et règlements, toute infraction aux règles professionnelles, tout manquement à la probité ou à
+l'honneur, même se rapportant à des faits commis en dehors de l'exercice professionnel, expose l'administrateur judiciaire
+qui en est l'auteur à des poursuites disciplinaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 10 () JORF 4 janvier 2003
+
+_Cité par_:
+
+  - Code de commerce - art. L814-10 (V)
+  - Code de commerce - art. L950-1 (VT)
 
 
 ###### Article L811-13
@@ -57319,7 +57673,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
 ###### Article L811-14
@@ -57340,7 +57694,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -57371,7 +57725,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -57385,7 +57739,8 @@ _Cite_:
 ###### Article L811-16
 
 Nul ne peut faire état du titre d'administrateur judiciaire, en dehors de la mission qui lui a été confiée, en vertu du
-deuxième alinéa de l'article L. 811-2 s'il n'est inscrit sur la liste des administrateurs judiciaires.
+deuxième alinéa de l'article L. 811-2 ou du second alinéa de l'article L. 811-8 s'il n'est inscrit sur la liste des
+administrateurs judiciaires.
 
 Toute infraction à cette disposition est punie des peines encourues pour le délit d'usurpation de titre prévu par l'article
 433-17 du code pénal.
@@ -57413,25 +57768,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 12 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cite_:
 
   - Code de commerce. - art. L811-2 (M)
+  - Code de commerce. - art. L811-8 (M)
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre II : Des mandataires judiciaires à la liquidation des entreprises<a id=321></a>
+#### Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises<a id=309></a>
 
-##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=322></a>
+##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=310></a>
 
-##### Sous-section 1 : Des missions.<a id=323></a>
+##### Sous-section 1 : Des missions.<a id=311></a>
 
 ###### Article L812-1
 
-Les mandataires judiciaires à la liquidation des entreprises sont les mandataires chargés par décision de justice de
-représenter les créanciers et de procéder éventuellement à la liquidation d'une entreprise dans les conditions définies par
-le titre II du livre VI.
+Les mandataires judiciaires au redressement et à la liquidation des entreprises sont les mandataires, personnes physiques ou
+morales, chargés par décision de justice de représenter les créanciers et de procéder éventuellement à la liquidation d'une
+entreprise dans les conditions définies par le titre II du livre VI.
+
+Les tâches que comporte l'exécution de leur mandat leur incombent personnellement. Ils peuvent toutefois, lorsque le bon
+déroulement de la procédure le requiert et sur autorisation motivée du président du tribunal, confier sous leur
+responsabilité à des tiers une partie de ces tâches.
+
+Lorsque les mandataires judiciaires confient à des tiers des tâches qui relèvent de la mission que leur a confiée le
+tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en application du décret prévu à l'article L. 814-6.
 
 **Liens relatifs à cet article**
 
@@ -57447,7 +57811,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -57457,40 +57821,43 @@ _Cité par_:
   - Code de commerce. - art. R626-40 (V)
   - Code de l'éducation - art. D613-31 (V)
 
+_Cite_:
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=324></a>
+  - Code de commerce. - art. L814-6 (M)
+
+
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=312></a>
 
 ###### Article L812-2
 
-I. - Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire à la liquidation des
-entreprises, dans une procédure de redressement judiciaire, s'il n'est inscrit sur la liste établie à cet effet par une
-commission instituée au siège de chaque cour d'appel.
+I. - Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire au redressement et à la
+liquidation des entreprises, dans une procédure de redressement judiciaire, s'il n'est inscrit sur la liste établie à cet
+effet par une commission nationale.
 
-II. - La commission visée au premier alinéa est ainsi composée :
+II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision spécialement motivée et après avis du procureur de la
+République, désigner comme mandataire judiciaire au redressement et à la liquidation des entreprises une personne physique
+justifiant d'une expérience ou d'une qualification particulière au regard de la nature de l'affaire et remplissant les
+conditions définies aux 1° à 4° de l'article L. 812-3.
 
-1° Un magistrat du siège de la cour d'appel, président ;
+Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq années précédentes, avoir perçu à quelque titre
+que ce soit, directement ou indirectement, une rétribution ou un paiement de la part de la personne physique ou morale
+faisant l'objet d'une mesure de redressement ou de liquidation judiciaires, d'une personne qui détient le contrôle de cette
+personne morale ou de l'une des sociétés contrôlées par elle au sens des II et III de l'article L. 233-16, ni s'être trouvées
+en situation de conseil de la personne physique ou morale concernée ou de subordination par rapport à elle. Elles doivent, en
+outre, n'avoir aucun intérêt dans le mandat qui leur est donné et n'être pas au nombre des anciens administrateurs ou
+mandataires judiciaires ayant fait l'objet d'une décision de radiation ou de retrait des listes en application des articles
+L. 811-6, L. 811-12, L. 812-4 et L. 812-9. Elles sont tenues d'exécuter les mandats qui leur sont confiés en se conformant,
+dans l'accomplissement de leurs diligences professionnelles, aux mêmes obligations que celles qui s'imposent aux mandataires
+judiciaires au redressement et à la liquidation des entreprises inscrits sur la liste. Elles ne peuvent exercer les fonctions
+de mandataire judiciaire au redressement et à la liquidation des entreprises à titre habituel.
 
-2° Un magistrat d'une chambre régionale des comptes dont le ressort correspond en tout ou partie à celui de la cour d'appel ;
+Les personnes désignées en application du premier alinéa du présent II doivent, lors de l'acceptation de leur mandat,
+attester sur l'honneur qu'elles remplissent les conditions fixées aux 1° à 4° de l'article L. 812-3, qu'elles se conforment
+aux obligations énumérées à l'alinéa précédent et qu'elles ne font pas l'objet d'une interdiction d'exercice en application
+de l'avant-dernier alinéa de l'article L. 814-10.
 
-3° Un membre d'une juridiction commerciale du premier degré du ressort de la cour d'appel ;
-
-4° Un professeur de droit, de sciences économiques ou de gestion ;
-
-5° Deux personnes qualifiées en matière économique ou sociale ;
-
-6° Deux personnes inscrites sur la liste des mandataires-liquidateurs ;
-
-7° Une personne inscrite sur la liste des experts en diagnostic d'entreprise.
-
-III. - En cas d'égalité des voix, celle du président est prépondérante.
-
-IV. - Le président et les membres de la commission ainsi que leurs suppléants, en nombre égal et choisis dans les mêmes
-catégories, sont désignés pour trois ans dans des conditions fixées par décret.
-
-V. - Un magistrat du parquet est désigné pour exercer les fonctions de commissaire du Gouvernement auprès de la commission
-régionale et assurer, notamment, l'instruction des demandes d'inscription.
-
-VI. - Les frais de fonctionnement des commissions régionales sont à la charge de l'Etat.
+III. - Lorsque le tribunal nomme une personne morale, il désigne en son sein une ou plusieurs personnes physiques pour la
+représenter dans l'accomplissement du mandat qui lui est confié.
 
 **Liens relatifs à cet article**
 
@@ -57629,40 +57996,146 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
+  - Code de commerce. - art. L811-12 (M)
+  - Code de commerce. - art. L811-6 (M)
+  - Code de commerce. - art. L812-3 (M)
+  - Code de commerce. - art. L812-9 (M)
+
+
+###### Article L812-2-1
+
+La liste mentionnée à l'article L. 812-2 est divisée en sections correspondant au ressort de chaque cour d'appel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L812-2 (M)
+
+
+###### Article L812-2-2
+
+La commission nationale prévue à l'article L. 812-2 est composée ainsi qu'il suit :
+
+- un conseiller à la Cour de cassation, président, désigné par le premier président de la Cour de cassation ;
+
+- un magistrat de la Cour des comptes, désigné par le premier président de la Cour des comptes ;
+
+- un membre de l'inspection générale des finances, désigné par le ministre chargé de l'économie et des finances ;
+
+- un magistrat du siège d'une cour d'appel, désigné par le premier président de la Cour de cassation ;
+
+- un membre d'une juridiction commerciale du premier degré, désigné par le premier président de la Cour de cassation ;
+
+- un professeur de droit, de sciences économiques ou de gestion, désigné par le ministre chargé des universités ;
+
+- un représentant du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat ;
+
+- deux personnes qualifiées en matière économique ou sociale, désignées par le garde des sceaux, ministre de la justice ;
+
+- trois mandataires judiciaires au redressement et à la liquidation des entreprises, inscrits sur la liste, élus par leurs
+pairs dans des conditions déterminées par décret en Conseil d'Etat. L'un d'eux est remplacé par une personne inscrite sur la
+liste des experts en diagnostic d'entreprise lorsque la commission donne, en application des dispositions du dernier alinéa
+de l'article L. 813-1 et de l'article L. 813-2, un avis sur l'inscription d'un expert de cette spécialité, sur sa radiation
+ou sur son retrait de la liste.
+
+En cas d'égalité des voix, celle du président est prépondérante.
+
+Le président et les membres de la commission ainsi que leurs suppléants, en nombre égal et choisis dans les mêmes catégories,
+sont désignés pour un mandat de trois ans renouvelable une fois.
+
+Un magistrat du parquet et son suppléant sont désignés pour exercer les fonctions de commissaire du Gouvernement auprès de la
+commission nationale et assurer notamment l'instruction des demandes d'inscription.
+
+Les frais de fonctionnement de la commission sont à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+
+_Cité par_:
+
+  - Loi n°2011-331 du 28 mars 2011 - art. 37 (V)
+  - ORDONNANCE n°2015-1287 du 15 octobre 2015 - art. 6 (VD)
+
+_Cite_:
+
+  - Code de commerce. - art. L812-2 (M)
+  - Code de commerce. - art. L813-1 (M)
+  - Code de commerce. - art. L813-2 (M)
 
 
 ###### Article L812-3
 
-Nul ne peut être inscrit sur la liste des mandataires judiciaires à la liquidation des entreprises s'il n'est de nationalité
-française.
+Nul ne peut être inscrit sur la liste par la commission s'il ne remplit les conditions suivantes :
 
-La commission ne peut inscrire que des personnes présentant des garanties de moralité suffisantes, qui ont subi avec succès
-l'examen d'aptitude aux fonctions de mandataire judiciaire à la liquidation des entreprises après l'accomplissement d'un
-stage professionnel et qui ont leur domicile professionnel dans le ressort de la cour d'appel.
+1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen ;
 
-Ne peuvent être admises à accomplir le stage professionnel prévu à l'alinéa précédent que les personnes titulaires des titres
-ou diplômes déterminés par décret.
+2° N'avoir pas été l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ;
 
-Par dérogation aux dispositions des deuxième et troisième alinéas ci-dessus, peuvent être admises à subir l'examen
-d'aptitude, en étant dispensées de tout ou partie du stage professionnel, les personnes qui, même non titulaires des titres
-ou diplômes exigés, ont acquis, en matière juridique et comptable, une expérience et une compétence jugées suffisantes par la
-commission.
+3° N'avoir pas été l'auteur de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de
+destitution, de radiation, de révocation, de retrait d'agrément ou de retrait d'autorisation ;
 
-Peuvent être dispensées de l'examen d'aptitude ou de certaines épreuves de celui-ci ainsi que de tout ou partie du stage
-professionnel les personnes ayant exercé l'une des professions énoncées par décret en Conseil d'Etat, dans des conditions de
-temps et de durée fixées également par décret en Conseil d'Etat.
+4° N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre V
+du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 précitée ou, dans le régime
+antérieur à cette loi, au titre II de la loi n° 67-563 du 13 juillet 1967 précitée ;
+
+5° Avoir subi avec succès l'examen d'accès au stage professionnel, accompli ce stage et subi avec succès l'examen d'aptitude
+aux fonctions de mandataire judiciaire au redressement et à la liquidation des entreprises.
+
+Ne peuvent être admises à se présenter à l'examen d'accès au stage professionnel que les personnes titulaires des titres ou
+diplômes déterminés par décret.
+
+Par dérogation aux dispositions qui précèdent, les personnes remplissant des conditions de compétence et d'expérience
+professionnelle fixées par décret en Conseil d'Etat sont dispensées de l'examen d'accès au stage professionnel. La commission
+peut, en outre, dispenser ces personnes, dans des conditions fixées par décret en Conseil d'Etat, d'une partie du stage
+professionnel et de tout ou partie de l'examen d'aptitude aux fonctions de mandataire judiciaire au redressement et à la
+liquidation des entreprises.
+
+Les personnes morales inscrites ne peuvent exercer les fonctions de mandataire judiciaire au redressement et à la liquidation
+des entreprises que par l'intermédiaire d'un de leurs membres lui-même inscrit sur la liste. 
 
 Sont dispensées des conditions de diplôme, de stage et d'examen professionnel prévues aux deuxième et troisième alinéas les
 personnes qui justifient avoir acquis, dans un Etat membre des communautés européennes autre que la France ou un autre Etat
 partie à l'accord sur l'Espace économique européen, une qualification suffisante pour l'exercice de la profession de
 mandataire judiciaire à la liquidation des entreprises, sous réserve d'avoir subi, dans des conditions fixées par décret en
 Conseil d'Etat, un examen de contrôle des connaissances. La liste des candidats admis à se présenter à l'examen est arrêtée
-par la commission instituée au siège de la cour d'appel de Paris. Le candidat qui a subi avec succès les épreuves de l'examen
-peut solliciter son inscription sur la liste établie par la commission instituée au siège de la cour d'appel dans le ressort
-de laquelle il envisage d'établir son domicile professionnel.
+par la commission.
+
+**Nota:**
+
+- Loi 2003-7 2003-01-03 art. 39 I : Les dispositions du présent article L. 812-3 du code de commerce, en tant qu'elles
+instituent un examen d'accès au stage professionnel, ne sont applicables qu'aux personnes qui, à la date de promulgation de
+la présente loi ne sont pas encore inscrites sur le registre de stage.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°67-563 1967-07-13
+  - Loi n°85-98 1985-01-25
 
 _Anciens textes_:
 
@@ -57695,21 +58168,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=325></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=313></a>
 
 ###### Article L812-4
 
-La commission régionale peut, par décision motivée et après avoir mis l'intéressé en demeure de présenter ses observations,
-retirer de la liste mentionnée à l'article L. 812-2 le mandataire judiciaire à la liquidation des entreprises qui, en raison
-de son état physique ou mental, est empêché d'assurer l'exercice normal de ses fonctions. Les mêmes dispositions sont
-applicables lorsque, par des manquements répétés à ses obligations professionnelles, le mandataire judiciaire à la
-liquidation des entreprises a révélé son inaptitude à assurer l'exercice normal de ses fonctions.
+La commission nationale, de sa propre initiative ou saisie sur requête du garde des sceaux, ministre de la justice, du
+président du Conseil national des administrateurs judiciaires et des mandataires judiciaires au redressement et à la
+liquidation des entreprises, du commissaire du Gouvernement ou du procureur de la République du ressort de la juridiction
+dans lequel est établi le mandataire judiciaire au redressement et à la liquidation des entreprises, peut, par décision
+motivée et après avoir mis l'intéressé en demeure de présenter ses observations, retirer de la liste mentionnée à l'article
+L. 812-2 le mandataire judiciaire au redressement et à la liquidation des entreprises qui, en raison de son état physique ou
+mental, est empêché d'assurer l'exercice normal de ses fonctions ou le mandataire judiciaire au redressement et à la
+liquidation des entreprises qui a révélé son inaptitude à assurer l'exercice normal de ses fonctions.
 
-Le retrait de la liste ne fait pas obstacle à l'exercice de poursuites disciplinaires contre le mandataire judiciaire à la
-liquidation des entreprises si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions.
+Le retrait de la liste ne fait pas obstacle à l'exercice de poursuites disciplinaires contre le mandataire judiciaire au
+redressement à la liquidation des entreprises si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses
+fonctions.
 
 **Liens relatifs à cet article**
 
@@ -57738,18 +58215,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
 ###### Article L812-5
 
-Les mandataires judiciaires à la liquidation des entreprises peuvent constituer entre eux, pour l'exercice en commun de leur
-profession, des sociétés civiles professionnelles régies par la loi n° 66-879 du 29 novembre 1966 précitée. Ils peuvent
-également exercer leur profession sous forme de sociétés d'exercice libéral telles que prévues par la loi n° 90-1258 du 31
-décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou
-réglementaire ou dont le titre est protégé. Ils peuvent aussi être membres d'un groupement d'intérêt économique ou d'un
-groupement européen d'intérêt économique ou associés d'une société en participation régie par le titre II de la loi n°
+Les mandataires judiciaires au redressement et à la liquidation des entreprises peuvent constituer entre eux, pour l'exercice
+en commun de leur profession, des sociétés civiles professionnelles régies par la loi n° 66-879 du 29 novembre 1966 précitée.
+Ils peuvent également exercer leur profession sous forme de sociétés d'exercice libéral telles que prévues par la loi n°
 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut
+législatif ou réglementaire ou dont le titre est protégé. Ils peuvent aussi être membres d'un groupement d'intérêt économique
+ou d'un groupement européen d'intérêt économique ou associés d'une société en participation régie par le titre II de la loi
+n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut
 législatif ou réglementaire ou dont le titre est protégé.
 
 **Liens relatifs à cet article**
@@ -57780,19 +58257,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
 ###### Article L812-6
 
-Les dossiers suivis par le mandataire judiciaire à la liquidation des entreprises qui quitte ses fonctions, pour quelque
-motif que ce soit, sont répartis par la juridiction entre les autres mandataires judiciaires à la liquidation des entreprises
-inscrits sur la liste régionale.
+Les dossiers suivis par le mandataire judiciaire au redressement et à la liquidation des entreprises qui quitte ses
+fonctions, pour quelque motif que ce soit, sont répartis par la juridiction entre les autres mandataires dans un délai de
+trois mois à compter de la cessation de fonctions.
 
-Toutefois, la juridiction, dans l'intérêt d'une bonne administration de la justice, peut autoriser l'ancien mandataire
-judiciaire à la liquidation des entreprises à poursuivre un ou plusieurs dossiers en cours, sauf si une radiation est la
-cause de l'abandon de ses fonctions. L'ancien mandataire judiciaire à la liquidation des entreprises autorisé à poursuivre un
-ou plusieurs dossiers en cours demeure soumis aux dispositions des articles L. 812-8 à L. 812-10 et L. 814-1 et L. 814-5.
+Toutefois, dans l'intérêt d'une bonne administration de la justice, la juridiction peut autoriser l'ancien mandataire à
+poursuivre le traitement d'un ou de plusieurs dossiers en cours, sauf si une radiation est la cause de l'abandon de ses
+fonctions. Ce mandataire demeure soumis aux dispositions des articles L. 812-8 à L. 812-10, L. 814-1 et L. 814-5.
 
 **Liens relatifs à cet article**
 
@@ -57821,7 +58297,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -57832,12 +58308,7 @@ _Cite_:
 
 ###### Article L812-7
 
-La juridiction désigne les mandataires judiciaires à la liquidation des entreprises parmi les personnes inscrites sur la
-liste établie pour le ressort de la cour d'appel dont le tribunal relève.
-
-Si le nombre de ces mandataires ne permet pas de répondre à la demande du tribunal, celui-ci peut désigner un mandataire
-judiciaire à la liquidation des entreprises qui est inscrit sur la liste établie pour le ressort d'une cour d'appel
-limitrophe.
+Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur l'ensemble du territoire.
 
 **Liens relatifs à cet article**
 
@@ -57853,24 +58324,40 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 4 : Des incompatibilités.<a id=326></a>
+##### Sous-section 4 : Des incompatibilités<a id=314></a>
+
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=315></a>
 
 ###### Article L812-8
 
-La qualité de mandataire judiciaire à la liquidation des entreprises inscrit sur la liste est incompatible avec l'exercice de
-toute autre profession.
+La qualité de mandataire judiciaire au redressement et à la liquidation des entreprises inscrit sur la liste est incompatible
+avec l'exercice de toute autre profession.
 
-La qualité de mandataire judiciaire à la liquidation des entreprises inscrit sur la liste ne fait pas obstacle à l'exercice
-d'une activité de consultation dans les matières relevant de la qualification de l'intéressé ni à l'accomplissement des
-mandats de conciliateur prévus par l'article L. 611-3 et par l'article L. 351-4 du code rural, de commissaire à l'exécution
-du plan ou de liquidateur amiable des biens d'une personne physique ou morale, d'expert judiciaire et de séquestre
-judiciaire. Toutefois, la même personne ne peut exercer successivement les fonctions de conciliateur puis de mandataire
-judiciaire à la liquidation des entreprises avant l'expiration d'un délai d'un an lorsqu'il s'agit d'une même entreprise. Le
-mandataire judiciaire à la liquidation des entreprises désigné comme expert ne pourra être nommé administrateur judiciaire en
-application de l'article L. 621-137.
+Elle est, par ailleurs, incompatible avec :
+
+1° Toutes les activités à caractère commercial, qu'elles soient exercées directement ou par personne interposée ;
+
+2° La qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou par
+actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire,
+directeur général ou directeur général délégué d'une société anonyme, de président ou de dirigeant d'une société par actions
+simplifiée, de membre du conseil de surveillance ou d'administrateur d'une société commerciale, de gérant d'une société
+civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de mandataire judiciaire au redressement et à
+la liquidation des entreprises ou l'acquisition de locaux pour cet exercice. Un mandataire peut en outre exercer les
+fonctions de gérant d'une société civile dont l'objet exclusif est la gestion d'intérêts à caractère familial.
+
+La qualité de mandataire judiciaire au redressement et à la liquidation des entreprises inscrit sur la liste ne fait pas
+obstacle à l'exercice d'une activité de consultation dans les matières relevant de la qualification de l'intéressé, ni à
+l'accomplissement des mandats de mandataire ad hoc et de conciliateur prévus par l'article L. 611-3 du présent code et par
+l'article L. 351-4 du code rural, de commissaire à l'exécution du plan ou de liquidateur amiable des biens d'une personne
+physique ou morale, d'expert judiciaire et de séquestre judiciaire. Cette activité et ces mandats, à l'exception des mandats
+de mandataire ad hoc, de conciliateur et de commissaire à l'exécution du plan, ne peuvent être exercés qu'à titre accessoire.
+La même personne ne peut exercer successivement les fonctions de conciliateur puis de mandataire judiciaire au redressement
+et à la liquidation des entreprises avant l'expiration d'un délai d'un an lorsqu'il s'agit d'une même entreprise.
+
+Les conditions du présent article sont, à l'exception du quatrième alinéa, applicables aux personnes morales inscrites.
 
 **Liens relatifs à cet article**
 
@@ -57893,7 +58380,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -57902,14 +58389,15 @@ _Cite_:
   - Code rural L351-4
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=327></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=316></a>
 
 ###### Article L812-9
 
 Les dispositions relatives à la surveillance, à l'inspection et à la discipline des administrateurs judiciaires prévues par
-les articles L. 811-11 à L. 811-15 sont applicables aux mandataires judiciaires à la liquidation des entreprises.
+les articles L. 811-11 à L. 811-15 sont applicables aux mandataires judiciaires au redressement et à la liquidation des
+entreprises.
 
-La commission régionale d'inscription siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les
+La commission nationale d'inscription siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les
 fonctions du ministère public.
 
 **Liens relatifs à cet article**
@@ -57937,7 +58425,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -57946,14 +58434,12 @@ _Cite_:
 
 ###### Article L812-10
 
-Les personnes inscrites sur l'une des listes régionales instituées par l'article L. 812-2 ne peuvent faire état de leur
-qualité que sous la dénomination de " mandataire judiciaire à la liquidation des entreprises auprès des tribunaux de la cour
-d'appel de... ". Le mandataire judiciaire à la liquidation des entreprises autorisé à poursuivre un ou plusieurs dossiers en
-cours en application du troisième alinéa de l'article L. 812-6 peut continuer à porter le titre de " mandataire judiciaire à
-la liquidation des entreprises auprès des tribunaux de la cour d'appel de... ".
+Nul ne peut faire état du titre de mandataire judiciaire au redressement et à la liquidation des entreprises, en dehors de la
+mission qui lui a été confiée en vertu du premier alinéa du II de l'article L. 812-2 et du second alinéa de l'article L.
+812-6, s'il n'est inscrit sur la liste des mandataires judiciaires au redressement et à la liquidation des entreprises.
 
-Toute personne, autre que celles mentionnées à l'alinéa précédent, qui aura fait usage de cette dénomination est punie des
-peines prévues encourues pour le délit d'usurpation de titre prévu par l'article 433-17 du code pénal.
+Toute infraction à cette disposition est punie des peines encourues pour le délit d'usurpation de titre prévu par l'article
+433-17 du code pénal.
 
 Est puni des mêmes peines celui qui aura fait usage d'une dénomination présentant une ressemblance de nature à causer une
 méprise dans l'esprit du public avec le titre prévu au premier alinéa.
@@ -57972,7 +58458,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -57981,9 +58467,9 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre III : Des experts en diagnostic d'entreprise<a id=328></a>
+#### Chapitre III : Des experts en diagnostic d'entreprise<a id=317></a>
 
-##### Section 1 : Des missions et des conditions de désignation.<a id=329></a>
+##### Section 1 : Des missions et des conditions de désignation.<a id=318></a>
 
 ###### Article L813-1
 
@@ -57991,10 +58477,19 @@ Les experts en diagnostic d'entreprise sont désignés en justice pour établir 
 financière d'une entreprise en cas de règlement amiable ou de redressement judiciaire, ou concourir à l'élaboration d'un tel
 rapport en cas de redressement judiciaire.
 
+Ces experts ne doivent pas, au cours des cinq années précédentes, avoir perçu à quelque titre que ce soit, directement ou
+indirectement, une rétribution ou un paiement de la part de la personne physique ou morale faisant l'objet d'une mesure
+d'administration, d'assistance ou de surveillance ou de la part d'une personne qui détient le contrôle de cette personne
+morale, ni s'être trouvés en situation de subordination par rapport à la personne physique ou morale concernée. Ils doivent,
+en outre, n'avoir aucun intérêt dans le mandat qui leur est donné.
+
+Les experts ainsi désignés doivent attester sur l'honneur, lors de l'acceptation de leur mandat, qu'ils se conforment aux
+obligations énumérées à l'alinéa précédent.
+
 Ces experts peuvent être choisis parmi les experts de cette spécialité inscrits sur les listes dressées, pour l'information
 des juges, en application de l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires.
 
-Chaque cour d'appel procède à l'inscription des experts de cette spécialité sur avis de la commission régionale créée à
+Chaque cour d'appel procède à l'inscription des experts de cette spécialité sur avis de la commission nationale créée à
 l'article L. 812-2. Cette inscription est valable pour trois ans. L'expert peut renouveler sa demande à l'expiration de ce
 délai.
 
@@ -58025,18 +58520,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la cessation des fonctions.<a id=330></a>
+##### Section 2 : De la cessation des fonctions.<a id=319></a>
 
 ###### Article L813-2
 
 La radiation de l'expert inscrit sous la rubrique d'expert en diagnostic d'entreprise peut être prononcée avant l'expiration
 du délai de trois ans dans les conditions prévues au deuxième alinéa de l'article 5 de la loi n° 71-498 du 29 juin 1971
-relative aux experts judiciaires, sur demande ou après avis de la commission régionale.
+relative aux experts judiciaires, sur demande ou après avis de la commission nationale.
 
-La cour d'appel peut également retirer de la liste, sur demande ou après avis de la commission régionale, les experts de
+La cour d'appel peut également retirer de la liste, sur demande ou après avis de la commission nationale, les experts de
 cette spécialité dont les qualités professionnelles se seraient révélées insuffisantes ou qui ne seraient plus en mesure
 d'exercer normalement leurs activités.
 
@@ -58062,20 +58557,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=331></a>
+#### Chapitre IV : Dispositions communes<a id=320></a>
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=332></a>
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=321></a>
 
-##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=333></a>
+##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=322></a>
 
 ###### Article L814-1
 
 Les recours contre les décisions prises, tant en matière d'inscription ou de retrait que de suspension provisoire ou de
-discipline, par la commission nationale sont portés devant la cour d'appel de Paris. Les recours contre les mêmes décisions
-prises par les commissions régionales sont portés devant la cour d'appel compétente.
+discipline, par les commissions nationales sont portés devant la cour d'appel de Paris.
 
 Ces recours, à l'exception de ceux dirigés contre les décisions de suspension provisoire, ont un caractère suspensif.
 
@@ -58111,21 +58609,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=334></a>
+##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=323></a>
 
 ###### Article L814-2
 
-Les professions d'administrateur judiciaire et de mandataire judiciaire à la liquidation des entreprises sont représentées
-auprès des pouvoirs publics par un Conseil national des administrateurs judiciaires et des mandataires judiciaires à la
-liquidation des entreprises : établissement d'utilité publique doté de la personnalité morale, chargé d'assurer la défense
-des intérêts collectifs de ces professions, d'organiser la formation professionnelle et de contrôler les études.
+Les professions d'administrateur judiciaire et de mandataire judiciaire au redressement et à la liquidation des entreprises
+sont représentées auprès des pouvoirs publics par un Conseil national des administrateurs judiciaires et des mandataires
+judiciaires au redressement et à la liquidation des entreprises, établissement d'utilité publique doté de la personnalité
+morale, chargé d'assurer la défense des intérêts collectifs de ces professions. Il incombe, en outre, au conseil national de
+veiller au respect de leurs obligations par les mandataires de justice, d'organiser leur formation professionnelle, de
+s'assurer qu'ils se conforment à leur obligation d'entretien et de perfectionnement des connaissances, de contrôler leurs
+études et de rendre compte de l'accomplissement de ces missions dans un rapport qu'il adresse chaque année au garde des
+sceaux, ministre de la justice.
 
-Les modes d'élection et de fonctionnement du Conseil national qui comprend en nombre égal un collège représentant les
-administrateurs judiciaires et un collège représentant les mandataires judiciaires à la liquidation des entreprises, sont
-fixés par décret en Conseil d'Etat.
+Les modes d'élection et de fonctionnement du conseil national, qui comprend en nombre égal un collège représentant les
+administrateurs judiciaires et un collège représentant les mandataires judiciaires au redressement et à la liquidation des
+entreprises, sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -58166,31 +58668,43 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=335></a>
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=324></a>
 
-##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=336></a>
+##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=325></a>
 
 ###### Article L814-3
 
 Une caisse dotée de la personnalité civile et gérée par les cotisants a pour objet de garantir le remboursement des fonds,
-effets ou valeurs reçus ou gérés par chaque administrateur judiciaire inscrit sur la liste nationale et par chaque mandataire
-judiciaire à la liquidation des entreprises. Un magistrat du parquet est désigné pour exercer les fonctions de commissaire du
-Gouvernement auprès de la caisse de garantie.
+effets ou valeurs reçus ou gérés par chaque administrateur judiciaire et par chaque mandataire judiciaire au redressement et
+à la liquidation des entreprises inscrits sur les listes, à l'occasion des opérations dont ils sont chargés à raison de leurs
+fonctions. Deux magistrats du parquet sont désignés pour exercer, l'un en qualité de titulaire, l'autre de suppléant, les
+fonctions de commissaire du Gouvernement auprès de la caisse.
 
-L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire inscrit sur la liste nationale et pour chaque
-mandataire judiciaire à la liquidation des entreprises.
+L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire et pour chaque mandataire judiciaire au
+redressement et à la liquidation des entreprises inscrits sur les listes.
 
 Les ressources de la caisse sont constituées par le produit d'une cotisation spéciale annuelle payée par chaque
-administrateur judiciaire inscrit sur cette liste et par chaque mandataire judiciaire à la liquidation des entreprises.
+administrateur judiciaire et par chaque mandataire judiciaire au redressement et à la liquidation des entreprises inscrits
+sur les listes.
+
+Les cotisations payées par les administrateurs judiciaires et par les mandataires judiciaires au redressement et à la
+liquidation des entreprises sont affectées à la garantie des seuls administrateurs judiciaires et mandataires judiciaires au
+redressement et à la liquidation des entreprises inscrits sur les listes.
+
+Au cas où les ressources de la caisse s'avèrent insuffisantes pour exécuter ses obligations, elle procède à un appel de fonds
+complémentaire auprès des professionnels inscrits sur les listes.
 
 La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2021 du
 code civil et sur la seule justification de l'exigibilité de la créance et de la non-représentation des fonds par
-l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises.
+l'administrateur judiciaire ou le mandataire judiciaire au redressement et à la liquidation des entreprises inscrits sur les
+listes.
 
-La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent titre.
+La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code.
+
+Les recours contre les décisions de la caisse sont portés devant le tribunal de grande instance de Paris.
 
 **Liens relatifs à cet article**
 
@@ -58218,7 +58732,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 27 () JORF 4 janvier 2003
 
 _Cite_:
 
@@ -58227,10 +58742,11 @@ _Cite_:
 
 ###### Article L814-4
 
-Il doit être justifié par chaque administrateur judiciaire inscrit sur la liste nationale, ainsi que par chaque mandataire
-judiciaire à la liquidation des entreprises inscrit sur la liste régionale, d'une assurance souscrite par l'intermédiaire de
-la caisse de garantie et garantissant sa responsabilité civile professionnelle en raison des négligences et fautes commises
-lors de l'exécution du mandat qui lui est confié.
+Il doit être justifié par chaque administrateur judiciaire ainsi que par chaque mandataire judiciaire au redressement et à la
+liquidation des entreprises inscrits sur les listes d'une assurance souscrite par l'intermédiaire de la caisse de garantie.
+Cette assurance couvre les conséquences pécuniaires de la responsabilité civile encourue par les administrateurs judiciaires
+et les mandataires judiciaires au redressement et à la liquidation des entreprises, du fait de leurs négligences ou de leurs
+fautes ou de celles de leurs préposés, commises dans l'exercice de leurs mandats.
 
 **Liens relatifs à cet article**
 
@@ -58254,18 +58770,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
 ###### Article L814-5
 
-L'administrateur judiciaire non inscrit sur la liste nationale, désigné dans les conditions fixées par le deuxième alinéa de
-l'article L. 811-2, l'administrateur désigné dans les conditions prévues à l'article L. 621-137 doit justifier, lorsqu'il
-accepte sa mission, d'une assurance, le cas échéant, auprès de la caisse de garantie, couvrant sa responsabilité civile
-professionnelle, ainsi que d'une garantie affectée au remboursement des fonds, effets ou valeurs.
-
-Les conditions d'application des articles L. 814-3 et L. 814-4 et du présent article sont fixées par décret en Conseil
-d'Etat.
+L'administrateur judiciaire non inscrit sur la liste nationale, désigné dans les conditions prévues par le deuxième alinéa de
+l'article L. 811-2, le mandataire judiciaire au redressement et à la liquidation des entreprises non inscrit sur la liste
+nationale, désigné dans les conditions prévues par le premier alinéa du II de l'article L. 812-2, doit justifier, lorsqu'il
+accepte sa mission, d'une garantie affectée au remboursement des fonds, effets ou valeurs ainsi que d'une assurance souscrite
+le cas échéant auprès de la caisse de garantie. Cette assurance couvre les conséquences pécuniaires de la responsabilité
+civile encourue par cet administrateur judiciaire ou ce mandataire judiciaire au redressement et à la liquidation des
+entreprises, du fait de ses négligences ou de ses fautes ou de celles de ses préposés, commises dans l'exercice de son
+mandat.
 
 **Liens relatifs à cet article**
 
@@ -58301,22 +58818,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 29 () JORF 4 janvier 2003
 
 _Cite_:
 
-  - Code de commerce. - art. L621-137 (M)
   - Code de commerce. - art. L811-2 (M)
+  - Code de commerce. - art. L812-2 (M)
 
 
-##### Sous-section 2 : De la rémunération.<a id=337></a>
+##### Sous-section 2 : De la rémunération.<a id=326></a>
 
 ###### Article L814-6
 
-Un décret en Conseil d'Etat fixe les modalités de rémunération des administrateurs judiciaires, qu'ils soient ou non inscrits
-sur la liste nationale, et des mandataires judiciaires à la liquidation des entreprises ainsi que les règles de prise en
-charge de la rémunération des personnes appelées, sur leur demande, à effectuer au profit de l'entreprise certaines tâches
-techniques non comprises dans les missions qui leur sont confiées.
+Un décret en Conseil d'Etat fixe les modalités de rémunération des administrateurs judiciaires et des mandataires judiciaires
+au redressement et à la liquidation des entreprises qu'ils soient ou non inscrits sur les listes nationales, ainsi que les
+règles de prise en charge de la rémunération des personnes appelées, sur leur demande, à effectuer au profit de l'entreprise
+certaines tâches techniques non comprises dans les missions qui leur sont confiées.
 
 **Liens relatifs à cet article**
 
@@ -58338,10 +58856,208 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-### TITRE II : Des commissaires aux comptes.<a id=338></a>
+###### Article L814-7
+
+Lorsque le produit de la réalisation des actifs de l'entreprise ne permet pas au liquidateur ou au représentant des
+créanciers d'obtenir, au titre de la rémunération qui lui est due en application des dispositions de l'article L. 814-6, une
+somme au moins égale à un seuil fixé par décret en Conseil d'Etat, le dossier est déclaré impécunieux par décision du
+tribunal, sur proposition du juge-commissaire et au vu des justificatifs présentés par le liquidateur ou le représentant des
+créanciers.
+
+La même décision fixe la somme correspondant à la différence entre la rémunération effectivement perçue par le liquidateur ou
+le représentant des créanciers et le seuil visé au premier alinéa.
+
+La somme versée au représentant des créanciers ou au liquidateur est prélevée sur une quote-part des intérêts servis par la
+Caisse des dépôts et consignations sur les fonds déposés en application des articles L. 621-33, L. 621-68 et L. 622-8. Cette
+quote-part est spécialement affectée à un fonds géré par la Caisse des dépôts et consignations sous le contrôle d'un comité
+d'administration. Les conditions d'application du présent alinéa sont fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-1390 du 27 décembre 1985 - art. 18-1 (M)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 18-2 (M)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 18-3 (M)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (M)
+  - Décret n°85-1390 du 27 décembre 1985 - art. 18-8 (M)
+  - Décret n°2004-518 du 10 juin 2004 - art. 109 (V)
+  - Code de commerce - art. Annexe 8-5 (VT)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2003-7 2003-01-03 art. 34 II (date d'effet)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L621-33 (M)
+  - Code de commerce. - art. L621-68 (M)
+  - Code de commerce. - art. L622-8 (M)
+  - Code de commerce. - art. L814-6 (M)
+
+
+##### Section 3 : Dispositions diverses.<a id=327></a>
+
+###### Article L814-8
+
+Lorsqu'un administrateur judiciaire ou un mandataire judiciaire au redressement et à la liquidation des entreprises inscrit
+sur les listes et désigné par une juridiction pour accomplir à l'égard d'une entreprise les missions prévues par les
+dispositions du livre VI est déjà intervenu pour le compte de celle-ci à titre de conseil ou au titre des missions prévues
+aux avant-derniers alinéas des articles L. 811-10 et L. 812-8, il informe la juridiction de la nature et de l'importance des
+diligences accomplies au cours des cinq années précédentes.
+
+Le non-respect des dispositions de l'alinéa précédent est passible de poursuites disciplinaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 31 () JORF 4 janvier 2003
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VT)
+  - Code de commerce - art. L958-1 (VT)
+
+_Cite_:
+
+  - Code de commerce. - art. L811-10 (M)
+  - Code de commerce. - art. L812-8 (M)
+
+
+###### Article L814-9
+
+Les administrateurs judiciaires et les mandataires judiciaires au redressement et à la liquidation des entreprises inscrits
+sur les listes sont tenus de suivre une formation continue leur permettant d'entretenir et de perfectionner leurs
+connaissances. Cette formation est organisée par le conseil national mentionné à l'article L. 814-2.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°73-541 du 19 juin 1973 - art. 7 (V)
+  - Décret n°75-770 du 14 août 1975 - art. 21 (V)
+  - Décret n°2017-1225 du 2 août 2017 (V)
+  - Code de commerce - art. L950-1 (VT)
+  - Code de commerce - art. R814-28-1 (VD)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 32 () JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L814-2 (M)
+
+
+###### Article L814-11
+
+Toute somme détenue par un administrateur judiciaire ou un mandataire judiciaire au redressement et à la liquidation des
+entreprises au titre d'un mandat amiable est versée, dès sa réception, en compte de dépôt à la Caisse des dépôts et
+consignations, sauf décision expresse du mandant de désigner un autre établissement financier. En cas de retard,
+l'administrateur judiciaire ou le mandataire judiciaire au redressement et à la liquidation des entreprises doit, pour les
+sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VT)
+
+
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=328></a>
+
+###### Article L814-10
+
+Les administrateurs judiciaires et les mandataires judiciaires au redressement et à la liquidation des entreprises non
+inscrits sur les listes nationales, désignés dans les conditions prévues au deuxième alinéa de l'article L. 811-2, au premier
+alinéa du II de l'article L. 812-2 ou à l'article L. 621-137, sont placés sous la surveillance du ministère public et sont
+soumis, dans leur activité professionnelle, à des inspections de l'autorité publique à l'occasion desquelles ils sont tenus
+de fournir tous renseignements ou documents utiles sans pouvoir opposer le secret professionnel.
+
+Les commissaires aux comptes des administrateurs ou mandataires judiciaires non inscrits et qui font l'objet d'une inspection
+sont tenus, sans pouvoir opposer le secret professionnel, de déférer aux demandes des personnes chargées de l'inspection
+tendant à la communication de tout renseignement recueilli ou de tout document établi dans le cadre de leur mission.
+
+Le procureur de la République peut, dans le cas où ces mandataires de justice se verraient reprocher d'avoir commis un acte
+constitutif de la contravention, de l'infraction ou du manquement visés à l'article L. 811-12 A, demander au tribunal de
+grande instance de leur interdire d'exercer les fonctions d'administrateur ou de mandataire judiciaires.
+
+Les mesures d'interdiction prononcées en application de l'alinéa précédent sont communiquées au garde des sceaux, ministre de
+la justice, pour être diffusées auprès des procureurs généraux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
+
+_Cité par_:
+
+  - Code de commerce - art. L811-2 (VD)
+  - Code de commerce - art. L812-2 (VD)
+  - Code de commerce - art. L950-1 (VT)
+  - Code de commerce - art. R641-8 (V)
+  - Code de commerce - art. R645-5 (V)
+
+_Cite_:
+
+  - Code de commerce L811-2, L812-2 A, L621-137, L811-12
+  - Code de commerce. - art. L621-137 (M)
+  - Code de commerce. - art. L811-12 (M)
+
+
+### TITRE II : Des commissaires aux comptes.<a id=329></a>
 
 ###### Article L820-1
 
@@ -58579,9 +59295,9 @@ _Cité par_:
   - Code monétaire et financier - art. L571-5 (V)
 
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=339></a>
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=330></a>
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=340></a>
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=331></a>
 
 ###### Article L910-1
 
@@ -58687,7 +59403,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=341></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=332></a>
 
 ###### Article L911-1
 
@@ -58822,27 +59538,31 @@ _Cite_:
 
 ###### Article L911-8
 
-L'article L. 145-2 est modifié ainsi qu'il suit :
+L'article L. 145-2 est modifié ainsi qu'il suit : 
 
-I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacées par les
-mots : " à l'Etat, aux collectivités territoriales et aux établissements publics " ;
+I.-Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacés par les mots : "
+à l'Etat, aux collectivités territoriales et aux établissements publics " ; 
 
-II. - Au 6°, les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques
-et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacées par les mots :
-" à la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts
+II.-Au 6°, les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques et
+plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacés par les mots : " à
+la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts
 applicable localement ".
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGIAN3 71
-  - Code de commerce. - art. L145-2 (M)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+
+_Cite_:
+
+  - Code de commerce - art. L145-2 (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 71 (P)
 
 
 ###### Article L911-9
@@ -58978,7 +59698,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=342></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=333></a>
 
 ###### Article L912-1
 
@@ -59095,7 +59815,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=343></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=334></a>
 
 ###### Article L913-1
 
@@ -59116,7 +59836,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=344></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=335></a>
 
 ###### Article L914-1
 
@@ -59163,7 +59883,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=345></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=336></a>
 
 ###### Article L915-1
 
@@ -59263,7 +59983,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=346></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=337></a>
 
 ###### Article L917-1
 
@@ -59351,7 +60071,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=347></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=338></a>
 
 ###### Article L920-1
 
@@ -59501,7 +60221,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=348></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=339></a>
 
 ###### Article L921-1
 
@@ -59645,12 +60365,12 @@ _Cite_:
 
 L'article L. 145-2 est modifié ainsi qu'il suit :
 
-I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacées par les
-mots : " à l'Etat, aux collectivités territoriales et aux établissements publics ".
+I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacés par les mots :
+" à l'Etat, aux collectivités territoriales et aux établissements publics ".
 
 II. - Au 6°, les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques
-et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacées par les mots :
-" à la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts
+et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacés par les mots : "
+à la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts
 applicable dans la collectivité ".
 
 **Liens relatifs à cet article**
@@ -59664,6 +60384,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L921-9
@@ -59803,7 +60527,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=349></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=340></a>
 
 ###### Article L922-1
 
@@ -59999,7 +60723,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=350></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=341></a>
 
 ###### Article L923-1
 
@@ -60043,7 +60767,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=351></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=342></a>
 
 ###### Article L924-1
 
@@ -60192,7 +60916,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L924-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=352></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=343></a>
 
 ###### Article L925-1
 
@@ -60317,7 +61041,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=353></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=344></a>
 
 ###### Article L926-1
 
@@ -60552,7 +61276,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=354></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=345></a>
 
 ###### Article L930-1
 
@@ -60689,7 +61413,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=355></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=346></a>
 
 ###### Article L931-1
 
@@ -60910,12 +61634,12 @@ _Cite_:
 
 L'article L. 145-2 est modifié ainsi qu'il suit :
 
-I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacées par les
-mots : " à l'Etat, aux collectivités territoriales et aux établissements publics " ;
+I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacés par les mots :
+" à l'Etat, aux collectivités territoriales et aux établissements publics " ;
 
 II. - Au 6° , les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques
-et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacées par les mots :
-" à la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts
+et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacés par les mots : "
+à la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts
 applicable en Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
@@ -60929,6 +61653,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L931-12
@@ -61086,7 +61814,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=356></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=347></a>
 
 ###### Article L932-1
 
@@ -61429,7 +62157,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=357></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=348></a>
 
 ###### Article L933-1
 
@@ -61571,7 +62299,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=358></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=349></a>
 
 ###### Article L935-1
 
@@ -61739,7 +62467,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=359></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=350></a>
 
 ###### Article L936-1
 
@@ -62080,7 +62808,33 @@ _Nouveaux textes_:
   - Code de commerce. - art. L936-11 (M)
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=360></a>
+###### Article L936-13
+
+Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi rédigée :
+
+"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs liquidateurs. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
+
+_Abrogé par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L622-2 (M)
+
+
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=351></a>
 
 ###### Article L940-1
 
@@ -62191,7 +62945,7 @@ _Codifié par_:
 ###### Article L940-6
 
 Les renvois faits, par des dispositions du présent code applicables en Polynésie française, à des dispositions de nature
-réglementaire sont remplacés par des renvois à des délibération de l'autorité compétente de la Polynésie française, sous
+réglementaire sont remplacés par des renvois à des délibérations de l'autorité compétente de la Polynésie française, sous
 réserve des dispositions prévues dans les chapitres ci-après.
 
 **Liens relatifs à cet article**
@@ -62200,6 +62954,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 _Cité par_:
 
@@ -62236,7 +62994,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=361></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=352></a>
 
 ###### Article L941-1
 
@@ -62610,7 +63368,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=362></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=353></a>
 
 ###### Article L942-1
 
@@ -62872,7 +63630,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=363></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=354></a>
 
 ###### Article L943-1
 
@@ -63010,7 +63768,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=364></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=355></a>
 
 ###### Article L945-1
 
@@ -63176,7 +63934,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=365></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=356></a>
 
 ###### Article L946-1
 
@@ -63435,7 +64193,29 @@ _Créé par_:
   - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=366></a>
+###### Article L946-13
+
+Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi rédigée :
+
+"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs liquidateurs. "
+
+**Nota:**
+
+Loi 2005-845 2005-07-26 : L'article L. 622-2 du code de commerce a été abrogé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
+
+
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=357></a>
 
 ###### Article L950-1
 
@@ -63587,7 +64367,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=367></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=358></a>
 
 ###### Article L951-1
 
@@ -63710,8 +64490,8 @@ _Cite_:
 
 L'article L. 145-2 est modifié ainsi qu'il suit :
 
-I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacées par les
-mots : " à l'Etat, aux collectivités territoriales et aux établissements publics " ;
+I. - Au 4°, les mots : " à l'Etat, aux départements, aux communes, aux établissements publics " sont remplacés par les mots :
+" à l'Etat, aux collectivités territoriales et aux établissements publics " ;
 
 II. - Au 6°, les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques
 et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacés par les mots : "
@@ -63729,6 +64509,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 
 ###### Article L951-8
@@ -63892,7 +64676,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=368></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=359></a>
 
 ###### Article L952-1
 
@@ -64079,7 +64863,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=369></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=360></a>
 
 ###### Article L953-1
 
@@ -64140,7 +64924,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L953-3 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=370></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=361></a>
 
 ###### Article L954-1
 
@@ -64317,7 +65101,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L954-7 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=371></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=362></a>
 
 ###### Article L955-1
 
@@ -64450,7 +65234,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=372></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=363></a>
 
 ###### Article L956-1
 
@@ -64708,7 +65492,38 @@ _Anciens textes_:
   - Code de commerce. - art. L956-9 (M)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=373></a>
+###### Article L956-9
+
+Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi rédigée :
+
+"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs liquidateurs. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
+
+_Transféré par_:
+
+  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+_Cite_:
+
+  - Code de commerce. - art. L622-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L956-8 (M)
+  - Code de commerce. - art. L956-8 (V)
+
+
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=364></a>
 
 ###### Article L957-1
 
@@ -64761,7 +65576,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=374></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=365></a>
 
 ###### Article L958-1
 
