@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-03-27
+Version Consolidée au 2004-04-17
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -291,88 +291,91 @@ Version Consolidée au 2004-03-27
           - [Section 4 : Du règlement des créances résultant du contrat de travail (art. L621-132)](#288)
             - [Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L621-132)](#289)
     - [LIVRE VII : De l'organisation du commerce (art. L711-1 à L740-3)](#290)
-      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-15)](#291)
+      - [TITRE Ier : Des chambres de commerce et d'industrie (art. L711-1 à L713-18)](#291)
         - [Chapitre Ier : De l'organisation et des attributions. (art. L711-1 à L711-10)](#292)
         - [Chapitre II : De l'administration financière. (art. L712-1 à L712-3)](#293)
-        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#294)
-      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#295)
-      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-16)](#296)
-      - [TITRE IV : Des manifestations commerciales. (art. L740-1 à L740-3)](#297)
-    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L822-16)](#298)
-      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-10)](#299)
-        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#300)
-          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#301)
-            - [Sous-section 1 : Des missions (art. L811-1)](#302)
-              - [(En vigueur jusqu'au 1er janvier 2006) (art. L811-1)](#303)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#304)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#305)
-            - [Sous-section 4 : Des incompatibilités (art. L811-10)](#306)
-              - [(en vigueur jusqu'au 1er janvier 2006) (art. L811-10)](#307)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#308)
-            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#309)
-            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#310)
-        - [Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises (art. L812-1 à L812-10)](#311)
-          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#312)
-            - [Sous-section 1 : Des missions. (art. L812-1)](#313)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#314)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#315)
-            - [Sous-section 4 : Des incompatibilités (art. L812-8)](#316)
-              - [(en vigueur jusqu'au 1er janvier 2006) (art. L812-8)](#317)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#318)
-        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1)](#319)
-        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#320)
-          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#321)
-            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#322)
-            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#323)
-          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#324)
-            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#325)
-            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#326)
-          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#327)
-            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#328)
-      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L822-16)](#329)
-        - [Chapitre préliminaire : Dispositions générales. (art. L820-1 à L820-7)](#330)
-        - [Chapitre Ier : De l'organisation et du contrôle de la profession. (art. L821-1 à L821-12)](#331)
-        - [Chapitre II : Du statut des commissaires aux comptes. (art. L822-1 à L822-16)](#332)
-          - [Section 1 : De l'inscription et de la discipline. (art. L822-1 à L822-8)](#333)
-            - [Sous-section 1 : De l'inscription. (art. L822-1 à L822-5)](#334)
-            - [Sous-section 2 : De la discipline. (art. L822-6 à L822-8)](#335)
-          - [Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes. (art. L822-9 à L822-16)](#336)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#337)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#338)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#339)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#340)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#341)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#342)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#343)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#344)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#345)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#346)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#347)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#348)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#349)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#350)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#351)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#352)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#353)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#354)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#355)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#356)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#357)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#358)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#359)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#360)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#361)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#362)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#363)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#364)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#365)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#366)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#367)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#368)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#369)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#370)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#371)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#372)
+        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-18)](#294)
+          - [Section 1 : De l'élection des membres des chambres de commerce et d'industrie. (art. L713-1 à L713-5)](#295)
+          - [Section 2 : De l'élection des délégués consulaires. (art. L713-6 à L713-10)](#296)
+          - [Section 3 : Dispositions communes. (art. L713-11 à L713-18)](#297)
+      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#298)
+      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-16)](#299)
+      - [TITRE IV : Des manifestations commerciales. (art. L740-1 à L740-3)](#300)
+    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L822-16)](#301)
+      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-10)](#302)
+        - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#303)
+          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#304)
+            - [Sous-section 1 : Des missions (art. L811-1)](#305)
+              - [(En vigueur jusqu'au 1er janvier 2006) (art. L811-1)](#306)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#307)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#308)
+            - [Sous-section 4 : Des incompatibilités (art. L811-10)](#309)
+              - [(en vigueur jusqu'au 1er janvier 2006) (art. L811-10)](#310)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline (art. L811-11 à L811-16)](#311)
+            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11)](#312)
+            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#313)
+        - [Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises (art. L812-1 à L812-10)](#314)
+          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités (art. L812-1 à L812-8)](#315)
+            - [Sous-section 1 : Des missions. (art. L812-1)](#316)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#317)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#318)
+            - [Sous-section 4 : Des incompatibilités (art. L812-8)](#319)
+              - [(en vigueur jusqu'au 1er janvier 2006) (art. L812-8)](#320)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#321)
+        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1)](#322)
+        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#323)
+          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#324)
+            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#325)
+            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#326)
+          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#327)
+            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#328)
+            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#329)
+          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#330)
+            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#331)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L822-16)](#332)
+        - [Chapitre préliminaire : Dispositions générales. (art. L820-1 à L820-7)](#333)
+        - [Chapitre Ier : De l'organisation et du contrôle de la profession. (art. L821-1 à L821-12)](#334)
+        - [Chapitre II : Du statut des commissaires aux comptes. (art. L822-1 à L822-16)](#335)
+          - [Section 1 : De l'inscription et de la discipline. (art. L822-1 à L822-8)](#336)
+            - [Sous-section 1 : De l'inscription. (art. L822-1 à L822-5)](#337)
+            - [Sous-section 2 : De la discipline. (art. L822-6 à L822-8)](#338)
+          - [Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes. (art. L822-9 à L822-16)](#339)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#340)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#341)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#342)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#343)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#344)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#345)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#346)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#347)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#348)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#349)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#350)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#351)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#352)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#353)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#354)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#355)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#356)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#357)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#358)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#359)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#360)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#361)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#362)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#363)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#364)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#365)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#366)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#367)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#368)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#369)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#370)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#371)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#372)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#373)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#374)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#375)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -55521,6 +55524,8 @@ _Nouveaux textes_:
 
 #### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.<a id=294></a>
 
+##### Section 1 : De l'élection des membres des chambres de commerce et d'industrie.<a id=295></a>
+
 ###### Article L713-1
 
 I. - Les membres des chambres de commerce et d'industrie sont élus pour cinq ans.
@@ -55597,7 +55602,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 1 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 
 ###### Article L713-2
@@ -55641,7 +55646,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 2 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 _Cité par_:
 
@@ -55656,10 +55661,11 @@ _Cité par_:
 ###### Article L713-3
 
 I. - Les représentants mentionnés aux articles L. 713-1 et L. 713-2 doivent exercer dans l'entreprise soit des fonctions de
-président-directeur général, de directeur général, de président ou de membre du directoire, de président du conseil de
-surveillance, de gérant, de président ou de membre du conseil d'administration ou de directeur d'un établissement public à
-caractère industriel et commercial, soit, à défaut et pour les représenter à titre de mandataire, des fonctions impliquant
-des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+président-directeur général, de président ou de membre du conseil d'administration, de directeur général, de président ou de
+membre du directoire, de président du conseil de surveillance, de gérant, de président ou de membre du conseil
+d'administration ou de directeur d'un établissement public à caractère industriel et commercial, soit, à défaut et pour les
+représenter à titre de mandataire, des fonctions impliquant des responsabilités de direction commerciale, technique ou
+administrative de l'entreprise ou de l'établissement.
 
 II. - Les électeurs à titre personnel mentionnés au 1° du II de l'article L. 713-1 et les représentants des personnes
 physiques ou morales mentionnées au 2° du II du même article doivent être ressortissants d'un Etat membre de la Communauté
@@ -55706,7 +55712,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 3 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 15 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 _Cite_:
 
@@ -55719,254 +55726,6 @@ _Cite_:
 
 
 ###### Article L713-4
-
-Les délégués consulaires sont élus pour trois ans, dans la circonscription de chaque chambre de commerce et d'industrie, par
-un collège composé des électeurs énumérés aux 1° et 2° du II de l'article L. 713-1 ainsi que des cadres employés par ces
-électeurs dans la circonscription et exerçant des fonctions impliquant des responsabilités de direction commerciale,
-technique ou administrative de l'entreprise ou de l'établissement.
-
-Les personnes appelées à élire les délégués consulaires ne prennent part au vote que sous réserve de satisfaire aux
-conditions fixées au second alinéa de l'article L. 713-3.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-  - Code de commerce. - art. L713-10 (T)
-
-_Cité par_:
-
-  - Décret n°91-739 du 18 juillet 1991 - art. 10 (Ab)
-  - Décret n°91-739 du 18 juillet 1991 - art. 19 (Ab)
-  - Décret n°91-739 du 18 juillet 1991 - art. 56 (Ab)
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 9 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-29 (Ab)
-  - Code de commerce - art. L917-1-1 (V)
-  - Code de commerce - art. R711-15 (V)
-  - Code de commerce - art. R713-10 (V)
-  - Code de commerce - art. R713-7 (V)
-  - Code de commerce - art. R713-8 (V)
-  - Code de commerce - art. R713-9 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Transféré par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-_Cite_:
-
-  - Code de commerce. - art. L713-1 (M)
-  - Code de commerce. - art. L713-3 (M)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L713-6 (M)
-
-
-###### Article L713-5
-
-Les électeurs des délégués consulaires et des membres des chambres de commerce et d'industrie sont répartis dans chaque
-circonscription administrative entre trois catégories professionnelles correspondant respectivement aux activités
-commerciales, industrielles ou de services.
-
-Au sein de ces trois catégories, les électeurs peuvent éventuellement être répartis en sous-catégories professionnelles
-définies en fonction soit de la taille des entreprises, soit de leurs activités spécifiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 8 (Ab)
-  - Code de commerce. - art. L713-14 (T)
-
-_Cité par_:
-
-  - Décret n°91-739 du 18 juillet 1991 - art. 35 (Ab)
-  - Loi n°2010-853 du 23 juillet 2010 - art. 40 (V)
-  - Code de commerce - art. R711-46 (V)
-  - Code de commerce - art. R713-29 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Transféré par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L713-11 (M)
-
-
-###### Article L713-6
-
-Le nombre des sièges des délégués consulaires, qui ne peut être inférieur à soixante ni supérieur à six cents, est déterminé
-compte tenu de l'importance du corps électoral consulaire de la circonscription, du nombre de membres élus de la chambre de
-commerce et d'industrie et du nombre des tribunaux de commerce compris dans la circonscription de cette chambre.
-
-Le nombre de sièges d'une chambre de commerce et d'industrie est de vingt-quatre à cinquante pour les chambres de commerce et
-d'industrie dont la circonscription compte moins de 30 000 électeurs, de trente-huit à soixante-dix pour celles dont la
-circonscription comporte 30 000 à 100 000 électeurs et de soixante-quatre à cent pour celles dont la circonscription compte
-plus de 100 000 électeurs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 9 (Ab)
-  - Code de commerce. - art. L713-4 (T)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Modifié par_:
-
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 4 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-_Transféré par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-_Cité par_:
-
-  - Décret n°2004-799 du 29 juillet 2004 - art. 1 (Ab)
-  - Loi n°2009-888 du 22 juillet 2009 - art. 35 (VD)
-  - Loi n°2015-991 du 7 août 2015 - art. 4 (V)
-  - Code de commerce - art. L723-2 (V)
-  - Code de commerce - art. R713-31 (V)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L713-12 (T)
-  - Code de commerce. - art. L713-12 (V)
-
-
-###### Article L713-7
-
-La répartition des sièges entre catégories et sous-catégories professionnelles est faite en tenant compte des bases
-d'imposition des ressortissants, du nombre de ceux-ci et du nombre de salariés qu'ils emploient.
-
-Aucune des catégories professionnelles ne peut disposer d'une représentation supérieure à la moitié du nombre des sièges.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Transféré par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-_Cité par_:
-
-  - Décret n°2004-799 du 29 juillet 2004 - art. 5 (Ab)
-  - Arrêté du 4 octobre 2010 - art. 1 (V)
-  - Arrêté du 13 juillet 2016 - art. 1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3-1 (M)
-  - Code de commerce - art. L713-10 (V)
-  - Code de commerce - art. L713-8 (V)
-  - Code de commerce - art. L723-4 (V)
-  - Code de commerce - art. R713-37 (V)
-  - Code de commerce. - art. L713-9 (V)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L713-13 (T)
-  - Code de commerce. - art. L713-13 (V)
-
-
-###### Article L713-8
-
-Les listes électorales sont dressées dans le ressort du tribunal de commerce par une commission présidée par le juge commis à
-la surveillance du registre du commerce et des sociétés et sont soumises aux prescriptions du premier alinéa de l'article L.
-25 et des articles L. 27, L. 34 et L. 35 du code électoral.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Transféré par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
-  - Code de commerce - art. L723-4 (V)
-
-_Cite_:
-
-  - Code de commerce L25
-  - Code électoral - art. L27 (V)
-  - Code électoral - art. L34 (V)
-  - Code électoral - art. L35 (V)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L713-14 (M)
-  - Code de commerce. - art. L713-14 (V)
-
-
-###### Article L713-9
-
-Sont éligibles aux fonctions de délégué consulaire les personnes appartenant au collège des électeurs tel qu'il est défini à
-l'article L. 713-4.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-550 du 16 juillet 1987 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Transféré par_:
-
-  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-_Cité par_:
-
-  - Décret n°2004-799 du 29 juillet 2004 - art. 11 (Ab)
-  - Arrêté du 4 octobre 2010 - art. Annexe (V)
-  - Code de commerce - art. R713-44 (V)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L713-10 (M)
-
-_Cite_:
-
-  - Code de commerce. - art. L713-10 (M)
-
-
-###### Article L713-10
 
 I. - Sont éligibles aux fonctions de membre d'une chambre de commerce et d'industrie, sous réserve d'être âgés de dix-huit
 ans accomplis et de satisfaire aux conditions fixées au II de l'article L. 713-3 :
@@ -55989,6 +55748,313 @@ au 3° du II de l'article L. 713-3.
 
 _Anciens textes_:
 
+  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
+  - Code de commerce. - art. L713-10 (M)
+  - Code de commerce. - art. L713-10 (T)
+
+_Cité par_:
+
+  - Décret n°91-739 du 18 juillet 1991 - art. 10 (Ab)
+  - Décret n°91-739 du 18 juillet 1991 - art. 19 (Ab)
+  - Décret n°91-739 du 18 juillet 1991 - art. 56 (Ab)
+  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 9 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-29 (Ab)
+  - Code de commerce - art. L917-1-1 (V)
+  - Code de commerce - art. R711-15 (V)
+  - Code de commerce - art. R713-10 (V)
+  - Code de commerce - art. R713-7 (V)
+  - Code de commerce - art. R713-8 (V)
+  - Code de commerce - art. R713-9 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+_Cite_:
+
+  - Code de commerce. - art. L713-1 (M)
+  - Code de commerce. - art. L713-2 (M)
+  - Code de commerce. - art. L713-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L713-6 (M)
+
+
+###### Article L713-5
+
+I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est procédé à son renouvellement dans un délai de six
+mois.
+
+Toutefois, si cette dissolution est prononcée moins d'un an avant un renouvellement général, il n'est pas procédé au
+renouvellement.
+
+II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se trouve réduit à moins de la moitié du nombre
+initial, le préfet constate la situation par arrêté et organise de nouvelles élections pour la totalité des sièges dans un
+délai de six mois.
+
+Toutefois, si cette situation est constatée moins d'un an avant un renouvellement général, il n'est pas procédé au
+renouvellement.
+
+III. - Les membres élus en application du présent article ne demeurent en fonction que pour la durée restant à courir du
+mandat de leurs prédécesseurs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°87-550 du 16 juillet 1987 - art. 8 (Ab)
+  - Code de commerce. - art. L713-14 (M)
+  - Code de commerce. - art. L713-14 (T)
+
+_Cité par_:
+
+  - Décret n°91-739 du 18 juillet 1991 - art. 35 (Ab)
+  - Loi n°2010-853 du 23 juillet 2010 - art. 40 (V)
+  - Code de commerce - art. R711-46 (V)
+  - Code de commerce - art. R713-29 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L713-11 (M)
+
+
+##### Section 2 : De l'élection des délégués consulaires.<a id=296></a>
+
+###### Article L713-6
+
+Les délégués consulaires sont élus pour cinq ans dans la circonscription de chaque chambre de commerce et d'industrie.
+
+Toutefois, aucun délégué consulaire n'est élu dans la circonscription ou partie de circonscription située dans le ressort
+d'un tribunal compétent en matière commerciale ne comprenant aucun juge élu.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°87-550 du 16 juillet 1987 - art. 9 (Ab)
+  - Code de commerce. - art. L713-4 (T)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 3 () JORF 17 avril 2004
+
+_Cité par_:
+
+  - Décret n°2004-799 du 29 juillet 2004 - art. 1 (Ab)
+  - Loi n°2009-888 du 22 juillet 2009 - art. 35 (VD)
+  - Loi n°2015-991 du 7 août 2015 - art. 4 (V)
+  - Code de commerce - art. L723-2 (V)
+  - Code de commerce - art. R713-31 (V)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L713-12 (V)
+
+
+###### Article L713-7
+
+Sont électeurs aux élections des délégués consulaires :
+
+1° A titre personnel :
+
+a) Les commerçants immatriculés au registre du commerce et des sociétés dans la circonscription de la chambre de commerce et
+d'industrie, sous réserve, pour les associés en nom collectif et les associés commandités, des dispositions du III de
+l'article L. 713-2 ;
+
+b) Les chefs d'entreprise inscrits au répertoire des métiers et immatriculés au registre du commerce et des sociétés dans la
+circonscription ;
+
+c) Les conjoints des personnes énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils
+collaborent à l'activité de leur époux sans autre activité professionnelle ;
+
+d) Les capitaines au long cours ou capitaines de la marine marchande exerçant le commandement d'un navire immatriculé en
+France dont le port d'attache est situé dans la circonscription, les pilotes maritimes exerçant leurs fonctions dans un port
+situé dans la circonscription, les pilotes de l'aéronautique civile domiciliés dans la circonscription et exerçant le
+commandement d'un aéronef immatriculé en France ;
+
+e) Les membres en exercice des tribunaux de commerce, ainsi que les anciens membres de ces tribunaux ayant demandé à être
+inscrits sur la liste électorale ;
+
+2° Par l'intermédiaire d'un représentant :
+
+a) Les sociétés à caractère commercial au sens de l'article L. 210-1 et les établissements publics à caractère industriel et
+commercial dont le siège social est situé dans la circonscription ;
+
+b) Au titre d'un établissement faisant l'objet dans la circonscription d'une inscription complémentaire ou d'une
+immatriculation secondaire, à moins qu'il en soit dispensé par les lois et règlements en vigueur, les personnes physiques
+mentionnées aux a et b du 1° et les personnes morales mentionnées au a du présent 2°, quelle que soit la circonscription où
+ces personnes exercent leur propre droit de vote ;
+
+c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la
+circonscription d'un établissement immatriculé au registre du commerce et des sociétés ;
+
+3° Les cadres qui, employés dans la circonscription par les électeurs mentionnés aux 1° ou 2°, exercent des fonctions
+impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°87-550 du 16 juillet 1987 - art. 10 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 3 () JORF 17 avril 2004
+
+_Cité par_:
+
+  - Décret n°2004-799 du 29 juillet 2004 - art. 5 (Ab)
+  - Arrêté du 4 octobre 2010 - art. 1 (V)
+  - Arrêté du 13 juillet 2016 - art. 1 (V)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3-1 (M)
+  - Code de commerce - art. L713-10 (V)
+  - Code de commerce - art. L713-8 (V)
+  - Code de commerce - art. L723-4 (V)
+  - Code de commerce - art. R713-37 (V)
+  - Code de commerce. - art. L713-9 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L210-1 (V)
+  - Code de commerce. - art. L713-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L713-13 (V)
+
+
+###### Article L713-8
+
+Les représentants mentionnés au 2° de l'article L. 713-7 doivent exercer dans l'entreprise soit des fonctions de président-
+directeur général, de président ou de membre du conseil d'administration, de directeur général, de président ou de membre du
+directoire, de président du conseil de surveillance, de gérant, de président ou de membre du conseil d'administration ou de
+directeur d'un établissement public à caractère industriel et commercial, soit, à défaut et pour les représenter à titre de
+mandataire, des fonctions impliquant des responsabilités de direction commerciale, technique ou administrative de
+l'entreprise ou de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°87-550 du 16 juillet 1987 - art. 11 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 4 () JORF 17 avril 2004
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
+  - Code de commerce - art. L723-4 (V)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L713-14 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L713-7 (T)
+
+
+###### Article L713-9
+
+Les électeurs à titre personnel et les cadres mentionnés aux 1° et 3° de l'article L. 713-7 ainsi que les représentants des
+personnes physiques ou morales mentionnées au 2° du même article doivent être ressortissants d'un Etat membre de la
+Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
+
+Ils doivent en outre :
+
+1° Remplir les conditions fixées à l'article L. 2 du code électoral sous réserve des dispositions du premier alinéa ci-
+dessus ;
+
+2° Ne pas avoir été condamnés à l'une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
+électoral et par l'article L. 625-8 du présent code ou à une interdiction d'exercer une activité commerciale ;
+
+3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
+Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen qui, si elles
+avaient été prononcées par une juridiction française, feraient obstacle à l'inscription sur la liste électorale établie
+conformément aux dispositions du code électoral.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°87-550 du 16 juillet 1987 - art. 12 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance 2004-328 2004-04-15 art. 2 II, III, art. 4 JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 4 () JORF 17 avril 2004
+
+_Cité par_:
+
+  - Décret n°2004-799 du 29 juillet 2004 - art. 11 (Ab)
+  - Arrêté du 4 octobre 2010 - art. Annexe (V)
+  - Code de commerce - art. R713-44 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L625-8 (M)
+  - Code de commerce. - art. L713-7 (T)
+  - Code électoral - art. L2 (V)
+  - Code électoral - art. L5 (M)
+  - Code électoral - art. L6 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L713-10 (M)
+
+
+###### Article L713-10
+
+Sont éligibles aux fonctions de délégué consulaire les personnes appartenant au collège des électeurs tel qu'il est défini à
+l'article L. 713-7.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
   - Loi n°87-550 du 16 juillet 1987 - art. 13 (Ab)
   - Code de commerce. - art. L713-9 (T)
 
@@ -55999,11 +56065,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 5 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-_Transféré par_:
-
   - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 5 () JORF 17 avril 2004
 
 _Cité par_:
 
@@ -56018,28 +56081,26 @@ _Cité par_:
   - Code de commerce - art. R713-45 (V)
   - Code de commerce. - art. L713-9 (T)
 
-_Cite_:
-
-  - Code de commerce. - art. L713-1 (M)
-  - Code de commerce. - art. L713-2 (M)
-  - Code de commerce. - art. L713-3 (M)
-
 _Nouveaux textes_:
 
   - Code de commerce. - art. L713-4 (M)
   - Code de commerce. - art. L713-4 (T)
 
+_Cite_:
+
+  - Code de commerce. - art. L713-7 (T)
+
+
+##### Section 3 : Dispositions communes.<a id=297></a>
 
 ###### Article L713-11
 
-Pour l'élection des membres des chambres de commerce et d'industrie, chaque électeur dispose d'autant de voix qu'il a de
-qualités à être électeur par application de l'article L. 713-1.
+Les électeurs des délégués consulaires et des membres des chambres de commerce et d'industrie sont répartis dans chaque
+circonscription administrative entre trois catégories professionnelles correspondant respectivement aux activités
+commerciales, industrielles ou de services.
 
-Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une seule voix.
-
-Le droit de vote aux élections des membres des chambres de commerce et d'industrie est exercé par correspondance ou par voie
-électronique. En cas d'utilisation par un même électeur au titre de la même qualité des deux modes de vote, seul le vote par
-voie électronique est considéré comme valide.
+Au sein de ces trois catégories, les électeurs peuvent éventuellement être répartis en sous-catégories professionnelles
+définies en fonction soit de la taille des entreprises, soit de leurs activités spécifiques.
 
 **Liens relatifs à cet article**
 
@@ -56070,10 +56131,6 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 6 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-_Transféré par_:
-
   - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 _Nouveaux textes_:
@@ -56083,14 +56140,21 @@ _Nouveaux textes_:
 
 ###### Article L713-12
 
-Les délégués consulaires et les membres des chambres de commerce et d'industrie sont élus au scrutin uninominal à un tour. Si
-plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé est proclamé élu.
+Le nombre des sièges des délégués consulaires, qui ne peut être inférieur à soixante ni supérieur à six cents, est déterminé
+compte tenu de l'importance du corps électoral consulaire de la circonscription, du nombre de membres élus de la chambre de
+commerce et d'industrie et du nombre des tribunaux de commerce compris dans la circonscription de cette chambre.
+
+Le nombre de sièges d'une chambre de commerce et d'industrie est de vingt-quatre à cinquante pour les chambres de commerce et
+d'industrie dont la circonscription compte moins de 30 000 électeurs, de trente-huit à soixante-dix pour celles dont la
+circonscription comporte 30 000 à 100 000 électeurs et de soixante-quatre à cent pour celles dont la circonscription compte
+plus de 100 000 électeurs.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°87-550 du 16 juillet 1987 - art. 15 (Ab)
+  - Code de commerce. - art. L713-6 (M)
   - Code de commerce. - art. L713-6 (T)
 
 _Cité par_:
@@ -56107,27 +56171,21 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L713-16 (M)
   - Code de commerce. - art. L713-16 (V)
 
 
 ###### Article L713-13
 
-Les opérations pour l'élection des délégués consulaires et des membres des chambres de commerce et d'industrie sont
-organisées par le préfet et sont soumises aux prescriptions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117-1 du
-code électoral.
+La répartition des sièges entre catégories et sous-catégories professionnelles est faite en tenant compte des bases
+d'imposition des ressortissants, du nombre de ceux-ci et du nombre de salariés qu'ils emploient.
 
-Une commission présidée par le préfet ou son représentant est chargée de veiller à la régularité du scrutin et de proclamer
-les résultats.
-
-Les recours contre les élections des délégués consulaires et des membres des chambres de commerce et d'industrie sont portés
-devant le tribunal administratif comme en matière d'élections municipales.
+Aucune des catégories professionnelles ne peut disposer d'une représentation supérieure à la moitié du nombre des sièges.
 
 **Liens relatifs à cet article**
 
@@ -56147,39 +56205,20 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L713-17 (M)
   - Code de commerce. - art. L713-17 (V)
-
-_Cite_:
-
-  - Code électoral - art. L49 (M)
-  - Code électoral - art. L50 (V)
-  - Code électoral L49, L50, L58 à L67, L86 à L117-1
 
 
 ###### Article L713-14
 
-I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est procédé à son renouvellement dans un délai de six
-mois.
-
-Toutefois, si cette dissolution est prononcée moins d'un an avant un renouvellement général, il n'est pas procédé au
-renouvellement.
-
-II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se trouve réduit à moins de la moitié du nombre
-initial, le préfet constate la situation par arrêté et organise de nouvelles élections pour la totalité des sièges dans un
-délai de six mois.
-
-Toutefois, si cette situation est constatée moins d'un an avant un renouvellement général, il n'est pas procédé au
-renouvellement.
-
-III. - Les membres élus en application du présent article ne demeurent en fonction que pour la durée restant à courir du
-mandat de leurs prédécesseurs.
+Les listes électorales sont dressées dans le ressort du tribunal de commerce par une commission présidée par le juge commis à
+la surveillance du registre du commerce et des sociétés et sont soumises aux prescriptions du premier alinéa de l'article L.
+25 et des articles L. 27, L. 34 et L. 35 du code électoral.
 
 **Liens relatifs à cet article**
 
@@ -56205,11 +56244,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 7 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-_Transféré par_:
-
   - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+_Cite_:
+
+  - Code de commerce L25
+  - Code électoral - art. L27 (V)
+  - Code électoral - art. L34 (V)
+  - Code électoral - art. L35 (V)
 
 _Nouveaux textes_:
 
@@ -56219,15 +56261,21 @@ _Nouveaux textes_:
 
 ###### Article L713-15
 
-Un décret en Conseil d'Etat détermine les modalités d'application des articles L. 713-1 à L. 713-14. Ce décret fixe notamment
-les conditions dans lesquelles sont répartis les sièges de délégués consulaires et de membres d'une chambre de commerce et
-d'industrie entre les catégories et sous-catégories professionnelles.
+Pour l'élection des membres des chambres de commerce et d'industrie, chaque électeur dispose d'autant de voix qu'il a de
+qualités à être électeur par application de l'article L. 713-1.
+
+Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une seule voix.
+
+Le droit de vote aux élections des membres des chambres de commerce et d'industrie et aux élections des délégués consulaires
+est exercé par correspondance ou par voie électronique. En cas d'utilisation par un même électeur au titre de la même qualité
+des deux modes de vote, seul le vote électronique est considéré comme valide.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°87-550 du 16 juillet 1987 - art. 18 (Ab)
+  - Code de commerce. - art. L713-11 (M)
   - Code de commerce. - art. L713-11 (T)
 
 _Codifié par_:
@@ -56237,11 +56285,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 8 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-_Transféré par_:
-
   - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 6 () JORF 17 avril 2004
 
 _Cité par_:
 
@@ -56252,16 +56297,90 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce L713-1 à L713-14
+  - Code de commerce. - art. L713-1 (M)
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L713-18 (M)
   - Code de commerce. - art. L713-18 (V)
   - Code de commerce. - art. R713-64 (V)
 
 
-### TITRE II : De l'équipement commercial<a id=295></a>
+###### Article L713-17
+
+Les opérations pour l'élection des délégués consulaires et pour l'élection des membres des chambres de commerce et
+d'industrie sont organisées à la même date, par l'autorité administrative et, sous son contrôle, par les chambres de commerce
+et d'industrie. Elles sont soumises aux prescriptions des articles L. 49, L. 50, L. 58 à L. 67 du code électoral. La
+méconnaissance de ces dispositions est passible des peines prévues aux articles L. 86 à L. 117-1 du même code.
+
+Une commission présidée par le préfet ou son représentant est chargée de veiller à la régularité du scrutin et de proclamer
+les résultats.
+
+Les recours contre les élections des délégués consulaires et des membres des chambres de commerce et d'industrie sont portés
+devant le tribunal administratif comme en matière d'élections municipales.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°91-739 du 18 juillet 1991 - art. 21 (Ab)
+  - Décret n°2004-799 du 29 juillet 2004 - art. 15 (Ab)
+  - Décret n°2006-379 du 27 mars 2006 - art. 15 (V)
+  - Décret n°2010-924 du 3 août 2010 - art. 69 (V)
+  - Code de commerce - art. A713-1 (V)
+  - Code de commerce - art. A713-18 (V)
+  - Code de commerce - art. R713-13 (V)
+  - Code de commerce - art. R713-14 (V)
+  - Code de commerce - art. R713-34 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 7 () JORF 17 avril 2004
+
+_Anciens textes_:
+
+  - Code de commerce. - art. L713-13 (T)
+
+_Cite_:
+
+  - Code électoral - art. L49 (M)
+  - Code électoral - art. L50 (V)
+  - Code électoral L49, L50, L58 à L67, L86 à L117-1
+
+
+###### Article L713-18
+
+Un décret en Conseil d'Etat détermine les modalités d'application des articles L. 713-1 à L. 713-14. Ce décret fixe notamment
+les conditions dans lesquelles sont répartis les sièges de délégués consulaires et de membres d'une chambre de commerce et
+d'industrie entre les catégories et sous-catégories professionnelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+_Cite_:
+
+  - Code de commerce L713-1 à L713-14
+
+_Anciens textes_:
+
+  - Code de commerce. - art. L713-15 (M)
+  - Code de commerce. - art. L713-15 (T)
+
+
+### TITRE II : De l'équipement commercial<a id=298></a>
 
 ###### Article L720-1
 
@@ -56918,7 +57037,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE III : Des marchés d'intérêt national.<a id=296></a>
+### TITRE III : Des marchés d'intérêt national.<a id=299></a>
 
 ###### Article L730-1
 
@@ -57357,7 +57476,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE IV : Des manifestations commerciales.<a id=297></a>
+### TITRE IV : Des manifestations commerciales.<a id=300></a>
 
 ###### Article L740-1
 
@@ -57446,17 +57565,17 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-## LIVRE VIII : De quelques professions réglementées.<a id=298></a>
+## LIVRE VIII : De quelques professions réglementées.<a id=301></a>
 
-### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=299></a>
+### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=302></a>
 
-#### Chapitre Ier : Des administrateurs judiciaires<a id=300></a>
+#### Chapitre Ier : Des administrateurs judiciaires<a id=303></a>
 
-##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=301></a>
+##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités<a id=304></a>
 
-##### Sous-section 1 : Des missions<a id=302></a>
+##### Sous-section 1 : Des missions<a id=305></a>
 
-##### (En vigueur jusqu'au 1er janvier 2006)<a id=303></a>
+##### (En vigueur jusqu'au 1er janvier 2006)<a id=306></a>
 
 ###### Article L811-1
 
@@ -57499,7 +57618,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=304></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=307></a>
 
 ###### Article L811-2
 
@@ -57807,7 +57926,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 5 () JORF 4 janvier 2003
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=305></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=308></a>
 
 ###### Article L811-6
 
@@ -57972,9 +58091,9 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### Sous-section 4 : Des incompatibilités<a id=306></a>
+##### Sous-section 4 : Des incompatibilités<a id=309></a>
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=307></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=310></a>
 
 ###### Article L811-10
 
@@ -58036,9 +58155,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 8 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=308></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline<a id=311></a>
 
-##### Sous-section 1 : De la surveillance et de l'inspection.<a id=309></a>
+##### Sous-section 1 : De la surveillance et de l'inspection.<a id=312></a>
 
 ###### Article L811-11
 
@@ -58085,7 +58204,7 @@ _Cite_:
   - Code de commerce. - art. L811-2 (M)
 
 
-##### Sous-section 2 : De la discipline.<a id=310></a>
+##### Sous-section 2 : De la discipline.<a id=313></a>
 
 ###### Article L811-12
 
@@ -58314,11 +58433,11 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises<a id=311></a>
+#### Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises<a id=314></a>
 
-##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=312></a>
+##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités<a id=315></a>
 
-##### Sous-section 1 : Des missions.<a id=313></a>
+##### Sous-section 1 : Des missions.<a id=316></a>
 
 ###### Article L812-1
 
@@ -58362,7 +58481,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=314></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=317></a>
 
 ###### Article L812-2
 
@@ -58705,7 +58824,7 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=315></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=318></a>
 
 ###### Article L812-4
 
@@ -58861,9 +58980,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Sous-section 4 : Des incompatibilités<a id=316></a>
+##### Sous-section 4 : Des incompatibilités<a id=319></a>
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=317></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=320></a>
 
 ###### Article L812-8
 
@@ -58923,7 +59042,7 @@ _Cite_:
   - Code rural L351-4
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=318></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=321></a>
 
 ###### Article L812-9
 
@@ -59001,7 +59120,7 @@ _Cite_:
   - Code pénal - art. 433-17 (M)
 
 
-#### Chapitre III : Des experts en diagnostic d'entreprise<a id=319></a>
+#### Chapitre III : Des experts en diagnostic d'entreprise<a id=322></a>
 
 ###### Article L813-1
 
@@ -59055,11 +59174,11 @@ _Modifié par_:
   - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=320></a>
+#### Chapitre IV : Dispositions communes<a id=323></a>
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=321></a>
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=324></a>
 
-##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=322></a>
+##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=325></a>
 
 ###### Article L814-1
 
@@ -59103,7 +59222,7 @@ _Modifié par_:
   - Loi n°2004-130 2004-02-11 art. 69 4° JORF 12 février 2004
 
 
-##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=323></a>
+##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=326></a>
 
 ###### Article L814-2
 
@@ -59162,9 +59281,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=324></a>
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=327></a>
 
-##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=325></a>
+##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=328></a>
 
 ###### Article L814-3
 
@@ -59318,7 +59437,7 @@ _Cite_:
   - Code de commerce. - art. L812-2 (M)
 
 
-##### Sous-section 2 : De la rémunération.<a id=326></a>
+##### Sous-section 2 : De la rémunération.<a id=329></a>
 
 ###### Article L814-6
 
@@ -59407,7 +59526,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Section 3 : Dispositions diverses.<a id=327></a>
+##### Section 3 : Dispositions diverses.<a id=330></a>
 
 ###### Article L814-8
 
@@ -59500,7 +59619,7 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=328></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=331></a>
 
 ###### Article L814-10
 
@@ -59548,9 +59667,9 @@ _Cite_:
   - Code de commerce. - art. L811-12 (M)
 
 
-### TITRE II : Des commissaires aux comptes.<a id=329></a>
+### TITRE II : Des commissaires aux comptes.<a id=332></a>
 
-#### Chapitre préliminaire : Dispositions générales.<a id=330></a>
+#### Chapitre préliminaire : Dispositions générales.<a id=333></a>
 
 ###### Article L820-1
 
@@ -59772,7 +59891,7 @@ _Cité par_:
   - Code monétaire et financier - art. L571-5 (V)
 
 
-#### Chapitre Ier : De l'organisation et du contrôle de la profession.<a id=331></a>
+#### Chapitre Ier : De l'organisation et du contrôle de la profession.<a id=334></a>
 
 ###### Article L821-1
 
@@ -60247,11 +60366,11 @@ _Cité par_:
   - Code de commerce - art. R821-72 (V)
 
 
-#### Chapitre II : Du statut des commissaires aux comptes.<a id=332></a>
+#### Chapitre II : Du statut des commissaires aux comptes.<a id=335></a>
 
-##### Section 1 : De l'inscription et de la discipline.<a id=333></a>
+##### Section 1 : De l'inscription et de la discipline.<a id=336></a>
 
-##### Sous-section 1 : De l'inscription.<a id=334></a>
+##### Sous-section 1 : De l'inscription.<a id=337></a>
 
 ###### Article L822-1
 
@@ -60504,7 +60623,7 @@ _Abrogé par_:
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
 
 
-##### Sous-section 2 : De la discipline.<a id=335></a>
+##### Sous-section 2 : De la discipline.<a id=338></a>
 
 ###### Article L822-6
 
@@ -60632,7 +60751,7 @@ _Abrogé par_:
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
 
 
-##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.<a id=336></a>
+##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.<a id=339></a>
 
 ###### Article L822-9
 
@@ -60987,9 +61106,9 @@ _Cité par_:
   - Code de commerce. - art. L822-11 (VT)
 
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=337></a>
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=340></a>
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=338></a>
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=341></a>
 
 ###### Article L910-1
 
@@ -61003,7 +61122,9 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 4° L. 522-1 à L. 522-40 et L. 524-20 ;
 
-5° L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
+5° L. 711-5, L. 711-9 ; L. 713-6, L. 713-7, L. 713-8 et L. 713-9 ; L. 713-11 en tant qu'il concerne les délégués
+consulaires ; L. 713-12 (premier alinéa) ; L. 713-13 et L. 713-14 en tant qu'ils concernent les délégués consulaires ; L.
+713-10 ; L. 713-15, L. 713-16 et L. 713-17 en tant qu'ils concernent les délégués consulaires ; L. 720-1 à L. 730-17.
 
 **Liens relatifs à cet article**
 
@@ -61011,6 +61132,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-328 du 15 avril 2004 - art. 8 () JORF 17 avril 2004
 
 _Cité par_:
 
@@ -61095,7 +61220,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=339></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=342></a>
 
 ###### Article L911-1
 
@@ -61399,7 +61524,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=340></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=343></a>
 
 ###### Article L912-1
 
@@ -61521,7 +61646,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=341></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=344></a>
 
 ###### Article L913-1
 
@@ -61542,7 +61667,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=342></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=345></a>
 
 ###### Article L914-1
 
@@ -61589,7 +61714,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=343></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=346></a>
 
 ###### Article L915-1
 
@@ -61689,7 +61814,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=344></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=347></a>
 
 ###### Article L917-1
 
@@ -61777,7 +61902,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=345></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=348></a>
 
 ###### Article L920-1
 
@@ -61931,7 +62056,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=346></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=349></a>
 
 ###### Article L921-1
 
@@ -62246,7 +62371,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=347></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=350></a>
 
 ###### Article L922-1
 
@@ -62451,7 +62576,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=348></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=351></a>
 
 ###### Article L923-1
 
@@ -62495,7 +62620,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=349></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=352></a>
 
 ###### Article L924-1
 
@@ -62644,7 +62769,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L924-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=350></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=353></a>
 
 ###### Article L925-1
 
@@ -62769,7 +62894,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=351></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=354></a>
 
 ###### Article L926-1
 
@@ -63004,7 +63129,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=352></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=355></a>
 
 ###### Article L930-1
 
@@ -63146,7 +63271,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=353></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=356></a>
 
 ###### Article L931-1
 
@@ -63547,7 +63672,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=354></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=357></a>
 
 ###### Article L932-1
 
@@ -63895,7 +64020,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=355></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=358></a>
 
 ###### Article L933-1
 
@@ -64037,7 +64162,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=356></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=359></a>
 
 ###### Article L935-1
 
@@ -64205,7 +64330,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=357></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=360></a>
 
 ###### Article L936-1
 
@@ -64572,7 +64697,7 @@ _Cite_:
   - Code de commerce. - art. L622-2 (M)
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=358></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=361></a>
 
 ###### Article L940-1
 
@@ -64733,7 +64858,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=359></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=362></a>
 
 ###### Article L941-1
 
@@ -65107,7 +65232,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=360></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=363></a>
 
 ###### Article L942-1
 
@@ -65369,7 +65494,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=361></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=364></a>
 
 ###### Article L943-1
 
@@ -65507,7 +65632,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=362></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=365></a>
 
 ###### Article L945-1
 
@@ -65673,7 +65798,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=363></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=366></a>
 
 ###### Article L946-1
 
@@ -65954,7 +66079,7 @@ _Créé par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=364></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=367></a>
 
 ###### Article L950-1
 
@@ -66116,7 +66241,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=365></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=368></a>
 
 ###### Article L951-1
 
@@ -66425,7 +66550,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=366></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=369></a>
 
 ###### Article L952-1
 
@@ -66617,7 +66742,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=367></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=370></a>
 
 ###### Article L953-1
 
@@ -66701,7 +66826,7 @@ _Anciens textes_:
   - Code de commerce. - art. L953-2 (T)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=368></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=371></a>
 
 ###### Article L954-1
 
@@ -66878,7 +67003,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L954-7 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=369></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=372></a>
 
 ###### Article L955-1
 
@@ -67011,7 +67136,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=370></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=373></a>
 
 ###### Article L956-1
 
@@ -67300,7 +67425,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L956-8 (V)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=371></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=374></a>
 
 ###### Article L957-1
 
@@ -67353,7 +67478,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=372></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=375></a>
 
 ###### Article L958-1
 
