@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-02-12
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -157,7 +157,7 @@ Version Consolidée au 2004-01-01
             - [Sous-section 1 : Les sociétés de ventes volontaires de meubles aux enchères publiques. (art. L321-4 à L321-17)](#154)
             - [Sous-section 2 : Le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-18 à L321-23)](#155)
           - [Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen. (art. L321-24 à L321-28)](#156)
-          - [Section 3 : Des experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-29 à L321-35)](#157)
+          - [Section 3 : Des experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-29 à L321-35-1)](#157)
           - [Section 4 : Dispositions diverses. (art. L321-36 à L321-38)](#158)
         - [Chapitre II : Des autres ventes aux enchères. (art. L322-1 à L322-16)](#159)
       - [TITRE III : Des clauses d'exclusivité. (art. L330-1 à L330-3)](#160)
@@ -318,62 +318,60 @@ Version Consolidée au 2004-01-01
             - [Sous-section 4 : Des incompatibilités (art. L812-8)](#315)
               - [(en vigueur jusqu'au 1er janvier 2006) (art. L812-8)](#316)
           - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#317)
-        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1 à L813-2)](#318)
-          - [Section 1 : Des missions et des conditions de désignation. (art. L813-1)](#319)
-          - [Section 2 : De la cessation des fonctions. (art. L813-2)](#320)
-        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#321)
-          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#322)
-            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#323)
-            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#324)
-          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#325)
-            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#326)
-            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#327)
-          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#328)
-            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#329)
-      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L822-16)](#330)
-        - [Chapitre préliminaire : Dispositions générales. (art. L820-1 à L820-7)](#331)
-        - [Chapitre Ier : De l'organisation et du contrôle de la profession. (art. L821-1 à L821-12)](#332)
-        - [Chapitre II : Du statut des commissaires aux comptes. (art. L822-1 à L822-16)](#333)
-          - [Section 1 : De l'inscription et de la discipline. (art. L822-1 à L822-8)](#334)
-            - [Sous-section 1 : De l'inscription. (art. L822-1 à L822-5)](#335)
-            - [Sous-section 2 : De la discipline. (art. L822-6 à L822-8)](#336)
-          - [Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes. (art. L822-9 à L822-16)](#337)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#338)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#339)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#340)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#341)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#342)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#343)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#344)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#345)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#346)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#347)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#348)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#349)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#350)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#351)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#352)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#353)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#354)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#355)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#356)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#357)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#358)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#359)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#360)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#361)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#362)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#363)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#364)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#365)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#366)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#367)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#368)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#369)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#370)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#371)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#372)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#373)
+        - [Chapitre III : Des experts en diagnostic d'entreprise (art. L813-1)](#318)
+        - [Chapitre IV : Dispositions communes (art. L814-1 à L814-10)](#319)
+          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics (art. L814-1 à L814-2)](#320)
+            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#321)
+            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#322)
+          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-7)](#323)
+            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#324)
+            - [Sous-section 2 : De la rémunération. (art. L814-6 à L814-7)](#325)
+          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-10)](#326)
+            - [(en vigueur jusqu'au 1er janvier 2006) (art. L814-10)](#327)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L822-16)](#328)
+        - [Chapitre préliminaire : Dispositions générales. (art. L820-1 à L820-7)](#329)
+        - [Chapitre Ier : De l'organisation et du contrôle de la profession. (art. L821-1 à L821-12)](#330)
+        - [Chapitre II : Du statut des commissaires aux comptes. (art. L822-1 à L822-16)](#331)
+          - [Section 1 : De l'inscription et de la discipline. (art. L822-1 à L822-8)](#332)
+            - [Sous-section 1 : De l'inscription. (art. L822-1 à L822-5)](#333)
+            - [Sous-section 2 : De la discipline. (art. L822-6 à L822-8)](#334)
+          - [Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes. (art. L822-9 à L822-16)](#335)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#336)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#337)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#338)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#339)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#340)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#341)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#342)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#343)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#344)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#345)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#346)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#347)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#348)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#349)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#350)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-13)](#351)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#352)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#353)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#354)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#355)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#356)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#357)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#358)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#359)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#360)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#361)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#362)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#363)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#364)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#365)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#366)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#367)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#368)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#369)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#370)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#371)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -33931,8 +33929,9 @@ _Cité par_:
 ###### Article L321-17
 
 Les sociétés de ventes volontaires de meubles aux enchères publiques et les officiers publics ou ministériels compétents pour
-procéder aux ventes judiciaires et volontaires engagent leur responsabilité au cours ou à l'occasion des ventes de meubles
-aux enchères publiques, conformément aux règles applicables à ces ventes.
+procéder aux ventes judiciaires et volontaires ainsi que les experts qui procèdent à l'estimation des biens engagent leur
+responsabilité au cours ou à l'occasion des ventes de meubles aux enchères publiques, conformément aux règles applicables à
+ces ventes.
 
 Les clauses qui visent à écarter ou à limiter leur responsabilité sont interdites et réputées non écrites.
 
@@ -33950,6 +33949,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 57 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34335,7 +34338,7 @@ _Cité par_:
 
 ###### Article L321-31
 
-Tout expert agréé est tenu de contracter une assurance garantissant sa responsabilité professionnelle.
+Tout expert, qu'il soit ou non agréé, est tenu de contracter une assurance garantissant sa responsabilité professionnelle.
 
 Il est solidairement responsable avec l'organisateur de la vente pour ce qui relève de son activité.
 
@@ -34349,6 +34352,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2004-130 2004-02-11 art. 58 1° JORF 12 février 2004
 
 _Cité par_:
 
@@ -34437,8 +34444,12 @@ _Abrogé par_:
 
 ###### Article L321-35
 
-Un expert agréé ne peut estimer ni mettre en vente un bien lui appartenant ni se porter acquéreur directement ou
-indirectement pour son propre compte d'un bien dans les ventes aux enchères publiques auxquelles il apporte son concours.
+Un expert, qu'il soit ou non agréé ne peut estimer ni mettre en vente un bien lui appartenant ni se porter acquéreur
+directement ou indirectement pour son propre compte d'un bien dans les ventes aux enchères publiques auxquelles il apporte
+son concours.
+
+A titre exceptionnel, l'expert peut cependant vendre, par l'intermédiaire d'une personne mentionnée à l'article L. 321-2, un
+bien lui appartenant à condition qu'il en soit fait mention dans la publicité.
 
 **Liens relatifs à cet article**
 
@@ -34448,12 +34459,50 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Loi n°2004-130 2004-02-11 art. 58 2° et 3° JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Loi n°2011-850 du 20 juillet 2011 - art. 32
+
+_Cite_:
+
+  - Code de commerce - art. L321-2
 
 _Cité par_:
 
   - Code de commerce - art. L321-35-1 (VT)
+
+
+###### Article L321-35-1
+
+Lorsqu'il a recours à un expert qui n'est pas agréé, l'organisateur de la vente veille au respect par celui-ci des
+obligations prévues au premier alinéa de l'article L. 321-31 et à l'article L. 321-35.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2004-130 2004-02-11 art. 58 4° JORF 12 février 2004
+
+_Abrogé par_:
+
+  - Loi n°2011-850 du 20 juillet 2011 - art. 32
+
+_Cite_:
+
+  - Code de commerce - art. L321-31
+  - Code de commerce - art. L321-35
 
 
 ##### Section 4 : Dispositions diverses.<a id=158></a>
@@ -58032,13 +58081,13 @@ _Cité par_:
 ###### Article L811-13
 
 Tout administrateur judiciaire qui fait l'objet d'une poursuite pénale ou disciplinaire peut être suspendu provisoirement de
-l'exercice de ses fonctions par la commission nationale.
+l'exercice de ses fonctions par le tribunal de grande instance du lieu où il est établi.
 
 En cas d'urgence, la suspension provisoire peut être prononcée même avant l'exercice des poursuites pénales ou disciplinaires
 si des inspections ou vérifications ont laissé apparaître des risques pour les sommes perçues par l'administrateur
 judiciaire, à raison de ses fonctions.
 
-La commission peut, à tout moment, à la requête soit du commissaire du Gouvernement, soit de l'administrateur judiciaire,
+Le tribunal peut, à tout moment, à la requête soit du commissaire du Gouvernement, soit de l'administrateur judiciaire,
 mettre fin à la suspension provisoire.
 
 La suspension cesse de plein droit dès que les actions pénales ou disciplinaires sont éteintes. Elle cesse également de plein
@@ -58069,7 +58118,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2004-130 2004-02-11 art. 69 3° JORF 12 février 2004
 
 
 ###### Article L811-14
@@ -58183,8 +58232,8 @@ _Cite_:
 ###### Article L812-1
 
 Les mandataires judiciaires au redressement et à la liquidation des entreprises sont les mandataires, personnes physiques ou
-morales, chargés par décision de justice de représenter les créanciers et de procéder éventuellement à la liquidation d'une
-entreprise dans les conditions définies par le titre II du livre VI.
+morales, chargés par décision de justice de représenter les créanciers et de procéder à la liquidation d'une entreprise dans
+les conditions définies par le titre II du livre VI.
 
 Les tâches que comporte l'exécution de leur mandat leur incombent personnellement. Ils peuvent toutefois, lorsque le bon
 déroulement de la procédure le requiert et sur autorisation motivée du président du tribunal, confier sous leur
@@ -58207,7 +58256,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2004-130 2004-02-11 art. 69 1° JORF 12 février 2004
 
 _Cité par_:
 
@@ -58227,8 +58276,7 @@ _Cite_:
 ###### Article L812-2
 
 I. - Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire au redressement et à la
-liquidation des entreprises, dans une procédure de redressement judiciaire, s'il n'est inscrit sur la liste établie à cet
-effet par une commission nationale.
+liquidation des entreprises s'il n'est inscrit sur la liste établie à cet effet par une commission nationale.
 
 II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision spécialement motivée et après avis du procureur de la
 République, désigner comme mandataire judiciaire au redressement et à la liquidation des entreprises une personne physique
@@ -58392,7 +58440,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2004-130 2004-02-11 art. 69 2° JORF 12 février 2004
 
 _Cite_:
 
@@ -58446,8 +58494,8 @@ La commission nationale prévue à l'article L. 812-2 est composée ainsi qu'il 
 - trois mandataires judiciaires au redressement et à la liquidation des entreprises, inscrits sur la liste, élus par leurs
 pairs dans des conditions déterminées par décret en Conseil d'Etat. L'un d'eux est remplacé par une personne inscrite sur la
 liste des experts en diagnostic d'entreprise lorsque la commission donne, en application des dispositions du dernier alinéa
-de l'article L. 813-1 et de l'article L. 813-2, un avis sur l'inscription d'un expert de cette spécialité, sur sa radiation
-ou sur son retrait de la liste.
+de l'article L. 813-1, un avis sur l'inscription d'un expert de cette spécialité, sur sa radiation ou sur son retrait de la
+liste.
 
 En cas d'égalité des voix, celle du président est prépondérante.
 
@@ -58466,9 +58514,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -58479,7 +58527,6 @@ _Cite_:
 
   - Code de commerce. - art. L812-2 (M)
   - Code de commerce. - art. L813-1 (M)
-  - Code de commerce. - art. L813-2 (M)
 
 
 ###### Article L812-3
@@ -58865,8 +58912,6 @@ _Cite_:
 
 #### Chapitre III : Des experts en diagnostic d'entreprise<a id=318></a>
 
-##### Section 1 : Des missions et des conditions de désignation.<a id=319></a>
-
 ###### Article L813-1
 
 Les experts en diagnostic d'entreprise sont désignés en justice pour établir un rapport sur la situation économique et
@@ -58885,9 +58930,9 @@ obligations énumérées à l'alinéa précédent.
 Ces experts peuvent être choisis parmi les experts de cette spécialité inscrits sur les listes dressées, pour l'information
 des juges, en application de l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires.
 
-Chaque cour d'appel procède à l'inscription des experts de cette spécialité sur avis de la commission nationale créée à
-l'article L. 812-2. Cette inscription est valable pour trois ans. L'expert peut renouveler sa demande à l'expiration de ce
-délai.
+Chaque cour d'appel procède à l'inscription des experts de cette spécialité selon les dispositions de l'article 2 de la loi
+n° 71-498 du 29 juin 1971 relative aux experts judiciaires. Leur inscription sur la liste nationale des experts judiciaires
+est faite après avis de la commission nationale créée à l'article L. 812-2.
 
 **Liens relatifs à cet article**
 
@@ -58916,62 +58961,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-
-
-##### Section 2 : De la cessation des fonctions.<a id=320></a>
-
-###### Article L813-2
-
-La radiation de l'expert inscrit sous la rubrique d'expert en diagnostic d'entreprise peut être prononcée avant l'expiration
-du délai de trois ans dans les conditions prévues au deuxième alinéa de l'article 5 de la loi n° 71-498 du 29 juin 1971
-relative aux experts judiciaires, sur demande ou après avis de la commission nationale.
-
-La cour d'appel peut également retirer de la liste, sur demande ou après avis de la commission nationale, les experts de
-cette spécialité dont les qualités professionnelles se seraient révélées insuffisantes ou qui ne seraient plus en mesure
-d'exercer normalement leurs activités.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°71-498 du 29 juin 1971 - art. 5 (M)
-
-_Anciens textes_:
-
-  - Loi n°85-99 du 25 janvier 1985 - art. 31 (Ab)
-
-_Cité par_:
-
-  - Décret n°85-1389 du 27 décembre 1985 - art. 83 (Ab)
-  - Code de commerce. - art. L812-2-2 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Modifié par_:
-
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-
-_Abrogé par_:
-
   - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 
-#### Chapitre IV : Dispositions communes<a id=321></a>
+#### Chapitre IV : Dispositions communes<a id=319></a>
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=322></a>
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics<a id=320></a>
 
-##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=323></a>
+##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=321></a>
 
 ###### Article L814-1
 
-Les recours contre les décisions prises, tant en matière d'inscription ou de retrait que de suspension provisoire ou de
-discipline, par les commissions nationales sont portés devant la cour d'appel de Paris.
+Les recours contre les décisions prises, tant en matière d'inscription ou de retrait que de discipline, par les commissions
+nationales sont portés devant la cour d'appel de Paris.
 
-Ces recours, à l'exception de ceux dirigés contre les décisions de suspension provisoire, ont un caractère suspensif.
+Ces recours ont un caractère suspensif.
 
 **Liens relatifs à cet article**
 
@@ -59005,10 +59009,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+  - Loi n°2004-130 2004-02-11 art. 69 4° JORF 12 février 2004
 
 
-##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=324></a>
+##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=322></a>
 
 ###### Article L814-2
 
@@ -59067,9 +59071,9 @@ _Modifié par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=325></a>
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=323></a>
 
-##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=326></a>
+##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=324></a>
 
 ###### Article L814-3
 
@@ -59223,7 +59227,7 @@ _Cite_:
   - Code de commerce. - art. L812-2 (M)
 
 
-##### Sous-section 2 : De la rémunération.<a id=327></a>
+##### Sous-section 2 : De la rémunération.<a id=325></a>
 
 ###### Article L814-6
 
@@ -59312,7 +59316,7 @@ _Cite_:
   - Code de commerce. - art. L814-6 (M)
 
 
-##### Section 3 : Dispositions diverses.<a id=328></a>
+##### Section 3 : Dispositions diverses.<a id=326></a>
 
 ###### Article L814-8
 
@@ -59405,7 +59409,7 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### (en vigueur jusqu'au 1er janvier 2006)<a id=329></a>
+##### (en vigueur jusqu'au 1er janvier 2006)<a id=327></a>
 
 ###### Article L814-10
 
@@ -59453,9 +59457,9 @@ _Cite_:
   - Code de commerce. - art. L811-12 (M)
 
 
-### TITRE II : Des commissaires aux comptes.<a id=330></a>
+### TITRE II : Des commissaires aux comptes.<a id=328></a>
 
-#### Chapitre préliminaire : Dispositions générales.<a id=331></a>
+#### Chapitre préliminaire : Dispositions générales.<a id=329></a>
 
 ###### Article L820-1
 
@@ -59677,7 +59681,7 @@ _Cité par_:
   - Code monétaire et financier - art. L571-5 (V)
 
 
-#### Chapitre Ier : De l'organisation et du contrôle de la profession.<a id=332></a>
+#### Chapitre Ier : De l'organisation et du contrôle de la profession.<a id=330></a>
 
 ###### Article L821-1
 
@@ -60152,11 +60156,11 @@ _Cité par_:
   - Code de commerce - art. R821-72 (V)
 
 
-#### Chapitre II : Du statut des commissaires aux comptes.<a id=333></a>
+#### Chapitre II : Du statut des commissaires aux comptes.<a id=331></a>
 
-##### Section 1 : De l'inscription et de la discipline.<a id=334></a>
+##### Section 1 : De l'inscription et de la discipline.<a id=332></a>
 
-##### Sous-section 1 : De l'inscription.<a id=335></a>
+##### Sous-section 1 : De l'inscription.<a id=333></a>
 
 ###### Article L822-1
 
@@ -60409,7 +60413,7 @@ _Abrogé par_:
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
 
 
-##### Sous-section 2 : De la discipline.<a id=336></a>
+##### Sous-section 2 : De la discipline.<a id=334></a>
 
 ###### Article L822-6
 
@@ -60537,7 +60541,7 @@ _Abrogé par_:
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
 
 
-##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.<a id=337></a>
+##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.<a id=335></a>
 
 ###### Article L822-9
 
@@ -60892,9 +60896,9 @@ _Cité par_:
   - Code de commerce. - art. L822-11 (VT)
 
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=338></a>
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=336></a>
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=339></a>
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=337></a>
 
 ###### Article L910-1
 
@@ -61000,7 +61004,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=340></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=338></a>
 
 ###### Article L911-1
 
@@ -61295,7 +61299,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=341></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=339></a>
 
 ###### Article L912-1
 
@@ -61412,7 +61416,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=342></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=340></a>
 
 ###### Article L913-1
 
@@ -61433,7 +61437,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=343></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=341></a>
 
 ###### Article L914-1
 
@@ -61480,7 +61484,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=344></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=342></a>
 
 ###### Article L915-1
 
@@ -61580,7 +61584,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=345></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=343></a>
 
 ###### Article L917-1
 
@@ -61668,7 +61672,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=346></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=344></a>
 
 ###### Article L920-1
 
@@ -61822,7 +61826,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=347></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=345></a>
 
 ###### Article L921-1
 
@@ -62128,7 +62132,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=348></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=346></a>
 
 ###### Article L922-1
 
@@ -62324,7 +62328,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=349></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=347></a>
 
 ###### Article L923-1
 
@@ -62368,7 +62372,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=350></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=348></a>
 
 ###### Article L924-1
 
@@ -62517,7 +62521,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L924-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=351></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=349></a>
 
 ###### Article L925-1
 
@@ -62642,7 +62646,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=352></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=350></a>
 
 ###### Article L926-1
 
@@ -62877,7 +62881,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=353></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=351></a>
 
 ###### Article L930-1
 
@@ -63019,7 +63023,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=354></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=352></a>
 
 ###### Article L931-1
 
@@ -63420,7 +63424,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=355></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=353></a>
 
 ###### Article L932-1
 
@@ -63763,7 +63767,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=356></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=354></a>
 
 ###### Article L933-1
 
@@ -63905,7 +63909,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=357></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=355></a>
 
 ###### Article L935-1
 
@@ -64073,7 +64077,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=358></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=356></a>
 
 ###### Article L936-1
 
@@ -64440,7 +64444,7 @@ _Cite_:
   - Code de commerce. - art. L622-2 (M)
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=359></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=357></a>
 
 ###### Article L940-1
 
@@ -64601,7 +64605,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=360></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=358></a>
 
 ###### Article L941-1
 
@@ -64975,7 +64979,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=361></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=359></a>
 
 ###### Article L942-1
 
@@ -65237,7 +65241,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=362></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=360></a>
 
 ###### Article L943-1
 
@@ -65375,7 +65379,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=363></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=361></a>
 
 ###### Article L945-1
 
@@ -65541,7 +65545,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=364></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=362></a>
 
 ###### Article L946-1
 
@@ -65822,7 +65826,7 @@ _Créé par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=365></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=363></a>
 
 ###### Article L950-1
 
@@ -65843,7 +65847,7 @@ dans les îles Wallis et Futuna :
 
 7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
 
-8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-2.
+8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-1.
 
 **Liens relatifs à cet article**
 
@@ -65854,7 +65858,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -65862,7 +65866,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-2
+  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-1
   - Code de commerce. - art. L441-1 (M)
   - Code de commerce. - art. L442-1 (M)
   - Code de commerce. - art. L470-6 (M)
@@ -65978,7 +65982,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=366></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=364></a>
 
 ###### Article L951-1
 
@@ -66287,7 +66291,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=367></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=365></a>
 
 ###### Article L952-1
 
@@ -66474,7 +66478,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=368></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=366></a>
 
 ###### Article L953-1
 
@@ -66535,7 +66539,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L953-3 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=369></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=367></a>
 
 ###### Article L954-1
 
@@ -66712,7 +66716,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L954-7 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=370></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=368></a>
 
 ###### Article L955-1
 
@@ -66845,7 +66849,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=371></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=369></a>
 
 ###### Article L956-1
 
@@ -67134,7 +67138,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L956-8 (V)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=372></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=370></a>
 
 ###### Article L957-1
 
@@ -67187,7 +67191,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=373></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=371></a>
 
 ###### Article L958-1
 
