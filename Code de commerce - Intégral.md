@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -348,35 +348,36 @@ Version Consolidée au 2005-01-19
         - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#345)
         - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#346)
         - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#347)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#348)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L927-1)](#348)
         - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#349)
         - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#350)
         - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#351)
         - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-6)](#352)
         - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#353)
         - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#354)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L938-1)](#355)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#356)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-6 à L932-17)](#357)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#358)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#359)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#360)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII. (art. L938-1)](#361)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#362)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#363)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#364)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#365)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#366)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#367)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-2)](#368)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#369)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#370)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#371)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-7)](#372)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#373)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#374)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#375)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1 à L958-2)](#376)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L927-1)](#355)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L938-1)](#356)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#357)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-6 à L932-17)](#358)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#359)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#360)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-13)](#361)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII. (art. L938-1)](#362)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#363)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#364)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#365)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#366)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#367)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#368)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-2)](#369)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#370)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#371)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#372)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-7)](#373)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#374)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#375)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#376)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1 à L958-2)](#377)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -62830,7 +62831,10 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
 
-7° Le livre VIII.
+7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et des dispositions relatives aux délégués
+consulaires ;
+
+8° Le livre VIII.
 
 **Liens relatifs à cet article**
 
@@ -62841,11 +62845,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
 
 _Cite_:
 
-  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8
+  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L712-1
   - Code de commerce. - art. L125-3 (V)
   - Code de commerce. - art. L126-1 (V)
   - Code de commerce. - art. L441-1 (M)
@@ -62856,6 +62860,8 @@ _Cite_:
   - Code de commerce. - art. L524-21 (V)
   - Code de commerce. - art. L621-132 (M)
   - Code de commerce. - art. L621-38 (M)
+  - Code de commerce. - art. L711-5 (M)
+  - Code de commerce. - art. L712-1 (T)
 
 
 ###### Article L920-2
@@ -62928,23 +62934,6 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 14
-
-
-###### Article L920-6
-
-Les références à l'immatriculation au répertoire des métiers sont remplacées par les références à l'immatriculation faite
-conformément à la réglementation applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
 
 
 ###### Article L920-7
@@ -64113,7 +64102,31 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=355></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=355></a>
+
+###### Article L927-1
+
+Pour l'application à Mayotte de l'article L. 711-6, le représentant de l'Etat à Mayotte est habilité à accorder à la chambre
+de commerce et d'industrie de Mayotte l'autorisation prévue à cet article, par délégation permanente du ministre chargé de la
+tutelle des chambres de commerce et d'industrie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
+
+_Cite_:
+
+  - Code de commerce. - art. L711-6 (M)
+
+
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=356></a>
 
 ###### Article L930-1
 
@@ -64256,7 +64269,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=356></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=357></a>
 
 ###### Article L931-1
 
@@ -64657,7 +64670,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=357></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=358></a>
 
 ###### Article L932-6
 
@@ -64857,7 +64870,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=358></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=359></a>
 
 ###### Article L933-1
 
@@ -64999,7 +65012,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=359></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=360></a>
 
 ###### Article L935-1
 
@@ -65167,7 +65180,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=360></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=361></a>
 
 ###### Article L936-1
 
@@ -65534,7 +65547,7 @@ _Cite_:
   - Code de commerce. - art. L622-2 (M)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII.<a id=361></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII.<a id=362></a>
 
 ###### Article L938-1
 
@@ -65559,7 +65572,7 @@ _Créé par_:
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=362></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=363></a>
 
 ###### Article L940-1
 
@@ -65728,7 +65741,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=363></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=364></a>
 
 ###### Article L941-1
 
@@ -66102,7 +66115,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=364></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=365></a>
 
 ###### Article L942-1
 
@@ -66364,7 +66377,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=365></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=366></a>
 
 ###### Article L943-1
 
@@ -66502,7 +66515,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=366></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=367></a>
 
 ###### Article L945-1
 
@@ -66668,7 +66681,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=367></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=368></a>
 
 ###### Article L946-1
 
@@ -66949,7 +66962,7 @@ _Créé par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=368></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=369></a>
 
 ###### Article L950-1
 
@@ -67111,7 +67124,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=369></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=370></a>
 
 ###### Article L951-1
 
@@ -67424,7 +67437,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=370></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=371></a>
 
 ###### Article L952-1
 
@@ -67631,7 +67644,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=371></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=372></a>
 
 ###### Article L953-1
 
@@ -67715,7 +67728,7 @@ _Anciens textes_:
   - Code de commerce. - art. L953-2 (T)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=372></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=373></a>
 
 ###### Article L954-1
 
@@ -67941,7 +67954,7 @@ _Créé par_:
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=373></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=374></a>
 
 ###### Article L955-1
 
@@ -68074,7 +68087,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=374></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=375></a>
 
 ###### Article L956-1
 
@@ -68363,7 +68376,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L956-8 (V)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=375></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=376></a>
 
 ###### Article L957-1
 
@@ -68416,7 +68429,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=376></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=377></a>
 
 ###### Article L958-1
 
