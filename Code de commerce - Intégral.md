@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2001-02-20
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 2001-02-20
         - [Chapitre II : Des commerçants étrangers. (art. L122-1 à L122-4)](#8)
         - [Chapitre III : Des obligations générales des commerçants. (art. L123-1 à L123-28)](#9)
           - [Section 1 : Du registre du commerce et des sociétés (art. L123-1 à L123-11)](#10)
-            - [Sous-section 1 : Des personnes tenues à l'immatriculation. (art. L123-1 à L123-5)](#11)
+            - [Sous-section 1 : Des personnes tenues à l'immatriculation. (art. L123-1 à L123-5-1)](#11)
             - [Sous-section 2 : Tenue du registre et effets attachés à l'immatriculation. (art. L123-6 à L123-9)](#12)
             - [Sous-section 3 : Domiciliation des personnes immatriculées. (art. L123-10 à L123-11)](#13)
           - [Section 2 : De la comptabilité des commerçants (art. L123-12 à L123-28)](#14)
@@ -62,10 +62,10 @@ Version Consolidée au 2001-02-20
           - [Section 1 : De la constitution des sociétés anonymes. (art. L225-2 à L225-16)](#59)
             - [Sous-section 1 : De la constitution avec appel public à l'épargne. (art. L225-2 à L225-11)](#60)
             - [Sous-section 2 : De la constitution sans appel public à l'épargne. (art. L225-12 à L225-16)](#61)
-          - [Section 2 : De la direction et de l'administration des sociétés anonymes. (art. L225-17 à L225-95)](#62)
-            - [Sous-section 1 : Du conseil d'administration. (art. L225-17 à L225-56)](#63)
+          - [Section 2 : De la direction et de l'administration des sociétés anonymes. (art. L225-17 à L225-95-1)](#62)
+            - [Sous-section 1 : Du conseil d'administration de la direction générale. (art. L225-17 à L225-56)](#63)
             - [Sous-section 2 : Du directoire et du conseil de surveillance. (art. L225-57 à L225-93)](#64)
-            - [Sous-section 3 : Dispositions communes aux mandataires sociaux des sociétés anonymes. (art. L225-94 à L225-95)](#65)
+            - [Sous-section 3 : Dispositions communes aux mandataires sociaux des sociétés anonymes. (art. L225-94 à L225-95-1)](#65)
           - [Section 3 : Des assemblées d'actionnaires. (art. L225-96 à L225-126)](#66)
           - [Section 4 : Des modifications du capital social et de l'actionnariat des salariés. (art. L225-127 à L225-217)](#67)
             - [Sous-section 1 : De l'augmentation du capital. (art. L225-127 à L225-149)](#68)
@@ -92,7 +92,7 @@ Version Consolidée au 2001-02-20
           - [Section 4 : Des titres participatifs. (art. L228-36 à L228-37)](#89)
           - [Section 5 : Des obligations. (art. L228-38 à L228-90)](#90)
           - [Section 6 : Des autres valeurs mobilières donnant droit à l'attribution de titres représentant une quotité du capital. (art. L228-91 à L228-97)](#91)
-      - [TITRE III : Dispositions communes aux diverses sociétés commerciales. (art. L231-1 à L237-31)](#92)
+      - [TITRE III : Dispositions communes aux diverses sociétés commerciales. (art. L231-1 à L238-1)](#92)
         - [Chapitre Ier : Du capital variable (art. L231-1 à L231-8)](#93)
         - [Chapitre II : Des comptes sociaux (art. L232-1 à L232-23)](#94)
           - [Section 1 : Des documents comptables (art. L232-1 à L232-6)](#95)
@@ -114,63 +114,63 @@ Version Consolidée au 2001-02-20
         - [Chapitre VII : De la liquidation (art. L237-1 à L237-31)](#111)
           - [Section 1 : Dispositions générales (art. L237-1 à L237-13)](#112)
           - [Section 2 : Dispositions applicables sur décision judiciaire (art. L237-14 à L237-31)](#113)
-      - [TITRE IV : Dispositions pénales. (art. L241-1 à L247-10)](#114)
-        - [Chapitre Ier : Des infractions concernant les sociétés à responsabilité limitée (art. L241-1 à L241-9)](#115)
-        - [Chapitre II : Des infractions concernant les sociétés anonymes (art. L242-1 à L242-31)](#116)
-          - [Section 1 : Des infractions relatives à la constitution (art. L242-1 à L242-5)](#117)
-          - [Section 2 : Des infractions relatives à la direction et à l'administration (art. L242-6 à L242-8)](#118)
-          - [Section 3 : Des infractions relatives aux assemblées d'actionnaires (art. L242-9 à L242-16)](#119)
-          - [Section 4 : Des infractions relatives aux modifications du capital social (art. L242-17 à L242-24)](#120)
-            - [Sous-section 1 : De l'augmentation du capital (art. L242-17 à L242-21)](#121)
-            - [Sous-section 2 : De l'amortissement du capital (art. L242-22)](#122)
+        - [Chapitre VIII : Des injonctions de faire (art. L238-1)](#114)
+      - [TITRE IV : Dispositions pénales. (art. L241-1 à L248-1)](#115)
+        - [Chapitre Ier : Des infractions concernant les sociétés à responsabilité limitée (art. L241-1 à L241-9)](#116)
+        - [Chapitre II : Des infractions concernant les sociétés anonymes (art. L242-1 à L242-31)](#117)
+          - [Section 1 : Des infractions relatives à la constitution (art. L242-1 à L242-5)](#118)
+          - [Section 2 : Des infractions relatives à la direction et à l'administration (art. L242-6 à L242-8)](#119)
+          - [Section 3 : Des infractions relatives aux assemblées d'actionnaires (art. L242-9 à L242-16)](#120)
+          - [Section 4 : Des infractions relatives aux modifications du capital social (art. L242-17 à L242-24)](#121)
+            - [Sous-section 1 : De l'augmentation du capital (art. L242-17 à L242-21)](#122)
             - [Sous-section 3 : De la réduction du capital (art. L242-23 à L242-24)](#123)
-          - [Section 5 : Des infractions relatives au contrôle (art. L242-25 à L242-28)](#124)
-          - [Section 6 : Des infractions relatives à la dissolution (art. L242-29)](#125)
-          - [Section 7 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance (art. L242-30)](#126)
-          - [Section 8 : Des infractions relatives aux sociétés anonymes à participation ouvrière (art. L242-31)](#127)
-        - [Chapitre III : Des infractions concernant les sociétés en commandite par actions (art. L243-1 à L243-2)](#128)
-        - [Chapitre IV : Des infractions concernant les sociétés par actions simplifiées (art. L244-1 à L244-4)](#129)
-        - [Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions (art. L245-1 à L245-17)](#130)
-          - [Section 1 : Des infractions relatives aux actions. (art. L245-1 à L245-5)](#131)
-          - [Section 2 : Des infractions relatives aux parts de fondateur (art. L245-6)](#132)
-          - [Section 3 : Des infractions relatives aux obligations (art. L245-7 à L245-15)](#133)
-          - [Section 4 : Dispositions communes (art. L245-16)](#134)
-          - [Section 5 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance (art. L245-17)](#135)
-        - [Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions (art. L246-1 à L246-2)](#136)
-        - [Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales (art. L247-1 à L247-10)](#137)
-          - [Section 1 : Des infractions relatives aux filiales, aux participations et aux sociétés contrôlées (art. L247-1 à L247-3)](#138)
-          - [Section 2 : Des infractions relatives à la publicité (art. L247-4)](#139)
-          - [Section 3 : Des infractions relatives à la liquidation (art. L247-5 à L247-8)](#140)
-          - [Section 4 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance (art. L247-9)](#141)
-          - [Section 5 : Des infractions relatives aux sociétés à capital variable. (art. L247-10)](#142)
-      - [TITRE V : Des groupements d'intérêt économique. (art. L251-1 à L252-13)](#143)
-        - [Chapitre Ier : Du groupement d'intérêt économique de droit français. (art. L251-1 à L251-23)](#144)
-        - [Chapitre II : Du groupement européen d'intérêt économique. (art. L252-1 à L252-13)](#145)
-    - [LIVRE III : De certaines formes de ventes et des clauses d'exclusivité. (art. L310-1 à L330-3)](#146)
-      - [TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine. (art. L310-1 à L310-7)](#147)
-      - [TITRE II : Des ventes aux enchères publiques. (art. L320-1 à L322-16)](#148)
-        - [Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques. (art. L321-1 à L321-38)](#149)
-          - [Section 1 : Dispositions générales. (art. L321-1 à L321-23)](#150)
-            - [Sous-section 1 : Les sociétés de ventes volontaires de meubles aux enchères publiques. (art. L321-4 à L321-17)](#151)
-            - [Sous-section 2 : Le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-18 à L321-23)](#152)
-          - [Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen. (art. L321-24 à L321-28)](#153)
-          - [Section 3 : Des experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-29 à L321-35)](#154)
-          - [Section 4 : Dispositions diverses. (art. L321-36 à L321-38)](#155)
-        - [Chapitre II : Des autres ventes aux enchères. (art. L322-1 à L322-16)](#156)
-      - [TITRE III : Des clauses d'exclusivité. (art. L330-1 à L330-3)](#157)
-    - [LIVRE IV : De la liberté des prix et de la concurrence. (art. L410-1 à L470-8)](#158)
-      - [TITRE Ier : Dispositions générales. (art. L410-1 à L410-2)](#159)
-      - [TITRE II : Des pratiques anticoncurrentielles. (art. L420-1 à L420-6)](#160)
-      - [TITRE III : De la concentration économique. (art. L430-1 à L430-7)](#161)
-      - [TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées. (art. L441-1 à L443-3)](#162)
-        - [Chapitre Ier : De la transparence. (art. L441-1 à L441-6)](#163)
+          - [Section 6 : Des infractions relatives à la dissolution (art. L242-29)](#124)
+          - [Section 7 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance (art. L242-30)](#125)
+          - [Section 8 : Des infractions relatives aux sociétés anonymes à participation ouvrière (art. L242-31)](#126)
+        - [Chapitre III : Des infractions concernant les sociétés en commandite par actions (art. L243-1)](#127)
+        - [Chapitre IV : Des infractions concernant les sociétés par actions simplifiées (art. L244-1 à L244-4)](#128)
+        - [Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions (art. L245-3 à L245-17)](#129)
+          - [Section 1 : Des infractions relatives aux actions. (art. L245-3 à L245-5)](#130)
+          - [Section 3 : Des infractions relatives aux obligations (art. L245-9 à L245-15)](#131)
+          - [Section 4 : Dispositions communes (art. L245-16)](#132)
+          - [Section 5 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance (art. L245-17)](#133)
+        - [Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions (art. L246-1 à L246-2)](#134)
+        - [Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales (art. L247-1 à L247-10)](#135)
+          - [Section 1 : Des infractions relatives aux filiales, aux participations et aux sociétés contrôlées (art. L247-1 à L247-3)](#136)
+          - [Section 2 : Des infractions relatives à la publicité (art. L247-4)](#137)
+          - [Section 3 : Des infractions relatives à la liquidation (art. L247-5 à L247-8)](#138)
+          - [Section 4 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance (art. L247-9)](#139)
+          - [Section 5 : Des infractions relatives aux sociétés à capital variable. (art. L247-10)](#140)
+        - [Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes. (art. L248-1)](#141)
+      - [TITRE V : Des groupements d'intérêt économique. (art. L251-1 à L252-13)](#142)
+        - [Chapitre Ier : Du groupement d'intérêt économique de droit français. (art. L251-1 à L251-23)](#143)
+        - [Chapitre II : Du groupement européen d'intérêt économique. (art. L252-1 à L252-13)](#144)
+    - [LIVRE III : De certaines formes de ventes et des clauses d'exclusivité. (art. L310-1 à L330-3)](#145)
+      - [TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine. (art. L310-1 à L310-7)](#146)
+      - [TITRE II : Des ventes aux enchères publiques. (art. L320-1 à L322-16)](#147)
+        - [Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques. (art. L321-1 à L321-38)](#148)
+          - [Section 1 : Dispositions générales. (art. L321-1 à L321-23)](#149)
+            - [Sous-section 1 : Les sociétés de ventes volontaires de meubles aux enchères publiques. (art. L321-4 à L321-17)](#150)
+            - [Sous-section 2 : Le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-18 à L321-23)](#151)
+          - [Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen. (art. L321-24 à L321-28)](#152)
+          - [Section 3 : Des experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques. (art. L321-29 à L321-35)](#153)
+          - [Section 4 : Dispositions diverses. (art. L321-36 à L321-38)](#154)
+        - [Chapitre II : Des autres ventes aux enchères. (art. L322-1 à L322-16)](#155)
+      - [TITRE III : Des clauses d'exclusivité. (art. L330-1 à L330-3)](#156)
+    - [LIVRE IV : De la liberté des prix et de la concurrence. (art. L410-1 à L470-8)](#157)
+      - [TITRE Ier : Dispositions générales. (art. L410-1 à L410-2)](#158)
+      - [TITRE II : Des pratiques anticoncurrentielles. (art. L420-1 à L420-7)](#159)
+      - [TITRE III : De la concentration économique. (art. L430-1 à L430-10)](#160)
+      - [TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées. (art. L440-1 à L443-3)](#161)
+        - [Chapitre préliminaire : Dispositions générales. (art. L440-1)](#162)
+        - [Chapitre Ier : De la transparence. (art. L441-1 à L441-7)](#163)
         - [Chapitre II : Des pratiques restrictives de concurrence. (art. L442-1 à L442-8)](#164)
         - [Chapitre III : Autres pratiques prohibées. (art. L443-1 à L443-3)](#165)
       - [TITRE V : Des pouvoirs d'enquête. (art. L450-1 à L450-8)](#166)
       - [TITRE VI : Du conseil de la concurrence. (art. L461-1 à L464-8)](#167)
         - [Chapitre Ier : De l'organisation. (art. L461-1 à L461-3)](#168)
-        - [Chapitre II : Des attributions. (art. L462-1 à L462-8)](#169)
-        - [Chapitre III : De la procédure. (art. L463-1 à L463-7)](#170)
+        - [Chapitre II : Des attributions. (art. L462-1 à L462-9)](#169)
+        - [Chapitre III : De la procédure. (art. L463-1 à L463-8)](#170)
         - [Chapitre IV : Des décisions et des voies de recours. (art. L464-1 à L464-8)](#171)
       - [TITRE VII : Dispositions diverses. (art. L470-1 à L470-8)](#172)
     - [LIVRE V : Des effets de commerce et des garanties. (art. L511-1 à L525-20)](#173)
@@ -214,9 +214,9 @@ Version Consolidée au 2001-02-20
       - [TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises (en vigueur jusqu'au 1er janvier 2006) (art. L611-2 à L612-3)](#211)
         - [Chapitre Ier : Des groupements de prévention agréés et du règlement amiable (art. L611-2 à L611-6)](#212)
         - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique (art. L612-2 à L612-3)](#213)
-      - [TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises (art. L611-1 à L612-4)](#214)
+      - [TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises (art. L611-1 à L612-5)](#214)
         - [Chapitre Ier : Des groupements de prévention agréés et du règlement amiable. (art. L611-1)](#215)
-        - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique. (art. L612-1 à L612-4)](#216)
+        - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique. (art. L612-1 à L612-5)](#216)
       - [TITRE II : Du redressement et de la liquidation judiciaires des entreprises (en vigueur jusqu'au 1er janvier 2006) (art. L620-1 à L628-2)](#217)
         - [Chapitre Ier : Du redressement judiciaire (art. L621-1 à L621-143)](#218)
           - [Section 1 : De la période d'observation (art. L621-1 à L621-61)](#219)
@@ -311,8 +311,8 @@ Version Consolidée au 2001-02-20
         - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires. (art. L713-1 à L713-15)](#308)
       - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#309)
       - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-17)](#310)
-    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L814-6)](#311)
-      - [TITRE UNIQUE : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-6)](#312)
+    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L820-7)](#311)
+      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise (art. L811-1 à L814-6)](#312)
         - [Chapitre Ier : Des administrateurs judiciaires (art. L811-1 à L811-16)](#313)
           - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités (art. L811-1 à L811-10)](#314)
             - [Sous-section 1 : Des missions. (art. L811-1)](#315)
@@ -339,42 +339,43 @@ Version Consolidée au 2001-02-20
           - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération (art. L814-3 à L814-6)](#336)
             - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#337)
             - [Sous-section 2 : De la rémunération. (art. L814-6)](#338)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#339)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#340)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#341)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#342)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#343)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#344)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#345)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#346)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#347)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#348)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#349)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#350)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#351)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#352)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#353)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-12)](#354)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#355)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#356)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#357)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#358)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#359)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-12)](#360)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#361)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#362)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#363)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#364)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-12)](#365)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#366)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#367)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#368)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#369)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#370)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#371)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-8)](#372)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#373)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#374)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L820-7)](#339)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-1)](#340)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#341)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#342)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#343)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#344)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#345)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#346)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#347)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L926-7)](#348)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#349)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#350)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#351)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#352)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#353)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#354)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L936-12)](#355)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#356)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-1 à L932-17)](#357)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#358)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#359)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#360)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-12)](#361)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#362)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#363)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#364)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#365)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-12)](#366)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-1)](#367)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#368)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#369)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-2)](#370)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#371)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#372)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-8)](#373)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#374)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1)](#375)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -1065,6 +1066,30 @@ _Cité par_:
 
   - Code du tourisme. - art. R212-15 (VT)
   - Code du tourisme. - art. R212-22 (VT)
+
+
+###### Article L123-5-1
+
+A la demande de tout intéressé ou du ministère public, le président du tribunal, statuant en référé, peut enjoindre sous
+astreinte au dirigeant de toute personne morale de procéder au dépôt des pièces et actes au registre du commerce et des
+sociétés auquel celle-ci est tenue par des dispositions législatives ou réglementaires.
+
+Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 123 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Code de commerce - art. R221-9 (V)
 
 
 ##### Sous-section 2 : Tenue du registre et effets attachés à l'immatriculation.<a id=12></a>
@@ -1835,9 +1860,9 @@ _Anciens textes_:
 
 ###### Article L124-1
 
-Les sociétés coopératives de commerçants détaillants ont pour objet d'améliorer, par l'effort commun de leurs associés, les
-conditions dans lesquelles ceux-ci exercent leur profession commerciale. A cet effet, elles peuvent exercer pour le compte de
-leurs associés les activités suivantes :
+Les sociétés coopératives de commerçants détaillants ont pour objet d'améliorer par l'effort commun de leurs associés les
+conditions dans lesquelles ceux-ci exercent leur activité commerciale. A cet effet, elles peuvent notamment exercer
+directement ou indirectement pour le compte de leurs associés les activités suivantes :
 
 1° Fournir en totalité ou en partie à leurs associés les marchandises, denrées ou services, l'équipement et le matériel
 nécessaires à l'exercice de leur commerce, notamment par la constitution et l'entretien de tout stock de marchandises, la
@@ -1858,8 +1883,18 @@ matière de gestion technique, financière et comptable ;
 concédée dans un délai de deux mois à un associé et qui, sous les sanctions prévues aux deuxième et troisième alinéas de
 l'article L. 124-15, doivent être rétrocédés dans un délai maximum de sept ans ;
 
-6° Mettre en oeuvre les moyens nécessaires à la promotion des ventes des associés ou de leur entreprise, notamment par la
-mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance.
+6° Définir et mettre en oeuvre par tous moyens  une politique commerciale commune propre à assurer le développement et
+l'activité de ses associés, et notamment :
+
+- par la mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance ;
+
+- par la réalisation d'opérations commerciales publicitaires  ou non pouvant comporter des prix communs ;
+
+- par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et de présentation de produits, d'architecture
+et d'organisation des commerces ;
+
+7° Prendre des participations même majoritaires dans des sociétés directement ou indirectement associées exploitant des fonds
+de commerce.
 
 **Liens relatifs à cet article**
 
@@ -1872,6 +1907,11 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 2001-05-15 art. 64 I, II et III JORF 16 mai 2001
+  - Loi n°2001-420 du 15 mai 2001 - art. 64 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -8930,16 +8970,15 @@ _Codifié par_:
 
 ###### Article L223-7
 
-Les parts sociales doivent être souscrites en totalité par les associés et intégralement libérées, lorsqu'elles représentent
-des apports en nature ou en numéraire.
+Les parts sociales doivent être souscrites en totalité par les associés. Elles doivent être intégralement libérées
+lorsqu'elles représentent des apports en nature. Les parts représentant des apports en numéraire doivent être libérées d'au
+moins un cinquième de leur montant. La libération du surplus intervient en une ou plusieurs fois sur décision du gérant, dans
+un délai qui ne peut excéder cinq ans à compter de l'immatriculation de la société au registre du commerce et des sociétés.
+Toutefois, le capital social doit être intégralement libéré avant toute souscription de nouvelles parts sociales à libérer en
+numéraire, à peine de nullité de l'opération.
 
-Les parts sociales ne peuvent représenter des apports en industrie. Toutefois, lorsque l'objet de la société porte sur
-l'exploitation d'un fonds de commerce ou d'une entreprise artisanale apporté à la société ou créé par elle à partir
-d'éléments corporels ou incorporels qui lui sont apportés en nature, l'apporteur en nature, ou son conjoint, peut apporter
-son industrie lorsque son activité principale est liée à la réalisation de l'objet social. Sans préjudice de l'application du
-deuxième alinéa de l'article 1844-1 du code civil, la quote-part du conjoint apporteur en industrie dans sa contribution aux
-pertes est déterminée par les statuts sans qu'elle puisse être supérieure à celle de l'associé qui a le moins apporté. Les
-statuts déterminent les modalités selon lesquelles ces parts sociales sont souscrites.
+Le cas échéant, les statuts déterminent les modalités selon lesquelles peuvent être souscrites des parts sociales en
+industrie.
 
 La répartition des parts sociales est mentionnée dans les statuts.
 
@@ -8950,7 +8989,6 @@ Conseil d'Etat.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 38
   - Loi n°66-537 du 24 juillet 1966 - art. 38 (Ab)
 
 _Codifié par_:
@@ -8967,9 +9005,9 @@ _Cité par_:
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
   - Code de commerce - art. L223-32 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code civil - art. 1844-1 (V)
+  - Loi n°2001-420 du 15 mai 2001 - art. 124 (V)
 
 
 ###### Article L223-8
@@ -10269,13 +10307,13 @@ _Codifié par_:
 
 ###### Article L224-3
 
-En cas de transformation en société anonyme d'une société d'une autre forme, un ou plusieurs commissaires à la
-transformation, chargés d'apprécier sous leur responsabilité la valeur des biens composant l'actif social et les avantages
-particuliers, sont désignés, sauf accord unanime des associés par décision de justice à la demande des dirigeants sociaux ou
-de l'un d'eux. Les commissaires à la transformation peuvent être chargés de l'établissement du rapport sur la situation de la
-société mentionné au troisième alinéa de l'article L. 223-43. Dans ce cas, il n'est rédigé qu'un seul rapport. Ces
-commissaires sont soumis aux incompatibilités prévues à l'article L. 225-224. Le commissaire aux comptes de la société peut
-être nommé commissaire à la transformation. Le rapport est tenu à la disposition des associés.
+En cas de transformation en une des formes de société par actions d'une société d'une autre forme, un ou plusieurs
+commissaires à la transformation, chargés d'apprécier sous leur responsabilité la valeur des biens composant l'actif social
+et les avantages particuliers, sont désignés, sauf accord unanime des associés par décision de justice à la demande des
+dirigeants sociaux ou de l'un d'eux. Les commissaires à la transformation peuvent être chargés de l'établissement du rapport
+sur la situation de la société mentionné au troisième alinéa de l'article L. 223-43. Dans ce cas, il n'est rédigé qu'un seul
+rapport. Ces commissaires sont soumis aux incompatibilités prévues à l'article L. 225-224. Le commissaire aux comptes de la
+société peut être nommé commissaire à la transformation. Le rapport est tenu à la disposition des associés.
 
 Les associés statuent sur l'évaluation des biens et l'octroi des avantages particuliers. Ils ne peuvent les réduire qu'à
 l'unanimité.
@@ -10303,6 +10341,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 100 () JORF 16 mai 2001
 
 _Cite_:
 
@@ -10806,12 +10848,12 @@ _Cité par_:
 
 ##### Section 2 : De la direction et de l'administration des sociétés anonymes.<a id=62></a>
 
-##### Sous-section 1 : Du conseil d'administration.<a id=63></a>
+##### Sous-section 1 : Du conseil d'administration de la direction générale.<a id=63></a>
 
 ###### Article L225-17
 
 La société anonyme est administrée par un conseil d'administration composé de trois membres au moins. Les statuts fixent le
-nombre maximum des membres du conseil, qui ne peut dépasser vingt-quatre.
+nombre maximum des membres du conseil, qui ne peut dépasser dix-huit.
 
 Toutefois, en cas de décès ou de démission du président du conseil d'administration et si le conseil n'a pu le remplacer par
 un de ses membres, il peut nommer, sous réserve des dispositions de l'article L. 225-24, un administrateur supplémentaire qui
@@ -10854,6 +10896,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 2001-05-15 art. 104 1° et art. 105 JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce. - art. L225-24 (M)
@@ -10876,13 +10922,16 @@ Toute nomination intervenue en violation des dispositions précédentes est null
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 90
   - Loi n°66-537 du 24 juillet 1966 - art. 90 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10915,13 +10964,16 @@ fixée pour l'âge des administrateurs est dépassée, l'administrateur le plus 
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 90-1
   - Loi n°66-537 du 24 juillet 1966 - art. 90-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10942,13 +10994,16 @@ Lorsque la personne morale révoque son représentant, elle est tenue de pourvoi
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 91
   - Loi n°66-537 du 24 juillet 1966 - art. 91 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -10958,31 +11013,20 @@ _Cité par_:
 
 ###### Article L225-21
 
-I. - Une personne physique ne peut appartenir simultanément à plus de huit conseils d'administration de sociétés anonymes
-ayant leur siège social en France métropolitaine.
+Une personne physique ne peut exercer simultanément plus de cinq mandats d'administrateur de sociétés anonymes ayant leur
+siège sur le territoire français.
 
-II. - Toute personne physique qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions du I
-doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle est réputée
-s'être démise de son nouveau mandat et doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause
-la validité des délibérations auxquelles elle a pris part.
+Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats d'administrateur dans les sociétés qui sont
+contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre du premier alinéa, dès
+lors que les titres des sociétés contrôlées ne sont pas admis aux négociations sur un marché réglementé. Cette dérogation
+n'est pas applicable au mandat de président.
 
-III. - Les dispositions du I ci-dessus ne sont pas applicables aux représentants permanents des personnes morales, ni aux
-administrateurs :
-
-1° Dont le mandat, en vertu de dispositions législatives ou réglementaires, est exclusif de toute rémunération ;
-
-2° Des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues au stade de l'exploitation ;
-
-3° Des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà
-administrateurs ou membres du directoire ou du conseil de surveillance, dans la mesure ou le nombre des mandats détenus par
-les intéressés au titre des présentes dispositions n'excède pas cinq ;
-
-4° Des sociétés de développement régional ;
-
-5° Des instituts régionaux de participation, à condition que les statuts excluent toute rémunération à ce titre.
-
-IV. - Les mandats d'administrateur des diverses sociétés d'assurance ayant la même dénomination sociale ne comptent que pour
-un seul mandat.
+Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
+mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
+disparition de l'une des conditions fixées à l'alinéa précédent. A l'expiration de ce délai, elle est réputée s'être démise,
+selon le cas, soit de son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à l'alinéa précédent, et
+doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles
+elle a pris part.
 
 **Liens relatifs à cet article**
 
@@ -11023,6 +11067,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-22
@@ -11068,6 +11120,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cite_:
 
@@ -11131,8 +11187,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-152 du 19 février 2001 - art. 24
-  - Loi n°2001-152 du 19 février 2001 - art. 25
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cite_:
 
@@ -11166,7 +11221,6 @@ ratifier les nominations prévues au troisième alinéa.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 94
   - Loi n°66-537 du 24 juillet 1966 - art. 94 (Ab)
 
 _Cité par_:
@@ -11186,22 +11240,21 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 
 ###### Article L225-25
 
-Chaque administrateur doit être propriétaire d'un nombre d'actions de la société déterminé par les statuts. Ce nombre ne peut
-être inférieur à celui exigé par les statuts pour ouvrir aux actionnaires le droit d'assister à l'assemblée générale
-ordinaire.
+Chaque administrateur doit être propriétaire d'un nombre d'actions de la société déterminé par les statuts.
 
 Si, au jour de sa nomination, un administrateur n'est pas propriétaire du nombre d'actions requis ou si, en cours de mandat,
 il cesse d'en être propriétaire, il est réputé démissionnaire d'office, s'il n'a pas régularisé sa situation dans le délai de
 trois mois.
 
-Par dérogation au premier alinéa ci-dessus, le nombre d'actions, déterminé par les statuts, dont un salarié doit être
-détenteur, soit individuellement, soit à travers un fonds commun de placement d'entreprise visé aux articles 20 et 21 de la
-loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeur mobilière et portant création des
-fonds communs de créance, pour être nommés membres du conseil d'administration au titre de l'article L. 225-23 est égal à
-celui qui est exigé pour participer à l'assemblée générale ordinaire.
+Les dispositions du premier alinéa ne s'appliquent pas aux actionnaires salariés nommés administrateurs en application de
+l'article L. 225-23.
 
 **Liens relatifs à cet article**
 
@@ -11241,16 +11294,14 @@ _Cité par_:
   - Code monétaire et financier - art. L214-67 (V)
   - Code monétaire et financier - art. L214-7-3 (V)
 
-_Cite_:
-
-  - Loi n°88-1201 1988-12-23 art. 20, art. 21
-  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
-  - Code de commerce. - art. L225-23 (M)
-
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 115
 
 
 ###### Article L225-26
@@ -11262,7 +11313,6 @@ Les commissaires aux comptes veillent, sous leur responsabilité, à l'observati
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97
   - Loi n°66-537 du 24 juillet 1966 - art. 97 (Ab)
 
 _Cité par_:
@@ -11277,9 +11327,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 _Cite_:
 
-  - Code de commerce. - art. L225-25 (M)
+  - Code de commerce - art. L225-25 (V)
 
 
 ###### Article L225-27
@@ -11290,7 +11344,7 @@ société, soit par le personnel de la société et celui de ses filiales direct
 sur le territoire français. Le nombre de ces administrateurs ne peut être supérieur à quatre ou, dans les sociétés dont les
 actions sont admises aux négociations sur un marché réglementé, cinq, ni excéder le tiers du nombre des autres
 administrateurs. Lorsque le nombre des administrateurs élus par les salariés est égal ou supérieur à deux, les ingénieurs,
-cadres et assimilés ont un siège au moins.
+cadres et assimilés ont un siège au moins. 
 
 Les administrateurs élus par les salariés ne sont pas pris en compte pour la détermination du nombre minimal et du nombre
 maximal d'administrateurs prévus à l'article L. 225-17.
@@ -11299,7 +11353,6 @@ maximal d'administrateurs prévus à l'article L. 225-17.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-1
   - Loi n°66-537 du 24 juillet 1966 - art. 97-1 (Ab)
 
 _Cité par_:
@@ -11329,10 +11382,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 _Cite_:
 
-  - Code de commerce. - art. L225-17 (M)
-  - Code de commerce. - art. L225-18 (M)
+  - Code de commerce - art. L225-17 (V)
 
 
 ###### Article L225-28
@@ -11340,32 +11396,32 @@ _Cite_:
 Les administrateurs élus par les salariés doivent être titulaires d'un contrat de travail avec la société ou l'une de ses
 filiales directes ou indirectes dont le siège social est fixé sur le territoire français antérieur de deux années au moins à
 leur nomination et correspondant à un emploi effectif. Toutefois, la condition d'ancienneté n'est pas requise lorsque au jour
-de la nomination la société est constituée depuis moins de deux ans.
+de la nomination la société est constituée depuis moins de deux ans. 
 
 Tous les salariés de la société et le cas échéant de ses filiales directes ou indirectes, dont le siège social est fixé sur
 le territoire français dont le contrat de travail est antérieur de trois mois à la date de l'élection sont électeurs. Le vote
-est secret.
+est secret. 
 
 Lorsqu'un siège au moins est réservé aux ingénieurs, cadres et assimilés, les salariés sont divisés en deux collèges votant
 séparément. Le premier collège comprend les ingénieurs, cadres et assimilés, le second les autres salariés. Les statuts
-fixent la répartition des sièges par collège en fonction de la structure du personnel.
+fixent la répartition des sièges par collège en fonction de la structure du personnel. 
 
 Les candidats ou listes de candidats peuvent être présentés soit par une ou plusieurs organisations syndicales
 représentatives au sens de l'article L. 423-2 du code du travail, soit par le vingtième des électeurs ou, si le nombre de
-ceux-ci est supérieur à deux mille, par cent d'entre eux.
+ceux-ci est supérieur à deux mille, par cent d'entre eux. 
 
 Lorsqu'il y a un seul siège à pourvoir pour l'ensemble du corps électoral, l'élection a lieu au scrutin majoritaire à deux
 tours. Lorsqu'il y a un seul siège à pourvoir dans un collège électoral, l'élection a lieu au scrutin majoritaire à deux
 tours dans ce collège. Chaque candidature doit comporter, outre le nom du candidat, celui de son remplaçant éventuel. Est
 déclaré élu le candidat ayant obtenu au premier tour la majorité absolue des suffrages exprimés, au second tour la majorité
-relative.
+relative. 
 
 Dans les autres cas, l'élection a lieu au scrutin de liste à la représentation proportionnelle au plus fort reste et sans
-panachage. Chaque liste doit comporter un nombre de candidats double de celui des sièges à pourvoir.
+panachage. Chaque liste doit comporter un nombre de candidats double de celui des sièges à pourvoir. 
 
-En cas d'égalité des voix, les candidats dont le contrat de travail est le plus ancien sont déclarés élus.
+En cas d'égalité des voix, les candidats dont le contrat de travail est le plus ancien sont déclarés élus. 
 
-Les autres modalités du scrutin sont fixées par les statuts.
+Les autres modalités du scrutin sont fixées par les statuts. 
 
 Les contestations relatives à l'électorat, à l'éligibilité et à la régularité des opérations électorales sont portées devant
 le juge d'instance qui statue en dernier ressort dans les conditions prévues par le premier alinéa de l'article L. 433-11 du
@@ -11375,13 +11431,16 @@ code du travail.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-2
   - Loi n°66-537 du 24 juillet 1966 - art. 97-2 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -11404,8 +11463,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail - art. L423-2 (M)
-  - Code du travail - art. L433-11 (T)
+  - Code du travail - art. L423-2 (Ab)
+  - Code du travail - art. L433-11 (Ab)
 
 
 ###### Article L225-29
@@ -11420,13 +11479,16 @@ n'entraîne pas celle des délibérations auxquelles a pris part l'administrateu
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-3
   - Loi n°66-537 du 24 juillet 1966 - art. 97-3 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -11445,7 +11507,6 @@ dans les huit jours. A défaut, il est réputé démissionnaire de son mandat d'
 _Anciens textes_:
 
   - Loi n°66-537 du 24 juillet 1966 - art. 97-4 (Ab)
-  - Loi n°66-537 196-07-24 art. 97-4
 
 _Cité par_:
 
@@ -11458,6 +11519,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 
 ###### Article L225-31
 
@@ -11468,13 +11533,16 @@ que salariés ne peut être réduite du fait de l'exercice de leur mandat.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-5
   - Loi n°66-537 du 24 juillet 1966 - art. 97-5 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -11493,13 +11561,16 @@ du conseil d'administration. La décision est exécutoire par provision.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-6
   - Loi n°66-537 du 24 juillet 1966 - art. 97-6 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 
 ###### Article L225-33
@@ -11512,7 +11583,6 @@ décision est exécutoire par provision.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-7
   - Loi n°66-537 du 24 juillet 1966 - art. 97-7 (Ab)
 
 _Cité par_:
@@ -11524,8 +11594,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
+_Abrogé par_:
+
+  - Loi n°2013-504 du 14 juin 2013 - art. 9 (V)
 
 
 ###### Article L225-34
@@ -11545,13 +11623,16 @@ II. - Le mandat de l'administrateur ainsi désigné prend fin à l'arrivée du t
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 97-8
   - Loi n°66-537 du 24 juillet 1966 - art. 97-8 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -11561,15 +11642,17 @@ _Cité par_:
 
 ###### Article L225-35
 
-Le conseil d'administration est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la société.
-Il les exerce dans la limite de l'objet social et sous réserve de ceux expressément attribués par la loi aux assemblées
-d'actionnaires.
+Le conseil d'administration détermine les orientations de l'activité de la société et veille à leur mise en oeuvre. Sous
+réserve des pouvoirs expressément attribués aux assemblées d'actionnaires et dans la limite de l'objet social, il se saisit
+de toute question intéressant la bonne marche de la société et règle par ses délibérations les affaires qui la concernent.
 
 Dans les rapports avec les tiers, la société est engagée même par les actes du conseil d'administration qui ne relèvent pas
 de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer
 compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.
 
-Les dispositions des statuts limitant les pouvoirs du conseil d'administration sont inopposables aux tiers.
+Le conseil d'administration procède aux contrôles et vérifications qu'il juge opportuns. Chaque administrateur reçoit toutes
+les informations nécessaires à l'accomplissement de sa mission et peut se faire communiquer tous les documents qu'il estime
+utiles. 
 
 Les cautions, avals et garanties donnés par des sociétés autres que celles exploitant des établissements bancaires ou
 financiers font l'objet d'une autorisation du conseil dans les conditions déterminées par décret en Conseil d'Etat. Ce décret
@@ -11606,6 +11689,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 106
+
 
 ###### Article L225-36
 
@@ -11616,13 +11703,16 @@ d'administration, sous réserve de ratification de cette décision par la procha
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 99
   - Loi n°66-537 du 24 juillet 1966 - art. 99 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -11634,6 +11724,36 @@ _Cité par_:
   - Code de commerce - art. L952-2 (V)
 
 
+###### Article L225-36-1
+
+Les statuts de la société déterminent les règles relatives à la convocation et aux délibérations du conseil d'administration.
+
+Lorsqu'il ne s'est pas réuni depuis plus de deux mois, le tiers au moins des membres du conseil d'administration peut
+demander au président de convoquer celui-ci sur un ordre du jour déterminé.
+
+Le directeur général peut également demander au président de convoquer le conseil d'administration sur un ordre du jour
+déterminé.
+
+Le président est lié par les demandes qui lui sont adressées en vertu des deux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 106
+
+_Cité par_:
+
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+
 ###### Article L225-37
 
 Le conseil d'administration ne délibère valablement que si la moitié au moins de ses membres sont présents. Toute clause
@@ -11641,6 +11761,11 @@ contraire est réputée non écrite.
 
 A moins que les statuts ne prévoient une majorité plus forte, les décisions sont prises à la majorité des membres présents ou
 représentés.
+
+Sauf disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents pour le calcul du
+quorum et de la majorité les administrateurs qui participent à la réunion du conseil par des moyens de visioconférence dont
+la nature et les conditions d'application sont déterminées par décret en Conseil d'Etat. Cette disposition n'est pas
+applicable pour l'adoption des décisions prévues aux articles L. 225-47, L. 225-53, L. 225-55, L. 232-1 et L. 233-16. 
 
 Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage.
 
@@ -11692,18 +11817,32 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 109
+
+_Cite_:
+
+  - Code de commerce. - art. L225-47 (M)
+  - Code de commerce. - art. L225-53 (M)
+  - Code de commerce. - art. L225-55 (M)
+  - Code de commerce. - art. L232-1 (V)
+  - Code de commerce. - art. L233-16 (M)
+
 
 ###### Article L225-38
 
-Toute convention intervenant entre une société et l'un de ses administrateurs ou directeurs généraux doit être soumise à
-l'autorisation préalable du conseil d'administration.
+Toute convention intervenant directement ou par personne interposée entre la société et son directeur général, l'un de ses
+directeurs généraux délégués, l'un de ses administrateurs, l'un de ses actionnaires disposant d'une fraction des droits de
+vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L. 233-3, doit
+être soumise à l'autorisation préalable du conseil d'administration.
 
-Il en est de même des conventions auxquelles un administrateur ou directeur général est indirectement intéressé ou dans
-lesquelles il traite avec la société par personne interposée.
+Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
 
-Sont également soumises à autorisation préalable, les conventions intervenant entre une société et une entreprise, si l'un
-des administrateurs ou directeurs généraux de la société est propriétaire, associé indéfiniment responsable, gérant,
-administrateur, directeur général ou membre du directoire ou du conseil de surveillance de l'entreprise.
+Sont également soumises à autorisation préalable les conventions intervenant entre la société et une entreprise, si le
+directeur général, l'un des directeurs généraux délégués ou l'un des administrateurs de la société est propriétaire, associé
+indéfiniment responsable, gérant, administrateur, membre du conseil de surveillance ou, de façon générale, dirigeant de cette
+entreprise.
 
 **Liens relatifs à cet article**
 
@@ -11754,11 +11893,23 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
+_Cite_:
+
+  - Code de commerce. - art. L233-3 (M)
+
 
 ###### Article L225-39
 
 Les dispositions de l'article L. 225-38 ne sont pas applicables aux conventions portant sur des opérations courantes et
 conclues à des conditions normales.
+
+Cependant, ces conventions sont communiquées par l'intéressé au président du conseil d'administration. La liste et l'objet
+desdites conventions sont communiqués par le président aux membres du conseil d'administration et aux commissaires aux
+comptes.
 
 **Liens relatifs à cet article**
 
@@ -11781,6 +11932,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 _Cite_:
 
   - Code de commerce. - art. L225-38 (M)
@@ -11788,13 +11943,13 @@ _Cite_:
 
 ###### Article L225-40
 
-L'administrateur ou le directeur général intéressé est tenu d'informer le conseil, dès qu'il a connaissance d'une convention
-à laquelle l'article L. 225-38 est applicable. Il ne peut prendre part au vote sur l'autorisation sollicitée.
+L'intéressé est tenu d'informer le conseil, dès qu'il a connaissance d'une convention à laquelle l'article L. 225-38 est
+applicable. Il ne peut prendre part au vote sur l'autorisation sollicitée. 
 
 Le président du conseil d'administration donne avis aux commissaires aux comptes de toutes les conventions autorisées et
-soumet celles-ci à l'approbation de l'assemblée générale.
+soumet celles-ci à l'approbation de l'assemblée générale. 
 
-Les commissaires aux comptes présentent, sur ces conventions, un rapport spécial à l'assemblée, qui statue sur ce rapport.
+Les commissaires aux comptes présentent, sur ces conventions, un rapport spécial à l'assemblée, qui statue sur ce rapport. 
 
 L'intéressé ne peut pas prendre part au vote et ses actions ne sont pas prises en compte pour le calcul du quorum et de la
 majorité.
@@ -11803,7 +11958,6 @@ majorité.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 103
   - Loi n°66-537 du 24 juillet 1966 - art. 103 (Ab)
 
 _Cité par_:
@@ -11832,9 +11986,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 _Cite_:
 
-  - Code de commerce. - art. L225-38 (M)
+  - Code de commerce - art. L225-38 (V)
 
 
 ###### Article L225-41
@@ -11843,14 +12001,12 @@ Les conventions approuvées par l'assemblée, comme celles qu'elle désapprouve,
 sauf lorsqu'elles sont annulées dans le cas de fraude.
 
 Même en l'absence de fraude, les conséquences, préjudiciables à la société, des conventions désapprouvées peuvent être mises
-à la charge de l'administrateur ou du directeur général intéressé et, éventuellement, des autres membres du conseil
-d'administration.
+à la charge de l'intéressé et, éventuellement, des autres membres du conseil d'administration.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 104
   - Loi n°66-537 du 24 juillet 1966 - art. 104 (Ab)
 
 _Codifié par_:
@@ -11858,15 +12014,19 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 
 ###### Article L225-42
 
-Sans préjudice de la responsabilité de l'administrateur ou du directeur général intéressé, les conventions visées à l'article
-L. 225-38 et conclues sans autorisation préalable du conseil d'administration peuvent être annulées si elles ont eu des
-conséquences dommageables pour la société.
+Sans préjudice de la responsabilité de l'intéressé, les conventions visées à l'article L. 225-38 et conclues sans
+autorisation préalable du conseil d'administration peuvent être annulées si elles ont eu des conséquences dommageables pour
+la société. 
 
 L'action en nullité se prescrit par trois ans, à compter de la date de la convention. Toutefois, si la convention a été
-dissimulée, le point de départ du délai de la prescription est reporté au jour où elle a été révélée.
+dissimulée, le point de départ du délai de la prescription est reporté au jour où elle a été révélée. 
 
 La nullité peut être couverte par un vote de l'assemblée générale intervenant sur rapport spécial des commissaires aux
 comptes exposant les circonstances en raison desquelles la procédure d'autorisation n'a pas été suivie. Les dispositions du
@@ -11884,6 +12044,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 _Cité par_:
 
   - Loi n°2007-1223 du 21 août 2007 - art. 17 (V)
@@ -11891,8 +12055,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce. - art. L225-38 (M)
-  - Code de commerce. - art. L225-40 (M)
+  - Code de commerce - art. L225-38 (V)
+  - Code de commerce - art. L225-40 (V)
 
 
 ###### Article L225-43
@@ -11904,9 +12068,9 @@ ou autrement, ainsi que de faire cautionner ou avaliser par elle leurs engagemen
 Toutefois, si la société exploite un établissement bancaire ou financier, cette interdiction ne s'applique pas aux opérations
 courantes de ce commerce conclues à des conditions normales.
 
-La même interdiction s'applique aux directeurs généraux et aux représentants permanents des personnes morales
-administrateurs. Elle s'applique également aux conjoint, ascendants et descendants des personnes visées au présent article
-ainsi qu'à toute personne interposée.
+La même interdiction s'applique au directeur général, aux directeurs généraux délégués et aux représentants permanents des
+personnes morales administrateurs. Elle s'applique également aux conjoint, ascendants et descendants des personnes visées au
+présent article ainsi qu'à toute personne interposée.
 
 L'interdiction ne s'applique pas aux prêts qui sont consentis par la société en application des dispositions de l'article L.
 313-1 du code de la construction et de l'habitation aux administrateurs élus par les salariés.
@@ -11933,6 +12097,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
 
 _Cite_:
 
@@ -11968,6 +12136,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce. - art. L225-22 (M)
@@ -11982,19 +12154,23 @@ _Cite_:
 
 L'assemblée générale peut allouer aux administrateurs en rémunération de leur activité, à titre de jetons de présence, une
 somme fixe annuelle que cette assemblée détermine sans être liée par des dispositions statutaires ou des décisions
-antérieures. Le montant de celle-ci est porté aux charges d'exploitation.
+antérieures. Le montant de celle-ci est porté aux charges d'exploitation. Sa répartition entre les administrateurs est
+déterminée par le conseil d'administration.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 108
   - Loi n°66-537 du 24 juillet 1966 - art. 108 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -12018,7 +12194,6 @@ articles L. 225-38 à L. 225-42.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 109
   - Loi n°66-537 du 24 juillet 1966 - art. 109 (Ab)
 
 _Codifié par_:
@@ -12026,9 +12201,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 _Cite_:
 
-  - Code de commerce L225-38 à L225-42
+  - Code de commerce - art. L225-38 (V)
 
 _Cité par_:
 
@@ -12064,13 +12243,16 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 110
   - Loi n°66-537 du 24 juillet 1966 - art. 110 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 
 ###### Article L225-48
@@ -12086,7 +12268,6 @@ Lorsqu'un président de conseil d'administration atteint la limite d'âge, il es
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 110-1
   - Loi n°66-537 du 24 juillet 1966 - art. 110-1 (Ab)
 
 _Codifié par_:
@@ -12094,41 +12275,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Code général des collectivités territoriales - art. L1524-5 (V)
-
-
-###### Article L225-49
-
-Nul ne peut exercer simultanément plus de deux mandats de président de conseil d'administration de sociétés anonymes ayant
-leur siège social en France métropolitaine.
-
-Les dispositions des II, III et IV de l'article L. 225-21 sont applicables.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 111 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 110
-
-_Cite_:
-
-  - Code de commerce. - art. L225-21 (M)
-
-_Cité par_:
-
-  - Code de commerce. - art. L225-94 (M)
-  - Code des assurances - art. L322-12 (V)
 
 
 ###### Article L225-50
@@ -12143,7 +12296,6 @@ elle vaut jusqu'à l'élection du nouveau président.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 112
   - Loi n°66-537 du 24 juillet 1966 - art. 112 (Ab)
 
 _Cité par_:
@@ -12155,22 +12307,16 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
 
 ###### Article L225-51
 
-Le président du conseil d'administration assume, sous sa responsabilité, la direction générale de la société. Il représente
-la société dans ses rapports avec les tiers.
-
-Sous réserve des pouvoirs que la loi attribue expressément aux assemblées d'actionnaires ainsi que des pouvoirs qu'elle
-réserve de façon spéciale au conseil d'administration, et dans la limite de l'objet social, le président est investi des
-pouvoirs les plus étendus pour agir en toute circonstance au nom de la société.
-
-Dans les rapports avec les tiers, la société est engagée même par les actes du président du conseil d'administration qui ne
-relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne
-pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette
-preuve.
-
-Les dispositions des statuts ou les décisions du conseil d'administration limitant ces pouvoirs sont inopposables aux tiers.
+Le président du conseil d'administration représente le conseil d'administration. Il organise et dirige les travaux de celui-
+ci, dont il rend compte à l'assemblée générale. Il veille au bon fonctionnement des organes de la société et s'assure, en
+particulier, que les administrateurs sont en mesure de remplir leur mission.
 
 **Liens relatifs à cet article**
 
@@ -12184,11 +12330,65 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 106
+
 _Cité par_:
 
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+
+###### Article L225-51-1
+
+La direction générale de la société est assumée, sous sa responsabilité, soit par le président du conseil d'administration,
+soit par une autre personne physique nommée par le conseil d'administration et portant le titre de directeur général.
+
+Dans les conditions définies par les statuts, le conseil d'administration choisit entre les deux modalités d'exercice de la
+direction générale visées au premier alinéa. Les actionnaires et les tiers sont informés de ce choix dans des conditions
+définies par décret en Conseil d'Etat.
+
+Lorsque la direction générale de la société est assumée par le président du conseil d'administration, les dispositions de la
+présente sous-section relatives au directeur général lui sont applicables.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-236 du 23 mars 1967 - art. 142-1 (Ab)
+  - Décret n°67-236 du 23 mars 1967 - art. 148 (Ab)
+  - Décret n°67-236 du 23 mars 1967 - art. 299-3 (Ab)
+  - Décret n°67-236 du 23 mars 1967 - art. 68 (Ab)
+  - Décret n°84-406 du 30 mai 1984 - art. 52-1 (Ab)
+  - Loi n°2001-420 du 15 mai 2001 - art. 131 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 65 (V)
+  - Arrêté du 29 octobre 2009 - art. 12 (VD)
+  - Arrêté du 2 mai 2013 - art. 12 (V)
+  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 18 (V)
+  - Décret n°2015-28 du 15 janvier 2015 - art. (V)
+  - Code de commerce - art. L225-37-4 (V)
+  - Code de commerce - art. R123-109 (V)
+  - Code de commerce - art. R225-102 (M)
+  - Code de commerce - art. R225-26 (V)
+  - Code de commerce - art. R225-27 (V)
+  - Code de commerce - art. R225-93 (V)
+  - Code de la santé publique - art. L5124-16 (V)
+  - Code monétaire et financier - art. L214-121 (V)
+  - Code monétaire et financier - art. L214-63 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 106
 
 
 ###### Article L225-52
@@ -12201,13 +12401,16 @@ et déchéances, dans les conditions prévues par lesdites dispositions.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 114
   - Loi n°66-537 du 24 juillet 1966 - art. 114 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -12216,16 +12419,17 @@ _Cité par_:
 
 ###### Article L225-53
 
-Sur la proposition du président, le conseil d'administration peut donner mandat à une personne physique d'assister le
-président à titre de directeur général. Deux directeurs généraux peuvent être nommés dans les sociétés dont le capital est au
-moins égal à 500 000 F, et cinq directeurs généraux dans les sociétés dont le capital est au moins égal à 10 000 000 F à
-condition que trois d'entre eux au moins soient administrateurs. Le conseil détermine leur rémunération.
+Sur proposition du directeur général, le conseil d'administration peut nommer une ou plusieurs personnes physiques chargées
+d'assister le directeur général, avec le titre de directeur général délégué.
+
+Les statuts fixent le nombre maximum des directeurs généraux délégués, qui ne peut dépasser cinq.
+
+Le conseil d'administration détermine la rémunération du directeur général et des directeurs généraux délégués.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 115
   - Loi n°66-537 du 24 juillet 1966 - art. 115 (Ab)
 
 _Cité par_:
@@ -12241,21 +12445,24 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
+
 
 ###### Article L225-54
 
-Les statuts doivent prévoir pour l'exercice des fonctions de directeur général une limite d'âge qui, à défaut d'une
-disposition expresse, est fixée à soixante-cinq ans.
+Les statuts doivent prévoir pour l'exercice des fonctions de directeur général ou de directeur général délégué une limite
+d'âge qui, à défaut d'une disposition expresse, est fixée à soixante-cinq ans.
 
 Toute nomination intervenue en violation des dispositions prévues à l'alinéa précédent est nulle.
 
-Lorsqu'un directeur général atteint la limite d'âge, il est réputé démissionnaire d'office.
+Lorsqu'un directeur général ou un directeur général délégué atteint la limite d'âge, il est réputé démissionnaire d'office.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 115-1
   - Loi n°66-537 du 24 juillet 1966 - art. 115-1 (Ab)
 
 _Codifié par_:
@@ -12263,24 +12470,78 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+
+
+###### Article L225-54-1
+
+Une personne physique ne peut exercer simultanément plus d'un mandat de directeur général de sociétés anonymes ayant leur
+siège sur le territoire français.
+
+Par dérogation aux dispositions ci-dessus, un deuxième mandat peut être exercé dans une société qui est contrôlée, au sens de
+l'article L. 233-16, par la société dans laquelle est exercée un mandat au titre du premier alinéa, dès lors que les titres
+de la société contrôlée ne sont pas admis aux négociations sur un marché réglementé.
+
+Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
+mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'évènement ayant entraîné la
+disparition de l'une des conditions fixées à l'alinéa précédent. A l'expiration de ce délai, elle est réputée s'être démise,
+selon le cas, soit de son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à l'alinéa précédent, et
+doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles
+elle a pris part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
+
+_Cité par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 131 (V)
+  - Loi n°2003-706 du 1 août 2003 - art. 130 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 65 (V)
+  - Code de commerce - art. L225-94 (V)
+  - Code de commerce - art. L225-94-1 (V)
+  - Code de commerce - art. L225-95-1 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
+
 
 ###### Article L225-55
 
-Les directeurs généraux sont révocables à tout moment par le conseil d'administration, sur proposition du président. En cas
-de décès, de démission ou de révocation de celui-ci, ils conservent, sauf décision contraire du conseil, leurs fonctions et
-leurs attributions jusqu'à la nomination du nouveau président.
+Le directeur général est révocable à tout moment par le conseil d'administration. Il en est de même, sur proposition du
+directeur général, des directeurs généraux délégués. Si la révocation est décidée sans juste motif, elle peut donner lieu à
+dommages-intérêts, sauf lorsque le directeur général assume les fonctions de président du conseil d'administration.
+
+Lorsque le directeur général cesse ou est empêché d'exercer ses fonctions, les directeurs généraux délégués conservent, sauf
+décision contraire du conseil, leurs fonctions et leurs attributions jusqu'à la nomination du nouveau directeur général.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 116
   - Loi n°66-537 du 24 juillet 1966 - art. 116 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
 
 _Cité par_:
 
@@ -12289,23 +12550,37 @@ _Cité par_:
 
 ###### Article L225-56
 
-En accord avec son président, le conseil d'administration détermine l'étendue et la durée des pouvoirs délégués aux
-directeurs généraux. Lorsqu'un directeur général est administrateur, la durée de ses fonctions ne peut excéder celle de son
-mandat.
+I. - Le directeur général est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la société. Il
+exerce ces pouvoirs dans la limite de l'objet social et sous réserve de ceux que la loi attribue expressément aux assemblées
+d'actionnaires et au conseil d'administration.
 
-Les directeurs généraux disposent, à l'égard des tiers, des mêmes pouvoirs que le président.
+Il représente la société dans ses rapports avec les tiers. La société est engagée même par les actes du directeur général qui
+ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne
+pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette
+preuve.
+
+Les dispositions des statuts ou les décisions du conseil d'administration limitant les pouvoirs du directeur général sont
+inopposables aux tiers.
+
+II. - En accord avec le directeur général, le conseil d'administration détermine l'étendue et la durée des pouvoirs conférés
+aux directeurs généraux délégués.
+
+Les directeurs généraux délégués disposent, à l'égard des tiers, des mêmes pouvoirs que le directeur général.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 117
   - Loi n°66-537 du 24 juillet 1966 - art. 117 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
 
 _Cité par_:
 
@@ -12433,8 +12708,9 @@ _Cité par_:
 
 ###### Article L225-61
 
-Les membres du directoire peuvent être révoqués par l'assemblée générale, sur proposition du conseil de surveillance. Si la
-révocation est décidée sans juste motif, elle peut donner lieu à dommages-intérêts.
+Les membres du directoire ou le directeur général unique peuvent être révoqués par l'assemblée générale, ainsi que, si les
+statuts le prévoient, par le conseil de surveillance. Si la révocation est décidée sans juste motif, elle peut donner lieu à
+dommages-intérêts.
 
 Au cas où l'intéressé aurait conclu avec la société un contrat de travail, la révocation de ses fonctions de membre du
 directoire n'a pas pour effet de résilier ce contrat.
@@ -12443,13 +12719,16 @@ directoire n'a pas pour effet de résilier ce contrat.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 121
   - Loi n°66-537 du 24 juillet 1966 - art. 121 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 108 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -12582,32 +12861,19 @@ _Cité par_:
 
 ###### Article L225-67
 
-I. - Nul ne peut appartenir simultanément à plus de deux directoires, ni exercer les fonctions de directeur général unique
-dans plus de deux sociétés anonymes ayant leur siège social en France métropolitaine.
+Une personne physique ne peut exercer plus d'un mandat de membre du directoire ou de directeur général unique de sociétés
+anonymes ayant leur siège social sur le territoire français.
 
-II. - Un membre du directoire ou le directeur général unique ne peut accepter d'être nommé au directoire ou directeur général
-unique d'une autre société, que sous la condition d'y avoir été autorisé par le conseil de surveillance.
+Par dérogation aux dispositions ci-dessus, un deuxième mandat peut être exercé dans une société qui est contrôlée, au sens de
+l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre du premier alinéa, dès lors que les titres de
+la société contrôlée ne sont pas admis aux négociations sur un marché réglementé.
 
-III. - Toute personne physique qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions du
-I doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle est
-réputée s'être démise de son nouveau mandat et doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en
-cause la validité des délibérations auxquelles elle a pris part. Il en est de même lorsqu'un membre du directoire ou le
-directeur général unique n'a pas obtenu l'autorisation prévue au II.
-
-IV. - Les dispositions du I ne sont pas applicables aux membres du directoire :
-
-1° Dont le mandat, en vertu de dispositions législatives ou réglementaires, est exclusif de toute rémunération ;
-
-2° Des sociétés d'étude ou de recherches tant qu'elles ne sont pas parvenues au stade de l'exploitation ;
-
-3° Des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà
-administrateurs ou membres du directoire ou du conseil de surveillance, dans la mesure ou le nombre des mandats détenus par
-les intéressés au titre des présentes dispositions n'excède pas cinq ;
-
-4° Des sociétés de développement régional.
-
-V. - Les mandats des membres du directoire des diverses sociétés ayant la même dénomination sociale ne comptent que pour un
-seul mandat.
+Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
+mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
+disparition de l'une des conditions fixées à l'alinéa précédent. A l'expiration de ce délai, elle est réputée s'être démise,
+selon le cas, soit de son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à l'alinéa précédent, et
+doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles
+elle a pris part.
 
 **Liens relatifs à cet article**
 
@@ -12620,6 +12886,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
 
 _Cité par_:
 
@@ -12634,6 +12904,10 @@ _Cité par_:
   - Code de commerce - art. L225-95-1 (V)
   - Code de commerce - art. L942-7 (V)
   - Code de commerce. - art. L932-9 (Ab)
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-68
@@ -12697,13 +12971,12 @@ _Codifié par_:
 ###### Article L225-69
 
 Le conseil de surveillance est composé de trois membres au moins. Les statuts fixent le nombre maximum des membres du
-conseil, qui est limité à vingt-quatre.
+conseil, qui est limité à dix-huit.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 129
   - Loi n°66-537 du 24 juillet 1966 - art. 129 (Ab)
 
 _Cité par_:
@@ -12728,6 +13001,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 104
 
 
 ###### Article L225-70
@@ -12833,17 +13110,14 @@ _Cite_:
 ###### Article L225-72
 
 Chaque membre du conseil de surveillance doit être propriétaire d'un nombre d'actions de la société déterminé par les
-statuts. Ce nombre ne peut être inférieur à celui exigé par les statuts pour ouvrir aux actionnaires le droit d'assister à
-l'assemblée générale ordinaire.
+statuts.
 
 Si, au jour de sa nomination, un membre du conseil de surveillance n'est pas propriétaire du nombre d'actions requis ou si,
 en cours de mandat, il cesse d'en être propriétaire, il est réputé démissionnaire d'office, s'il n'a pas régularisé sa
 situation dans le délai de trois mois.
 
-Par dérogation au premier alinéa ci-dessus, le nombre d'actions déterminées par les statuts, dont un salarié doit être
-détenteur, soit individuellement, soit à travers un fonds commun de placement d'entreprise visé aux articles 20 et 21 de la
-loi n° 88-1201 du 23 décembre 1988 précitée, pour être nommé membre du conseil de surveillance au titre de l'article L.
-225-71, est égal à celui qui est exigé pour participer à l'assemblée générale ordinaire.
+Les dispositions du premier alinéa ne s'appliquent pas aux actionnaires salariés nommés membres du conseil de surveillance en
+application de l'article L. 225-71.
 
 **Liens relatifs à cet article**
 
@@ -12874,16 +13148,14 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L423-1-3 (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies G (V)
 
-_Cite_:
-
-  - Loi n°88-1201 1988-12-23 art. 20, art. 21
-  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
-  - Code de commerce. - art. L225-71 (M)
-
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 115
 
 
 ###### Article L225-73
@@ -12993,29 +13265,20 @@ _Codifié par_:
 
 ###### Article L225-77
 
-I. - Une personne physique ne peut appartenir simultanément à plus de huit conseils de surveillance de sociétés anonymes
-ayant leur siège social en France métropolitaine.
+Une personne physique ne peut exercer simultanément plus de cinq mandats de membre de conseil de surveillance de sociétés
+anonymes ayant leur siège social sur le territoire français.
 
-II. - Toute personne physique qui, lorsqu'elle accède à un nouveau mandat, se trouve en infraction avec les dispositions du I
-doit, dans les trois mois de sa nomination, se démettre de l'un de ses mandats. A l'expiration de ce délai, elle est réputée
-s'être démise de son nouveau mandat et doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause
-la validité des délibérations auxquelles elle a pris part.
+Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats de membre du conseil de surveillance dans
+les sociétés qui sont contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre
+du premier alinéa, dès lors que les titres des sociétés contrôlées ne sont pas admis aux négociations sur un marché
+réglementé.
 
-III. - Les dispositions du I ne sont pas applicables aux représentants permanents des personnes morales, ni aux membres du
-conseil de surveillance :
-
-1° Dont le mandat, en vertu de dispositions législatives ou réglementaires, est exclusif de toute rémunération ;
-
-2° Des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues au stade de l'exploitation ;
-
-3° Des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà
-administrateurs ou membres du directoire ou du conseil de surveillance dans la mesure où le nombre des mandats détenus par
-les intéressés au titre des présentes dispositions n'excède pas cinq ;
-
-4° Des sociétés de développement régional.
-
-IV. - Les mandats de membres du conseil de surveillance des diverses sociétés d'assurance ayant la même dénomination sociale
-ne comptent que pour un seul mandat.
+Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
+mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
+disparition de l'une des conditions fixées à l'alinéa précédent. A l'expiration de ce délai, elle est réputée s'être démise,
+selon le cas, soit de son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à l'alinéa précédent, et
+doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles
+elle a pris part.
 
 **Liens relatifs à cet article**
 
@@ -13050,6 +13313,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-78
@@ -13211,6 +13482,11 @@ Le conseil de surveillance ne délibère valablement que si la moitié au moins 
 A moins que les statuts ne prévoient une majorité plus forte, les décisions sont prises à la majorité des membres présents ou
 représentés.
 
+Sauf disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents pour le calcul du
+quorum et de la majorité les membres du conseil de surveillance qui participent à la réunion du conseil par des moyens de
+visioconférence dont la nature et les conditions d'application sont déterminées par décret en Conseil d'Etat. Cette
+disposition n'est pas applicable pour l'adoption des décisions prévues aux articles L. 225-59, L. 225-61 et L. 225-81.
+
 Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage.
 
 **Liens relatifs à cet article**
@@ -13239,24 +13515,38 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 109
+
+_Cite_:
+
+  - Code de commerce. - art. L225-59 (V)
+  - Code de commerce. - art. L225-61 (M)
+  - Code de commerce. - art. L225-81 (V)
+
 
 ###### Article L225-83
 
 L'assemblée générale peut allouer aux membres du conseil de surveillance, en rémunération de leur activité, à titre de jetons
 de présence, une somme fixe annuelle que cette assemblée détermine sans être liée par des dispositions statutaires ou des
-décisions antérieures. Le montant de celle-ci est porté aux charges d'exploitation.
+décisions antérieures. Le montant de celle-ci est porté aux charges d'exploitation. Sa répartition entre les membres du
+conseil de surveillance est déterminée par ce dernier.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 140
   - Loi n°66-537 du 24 juillet 1966 - art. 140 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 117 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -13340,15 +13630,16 @@ _Cite_:
 
 ###### Article L225-86
 
-Toute convention intervenant entre une société et l'un des membres du directoire ou du conseil de surveillance de cette
-société doit être soumise à l'autorisation préalable du conseil de surveillance.
+Toute convention intervenant directement ou par personne interposée entre la société et l'un des membres du directoire ou du
+conseil de surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 5 % ou, s'il s'agit d'une
+société actionnaire, la société la contrôlant au sens de l'article L. 233-3 doit être soumise à l'autorisation préalable du
+conseil de surveillance.
 
-Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée ou
-dans lesquelles elle traite avec la société par personne interposée.
+Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
 
-Sont également soumises à autorisation préalable les conventions intervenant entre une société et une entreprise, si l'un des
+Sont également soumises à autorisation préalable les conventions intervenant entre la société et une entreprise, si l'un des
 membres du directoire ou du conseil de surveillance de la société est propriétaire, associé indéfiniment responsable, gérant,
-administrateur, directeur général ou membre du directoire ou du conseil de surveillance de l'entreprise.
+administrateur, membre du conseil de surveillance ou, de façon générale, dirigeant de cette entreprise.
 
 **Liens relatifs à cet article**
 
@@ -13386,11 +13677,22 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
+_Cite_:
+
+  - Code de commerce. - art. L233-3 (M)
+
 
 ###### Article L225-87
 
 Les dispositions de l'article L. 225-86 ne sont pas applicables aux conventions portant sur des opérations courantes et
 conclues à des conditions normales.
+
+Toutefois, ces conventions sont communiquées par l'intéressé au président du conseil de surveillance. La liste et l'objet en
+sont communiqués par le président aux membres du conseil de surveillance et aux commissaires aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -13416,6 +13718,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 _Cite_:
 
   - Code de commerce. - art. L225-86 (M)
@@ -13423,14 +13729,13 @@ _Cite_:
 
 ###### Article L225-88
 
-Le membre du directoire ou du conseil de surveillance intéressé est tenu d'informer le conseil de surveillance dès qu'il a
-connaissance d'une convention à laquelle l'article L. 225-86 est applicable. S'il siège au conseil de surveillance, il ne
-peut prendre part au vote sur l'autorisation sollicitée.
+L'intéressé est tenu d'informer le conseil de surveillance dès qu'il a connaissance d'une convention à laquelle l'article L.
+225-86 est applicable. S'il siège au conseil de surveillance, il ne peut prendre part au vote sur l'autorisation sollicitée. 
 
 Le président du conseil de surveillance donne avis aux commissaires aux comptes de toutes les conventions autorisées et
-soumet celles-ci à l'approbation de l'assemblée générale.
+soumet celles-ci à l'approbation de l'assemblée générale. 
 
-Les commissaires aux comptes présentent, sur ces conventions, un rapport spécial à l'assemblée, qui statue sur ce rapport.
+Les commissaires aux comptes présentent, sur ces conventions, un rapport spécial à l'assemblée, qui statue sur ce rapport. 
 
 L'intéressé ne peut pas prendre part au vote et ses actions ne sont pas prises en compte pour le calcul du quorum et de la
 majorité.
@@ -13439,7 +13744,6 @@ majorité.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 145
   - Loi n°66-537 du 24 juillet 1966 - art. 145 (Ab)
 
 _Cité par_:
@@ -13465,9 +13769,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 _Cite_:
 
-  - Code de commerce. - art. L225-86 (M)
+  - Code de commerce - art. L225-86 (V)
 
 
 ###### Article L225-89
@@ -13476,20 +13784,22 @@ Les conventions approuvées par l'assemblée, comme celles qu'elle désapprouve,
 sauf lorsqu'elles sont annulées dans le cas de fraude.
 
 Même en l'absence de fraude, les conséquences, préjudiciables à la société, des conventions désapprouvées peuvent être mises
-à la charge du membre du conseil de surveillance ou du membre du directoire intéressé et, éventuellement, des autres membres
-du directoire.
+à la charge de l'interessé et, éventuellement, des autres membres du directoire.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 146
   - Loi n°66-537 du 24 juillet 1966 - art. 146 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
 
 
 ###### Article L225-90
@@ -13618,10 +13928,8 @@ La limitation du nombre de sièges d'administrateur ou de membre du conseil de s
 simultanément par une même personne physique, en vertu des articles L. 225-21 et L. 225-77, est applicable au cumul de sièges
 d'administrateur et de membre du conseil de surveillance.
 
-La limitation à deux du nombre de sièges de président du conseil d'administration ou de membre du directoire ou de directeur
-général unique, qui peuvent être occupés simultanément par une même personne physique, en vertu des articles L. 225-49 et L.
-225-67, est applicable au cumul de sièges de président du conseil d'administration, de membre du directoire et de directeur
-général unique.
+La limitation du nombre de sièges de directeur général qui peuvent être occupés simultanément par une même personne physique,
+en vertu de l'article L. 225-54-1, est applicable au cumul de sièges de membre du directoire et de directeur général unique.
 
 **Liens relatifs à cet article**
 
@@ -13635,6 +13943,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
+
 _Cité par_:
 
   - Loi n°2001-420 du 15 mai 2001 - art. 131 (V)
@@ -13647,22 +13959,77 @@ _Cité par_:
 _Cite_:
 
   - Code de commerce. - art. L225-21 (M)
-  - Code de commerce. - art. L225-49 (Ab)
+  - Code de commerce. - art. L225-54-1 (M)
+  - Code de commerce. - art. L225-77 (M)
+
+
+###### Article L225-94-1
+
+Sans préjudice des dispositions des articles L. 225-21, L. 225-54-1, L. 225-67, L. 225-77 et L. 225-94, une personne physique
+ne peut exercer simultanément plus de cinq mandats de directeur général, de membre du directoire, de directeur général
+unique, d'administrateur ou de membre du conseil de surveillance de sociétés anonymes ayant leur siège sur le territoire
+français.
+
+Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats d'administrateur ou de membre de conseil de
+surveillance dans les sociétés qui sont contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé
+un mandat au titre du premier alinéa, dès lors que les titres des sociétés contrôlées ne sont pas admis aux négociations sur
+un marché réglementé.
+
+Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
+mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
+disparition de l'une des conditions fixées à l'alinéa précédent. A l'expiration de ce délai, elle est réputée s'être démise,
+selon le cas, soit de son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à l'alinéa précédent, et
+doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles
+elle a pris part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
+
+_Cité par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 131 (V)
+  - Loi n°2003-706 du 1 août 2003 - art. 130 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 65 (V)
+  - Code de commerce - art. L225-95-1 (V)
+  - Code monétaire et financier - art. L214-133 (VD)
+  - Code monétaire et financier - art. L214-154 (V)
+  - Code monétaire et financier - art. L214-17 (V)
+  - Code monétaire et financier - art. L214-179 (VD)
+  - Code monétaire et financier - art. L214-24-31 (VD)
+  - Code monétaire et financier - art. L214-49-3 (Ab)
+  - Code monétaire et financier - art. L214-7-2 (VD)
+
+_Cite_:
+
+  - Code de commerce. - art. L225-21 (M)
+  - Code de commerce. - art. L225-54-1 (M)
   - Code de commerce. - art. L225-67 (M)
   - Code de commerce. - art. L225-77 (M)
+  - Code de commerce. - art. L225-94 (M)
+  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-95
 
 En cas de fusion de sociétés anonymes, le nombre de membres du conseil d'administration ou du conseil de surveillance, selon
-le cas, peut dépasser le nombre de vingt-quatre, prévu aux articles L. 225-17 et L. 225-69, pendant un délai de trois ans à
-compter de la date de la fusion fixée à l'article L. 236-4, sans pouvoir être supérieur à trente.
+le cas, peut dépasser le nombre de dix-huit, prévu aux articles L. 225-17 et L. 225-69, pendant un délai de trois ans à
+compter de la date de la fusion fixée à l'article L. 236-4, sans pouvoir être supérieur à vingt-quatre.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 152 al. 1
   - Loi n°66-537 du 24 juillet 1966 - art. 152 (Ab)
 
 _Cité par_:
@@ -13681,13 +14048,54 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 104
+  - Loi n°2001-420 2001-05-15 art. 104 3° JORF 16 mai 2001
 
 _Cite_:
 
-  - Code de commerce. - art. L225-17 (M)
-  - Code de commerce. - art. L225-69 (M)
-  - Code de commerce. - art. L236-4 (V)
+  - Code de commerce - art. L225-17 (V)
+  - Code de commerce - art. L225-69 (V)
+  - Code de commerce - art. L236-4 (V)
+
+
+###### Article L225-95-1
+
+Par dérogation aux dispositions des articles L. 225-21, L. 225-77 et L. 225-94-1, ne sont pas pris en compte les mandats de
+représentant permanent d'une société de capital-risque mentionnée à l'article 1er de la loi n° 85-695 du 11 juillet 1985
+portant diverses dispositions d'ordre économique et financier, d'une société financière d'innovation mentionnée au III (B) de
+l'article 4 de la loi n° 72-650 du 11 juillet 1972 portant diverses dispositions d'ordre économique et financier ou d'une
+société de gestion habilitée à gérer les fonds communs de placement régis par les articles L. 214-35, L. 214-36 et L. 214-41
+du code monétaire et financier.
+
+Dès lors que les conditions prévues au présent article ne sont plus remplies, toute personne physique doit se démettre des
+mandats ne répondant pas aux dispositions des articles L. 225-21, L. 225-77 et L. 225-94-1 dans un délai de trois mois. A
+l'expiration de ce délai, elle est réputée ne plus représenter la personne morale, et doit restituer les rémunérations
+perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles elle a pris part.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°72-650 1972-07-11 art. 4
+  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
+  - Code de commerce. - art. L225-21 (M)
+  - Code de commerce. - art. L225-77 (M)
+  - Code de commerce. - art. L225-94-1 (M)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 110
+
+_Cité par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 130 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
 
 
 ##### Section 3 : Des assemblées d'actionnaires.<a id=66></a>
@@ -13872,11 +14280,12 @@ _Cite_:
 L'assemblée générale ordinaire est réunie au moins une fois par an, dans les six mois de la clôture de l'exercice, sous
 réserve de prolongation de ce délai par décision de justice.
 
-Après lecture de son rapport, le conseil d'administration ou le directoire, selon le cas, présente à l'assemblée les comptes
-annuels et le cas échéant, les comptes consolidés. En outre, les commissaires aux comptes relatent, dans leur rapport,
-l'accomplissement de la mission qui leur est dévolue par l'article L. 225-235.
+Le conseil d'administration ou le directoire présente à l'assemblée son rapport ainsi que les comptes annuels et, le cas
+échéant, les comptes consolidés. En outre, les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la
+mission qui leur est dévolue par l'article L. 225-235.
 
-L'assemblée délibère et statue sur toutes les questions relatives aux comptes annuels de l'exercice écoulé.
+L'assemblée délibère et statue sur toutes les questions relatives aux comptes annuels et, le cas échéant, aux comptes
+consolidés de l'exercice écoulé.
 
 Elle exerce les pouvoirs qui lui sont attribués notamment par l'article L. 225-18, le quatrième alinéa de l'article L.
 225-24, le troisième alinéa de l'article L. 225-40, le troisième alinéa de l'article L. 225-42 et par l'article L. 225-45 ou,
@@ -13953,6 +14362,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 118 () JORF 16 mai 2001
 
 _Cite_:
 
@@ -14086,6 +14499,116 @@ _Cité par_:
   - Code du travail - art. R2323-1-3 (Ab)
 
 
+###### Article L225-102-1
+
+Le rapport visé à l'article L. 225-102 rend compte de la rémunération totale et des avantages de toute nature versés, durant
+l'exercice, à chaque mandataire social.
+
+Il indique également le montant des rémunérations et des avantages de toute nature que chacun de ces mandataires a reçu
+durant l'exercice de la part des sociétés contrôlées au sens de l'article L. 233-16.
+
+Il comprend également la liste de l'ensemble des mandats et fonctions exercés dans toute société par chacun de ces
+mandataires durant l'exercice.
+
+Il comprend également des informations, dont la liste est fixée par décret en Conseil d'Etat, sur la manière dont la société
+prend en compte les conséquences sociales et environnementales de son activité. Le présent alinéa ne s'applique pas aux
+sociétés dont les titres ne sont pas admis aux négociations sur un marché réglementé.
+
+**Nota:**
+
+Loi 2001-420 2001-05-15 art. 116 II JORF 16 mai 2001 :
+
+"Les dispositions des trois premiers alinéas de l'article L. 225-102-1 du code de commerce prennent effet à compter de la
+publication du rapport annuel portant sur l'exercice ouvert à compter du 1er janvier 2001. Les dispositions du dernier alinéa
+de l'article L. 225-102-1 du même code prennent effet à compter de la publication du rapport annuel portant sur l'exercice
+ouvert à compter du 1er janvier 2002."
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 2002-04-30 (informations relatives aux rejets nocifs contenues dans le rapport)
+  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002
+  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002 - art. 1 ()
+  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002 - art. 2 ()
+  - TXT_SOURCE: Arrêté du 30 avril 2002
+  - TXT_SOURCE: Arrêté du 30 avril 2002 - art. 1 (V)
+
+_Cité par_:
+
+  - Loi n°47-1775 du 10 septembre 1947 - art. 8 (V)
+  - Décret n°67-236 du 23 mars 1967 - art. 148-2 (Ab)
+  - Décret n°67-236 du 23 mars 1967 - art. 193 (Ab)
+  - Loi n°2001-420 du 15 mai 2001 - art. 116 (V)
+  - Arrêté du 30 avril 2002 - art. 1 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 64 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 65 (V)
+  - Loi n°2007-1223 du 21 août 2007 - art. 17 (V)
+  - Arrêté du 14 janvier 2009 - art. 3 (V)
+  - Loi n°2010-788 du 12 juillet 2010 - art. 225
+  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
+  - Décret n°2012-557 du 24 avril 2012 (V)
+  - Arrêté du 13 mai 2013 (V)
+  - Arrêté du 13 mai 2013 - art. 3 (V)
+  - Arrêté du 27 décembre 2013 - art. (V)
+  - Décret n°2016-182 du 23 février 2016 (V)
+  - Décret n°2016-1138 du 19 août 2016 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 136 (V)
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+  - Arrêté du 26 mai 2017 - art. 2
+  - Décret n°2017-1819 du 29 décembre 2017 - art. 1
+  - Code de commerce - art. A225-1 (V)
+  - Code de commerce - art. A823-26 (V)
+  - Code de commerce - art. A823-29-1 (V)
+  - Code de commerce - art. A823-36-2 (Ab)
+  - Code de commerce - art. D225-104-1 (M)
+  - Code de commerce - art. L221-7 (V)
+  - Code de commerce - art. L225-197-1 (M)
+  - Code de commerce - art. L823-10 (V)
+  - Code de commerce - art. L950-1 (VT)
+  - Code de commerce - art. R225-104 (VD)
+  - Code de commerce - art. R225-105 (VD)
+  - Code de commerce - art. R225-105-1 (VD)
+  - Code de commerce - art. R225-105-2 (VD)
+  - Code de commerce - art. R823-7 (V)
+  - Code de commerce. - art. L225-102-1 (M)
+  - Code de commerce. - art. L225-185 (V)
+  - Code de commerce. - art. L225-235 (M)
+  - Code de commerce. - art. L225-37 (M)
+  - Code de la mutualité - art. L114-17 (V)
+  - Code de la sécurité sociale. - art. L931-7-3 (V)
+  - Code des assurances - art. L310-1-1-1 (V)
+  - Code des assurances - art. L322-26-2-4 (V)
+  - Code du travail - art. L2312-25 (VD)
+  - Code du travail - art. L2312-36 (VD)
+  - Code du travail - art. L2323-13 (VT)
+  - Code du travail - art. L2323-7-2 (VT)
+  - Code du travail - art. L2323-8 (VT)
+  - Code du travail - art. R2312-9 (V)
+  - Code du travail - art. R2323-1-3 (Ab)
+  - Code monétaire et financier - art. D533-16-1 (VD)
+  - Code monétaire et financier - art. L511-35 (V)
+  - Code rural et de la pêche maritime - art. L524-2-1 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 116 (V) JORF 16 mai 2001
+  - Loi n°2001-420 du 15 mai 2001 - art. 116 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L225-102 (M)
+  - Code de commerce. - art. L233-16 (M)
+
+
 ###### Article L225-103
 
 I. - L'assemblée générale est convoquée par le conseil d'administration ou le directoire, selon le cas.
@@ -14095,8 +14618,8 @@ II. - A défaut, l'assemblée générale peut être également convoquée :
 1° Par les commissaires aux comptes ;
 
 2° Par un mandataire, désigné en justice, à la demande, soit de tout intéressé en cas d'urgence, soit d'un ou plusieurs
-actionnaires réunissant au moins le dixième du capital social, soit d'une association d'actionnaires répondant aux conditions
-fixées à l'article L. 225-120 ;
+actionnaires réunissant au moins 5 % du capital social, soit d'une association d'actionnaires répondant aux conditions fixées
+à l'article L. 225-120 ;
 
 3° Par les liquidateurs ;
 
@@ -14116,7 +14639,6 @@ même département.
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 158
   - Loi n°66-537 du 24 juillet 1966 - art. 158 (Ab)
 
 _Cité par_:
@@ -14133,6 +14655,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 114
 
 _Cite_:
 
@@ -14268,12 +14794,16 @@ _Cite_:
 
 ###### Article L225-107
 
-Tout actionnaire peut voter par correspondance, au moyen d'un formulaire dont les mentions sont fixées par décret en Conseil
-d'Etat. Les dispositions contraires des statuts sont réputées non écrites.
+I. Tout actionnaire peut voter par correspondance, au moyen d'un formulaire dont les mentions sont fixées par décret en
+Conseil d'Etat. Les dispositions contraires des statuts sont réputées non écrites.
 
 Pour le calcul du quorum, il n'est tenu compte que des formulaires qui ont été reçus par la société avant la réunion de
 l'assemblée, dans les conditions de délais fixées par décret en Conseil d'Etat. Les formulaires ne donnant aucun sens de vote
 ou exprimant une abstention sont considérés comme des votes négatifs.
+
+II. Si les statuts le prévoient, sont réputés présents pour le calcul du quorum et de la majorité les actionnaires qui
+participent à l'assemblée par visioconférence ou par des moyens de télécommunication permettant leur identification et dont
+la nature et les conditions d'application sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -14294,13 +14824,43 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 161-1
   - Loi n°66-537 du 24 juillet 1966 - art. 161-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 115
+
+
+###### Article L225-107-1
+
+Les propriétaires de titres mentionnés au troisième alinéa de l'article L. 228-1 peuvent se faire représenter dans les
+conditions prévues audit article par un intermédiaire inscrit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
+_Cité par_:
+
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L228-1 (M)
 
 
 ###### Article L225-108
@@ -14426,30 +14986,6 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-###### Article L225-112
-
-Les statuts peuvent exiger un nombre minimal d'actions, sans que celui-ci puisse être supérieur à dix, pour ouvrir le droit
-de participer aux assemblées générales ordinaires.
-
-Plusieurs actionnaires peuvent se réunir pour atteindre le minimum prévu par les statuts et se faire représenter par l'un
-d'eux ou par le conjoint de l'un d'eux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 165 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 115
-
-
 ###### Article L225-113
 
 Tout actionnaire peut participer aux assemblées générales extraordinaires et tout actionnaire possédant des actions visées à
@@ -14514,7 +15050,9 @@ rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'e
 salariés ;
 
 5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à
-l'article 238 bis AA du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat.
+l'article 238 bis AA du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
+
+6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales.
 
 **Liens relatifs à cet article**
 
@@ -14562,6 +15100,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
 
 
 ###### Article L225-116
@@ -14656,32 +15198,6 @@ _Codifié par_:
 _Cite_:
 
   - Code de commerce - art. L225-115 (V)
-
-
-###### Article L225-119
-
-Si la société refuse en totalité ou en partie la communication de documents, contrairement aux dispositions des articles L.
-225-115 à L. 225-118, il est statué par décision de justice, à la demande de l'actionnaire auquel ce refus a été opposé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 172 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 2001-05-15 art. 122 2° JORF 16 mai 2001
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-_Cite_:
-
-  - Code de commerce L225-115 à L225-118
 
 
 ###### Article L225-120
@@ -16898,7 +17414,9 @@ L'assemblée générale extraordinaire, sur le rapport du conseil d'administrati
 rapport spécial des commissaires aux comptes, peut autoriser le conseil d'administration ou le directoire à consentir, au
 bénéfice des membres du personnel salarié de la société ou de certains d'entre eux, des options donnant droit à la
 souscription d'actions. L'assemblée générale extraordinaire fixe le délai pendant lequel cette autorisation peut être
-utilisée par le conseil d'administration ou par le directoire, ce délai ne pouvant être supérieur à cinq ans.
+utilisée par le conseil d'administration ou par le directoire, ce délai ne pouvant être supérieur à trente-huit mois.
+Toutefois, les autorisations antérieures à la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
+régulations économiques sont valables jusqu'à leur terme. 
 
 Le conseil d'administration ou le directoire fixe les conditions dans lesquelles seront consenties les options. Ces
 conditions pourront comporter des clauses d'interdiction de revente immédiate de tout ou partie des actions sans que le délai
@@ -16908,14 +17426,30 @@ Les options peuvent être consenties ou levées alors même que le capital socia
 
 Le prix de souscription est fixé au jour où l'option est consentie, par le conseil d'administration ou le directoire selon
 les modalités déterminées par l'assemblée générale extraordinaire sur le rapport des commissaires aux comptes. Si les actions
-de la société sont admises aux négociations sur un marché réglementé le prix de souscription ne peut pas être inférieur à 80
-% de la moyenne des cours cotés aux vingt séances de bourse précédant ce jour, aucune option ne pouvant être consentie moins
-de vingt séances de bourse après le détachement des actions d'un coupon donnant droit à un dividende ou à une augmentation de
-capital.
+de la société ne sont pas admises aux négociations sur un marché réglementé, le prix de souscription est déterminé
+conformément aux méthodes objectives retenues en matière d'évaluation d'actions en tenant compte, selon une pondération
+appropriée à chaque cas, de la situation nette comptable, de la rentabilité et des perspectives d'activité de l'entreprise.
+Ces critères sont appréciés le cas échéant sur une base consolidée ou, à défaut, en tenant compte des éléments financiers
+issus des filiales significatives. A défaut, le prix de souscription est déterminé en divisant par le nombre de titres
+existants le montant de l'actif net réévalué, calculé d'après le bilan le plus récent. Un décret fixe les conditions de
+calcul du prix de souscription. Si les actions de la société sont admises aux négociations sur un marché réglementé le prix
+de souscription ne peut pas être inférieur à 80 % de la moyenne des cours cotés aux vingt séances de bourse précédant ce
+jour, aucune option ne pouvant être consentie moins de vingt séances de bourse après le détachement des actions d'un coupon
+donnant droit à un dividende ou à une augmentation de capital.
 
-Les options ne peuvent être consenties durant une période, fixée par décret en Conseil d'Etat, qui précède et qui suit
-l'arrêté et la publication des comptes sociaux ainsi que tout événement de nature à affecter significativement la situation
-et les perspectives de la société.
+Dans une société dont les titres sont admis aux négociations sur un marché réglementé, les options ne peuvent être
+consenties :
+
+1° Dans le délai de dix séances de bourse précédant et suivant la date à laquelle les comptes consolidés, ou à défaut les
+comptes annuels, sont rendus publics ;
+
+2° Dans le délai compris entre la date à laquelle les organes sociaux de la société ont connaissance d'une information qui,
+si elle était rendue publique, pourrait avoir une incidence significative sur le cours des titres de la société, et la date
+postérieure de dix séances de bourse à celle où cette information est rendue publique. 
+
+Des options donnant droit à la souscription de titres qui ne sont pas admis aux négociations sur un marché réglementé ne
+peuvent être consenties qu'aux salariés de la société qui attribue ces options ou à ceux des sociétés mentionnées au 1° de
+l'article L. 225-180.
 
 **Liens relatifs à cet article**
 
@@ -16980,6 +17514,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Cite_:
+
+  - Loi n°2001-420 2001-05-15
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
+
 
 ###### Article L225-178
 
@@ -17029,17 +17571,23 @@ _Cite_:
 L'assemblée générale extraordinaire peut aussi autoriser le conseil d'administration ou le directoire, selon le cas, à
 consentir au bénéfice des membres du personnel salarié de la société ou de certains d'entre eux, des options donnant droit à
 l'achat d'actions provenant d'un rachat effectué, préalablement à l'ouverture de l'option, par la société elle-même dans les
-conditions définies aux articles L. 225-208 ou L. 225-209.
+conditions définies aux articles L. 225-208 ou L. 225-209. L'assemblée générale extraordinaire fixe le délai pendant lequel
+cette autorisation peut être utilisée par le conseil d'administration ou par le directoire, ce délai ne pouvant être
+supérieur à trente-huit mois. Toutefois, les autorisations antérieures à la date de publication de la loi n° 2001-420 du 15
+mai 2001 relative aux nouvelles régulations économiques sont valables jusqu'à leur terme.
 
-En ce cas, les dispositions des deuxième et quatrième alinéas de l'article L. 225-177 sont applicables. En outre, le prix de
-l'action, au jour où l'option est consentie, ne peut pas être inférieur à 80 % du cours moyen d'achat des actions détenues
-par la société au titre des articles L. 225-208 et L. 225-209.
+En ce cas, les dispositions des deuxième et quatrième à septième alinéas de l'article L. 225-177 sont applicables. En outre,
+le prix de l'action, au jour où l'option est consentie, ne peut pas être inférieur à 80 % du cours moyen d'achat des actions
+détenues par la société au titre des articles L. 225-208 et L. 225-209.
+
+Des options donnant droit à l'achat de titres qui ne sont pas admis aux négociations sur un marché réglementé ne peuvent être
+consenties qu'aux salariés de la société qui attribue ces options ou à ceux des sociétés mentionnées au 1° de l'article L.
+225-180.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 208-3
   - Loi n°66-537 du 24 juillet 1966 - art. 208-3 (Ab)
 
 _Cité par_:
@@ -17061,9 +17609,15 @@ _Codifié par_:
 
 _Cite_:
 
+  - Loi n°2001-420 2001-05-15
   - Code de commerce. - art. L225-177 (M)
+  - Code de commerce. - art. L225-180 (M)
   - Code de commerce. - art. L225-208 (M)
   - Code de commerce. - art. L225-209 (M)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
 
 
 ###### Article L225-180
@@ -17083,17 +17637,26 @@ ou indirectement, au moins 50 % du capital de la société consentant les option
 II. - L'assemblée générale ordinaire de la société contrôlant majoritairement, directement ou indirectement, celle qui
 consent les options est informée dans les conditions prévues à l'article L. 225-184.
 
+Des options peuvent également être consenties dans les mêmes conditions qu'aux articles L. 225-177 à L. 225-179 par une
+entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par un organe central ou les
+établissements de crédit qui lui sont affiliés au sens des articles L. 511-30 à L. 511-32 du code monétaire et financier aux
+salariés desdites sociétés ainsi qu'à ceux des entités dont le capital est détenu pour plus de 50 %, directement ou
+indirectement, exclusivement ou conjointement, par cet organe central ou des établissements affiliés.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 208-4
   - Loi n°66-537 du 24 juillet 1966 - art. 208-4 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 32 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -17204,20 +17767,46 @@ _Cité par_:
 
 ###### Article L225-184
 
-L'assemblée générale ordinaire est informée chaque année, dans des conditions déterminées par décret en Conseil d'Etat, des
-opérations réalisées en vertu des dispositions prévues aux articles L. 225-177 à L. 225-186.
+Un rapport spécial informe chaque année l'assemblée générale ordinaire des opérations réalisées en vertu des dispositions
+prévues aux articles L. 225-177 à L. 225-186.
+
+Ce rapport rend également compte :
+
+- du nombre, des dates d'échéance et du prix des options de souscription ou d'achat d'actions qui, durant l'année et à raison
+des mandats et fonctions exercés dans la société, ont été consenties à chacun de ces mandataires par la société et par celles
+qui lui sont liées dans les conditions prévues à l'article L. 225-180 ;
+
+- du nombre, des dates d'échéance et du prix des options de souscription ou d'achat d'actions qui ont été consenties durant
+l'année à chacun de ces mandataires, à raison des mandats et fonctions qu'ils y exercent par les sociétés contrôlées au sens
+de l'article L. 233-16 ;
+
+- du nombre et du prix des actions souscrites ou achetées durant l'exercice par les mandataires sociaux de la société en
+levant une ou plusieurs des options détenues sur les sociétés visées aux deux alinéas précédents.
+
+Ce rapport indique également :
+
+- le nombre, le prix et les dates d'échéance des options de souscription ou d'achat d'actions consenties, durant l'année, par
+la société et par les sociétés ou groupements qui lui sont liés dans les conditions prévues à l'article L. 225-180, à chacun
+des dix salariés de la société non mandataires sociaux dont le nombre d'options ainsi consenties est le plus élevé ;
+
+- le nombre et le prix des actions qui, durant l'année, ont été souscrites ou achetées, en levant une ou plusieurs options
+détenues sur les sociétés visées à l'alinéa précédent, par chacun des dix salariés de la société non mandataires sociaux dont
+le nombre d'actions ainsi achetées ou souscrites est le plus élevé.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 208-8
   - Loi n°66-537 du 24 juillet 1966 - art. 208-8 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -17227,7 +17816,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce L225-177 à L225-186
+  - Code de commerce L225-177 à L225-186, L225-180, L233-16
+  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-185
@@ -17240,25 +17830,22 @@ De telles options peuvent également être consenties, pendant une durée de deu
 sociaux personnes physiques d'une société qui acquièrent avec des salariés la majorité des droits de vote en vue d'assurer la
 continuation de la société.
 
-Les mandataires sociaux qui, à la date de leur nomination en qualité de président-directeur général, directeur général,
-membre du directoire ou gérant d'une société par actions ou d'une autre société liée à celle-ci dans les conditions prévues à
-l'article L. 225-180, justifiant d'une activité salariée d'au moins cinq ans dans cette société ou dans une société qui lui
-est liée dans les mêmes conditions, peuvent bénéficier d'options de souscription ou d'achat d'actions consenties à compter de
-cette date.
-
 En cas d'attribution d'options, dans un délai de deux ans après la création d'une société ou le rachat de la majorité du
 capital d'une société par ses salariés ou ses mandataires sociaux, le maximum prévu au dernier alinéa de l'article L. 225-182
 est porté au tiers du capital.
 
-Des options donnant droit à la souscription ou à l'achat d'actions peuvent être consenties dans les conditions prévues aux
-articles L. 225-177 à L. 225-184, au président-directeur général, aux directeurs généraux, aux membres du directoire ou aux
-gérants d'une société par actions ou d'une société qui lui est liée dans les conditions prévues à l'article L. 225-180.
+Le président du conseil d'administration, le directeur général, les directeurs généraux délégués, les membres du directoire
+ou le gérant d'une société par actions peuvent se voir attribuer par cette société des options donnant droit à la
+souscription ou à l'achat d'actions dans les conditions prévues aux articles L. 225-177 à L. 225-184.
+
+Ils peuvent également se voir attribuer des options donnant droit à la souscription ou à l'achat d'actions d'une société qui
+est liée dans les conditions prévues à l'article L. 225-180, sous réserve que les actions de cette dernière soient admises
+aux négociations sur un marché réglementé.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 208-8-1
   - Loi n°66-537 du 24 juillet 1966 - art. 208-8-1 (Ab)
 
 _Codifié par_:
@@ -17266,9 +17853,13 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
+
 _Cite_:
 
-  - Code de commerce L225-180, L225-182, L225-177 à L225-184
+  - Code de commerce L225-182, L225-177 à L225-184, L225-180
   - Code de commerce. - art. L225-180 (M)
   - Code de commerce. - art. L225-182 (M)
 
@@ -17279,19 +17870,23 @@ _Cité par_:
 
 ###### Article L225-186
 
-Les articles L. 225-177 à L. 225-185 sont applicables aux certificats d'investissement.
+Les articles L. 225-177 à L. 225-185 sont applicables aux certificats d'investissement, aux certificats coopératifs
+d'investissement et aux certificats coopératifs d'associés.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 208-8-2
   - Loi n°66-537 du 24 juillet 1966 - art. 208-8-2 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 31 () JORF 16 mai 2001
 
 _Cite_:
 
@@ -18562,15 +19157,25 @@ _Codifié par_:
 
 ###### Article L225-230
 
-Un ou plusieurs actionnaires représentant au moins le dixième du capital social, le comité d'entreprise, le ministère public
-et, dans les sociétés faisant publiquement appel à l'épargne, la Commission des opérations de bourse peuvent, dans le délai
-et les conditions fixés par décret en Conseil d'Etat, demander en justice la récusation pour juste motif d'un ou plusieurs
+Un ou plusieurs actionnaires représentant au moins 5 % du capital social, le comité d'entreprise, le ministère public et,
+dans les sociétés faisant publiquement appel à l'épargne, la Commission des opérations de bourse peuvent, dans le délai et
+les conditions fixés par décret en Conseil d'Etat, demander en justice la récusation pour juste motif d'un ou plusieurs
 commissaires aux comptes désignés par l'assemblée générale.
 
 Cette demande peut également être formulée par une association répondant aux conditions fixées à l'article L. 225-120.
 
 S'il est fait droit à la demande, un nouveau commissaire aux comptes est désigné en justice. Il demeure en fonctions jusqu'à
 l'entrée en fonctions du commissaire aux comptes désigné par l'assemblée générale.
+
+**Nota:**
+
+: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ; 
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -18602,24 +19207,34 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 114
+
 
 ###### Article L225-231
 
-Un ou plusieurs actionnaires représentant au moins le dixième du capital social peuvent, soit individuellement soit en se
-groupant sous quelque forme que ce soit, demander en justice la désignation d'un ou plusieurs experts chargés de présenter un
-rapport sur une ou plusieurs opérations de gestion.
+Une association répondant aux conditions fixées à l'article L. 225-120, ainsi que un ou plusieurs actionnaires représentant
+au moins 5 % du capital social, soit individuellement, soit en se groupant sous quelque forme que ce soit, peuvent poser par
+écrit au président du conseil d'administration ou au directoire des questions sur une ou plusieurs opérations de gestion de
+la société, ainsi que, le cas échéant, des sociétés qu'elle contrôle au sens de l'article L. 233-3. Dans ce dernier cas, la
+demande doit être appréciée au regard de l'intérêt du groupe. La réponse doit être communiquée aux commissaires aux comptes.
 
-Le ministère public, le comité d'entreprise et, dans les sociétés faisant publiquement appel à l'épargne, la Commission des
-opérations de bourse sont habilités à agir aux mêmes fins. Cette demande peut également être formulée par une association
-répondant aux conditions fixées à l'article L. 225-120.
+A défaut de réponse dans un délai d'un mois ou à défaut de communication d'éléments de réponse satisfaisants, ces
+actionnaires peuvent demander en référé la désignation d'un ou plusieurs experts chargés de présenter un rapport sur une ou
+plusieurs opérations de gestion.
+
+Le ministère public, le comité d'entreprise et, dans les sociétés faisant publiquement appel à l'épargne, l'Autorité des
+marchés financiers peuvent également demander en référé la désignation d'un ou plusieurs experts chargés de présenter un
+rapport sur une ou plusieurs opérations de gestion.
 
 S'il est fait droit à la demande, la décision de justice détermine l'étendue de la mission et des pouvoirs des experts. Elle
 peut mettre les honoraires à la charge de la société.
 
 Le rapport est adressé au demandeur, au ministère public, au comité d'entreprise, au commissaire aux comptes et, selon le
 cas, au conseil d'administration ou au directoire et au conseil de surveillance ainsi que, dans les sociétés faisant
-publiquement appel à l'épargne, à la Commission des opérations de bourse. Ce rapport doit, en outre, être annexé à celui
-établi par les commissaires aux comptes en vue de la prochaine assemblée générale et recevoir la même publicité.
+publiquement appel à l'épargne, à l'Autorité des marchés financiers. Ce rapport doit, en outre, être annexé à celui établi
+par les commissaires aux comptes en vue de la prochaine assemblée générale et recevoir la même publicité.
 
 **Liens relatifs à cet article**
 
@@ -18657,19 +19272,26 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 114
+
+_Cite_:
+
+  - Code de commerce. - art. L233-3 (M)
+
 
 ###### Article L225-232
 
-Un ou plusieurs actionnaires représentant au moins un dixième du capital social ou une association répondant aux conditions
-fixées à l'article L. 225-120 peuvent, deux fois par exercice, poser par écrit des questions au président du conseil
-d'administration ou au directoire sur tout fait de nature à compromettre la continuité de l'exploitation. La réponse est
-communiquée au commissaire aux comptes.
+Un ou plusieurs actionnaires représentant au moins 5 % du capital social ou une association répondant aux conditions fixées à
+l'article L. 225-120 peuvent, deux fois par exercice, poser par écrit des questions au président du conseil d'administration
+ou au directoire sur tout fait de nature à compromettre la continuité de l'exploitation. La réponse est communiquée au
+commissaire aux comptes.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 226-1
   - Loi n°66-537 du 24 juillet 1966 - art. 226-1 (Ab)
 
 _Cité par_:
@@ -18684,17 +19306,31 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 114
+
 
 ###### Article L225-233
 
 En cas de faute ou d'empêchement, les commissaires aux comptes peuvent, à la demande du conseil d'administration, du
-directoire, du comité d'entreprise, d'un ou plusieurs actionnaires représentant au moins un dixième du capital social ou de
+directoire, du comité d'entreprise, d'un ou plusieurs actionnaires représentant au moins 5 % du capital social ou de
 l'assemblée générale, être relevés de leurs fonctions avant l'expiration normale de celles-ci, par décision de justice, dans
 les conditions fixées par décret en Conseil d'Etat.
 
 Cette demande peut également être présentée par le ministère public et, dans les sociétés qui font publiquement appel à
 l'épargne, par la Commission des opérations de bourse. Elle peut également être formulée par une association répondant aux
 conditions fixées à l'article L. 225-120.
+
+**Nota:**
+
+: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ; 
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -18724,6 +19360,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 114
 
 
 ###### Article L225-234
@@ -19274,18 +19914,17 @@ _Cite_:
 
 ###### Article L225-251
 
-Les administrateurs sont responsables individuellement ou solidairement, selon le cas, envers la société ou envers les tiers,
-soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés anonymes, soit des violations
-des statuts, soit des fautes commises dans leur gestion.
+Les administrateurs et le directeur général sont responsables individuellement ou solidairement selon le cas, envers la
+société ou envers les tiers, soit des infractions aux dispositions législatives ou réglementaires applicables aux sociétés
+anonymes, soit des violations des statuts, soit des fautes commises dans leur gestion.
 
-Si plusieurs administrateurs ont coopéré aux mêmes faits, le tribunal détermine la part contributive de chacun dans la
-réparation du dommage.
+Si plusieurs administrateurs ou plusieurs administrateurs et le directeur général ont coopéré aux mêmes faits, le tribunal
+détermine la part contributive de chacun dans la réparation du dommage.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 244
   - Loi n°66-537 du 24 juillet 1966 - art. 244 (Ab)
 
 _Cité par_:
@@ -19303,26 +19942,33 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
+
 
 ###### Article L225-252
 
 Outre l'action en réparation du préjudice subi personnellement, les actionnaires peuvent, soit individuellement, soit par une
 association répondant aux conditions fixées à l'article L. 225-120 soit en se groupant dans les conditions fixées par décret
-en Conseil d'Etat, intenter l'action sociale en responsabilité contre les administrateurs. Les demandeurs sont habilités à
-poursuivre la réparation de l'entier préjudice subi par la société, à laquelle, le cas échéant, les dommages-intérêts sont
-alloués.
+en Conseil d'Etat, intenter l'action sociale en responsabilité contre les administrateurs ou le directeur général. Les
+demandeurs sont habilités à poursuivre la réparation de l'entier préjudice subi par la société, à laquelle, le cas échéant,
+les dommages-intérêts sont alloués.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 245
   - Loi n°66-537 du 24 juillet 1966 - art. 245 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
 
 _Cité par_:
 
@@ -19336,19 +19982,22 @@ préalable ou à l'autorisation de l'assemblée générale, ou qui comporterait 
 action.
 
 Aucune décision de l'assemblée générale ne peut avoir pour effet d'éteindre une action en responsabilité contre les
-administrateurs pour faute commise dans l'accomplissement de leur mandat.
+administrateurs ou contre le directeur général pour faute commise dans l'accomplissement de leur mandat.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 246
   - Loi n°66-537 du 24 juillet 1966 - art. 246 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
 
 _Cité par_:
 
@@ -19360,21 +20009,24 @@ _Cité par_:
 
 ###### Article L225-254
 
-L'action en responsabilité contre les administrateurs, tant sociale qu'individuelle, se prescrit par trois ans, à compter du
-fait dommageable ou s'il a été dissimulé, de sa révélation. Toutefois, lorsque le fait est qualifié crime, l'action se
-prescrit par dix ans.
+L'action en responsabilité contre les administrateurs ou le directeur général, tant sociale qu'individuelle, se prescrit par
+trois ans, à compter du fait dommageable ou s'il a été dissimulé, de sa révélation. Toutefois, lorsque le fait est qualifié
+crime, l'action se prescrit par dix ans.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 247
   - Loi n°66-537 du 24 juillet 1966 - art. 247 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
 
 _Cité par_:
 
@@ -20129,7 +20781,10 @@ _Codifié par_:
 ###### Article L226-10
 
 Les dispositions des articles L. 225-38 à L. 225-43 sont applicables aux conventions intervenant directement ou par personne
-interposée entre une société et l'un de ses gérants ou l'un des membres de son conseil de surveillance.
+interposée entre la société et l'un de ses gérants, l'un des membres de son conseil de surveillance, l'un de ses actionnaires
+disposant d'une fraction des droits de vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la
+contrôlant au sens de l'article L. 233-3. De même, ces dispositions sont applicables aux conventions auxquelles une de ces
+personnes est indirectement intéressée. 
 
 Elles sont également applicables aux conventions intervenant entre une société et une entreprise si l'un des gérants ou l'un
 des membres du conseil de surveillance de la société est propriétaire, associé indéfiniment responsable, gérant,
@@ -20159,10 +20814,15 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
 _Cite_:
 
-  - Code de commerce L225-38 à L225-43, L225-38
+  - Code de commerce L225-38 à L225-43, L233-3, L225-38
   - Code de commerce. - art. L225-38 (M)
+  - Code de commerce. - art. L233-3 (M)
 
 
 ###### Article L226-11
@@ -20254,14 +20914,14 @@ _Codifié par_:
 Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à
 concurrence de leur apport.
 
-Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce
-les pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective.
+Lorsque cette société ne comporte qu'une seule personne, celle-ci est dénommée "associé unique". L'associé unique exerce les
+pouvoirs dévolus aux associés lorsque le présent chapitre prévoit une prise de décision collective.
 
 Dans la mesure où elles sont compatibles avec les dispositions particulières prévues par le présent chapitre, les règles
-concernant les sociétés anonymes, à l'exception des articles L. 225-17 à L. 225-126, sont applicables à la société par
-actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son président sont
-exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les statuts désignent à
-cet effet.
+concernant les sociétés anonymes, à l'exception des articles L. 225-17 à L. 225-126 et L. 225-243, sont applicables à la
+société par actions simplifiée. Pour l'application de ces règles, les attributions du conseil d'administration ou de son
+président sont exercées par le président de la société par actions simplifiée ou celui ou ceux de ses dirigeants que les
+statuts désignent à cet effet.
 
 **Liens relatifs à cet article**
 
@@ -20274,6 +20934,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 101 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -20292,10 +20956,6 @@ _Cité par_:
   - Code monétaire et financier - art. L214-24-32 (M)
   - Code monétaire et financier - art. L214-67 (V)
   - Code monétaire et financier - art. L214-7-3 (V)
-
-_Cite_:
-
-  - Code de commerce L225-17 à L225-126
 
 
 ###### Article L227-2
@@ -20459,9 +21119,9 @@ Les statuts déterminent les décisions qui doivent être prises collectivement 
 qu'ils prévoient.
 
 Toutefois, les attributions dévolues aux assemblées générales extraordinaires et ordinaires des sociétés anonymes, en matière
-d'augmentation, d'amortissement ou de réduction de capital, de fusion, de scission, de dissolution, de nomination de
-commissaires aux comptes, de comptes annuels et de bénéfices sont, dans les conditions prévues par les statuts, exercées
-collectivement par les associés.
+d'augmentation, d'amortissement ou de réduction de capital, de fusion, de scission, de dissolution, de transformation en une
+société d'une autre forme, de nomination de commissaires aux comptes, de comptes annuels et de bénéfices sont, dans les
+conditions prévues par les statuts, exercées collectivement par les associés.
 
 Dans les sociétés ne comprenant qu'un seul associé, le rapport de gestion, les comptes annuels et le cas échéant les comptes
 consolidés sont arrêtés par le président. L'associé unique approuve les comptes, après rapport du commissaire aux comptes,
@@ -20482,6 +21142,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 125 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
@@ -20495,7 +21159,9 @@ _Cité par_:
 ###### Article L227-10
 
 Le commissaire aux comptes présente aux associés un rapport sur les conventions intervenues directement ou par personne
-interposée entre la société et son président ou ses dirigeants.
+interposée entre la société et son président, l'un de ses dirigeants, l'un de ses actionnaires disposant d'une fraction des
+droits de vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L.
+233-3. 
 
 Les associés statuent sur ce rapport.
 
@@ -20529,11 +21195,19 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
+
+_Cite_:
+
+  - Code de commerce. - art. L233-3 (M)
+
 
 ###### Article L227-11
 
-Les dispositions prévues à l'article L. 227-10 ne sont pas applicables aux conventions portant sur les opérations courantes
-et conclues à des conditions normales.
+Les conventions portant sur les opérations courantes et conclues à des conditions normales sont communiquées au commissaire
+aux comptes. Tout associé a le droit d'en obtenir communication.
 
 **Liens relatifs à cet article**
 
@@ -20554,9 +21228,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de commerce. - art. L227-10 (M)
+  - Loi n°2001-420 du 15 mai 2001 - art. 111
 
 
 ###### Article L227-12
@@ -20784,6 +21458,18 @@ _Cite_:
 
 Les valeurs mobilières émises par les sociétés par actions revêtent la forme de titres au porteur ou de titres nominatifs.
 
+Ces valeurs mobilières, quelle que soit leur forme, doivent être inscrites en compte au nom de leur propriétaire, dans les
+conditions prévues par le II de l'article 94 de la loi de finances pour 1982 (n° 81-1160 du 30 décembre 1981).
+
+Toutefois, lorsque des titres de capital de la société ont été admis aux négociations sur un marché réglementé et que leur
+propriétaire n'a pas son domicile sur le territoire français, au sens de l'article 102 du code civil, tout intermédiaire peut
+être inscrit pour le compte de ce propriétaire. Cette inscription peut être faite sous la forme d'un compte collectif ou en
+plusieurs comptes individuels correspondant chacun à un propriétaire.
+
+L'intermédiaire inscrit est tenu, au moment de l'ouverture de son compte auprès soit de la société émettrice, soit de
+l'intermédiaire financier habilité teneur de compte, de déclarer, dans les conditions fixées par décret, sa qualité
+d'intermédiaire détenant des titres pour le compte d'autrui.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -20826,10 +21512,19 @@ _Cité par_:
   - Code monétaire et financier - art. L213-17 (V)
   - Code monétaire et financier - art. L451-2 (V)
 
+_Cite_:
+
+  - Loi n°81-1160 1981-12-30 art. 94 Finances pour 1982
+  - Code civil - art. 102 (V)
+
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
 
 _Nouveaux textes_:
 
@@ -20838,38 +21533,37 @@ _Nouveaux textes_:
 
 ###### Article L228-2
 
-En vue de l'identification des détenteurs des titres ci-après visés, les statuts peuvent prévoir que la société est en droit
-de demander à tout moment, contre rémunération à sa charge dont le montant maximum est fixé par arrêté du ministre chargé de
-l'économie, à l'organisme chargé de la compensation des titres, le nom ou, s'il s'agit d'une personne morale, la
-dénomination, la nationalité, l'année de naissance, ou s'il s'agit d'une personne morale, l'année de constitution et
-l'adresse des détenteurs de titres conférant immédiatement ou à terme le droit de vote dans ses propres assemblées
-d'actionnaires, ainsi que la quantité de titres détenue par chacun d'eux et, le cas échéant, les restrictions dont les titres
-peuvent être frappés.
+I. - En vue de l'identification des détenteurs des titres au porteur, les statuts peuvent prévoir que la société émettrice
+est en droit de demander à tout moment, contre rémunération à sa charge, à l'organisme chargé de la compensation des titres,
+selon le cas, le nom ou la dénomination, la nationalité, l'année de naissance ou l'année de constitution et l'adresse des
+détenteurs de titres conférant immédiatement ou à terme le droit de vote dans ses propres assemblées d'actionnaires ainsi que
+la quantité de titres détenue par chacun d'eux et, le cas échéant, les restrictions dont les titres peuvent être frappés.
 
 Les renseignements sont recueillis par l'organisme susmentionné auprès des établissements teneurs de comptes qui lui sont
-affiliés, lesquels les lui communiquent dans les dix jours ouvrables qui suivent sa demande. Dans les cinq jours ouvrables
-qui en suivent la réception, ces renseignements sont portés par l'organisme susmentionné à la connaissance de la société. Ils
-peuvent, à la demande de cette dernière, être limités aux personnes détenant un nombre de titres qu'elle fixe.
+affiliés, lesquels les lui communiquent dans un délai fixé par décret en Conseil d'Etat. Dans les cinq jours ouvrables qui en
+suivent la réception, ces renseignements sont portés par l'organisme à la connaissance de la société.
 
-Lorsque le délai prévu à la première phrase du deuxième alinéa n'est pas respecté, ou lorsque les renseignements fournis par
-l'établissement teneur de compte sont incomplets ou erronés, l'organisme peut demander l'exécution de l'obligation de
-communication, sous astreinte, au président du tribunal de grande instance statuant en la forme des référés.
+Lorsque le délai fixé par décret n'est pas respecté, ou lorsque les renseignements fournis par l'établissement teneur de
+comptes sont incomplets ou erronés, l'organisme peut demander l'exécution de l'obligation de communication, sous astreinte,
+au président du tribunal de grande instance statuant en référé.
 
-Les renseignements susmentionnés ne peuvent être cédés par la société, même à titre gratuit. Toute violation de cette
-disposition est punie des peines prévues à l'article 226-13 du code pénal.
+II. - La société émettrice, après avoir suivi la procédure prévue au I et au vu de la liste transmise par l'organisme
+susmentionné, a la faculté de demander, soit par l'entremise de cet organisme, soit directement, dans les mêmes conditions et
+sous peine des sanctions prévues à l'article L. 228-3-2, aux personnes figurant sur cette liste et dont la société estime
+qu'elles pourraient être inscrites pour compte de tiers les informations concernant les propriétaires des titres prévues au
+I.
 
-Toute personne participant à un titre quelconque à la direction ou à la gestion de l'organisme susmentionné ou qui est
-employée par celui-ci est tenue au secret professionnel dans les conditions et sous les peines prévues aux articles 226-13 et
-226-14 du code pénal.
+Ces personnes sont tenues, lorsqu'elles ont la qualité d'intermédiaire, de révéler l'identité des propriétaires de ces
+titres. L'information est fournie directement à l'intermédiaire financier habilité teneur de compte, à charge pour ce dernier
+de la communiquer, selon le cas, à la société émettrice ou à l'organisme susmentionné.
 
-Le secret professionnel ne peut être opposé ni à la Commission des opérations de bourse ni à l'autorité judiciaire agissant
-dans le cadre d'une procédure pénale.
+III. - Les renseignements obtenus par la société ne peuvent être cédés par celle-ci, même à titre gratuit. Toute violation de
+cette disposition est punie des peines prévues à l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 263-1
   - Loi n°66-537 du 24 juillet 1966 - art. 263-1 (Ab)
 
 _Cité par_:
@@ -20897,6 +21591,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
 _Nouveaux textes_:
 
   - Code monétaire et financier - art. L211-5 (V)
@@ -20905,14 +21603,18 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
 
 
 ###### Article L228-3
 
-Les actions des sociétés dont les actions sont admises aux négociations sur un marché réglementé auxquelles la loi impose, en
-raison de leur activité, d'être mises sous la forme de titre nominatif, sont réputées l'être lorsque leurs détenteurs sont
-identifiés dans les conditions définies par l'article L. 228-2.
+S'il s'agit de titres de forme nominative, donnant immédiatement ou à terme accès au capital, l'intermédiaire inscrit dans
+les conditions prévues à l'article L. 228-1 est tenu, dans un délai fixé par décret en Conseil d'Etat, de révéler l'identité
+des propriétaires de ces titres sur simple demande de la société émettrice ou de son mandataire, laquelle peut être présentée
+à tout moment.
+
+Les droits spéciaux attachés aux actions nominatives, notamment ceux prévus aux articles L. 225-123 et L. 232-14, ne peuvent
+être exercés par un intermédiaire inscrit dans les conditions prévues à l'article L. 228-1 que si les renseignements qu'il
+fournit permettent le contrôle des conditions requises pour l'exercice de ces droits.
 
 **Liens relatifs à cet article**
 
@@ -20936,9 +21638,159 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
+_Cite_:
+
+  - Code de commerce. - art. L225-123 (V)
+  - Code de commerce. - art. L228-1 (M)
+  - Code de commerce. - art. L232-14 (M)
+
+
+###### Article L228-3-1
+
+I. - Aussi longtemps que la société émettrice estime que certains détenteurs dont l'identité lui a été communiquée le sont
+pour le compte de tiers propriétaires des titres, elle est en droit de demander à ces détenteurs de révéler l'identité des
+propriétaires de ces titres, dans les conditions prévues respectivement au premier alinéa du II de l'article L. 228-2 pour
+les titres au porteur et au premier alinéa de l'article L. 228-3 pour les titres nominatifs.
+
+II. - A l'issue de ces opérations, et sans préjudice des obligations de déclaration de participations significatives imposées
+par les articles L. 233-7, L. 233-12 et L. 233-13, la société émettrice peut demander à toute personne morale propriétaire de
+ses actions et possédant des participations dépassant le quarantième du capital ou des droits de vote de lui faire connaître
+l'identité des personnes détenant directement ou indirectement plus du tiers du capital social de cette personne morale ou
+des droits de vote qui sont exercés aux assemblées générales de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-236 du 23 mars 1967 - art. 151-3 (Ab)
+  - Code de commerce - art. R228-3 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
 _Cite_:
 
   - Code de commerce. - art. L228-2 (M)
+  - Code de commerce. - art. L228-3 (M)
+  - Code de commerce. - art. L233-12 (V)
+  - Code de commerce. - art. L233-13 (M)
+  - Code de commerce. - art. L233-7 (M)
+
+
+###### Article L228-3-2
+
+L'intermédiaire qui a satisfait aux obligations prévues aux troisième et quatrième alinéas de l'article L. 228-1 peut, en
+vertu d'un mandat général de gestion des titres, transmettre pour une assemblée le vote ou le pouvoir d'un propriétaire
+d'actions tel qu'il a été défini au troisième alinéa du même article.
+
+Avant de transmettre des pouvoirs ou des votes en assemblée générale, l'intermédiaire inscrit conformément à l'article L.
+228-1 est tenu, à la demande de la société émettrice ou de son mandataire, de fournir la liste des propriétaires non
+résidents des actions auxquelles ces droits de vote sont attachés. Cette liste est fournie dans les conditions prévues, selon
+le cas, aux articles L. 228-2 ou L. 228-3.
+
+Le vote ou le pouvoir émis par un intermédiaire qui soit ne s'est pas déclaré comme tel en vertu du quatrième alinéa de
+l'article L. 228-1 ou du deuxième alinéa du présent article, soit n'a pas révélé l'identité des propriétaires des titres en
+vertu des articles L. 228-2 ou L. 228-3, ne peut être pris en compte.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-236 du 23 mars 1967 - art. 151-6 (Ab)
+  - Code de commerce - art. R228-6 (V)
+  - Code de commerce. - art. L228-2 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
+_Cite_:
+
+  - Code de commerce. - art. L228-1 (M)
+  - Code de commerce. - art. L228-3 (M)
+
+
+###### Article L228-3-3
+
+Lorsque la personne qui fait l'objet d'une demande en vertu des articles L. 228-2 à L. 228-3-1 n'a pas transmis les
+informations dans les délais prévus à ces articles ou a transmis des renseignements incomplets ou erronés relatifs soit à sa
+qualité, soit aux propriétaires des titres, les actions ou les titres donnant accès immédiatement ou à terme au capital et
+pour lesquels cette personne a été inscrite en compte sont privés des droits de vote pour toute assemblée d'actionnaires qui
+se tiendrait jusqu'à la date de régularisation de l'identification, et le paiement du dividende correspondant est différé
+jusqu'à cette date.
+
+En outre, au cas où la personne inscrite méconnaîtrait sciemment les dispositions des articles L. 228-1 à L. 228-3-1, le
+tribunal dans le ressort duquel la société a son siège social peut, sur demande de la société ou d'un ou plusieurs
+actionnaires détenant au moins 5 % du capital, prononcer la privation totale ou partielle, pour une durée totale ne pouvant
+excéder cinq ans, des droits de vote attachés aux actions ayant fait l'objet de l'interrogation et, éventuellement et pour la
+même période, du dividende correspondant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
+_Cite_:
+
+  - Code de commerce L228-2 à L228-3-1, L228-1 à L228-3-1
+
+_Cité par_:
+
+  - Code de commerce. - art. L233-7 (M)
+  - Code monétaire et financier - art. L451-2 (V)
+
+
+###### Article L228-3-4
+
+Toute personne participant à un titre quelconque à la direction ou à la gestion de l'organisme chargé de la compensation des
+titres ainsi que toute personne employée par celui-ci, par la société émettrice ou par l'intermédiaire inscrit, et ayant dans
+le cadre de son activité professionnelle connaissance des renseignements mentionnés aux articles L. 228-1 à L. 228-3-2 est
+tenue au secret professionnel dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le
+secret professionnel ne peut être opposé ni à la Commission des opérations de bourse ni à l'autorité judiciaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
+_Cité par_:
+
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+_Cite_:
+
+  - Code de commerce L228-1 à L228-3-2
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
 
 
 ###### Article L228-4
@@ -22198,14 +23050,9 @@ _Cite_:
 
 ###### Article L228-39
 
-L'émission d'obligations n'est permise qu'aux sociétés par actions ayant deux années d'existence et qui ont établi deux
-bilans régulièrement approuvés par les actionnaires.
-
-Ces conditions ne sont pas applicables à l'émission d'obligations qui bénéficient, soit de la garantie de l'Etat ou de
-collectivités publiques, soit de la garantie de sociétés remplissant les conditions prévues à l'alinéa précédent. Elles ne
-sont pas non plus applicables à l'émission d'obligations qui sont gagées par des titres de créances sur l'Etat, sur les
-collectivités publiques ou sur des entreprises concessionnaires ou subventionnées ayant établi le bilan de leur premier
-exercice.
+L'émission d'obligations par une société par actions n'ayant pas établi deux bilans régulièrement approuvés par les
+actionnaires doit être précédée d'une vérification de l'actif et du passif dans les conditions prévues aux articles L. 225-8
+et L. 225-10.
 
 L'émission d'obligations est interdite aux sociétés dont le capital n'est pas intégralement libéré sauf si les actions non
 libérées ont été réservées aux salariés en application de l'article L. 225-187 ou de l'article L. 443-5 du code du travail,
@@ -22242,7 +23089,6 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 285
   - Loi n°66-537 du 24 juillet 1966 - art. 285 (Ab)
 
 _Codifié par_:
@@ -22250,14 +23096,15 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 102 () JORF 16 mai 2001
+
 _Cite_:
 
-  - Code de commerce. - art. L225-187 (Ab)
-  - Code du travail - art. L443-5 (M)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L412-2 (M)
+  - Code de commerce - art. L225-10 (V)
+  - Code de commerce - art. L225-187 (Ab)
+  - Code du travail - art. L443-5 (Ab)
 
 **Liens**:
 
@@ -23977,15 +24824,16 @@ _Codifié par_:
 Les statuts déterminent une somme au-dessous de laquelle le capital ne peut être réduit par les reprises des apports
 autorisés par l'article L. 231-1.
 
-Cette somme ne peut être inférieure au dixième du capital social.
+Cette somme ne pourra être inférieure ni au dixième du capital social stipulé dans les statuts ni, pour les sociétés autres
+que coopératives, au montant minimal du capital exigé pour la forme de la société considérée par les dispositions
+législatives la régissant.
 
-La société n'est définitivement constituée qu'après le versement du dixième du capital.
+Les sociétés coopératives sont définitivement constituées après le versement du dixième.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°1867-07-24 art. 51
   - Loi n°1867-07-24 du 24 juillet 1867 - art. 51 (Ab)
 
 _Cité par_:
@@ -24002,6 +24850,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 124 II 2° (libération du capital social - délai de mise en conformité)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 124 (V)
 
 _Cite_:
 
@@ -25100,6 +25956,10 @@ II. - Elle est présumée exercer ce contrôle lorsqu'elle dispose directement o
 vote supérieure à 40 % et qu'aucun autre associé ou actionnaire ne détient directement ou indirectement une fraction
 supérieure à la sienne.
 
+III. - Pour l'application des mêmes sections du présent chapitre, deux ou plusieurs personnes agissant de concert sont
+considérées comme en contrôlant conjointement une autre lorsqu'elles déterminent en fait, dans le cadre d'un accord en vue de
+mettre en oeuvre une politique commune, les décisions prises dans les assemblées générales de cette dernière.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -25419,6 +26279,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 120 () JORF 16 mai 2001
+
 
 ###### Article L233-4
 
@@ -25521,6 +26385,11 @@ un délai de quinze jours à compter du franchissement de seuil. En cas de chang
 que par des modifications importantes dans l'environnement, la situation ou l'actionnariat des personnes concernées, une
 nouvelle déclaration doit être établie.
 
+L'intermédiaire inscrit comme détenteur de titres conformément au troisième alinéa de l'article L. 228-1 est tenu, sans
+préjudice des obligations des propriétaires des titres, d'effectuer les déclarations prévues au présent article, pour
+l'ensemble des actions de la société au titre desquelles il est inscrit en compte. La violation des obligations découlant du
+présent alinéa est sanctionnée conformément aux dispositions de l'article L. 228-3-3.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -25595,6 +26464,15 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 119
+
+_Cite_:
+
+  - Code de commerce. - art. L228-1 (M)
+  - Code de commerce. - art. L228-3-3 (M)
 
 **Liens**:
 
@@ -25708,7 +26586,7 @@ _Cite_:
 ###### Article L233-10
 
 I. - Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de céder des
-droits de vote ou en vue d'exercer des droits de vote pour mettre en oeuvre une politique commune vis-à-vis de la société.
+droits de vote, ou en vue d'exercer des droits de vote pour mettre en oeuvre une politique commune vis-à-vis de la société.
 
 II. - Un tel accord est présumé exister :
 
@@ -25735,6 +26613,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 121 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -25786,9 +26668,19 @@ _Cite_:
 
 ###### Article L233-11
 
-Toute convention conclue entre des actionnaires d'une société dont les actions sont admises aux négociations sur un marché
-réglementé comportant des conditions préférentielles de cession ou d'acquisition d'actions doit être transmise au Conseil des
-marchés financiers qui en assure la publicité.
+Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions admises aux
+négociations sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits de vote de la société qui a émis
+ces actions doit être transmise dans un délai fixé par décret au Conseil des marchés financiers qui en assure la publicité. A
+défaut de transmission, les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période
+d'offre publique.
+
+Le conseil doit également être informé de la date à laquelle la clause prend fin. Il assure la publicité de cette
+information.
+
+Les clauses des conventions conclues avant la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
+régulations économiques qui n'ont pas été transmises au Conseil des marchés financiers à cette date doivent lui être
+transmises, dans les mêmes conditions et avec les mêmes effets que ceux mentionnés au premier alinéa, dans un délai de six
+mois.
 
 **Liens relatifs à cet article**
 
@@ -25816,6 +26708,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Cite_:
+
+  - Loi n°2001-420 2001-05-15
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 1 () JORF 16 mai 2001
 
 **Liens**:
 
@@ -28257,8 +29157,8 @@ la demande :
 
 1° De la majorité des associés, dans les sociétés en nom collectif ;
 
-2° D'associés représentant au moins le dixième du capital, dans les sociétés en commandite simple, les sociétés à
-responsabilité limitée et les sociétés par actions ;
+2° D'associés représentant au moins 5 % du capital, dans les sociétés en commandite simple, les sociétés à responsabilité
+limitée et les sociétés par actions ;
 
 3° Des créanciers sociaux.
 
@@ -28268,7 +29168,6 @@ III. - Dans ce cas, les dispositions des statuts contraires à celles du présen
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 402
   - Loi n°66-537 du 24 juillet 1966 - art. 402 (Ab)
 
 _Cité par_:
@@ -28285,6 +29184,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 114
 
 
 ###### Article L237-15
@@ -28719,9 +29622,53 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-### TITRE IV : Dispositions pénales.<a id=114></a>
+#### Chapitre VIII : Des injonctions de faire<a id=114></a>
 
-#### Chapitre Ier : Des infractions concernant les sociétés à responsabilité limitée<a id=115></a>
+###### Article L238-1
+
+Lorsque les personnes intéressées ne peuvent obtenir la production, la communication ou la transmission des documents visés
+aux articles L. 221-7, L. 223-26, L. 225-115, L. 225-116, L. 225-117, L. 225-118, L. 228-69, L. 237-3 et L. 237-26, elles
+peuvent demander au président du tribunal statuant en référé soit d'enjoindre sous astreinte au liquidateur ou aux
+administrateurs, gérants, et dirigeants de les communiquer, soit de désigner un mandataire chargé de procéder à cette
+communication.
+
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs, des
+gérants, des dirigeants ou du liquidateur mis en cause.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 122
+
+_Cité par_:
+
+  - Ordonnance n°2004-274 du 25 mars 2004 - art. 47 (V)
+  - Ordonnance n°2004-274 du 25 mars 2004 - art. 48 (V)
+  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V)
+  - Code de commerce - art. L225-149-3 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L221-7 (M)
+  - Code de commerce. - art. L223-26 (M)
+  - Code de commerce. - art. L225-115 (M)
+  - Code de commerce. - art. L225-116 (V)
+  - Code de commerce. - art. L225-117 (V)
+  - Code de commerce. - art. L225-118 (V)
+  - Code de commerce. - art. L228-69 (V)
+  - Code de commerce. - art. L237-26 (V)
+  - Code de commerce. - art. L237-3 (V)
+
+
+### TITRE IV : Dispositions pénales.<a id=115></a>
+
+#### Chapitre Ier : Des infractions concernant les sociétés à responsabilité limitée<a id=116></a>
 
 ###### Article L241-1
 
@@ -28816,13 +29763,7 @@ Est puni d'une amende de 60000 F :
 1° Le fait, pour les gérants, de ne pas, pour chaque exercice, dresser l'inventaire, établir les comptes annuels et un
 rapport de gestion ;
 
-2° Le fait, pour les gérants, de ne pas, dans le délai de quinze jours avant la date de l'assemblée, adresser aux associés
-les comptes annuels, le rapport de gestion, le texte des résolutions proposées et, le cas échéant, le rapport des
-commissaires aux comptes, ou de ne pas tenir l'inventaire à la disposition des associés au siège social ;
-
-3° Le fait, pour les gérants, de ne pas mettre, à toute époque de l'année, à la disposition de tout associé, au siège social,
-les documents suivants concernant les trois derniers exercices soumis aux assemblées : comptes annuels, inventaire, rapports
-des gérants et, le cas échéant, des commissaires aux comptes, et procès-verbaux des assemblées.
+2°et 3° (supprimés).
 
 **Liens relatifs à cet article**
 
@@ -28835,6 +29776,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 122
 
 _Cité par_:
 
@@ -28914,42 +29859,6 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-###### Article L241-8
-
-Les dispositions des articles L. 242-26 et L. 242-27 sont applicables aux commissaires aux comptes des sociétés à
-responsabilité limitée et des sociétés en nom collectif.
-
-L'article L. 242-25, lorsque les sociétés à responsabilité limitée et les sociétés en nom collectif sont tenues d'avoir un
-commissaire aux comptes, et l'article L. 242-28, lorsqu'il est fait obstacle aux vérifications ou contrôles des commissaires
-aux comptes ou des experts nommés en exécution de l'article L. 223-37, s'appliquent aux sociétés à responsabilité limitée et
-aux sociétés en nom collectif ; les peines prévues pour les présidents, administrateurs et directeurs généraux des sociétés
-anonymes sont applicables, en ce qui concerne leurs attributions, aux gérants des sociétés à responsabilité limitée et des
-sociétés en nom collectif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 430 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
-
-_Cite_:
-
-  - Code de commerce. - art. L223-37 (V)
-  - Code de commerce. - art. L242-25 (Ab)
-  - Code de commerce. - art. L242-26 (Ab)
-  - Code de commerce. - art. L242-27 (Ab)
-  - Code de commerce. - art. L242-28 (Ab)
-
-
 ###### Article L241-9
 
 Les dispositions des articles L. 241-2 à L. 241-7 sont applicables à toute personne qui, directement ou par personne
@@ -28973,9 +29882,9 @@ _Cite_:
   - Code de commerce L241-2 à L241-7
 
 
-#### Chapitre II : Des infractions concernant les sociétés anonymes<a id=116></a>
+#### Chapitre II : Des infractions concernant les sociétés anonymes<a id=117></a>
 
-##### Section 1 : Des infractions relatives à la constitution<a id=117></a>
+##### Section 1 : Des infractions relatives à la constitution<a id=118></a>
 
 ###### Article L242-1
 
@@ -29021,19 +29930,9 @@ _Cité par_:
 
 ###### Article L242-2
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 60 000 F le fait, pour toute personne :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 60000 F le fait, pour toute personne :
 
-1° Pour l'établissement du certificat du dépositaire constatant les souscriptions et les versements, d'affirmer sincères et
-véritables des souscriptions sachant qu'elles sont fictives ou de déclarer que les fonds qui n'ont pas été mis définitivement
-à la disposition de la société ont été effectivement versés, ou de remettre au dépositaire une liste des actionnaires
-mentionnant des souscriptions fictives ou le versement de fonds qui n'ont pas été mis définitivement à la disposition de la
-société ;
-
-2° D'obtenir ou de tenter d'obtenir des souscriptions ou des versements par simulation de souscriptions ou de versements, ou
-par publication de souscriptions ou de versements qui n'existent pas ou de tous autres faits faux ;
-
-3° De publier les noms des personnes désignées contrairement à la vérité comme étant ou devant être attachées à la société à
-un titre quelconque, pour provoquer des souscriptions ou des versements ;
+1°, 2° et 3° (supprimés) ;
 
 4° De faire attribuer frauduleusement à un apport en nature une évaluation supérieure à sa valeur réelle.
 
@@ -29048,6 +29947,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 122
 
 _Cité par_:
 
@@ -29065,8 +29968,7 @@ porteurs d'actions, de négocier :
 
 2° Des actions de numéraire pour lesquelles le versement du quart n'a pas été effectué ;
 
-3° Des promesses d'actions, sauf en ce qui concerne les promesses d'actions à créer à l'occasion d'une augmentation de
-capital dans une société dont les actions anciennes sont déjà admises aux négociations sur un marché réglementé.
+3° (supprimé).
 
 **Liens relatifs à cet article**
 
@@ -29079,6 +29981,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 122
 
 _Cité par_:
 
@@ -29130,7 +30036,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-##### Section 2 : Des infractions relatives à la direction et à l'administration<a id=118></a>
+##### Section 2 : Des infractions relatives à la direction et à l'administration<a id=119></a>
 
 ###### Article L242-6
 
@@ -29232,7 +30138,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-##### Section 3 : Des infractions relatives aux assemblées d'actionnaires<a id=119></a>
+##### Section 3 : Des infractions relatives aux assemblées d'actionnaires<a id=120></a>
 
 ###### Article L242-9
 
@@ -29365,49 +30271,6 @@ _Cité par_:
   - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 
 
-###### Article L242-14
-
-Est puni d'une amende de 60000 F le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
-anonyme, de ne pas mettre à la disposition de tout actionnaire, au siège social ou au lieu de la direction administrative :
-
-1° Pendant le délai de quinze jours qui précède la réunion de l'assemblée générale ordinaire annuelle, les documents énumérés
-à l'article L. 225-115 ;
-
-2° Pendant le délai de quinze jours qui précède la réunion d'une assemblée générale extraordinaire, le texte des résolutions
-proposées, du rapport du conseil d'administration ou du directoire et du conseil de surveillance, selon le cas, et, le cas
-échéant, du rapport des commissaires aux comptes et du projet de fusion ;
-
-3° Pendant le délai de quinze jours qui précède la réunion de l'assemblée générale, la liste des actionnaires arrêtée trente
-jours au plus avant la date de ladite réunion et comportant les nom, prénom usuel et domicile de chaque titulaire d'actions
-nominatives et de chaque titulaire d'actions au porteur ayant manifesté à cette date l'intention de participer à l'assemblée,
-ainsi que le nombre des actions dont chaque actionnaire connu de la société est titulaire ;
-
-4° A toute époque de l'année, les documents suivants concernant les trois derniers exercices soumis aux assemblées
-générales :
-
-inventaire, comptes annuels, rapports du conseil d'administration ou du directoire et du conseil de surveillance, selon le
-cas, rapports des commissaires aux comptes, feuilles de présence et procès-verbaux des assemblées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 445 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-_Cite_:
-
-  - Code de commerce. - art. L225-115 (M)
-
-
 ###### Article L242-15
 
 Est puni d'une amende de 25000 F le fait, pour le président ou les administrateurs d'une société anonyme :
@@ -29476,9 +30339,9 @@ _Cite_:
   - Code de commerce. - art. L242-15 (M)
 
 
-##### Section 4 : Des infractions relatives aux modifications du capital social<a id=120></a>
+##### Section 4 : Des infractions relatives aux modifications du capital social<a id=121></a>
 
-##### Sous-section 1 : De l'augmentation du capital<a id=121></a>
+##### Sous-section 1 : De l'augmentation du capital<a id=122></a>
 
 ###### Article L242-17
 
@@ -29654,29 +30517,6 @@ _Cite_:
   - Code de commerce L242-2 à L242-5
 
 
-##### Sous-section 2 : De l'amortissement du capital<a id=122></a>
-
-###### Article L242-22
-
-Est puni d'un emprisonnement d'un an et d'une amende de 40000 F le fait, pour le président ou les administrateurs d'une
-société anonyme, de procéder à l'amortissement du capital par voie de tirage au sort des actions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 453 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-
 ##### Sous-section 3 : De la réduction du capital<a id=123></a>
 
 ###### Article L242-23
@@ -29738,166 +30578,7 @@ _Cite_:
   - Code de commerce. - art. L242-23 (M)
 
 
-##### Section 5 : Des infractions relatives au contrôle<a id=124></a>
-
-###### Article L242-25
-
-Est puni d'un emprisonnement de deux ans et d'une amende de 60000 F le fait, pour le président ou les administrateurs d'une
-société anonyme, de ne pas provoquer la désignation des commissaires aux comptes de la société ou de ne pas les convoquer à
-toute assemblée d'actionnaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 455 (Ab)
-
-_Cité par_:
-
-  - Loi n°87-571 du 23 juillet 1987 - art. 19-9 (VD)
-  - Loi n°87-571 du 23 juillet 1987 - art. 5 (V)
-  - Code de commerce - art. L251-12 (V)
-  - Code de commerce. - art. L241-8 (Ab)
-  - Code de commerce. - art. L252-13 (Ab)
-  - Code de commerce. - art. L612-1 (M)
-  - Code de commerce. - art. L712-3 (T)
-  - Code de la sécurité sociale. - art. L931-27 (V)
-  - Code des assurances - art. L328-3 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
-
-
-###### Article L242-26
-
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait, pour toute personne, soit en son nom personnel,
-soit au titre d'associé dans une société de commissaires aux comptes, d'accepter, d'exercer ou de conserver les fonctions de
-commissaire aux comptes, nonobstant les incompatibilités légales.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 456 (Ab)
-
-_Cité par_:
-
-  - Loi n°91-647 du 10 juillet 1991 - art. 30 (V)
-  - Ordonnance no 92-1147 du 12 octobre 1992 relative  - art. 17 (V)
-  - Code de commerce. - art. L241-8 (Ab)
-  - Code de commerce. - art. L244-1 (V)
-  - Code de commerce. - art. L251-12 (M)
-  - Code de commerce. - art. L252-13 (Ab)
-  - Code monétaire et financier - art. L571-5 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
-
-
-###### Article L242-27
-
-Est puni d'un emprisonnement de cinq ans et d'une amende de 120000 F le fait, pour tout commissaire aux comptes, de donner ou
-confirmer soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, des informations
-mensongères sur la situation de la société ou de ne pas révéler au procureur de la République les faits délictueux dont il a
-eu connaissance.
-
-Les articles 226-13 et 226-14 du code pénal sont applicables aux commissaires aux comptes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 457 (Ab)
-
-_Cité par_:
-
-  - Loi n°87-571 du 23 juillet 1987 - art. 19-9 (VD)
-  - Loi n°87-571 du 23 juillet 1987 - art. 5 (V)
-  - Loi n°91-647 du 10 juillet 1991 - art. 30 (V)
-  - Ordonnance no 92-1147 du 12 octobre 1992 relative  - art. 17 (V)
-  - Loi n°94-1 du 3 janvier 1994 - art. 7 (V)
-  - Code de commerce - art. L251-12 (V)
-  - Code de commerce. - art. L241-8 (Ab)
-  - Code de commerce. - art. L252-13 (Ab)
-  - Code de commerce. - art. L612-1 (M)
-  - Code de commerce. - art. L612-4 (M)
-  - Code de commerce. - art. L712-3 (T)
-  - Code de la construction et de l'habitation. - art. L241-3 (V)
-  - Code de la propriété intellectuelle - art. L321-4 (M)
-  - Code de la sécurité sociale. - art. L931-13 (V)
-  - Code monétaire et financier - art. L571-5 (M)
-  - Code rural - art. L529-1 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
-
-_Cite_:
-
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-
-
-###### Article L242-28
-
-Est puni d'un emprisonnement de cinq ans et d'une amende de 120000 F le fait, pour le président, les administrateurs, les
-directeurs généraux ou toute personne au service de la société, de mettre obstacle aux vérifications ou contrôles des
-commissaires aux comptes ou des experts nommés en exécution de l'article L. 225-231 ou de leur refuser la communication sur
-place de toutes les pièces utiles à l'exercice de leur mission, et notamment de tous contrats, livres, documents comptables
-et registres de procès-verbaux.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 458 (Ab)
-
-_Cité par_:
-
-  - Loi n°87-571 du 23 juillet 1987 - art. 19-9 (VD)
-  - Loi n°87-571 du 23 juillet 1987 - art. 5 (V)
-  - Ordonnance no 92-1147 du 12 octobre 1992 relative  - art. 17 (V)
-  - Loi n°94-1 du 3 janvier 1994 - art. 7 (V)
-  - Code de commerce - art. L251-12 (V)
-  - Code de commerce. - art. L241-8 (Ab)
-  - Code de commerce. - art. L252-13 (Ab)
-  - Code de commerce. - art. L612-1 (M)
-  - Code de commerce. - art. L712-3 (T)
-  - Code de la sécurité sociale. - art. L931-27 (V)
-  - Code des assurances - art. L328-3 (V)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
-
-_Cite_:
-
-  - Code de commerce. - art. L225-231 (M)
-
-
-##### Section 6 : Des infractions relatives à la dissolution<a id=125></a>
+##### Section 6 : Des infractions relatives à la dissolution<a id=124></a>
 
 ###### Article L242-29
 
@@ -29924,7 +30605,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-##### Section 7 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=126></a>
+##### Section 7 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=125></a>
 
 ###### Article L242-30
 
@@ -29960,7 +30641,7 @@ _Cite_:
   - Code de commerce. - art. L246-2 (M)
 
 
-##### Section 8 : Des infractions relatives aux sociétés anonymes à participation ouvrière<a id=127></a>
+##### Section 8 : Des infractions relatives aux sociétés anonymes à participation ouvrière<a id=126></a>
 
 ###### Article L242-31
 
@@ -29989,7 +30670,7 @@ _Cité par_:
   - Code monétaire et financier - art. L214-7-3 (V)
 
 
-#### Chapitre III : Des infractions concernant les sociétés en commandite par actions<a id=128></a>
+#### Chapitre III : Des infractions concernant les sociétés en commandite par actions<a id=127></a>
 
 ###### Article L243-1
 
@@ -30019,32 +30700,7 @@ _Cite_:
   - Code de commerce - art. L242-1 (V)
 
 
-###### Article L243-2
-
-Est puni d'une amende de 60000 F le fait, pour le gérant, de commencer les opérations avant l'entrée en fonction du conseil
-de surveillance.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 461 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-_Cité par_:
-
-  - Code de commerce. - art. L246-2 (M)
-
-
-#### Chapitre IV : Des infractions concernant les sociétés par actions simplifiées<a id=129></a>
+#### Chapitre IV : Des infractions concernant les sociétés par actions simplifiées<a id=128></a>
 
 ###### Article L244-1
 
@@ -30084,8 +30740,14 @@ _Cite_:
 
 Est puni d'une amende de 25000 F le fait, pour le président d'une société par actions simplifiée, d'omettre de mentionner,
 sur tous actes et sur tous documents émanant de la société et destinés aux tiers, l'indication de la dénomination sociale,
-précédée ou suivie immédiatement des mots : "société par actions simplifiée" ou des initiales : "SAS" et de l'énonciation du
+précédée ou suivie immédiatement des mots : société par actions simplifiée ou des initiales : SAS et de l'énonciation du
 capital social.
+
+Le fait, pour un président ou un dirigeant de société par actions simplifiée de ne pas consulter les associés dans les
+conditions prévues par les statuts en cas d'augmentation, d'amortissement ou de réduction du capital, de fusion, de scission,
+de dissolution ou de transformation en une société d'une autre forme, de nomination de commissaires aux comptes,
+d'approbation des comptes annuels et de répartition des bénéfices est puni de six mois d'emprisonnement et de 50000 F
+d'amende.
 
 **Liens relatifs à cet article**
 
@@ -30106,6 +30768,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 128 () JORF 16 mai 2001
 
 
 ###### Article L244-3
@@ -30154,77 +30820,9 @@ _Cite_:
   - Code de commerce. - art. L244-3 (M)
 
 
-#### Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions<a id=130></a>
+#### Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions<a id=129></a>
 
-##### Section 1 : Des infractions relatives aux actions.<a id=131></a>
-
-###### Article L245-1
-
-Est puni d'un emprisonnement de six mois et d'une amende de 40000 F le fait, pour le président, les administrateurs ou les
-gérants d'une société par actions :
-
-1° De ne pas procéder aux appels de fonds pour réaliser la libération intégrale du capital dans le délai légal ;
-
-2° D'émettre ou laisser émettre des obligations ou bons, alors que le capital social n'est pas intégralement libéré, sauf si
-les obligations sont émises en vue de leur attribution aux salariés au titre de la participation de ceux-ci aux fruits de
-l'expansion de l'entreprise.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 465 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-
-###### Article L245-2
-
-Sans préjudice des amendes fiscales, est puni d'une amende de 40000 F le fait, pour toute personne, de distribuer ou de
-reproduire, sous quelque forme que soit, un prospectus ayant pour objet de solliciter la souscription de valeurs mobilières
-d'une société française, sans la mention de la signature du représentant qualifié de cette société, des nom, prénoms, adresse
-de ses administrateurs et, s'il y a lieu, de la bourse où sont cotées les valeurs offertes.
-
-Si le prospectus contient des renseignements faux ou inexacts, les peines sont, en cas de mauvaise foi, celles des articles
-313-1, 313-7 et 313-8 du code pénal. Est puni, dans tous les cas, des mêmes peines le fait, pour toute personne de fournir,
-de mauvaise foi, en vue de l'établissement du prospectus, des renseignements faux ou inexacts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 467 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L462-2 (V)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L462-2 (V)
-
-_Cite_:
-
-  - Code pénal - art. 313-1 (M)
-  - Code pénal - art. 313-7 (MMN)
-  - Code pénal - art. 313-8 (M)
-
+##### Section 1 : Des infractions relatives aux actions.<a id=130></a>
 
 ###### Article L245-3
 
@@ -30319,97 +30917,7 @@ _Cite_:
   - Code de commerce. - art. L237-30 (V)
 
 
-##### Section 2 : Des infractions relatives aux parts de fondateur<a id=132></a>
-
-###### Article L245-6
-
-Est puni d'un emprisonnement de six mois et d'une amende de 60000 F le fait, pour les fondateurs, le président, les
-administrateurs et les gérants, d'émettre, pour le compte d'une société par actions, des parts de fondateur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 468 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 122
-
-
-##### Section 3 : Des infractions relatives aux obligations<a id=133></a>
-
-###### Article L245-7
-
-Sous réserve de l'application des dispositions de l'article L. 241-2, est puni d'une amende de 60000 F le fait, pour les
-gérants des sociétés autres que les sociétés par actions et, généralement, tous particuliers, d'émettre des obligations
-négociables.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 du 24 juillet 1966 - art. 469 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 2001-05-15 art. 122 2° JORF 16 mai 2001
-
-_Cite_:
-
-  - Code de commerce. - art. L241-2 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L231-1 (M)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L231-1 (V)
-
-
-###### Article L245-8
-
-Est puni d'une amende de 60000 F le fait, pour le président, les administrateurs ou les gérants d'une société par actions,
-d'émettre, pour le compte de cette société, des obligations négociables avant que la société n'ait deux années d'existence et
-qu'elle n'ait établi deux bilans régulièrement approuvés par les actionnaires.
-
-Toutefois, le présent article n'est pas applicable si les obligations émises bénéficient de la garantie de l'Etat ou de
-collectivités publiques ou de sociétés remplissant les conditions prévues à l'alinéa précédent ou si les obligations sont
-gagées par des titres de créances sur l'Etat, sur des collectivités publiques, sur des entreprises concessionnaires ou
-subventionnées ayant établi le bilan de leur premier exercice.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-537 1966-07-24 art. 470
-  - Loi n°66-537 du 24 juillet 1966 - art. 470 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Loi n°2001-420 2001-05-15 art. 122 2° JORF 16 mai 2001
-
-_Cité par_:
-
-  - Code de commerce - art. L251-12 (V)
-  - Code des assurances - art. L322-2-1 (V)
-
+##### Section 3 : Des infractions relatives aux obligations<a id=131></a>
 
 ###### Article L245-9
 
@@ -30627,7 +31135,7 @@ _Cite_:
   - Code de commerce. - art. L245-9 (M)
 
 
-##### Section 4 : Dispositions communes<a id=134></a>
+##### Section 4 : Dispositions communes<a id=132></a>
 
 ###### Article L245-16
 
@@ -30648,7 +31156,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-##### Section 5 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=135></a>
+##### Section 5 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=133></a>
 
 ###### Article L245-17
 
@@ -30675,7 +31183,7 @@ _Cite_:
   - Code de commerce - art. L225-57 (V)
 
 
-#### Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions<a id=136></a>
+#### Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions<a id=134></a>
 
 ###### Article L246-1
 
@@ -30739,9 +31247,9 @@ _Cite_:
   - Code de commerce. - art. L246-1 (M)
 
 
-#### Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales<a id=137></a>
+#### Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales<a id=135></a>
 
-##### Section 1 : Des infractions relatives aux filiales, aux participations et aux sociétés contrôlées<a id=138></a>
+##### Section 1 : Des infractions relatives aux filiales, aux participations et aux sociétés contrôlées<a id=136></a>
 
 ###### Article L247-1
 
@@ -30884,7 +31392,7 @@ _Cite_:
   - Code de commerce L233-29 à L233-31
 
 
-##### Section 2 : Des infractions relatives à la publicité<a id=139></a>
+##### Section 2 : Des infractions relatives à la publicité<a id=137></a>
 
 ###### Article L247-4
 
@@ -30908,7 +31416,7 @@ _Cite_:
   - Code de commerce. - art. L225-109 (V)
 
 
-##### Section 3 : Des infractions relatives à la liquidation<a id=140></a>
+##### Section 3 : Des infractions relatives à la liquidation<a id=138></a>
 
 ###### Article L247-5
 
@@ -30976,8 +31484,7 @@ des opérations de liquidation, ni solliciter les autorisations nécessaires pou
 2° De ne pas établir les comptes annuels au vu de l'inventaire et un rapport écrit dans lequel il rend compte des opérations
 de liquidation au cours de l'exercice écoulé, dans les trois mois de la clôture de chaque exercice ;
 
-3° De ne pas permettre aux associés d'exercer, en période de liquidation, leur droit de communication des documents sociaux
-dans les mêmes conditions qu'antérieurement ;
+3° (supprimé) ;
 
 4° De ne pas convoquer au moins une fois par an les associés pour leur rendre des comptes annuels, en cas de continuation de
 l'exploitation sociale ;
@@ -31000,6 +31507,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 122
 
 _Cite_:
 
@@ -31040,7 +31551,7 @@ _Cite_:
   - Code de commerce. - art. L237-7 (V)
 
 
-##### Section 4 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=141></a>
+##### Section 4 : Des infractions relatives aux sociétés anonymes comportant un directoire et un conseil de surveillance<a id=139></a>
 
 ###### Article L247-9
 
@@ -31065,7 +31576,7 @@ _Cite_:
   - Code de commerce - art. L247-1 (VT)
 
 
-##### Section 5 : Des infractions relatives aux sociétés à capital variable.<a id=142></a>
+##### Section 5 : Des infractions relatives aux sociétés à capital variable.<a id=140></a>
 
 ###### Article L247-10
 
@@ -31099,9 +31610,34 @@ _Cite_:
   - Code de commerce. - art. L231-1 (M)
 
 
-### TITRE V : Des groupements d'intérêt économique.<a id=143></a>
+#### Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes.<a id=141></a>
 
-#### Chapitre Ier : Du groupement d'intérêt économique de droit français.<a id=144></a>
+###### Article L248-1
+
+Les dispositions du présent titre visant les directeurs généraux des sociétés anonymes sont applicables, selon leurs
+attributions respectives, aux directeurs généraux délégués.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 107
+
+_Cité par_:
+
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+
+### TITRE V : Des groupements d'intérêt économique.<a id=142></a>
+
+#### Chapitre Ier : Du groupement d'intérêt économique de droit français.<a id=143></a>
 
 ###### Article L251-1
 
@@ -31745,7 +32281,7 @@ _Cite_:
   - Code pénal - art. 131-35 (M)
 
 
-#### Chapitre II : Du groupement européen d'intérêt économique.<a id=145></a>
+#### Chapitre II : Du groupement européen d'intérêt économique.<a id=144></a>
 
 ###### Article L252-1
 
@@ -32037,9 +32573,9 @@ _Cite_:
   - Code de commerce. - art. L242-28 (Ab)
 
 
-## LIVRE III : De certaines formes de ventes et des clauses d'exclusivité.<a id=146></a>
+## LIVRE III : De certaines formes de ventes et des clauses d'exclusivité.<a id=145></a>
 
-### TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine.<a id=147></a>
+### TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine.<a id=146></a>
 
 ###### Article L310-1
 
@@ -32347,7 +32883,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-### TITRE II : Des ventes aux enchères publiques.<a id=148></a>
+### TITRE II : Des ventes aux enchères publiques.<a id=147></a>
 
 ###### Article L320-1
 
@@ -32402,9 +32938,9 @@ _Cite_:
   - Code de commerce. - art. L320-1 (V)
 
 
-#### Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques.<a id=149></a>
+#### Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques.<a id=148></a>
 
-##### Section 1 : Dispositions générales.<a id=150></a>
+##### Section 1 : Dispositions générales.<a id=149></a>
 
 ###### Article L321-1
 
@@ -32516,7 +33052,7 @@ _Cite_:
   - Code de commerce. - art. L321-7 (V)
 
 
-##### Sous-section 1 : Les sociétés de ventes volontaires de meubles aux enchères publiques.<a id=151></a>
+##### Sous-section 1 : Les sociétés de ventes volontaires de meubles aux enchères publiques.<a id=150></a>
 
 ###### Article L321-4
 
@@ -32986,7 +33522,7 @@ _Cité par_:
   - Code de commerce - art. R321-33 (V)
 
 
-##### Sous-section 2 : Le Conseil des ventes volontaires de meubles aux enchères publiques.<a id=152></a>
+##### Sous-section 2 : Le Conseil des ventes volontaires de meubles aux enchères publiques.<a id=151></a>
 
 ###### Article L321-18
 
@@ -33176,7 +33712,7 @@ _Cité par_:
   - Code de commerce - art. R321-40 (V)
 
 
-##### Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen.<a id=153></a>
+##### Section 2 : Libre prestation de services de l'activité de ventes volontaires de meubles aux enchères publiques par les ressortissants des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen.<a id=152></a>
 
 ###### Article L321-24
 
@@ -33311,7 +33847,7 @@ _Cite_:
   - Code de commerce. - art. L321-22 (V)
 
 
-##### Section 3 : Des experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques.<a id=154></a>
+##### Section 3 : Des experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques.<a id=153></a>
 
 ###### Article L321-29
 
@@ -33485,7 +34021,7 @@ _Cité par_:
   - Code de commerce - art. L321-35-1 (VT)
 
 
-##### Section 4 : Dispositions diverses.<a id=155></a>
+##### Section 4 : Dispositions diverses.<a id=154></a>
 
 ###### Article L321-36
 
@@ -33574,7 +34110,7 @@ _Cite_:
   - Code de commerce. - art. L321-7 (V)
 
 
-#### Chapitre II : Des autres ventes aux enchères.<a id=156></a>
+#### Chapitre II : Des autres ventes aux enchères.<a id=155></a>
 
 ###### Article L322-1
 
@@ -34024,7 +34560,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 876 (VD)
 
 
-### TITRE III : Des clauses d'exclusivité.<a id=157></a>
+### TITRE III : Des clauses d'exclusivité.<a id=156></a>
 
 ###### Article L330-1
 
@@ -34118,9 +34654,9 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-## LIVRE IV : De la liberté des prix et de la concurrence.<a id=158></a>
+## LIVRE IV : De la liberté des prix et de la concurrence.<a id=157></a>
 
-### TITRE Ier : Dispositions générales.<a id=159></a>
+### TITRE Ier : Dispositions générales.<a id=158></a>
 
 ###### Article L410-1
 
@@ -34249,13 +34785,13 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. L113-1 (VT)
 
 
-### TITRE II : Des pratiques anticoncurrentielles.<a id=160></a>
+### TITRE II : Des pratiques anticoncurrentielles.<a id=159></a>
 
 ###### Article L420-1
 
-Sont prohibées, lorsqu'elles ont pour objet ou peuvent avoir pour effet d'empêcher, de restreindre ou de fausser le jeu de la
-concurrence sur un marché, les actions concertées, conventions, ententes expresses ou tacites ou coalitions, notamment
-lorsqu'elles tendent à :
+Sont prohibées même par l'intermédiaire direct ou indirect d'une société du groupe implantée hors de France, lorsqu'elles ont
+pour objet ou peuvent avoir pour effet d'empêcher, de restreindre ou de fausser le jeu de la concurrence sur un marché, les
+actions concertées, conventions, ententes expresses ou tacites ou coalitions, notamment lorsqu'elles tendent à :
 
 1° Limiter l'accès au marché ou le libre exercice de la concurrence par d'autres entreprises ;
 
@@ -34328,19 +34864,23 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 52 () JORF 16 mai 2001
+
 
 ###### Article L420-2
 
-I. - Est prohibée, dans les mêmes conditions, l'exploitation abusive par une entreprise ou un groupe d'entreprises :
+Est prohibée, dans les conditions prévues à l'article L. 420-1, l'exploitation abusive par une entreprise ou un groupe
+d'entreprises d'une position dominante sur le marché intérieur ou une partie substantielle de celui-ci. Ces abus peuvent
+notamment consister en refus de vente, en ventes liées ou en conditions de vente discriminatoires ainsi que dans la rupture
+de relations commerciales établies, au seul motif que le partenaire refuse de se soumettre à des conditions commerciales
+injustifiées.
 
-1° D'une position dominante sur le marché intérieur ou une partie substantielle de celui-ci ;
-
-2° De l'état de dépendance économique dans lequel se trouve, à son égard, une entreprise cliente ou fournisseur qui ne
-dispose pas de solution équivalente.
-
-II. - Ces abus peuvent notamment consister en refus de vente, en ventes liées ou en conditions de vente discriminatoires
-ainsi que dans la rupture de relations commerciales établies, au seul motif que le partenaire refuse de se soumettre à des
-conditions commerciales injustifiées.
+Est en outre prohibée, dès lors qu'elle est susceptible d'affecter le fonctionnement ou la structure de la concurrence,
+l'exploitation abusive par une entreprise ou un groupe d'entreprises de l'état de dépendance économique dans lequel se trouve
+à son égard une entreprise cliente ou fournisseur. Ces abus peuvent notamment consister en refus de vente, en ventes liées ou
+pratiques discriminatoires visées à l'article L. 442-6.
 
 **Liens relatifs à cet article**
 
@@ -34379,6 +34919,15 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 66 () JORF 16 mai 2001
+
+_Cite_:
+
+  - Code de commerce. - art. L420-1 (M)
+  - Code de commerce. - art. L442-6 (M)
+
 
 ###### Article L420-3
 
@@ -34408,12 +34957,13 @@ I. - Ne sont pas soumises aux dispositions des articles L. 420-1 et L. 420-2 les
 
 1° Qui résultent de l'application d'un texte législatif ou d'un texte réglementaire pris pour son application ;
 
-2° Dont les auteurs peuvent justifier qu'elles ont pour effet d'assurer un progrès économique et qu'elles réservent aux
-utilisateurs une partie équitable du profit qui en résulte, sans donner aux entreprises intéressées la possibilité d'éliminer
-la concurrence pour une partie substantielle des produits en cause. Ces pratiques qui peuvent consister à organiser, pour les
-produits agricoles ou d'origine agricole, sous une même marque ou enseigne, les volumes et la qualité de production ainsi que
-la politique commerciale, y compris en convenant d'un prix de cession commun ne doivent imposer des restrictions à la
-concurrence, que dans la mesure où elles sont indispensables pour atteindre cet objectif de progrès.
+2° Dont les auteurs peuvent justifier qu'elles ont pour effet d'assurer un progrès économique, y compris par la création ou
+le maintien d'emplois, et qu'elles réservent aux utilisateurs une partie équitable du profit qui en résulte, sans donner aux
+entreprises intéressées la possibilité d'éliminer la concurrence pour une partie substantielle des produits en cause. Ces
+pratiques qui peuvent consister à organiser, pour les produits agricoles ou d'origine agricole, sous une même marque ou
+enseigne, les volumes et la qualité de production ainsi que la politique commerciale, y compris en convenant d'un prix de
+cession commun ne doivent imposer des restrictions à la concurrence, que dans la mesure où elles sont indispensables pour
+atteindre cet objectif de progrès.
 
 II. - Certaines catégories d'accords ou certains accords, notamment lorsqu'ils ont pour objet d'améliorer la gestion des
 entreprises moyennes ou petites, peuvent être reconnus comme satisfaisant à ces conditions par décret pris après avis
@@ -34430,6 +34980,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 48 () JORF 16 mai 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 1 (documents à joindre au dossier)
 
 _Cité par_:
 
@@ -34497,6 +35055,9 @@ visées aux articles L. 420-1 et L. 420-2.
 Le tribunal peut ordonner que sa décision soit publiée intégralement ou par extraits dans les journaux qu'il désigne, aux
 frais du condamné.
 
+Les actes interruptifs de la prescription devant le Conseil de la concurrence en application de l'article L. 462-7 sont
+également interruptifs de la prescription de l'action publique.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -34508,6 +35069,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 67 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -34523,19 +35088,73 @@ _Cite_:
   - Code de commerce. - art. L420-2 (M)
 
 
-### TITRE III : De la concentration économique.<a id=161></a>
+###### Article L420-7
+
+Sans préjudice des articles L. 420-6, L. 462-8, L. 463-1 à L. 463-4, L. 463-6, L. 463-7 et L. 464-1 à L. 464-8, les litiges
+relatifs à l'application des règles contenues dans les articles L. 420-1 à L. 420-5 et ceux dans lesquels ces dispositions
+sont invoquées sont attribués, selon le cas, aux tribunaux de grande instance ou aux tribunaux de commerce dont la liste est
+fixée par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 82 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*212-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-7 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*411-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-6 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R921-5-1 (Ab)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-4 (M)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-6 (Ab)
+  - Code de commerce - art. Annexe 9-4 (V)
+  - Code de commerce - art. Annexe 9-5 (V)
+  - Code de commerce - art. L954-1 (V)
+  - Code de commerce - art. R420-3 (V)
+  - Code de commerce - art. R420-4 (V)
+  - Code de commerce - art. R420-5 (V)
+  - Code de commerce - art. R924-1 (V)
+
+_Cite_:
+
+  - Code de commerce L420-6, L462-8, L463-1 à L463-4, L463-6, L463-7, L464-1 à L464-8, L420-1 à L420-5
+  - Code de commerce. - art. L420-6 (M)
+  - Code de commerce. - art. L462-8 (M)
+  - Code de commerce. - art. L463-6 (V)
+  - Code de commerce. - art. L463-7 (M)
+
+
+### TITRE III : De la concentration économique.<a id=160></a>
 
 ###### Article L430-1
 
-Tout projet de concentration ou toute concentration de nature à porter atteinte à la concurrence notamment par création ou
-renforcement d'une position dominante peut être soumis, par le ministre chargé de l'économie, à l'avis du Conseil de la
-concurrence.
+I. - Une opération de concentration est réalisée :
 
-Ces dispositions ne s'appliquent que lorsque les entreprises qui sont parties à l'acte ou qui en sont l'objet ou qui leur
-sont économiquement liées ont soit réalisé ensemble plus de 25 % des ventes, achats ou autres transactions sur un marché
-national de biens, produits ou services substituables ou sur une partie substantielle d'un tel marché, soit totalisé un
-chiffre d'affaires hors taxes de plus de sept milliards de francs, à condition que deux au moins des entreprises parties à la
-concentration aient réalisé un chiffre d'affaires d'au moins deux milliards de francs.
+1° Lorsque deux ou plusieurs entreprises antérieurement indépendantes fusionnent ;
+
+2° Lorsqu'une ou plusieurs personnes, détenant déjà le contrôle d'une entreprise au moins ou lorsqu'une ou plusieurs
+entreprises acquièrent, directement ou indirectement, que ce soit par prise de participation au capital ou achat d'éléments
+d'actifs, contrat ou tout autre moyen, le contrôle de l'ensemble ou de parties d'une ou plusieurs autres entreprises.
+
+II. - La création d'une entreprise commune accomplissant de manière durable toutes les fonctions d'une entité économique
+autonome constitue une concentration au sens du présent article.
+
+III. - Aux fins de l'application du présent titre, le contrôle découle des droits, contrats ou autres moyens qui confèrent,
+seuls ou conjointement et compte tenu des circonstances de fait ou de droit, la possibilité d'exercer une influence
+déterminante sur l'activité d'une entreprise, et notamment :
+
+- des droits de propriété ou de jouissance sur tout ou partie des biens d'une entreprise ;
+
+- des droits ou des contrats qui confèrent une influence déterminante sur la composition, les délibérations ou les décisions
+des organes d'une entreprise.
 
 **Liens relatifs à cet article**
 
@@ -34548,6 +35167,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 86 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -34574,12 +35201,27 @@ _Cité par_:
 
 ###### Article L430-2
 
-La concentration résulte de tout acte, quelle qu'en soit la forme, qui emporte transfert de propriété ou de jouissance sur
-tout ou partie des biens, droits et obligations d'une entreprise ou qui a pour objet, ou pour effet, de permettre à une
-entreprise ou à un groupe d'entreprises d'exercer, directement ou indirectement, sur une ou plusieurs autres entreprises une
-influence déterminante.
+Est soumise aux dispositions des articles L. 430-3 et suivants du présent titre toute opération de concentration, au sens de
+l'article L. 430-1, lorsque sont réunies les trois conditions suivantes :
+
+- le chiffre d'affaires total mondial hors taxes de l'ensemble des entreprises ou groupes des personnes physiques ou morales
+parties à la concentration est supérieur à 150 millions d'euros ;
+
+- le chiffre d'affaires total hors taxes réalisé en France par deux au moins des entreprises ou groupes des personnes
+physiques ou morales concernés est supérieur à 15 millions d'euros ;
+
+- l'opération n'entre pas dans le champ d'application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif au
+contrôle des opérations de concentration entre entreprises.
+
+Toutefois, une opération de concentration entrant dans le champ du règlement précité qui a fait l'objet d'un renvoi total ou
+partiel à l'autorité nationale est soumise, dans la limite de ce renvoi, aux dispositions du présent titre.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CEE Règlement 4064/89 1989-12-21 Conseil
+  - Code de commerce. - art. L430-1 (M)
 
 _Anciens textes_:
 
@@ -34589,6 +35231,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 87 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -34601,10 +35251,19 @@ _Cité par_:
 
 ###### Article L430-3
 
-Tout projet de concentration ou toute concentration ne remontant pas à plus de trois mois peut être soumis au ministre chargé
-de l'économie par une entreprise concernée. La notification peut être assortie d'engagements. Le silence gardé pendant deux
-mois vaut décision tacite d'acceptation du projet de concentration ou de la concentration ainsi que des engagements qui y
-sont joints. Ce délai est porté à six mois si le ministre saisit le Conseil de la concurrence.
+L'opération de concentration doit être notifiée au ministre chargé de l'économie. Cette notification intervient lorsque la ou
+les parties concernées sont engagées de façon irrévocable, et notamment après la conclusion des actes la constituant, la
+publication de l'offre d'achat ou d'échange ou l'acquisition d'une participation de contrôle. Le renvoi par la Commission des
+Communautés européennes vaut notification.
+
+L'obligation de notification incombe aux personnes physiques ou morales qui acquièrent le contrôle de tout ou partie d'une
+entreprise ou, dans le cas d'une fusion ou de la création d'une entreprise commune, à toutes les parties concernées qui
+doivent alors notifier conjointement. Le contenu du dossier de notification est fixé par décret.
+
+La réception de la notification d'une opération, ou le renvoi total ou partiel d'une opération de dimension communautaire,
+fait l'objet d'un communiqué publié par le ministre chargé de l'économie selon des modalités fixées par décret.
+
+Dès réception du dossier de notification, le ministre en adresse un exemplaire au Conseil de la concurrence.
 
 **Liens relatifs à cet article**
 
@@ -34616,6 +35275,15 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 3 (éléments du dossier de notification) et art. 5 (éléments du communiqué)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 88 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -34637,9 +35305,12 @@ _Cité par_:
 
 ###### Article L430-4
 
-Le Conseil de la concurrence apprécie si le projet de concentration ou la concentration apporte au progrès économique une
-contribution suffisante pour compenser les atteintes à la concurrence. Le conseil tient compte de la compétitivité des
-entreprises en cause au regard de la concurrence internationale.
+La réalisation effective d'une opération de concentration ne peut intervenir qu'après l'accord du ministre chargé de
+l'économie et, le cas échéant, du ministre chargé du secteur économique concerné.
+
+En cas de nécessité particulière dûment motivée, les parties qui ont procédé à la notification peuvent demander au ministre
+chargé de l'économie une dérogation leur permettant de procéder à la réalisation effective de tout ou partie de la
+concentration sans attendre la décision mentionnée au premier alinéa et sans préjudice de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -34652,6 +35323,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 89 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Décret n°2002-689 du 30 avril 2002 - art. 6 (Ab)
@@ -34662,15 +35341,30 @@ _Cité par_:
 
 ###### Article L430-5
 
-Le ministre chargé de l'économie et le ministre dont relève le secteur économique intéressé peuvent, à la suite de l'avis du
-Conseil de la concurrence, par arrêté motivé et en fixant un délai, enjoindre aux entreprises, soit de ne pas donner suite au
-projet de concentration ou de rétablir la situation de droit antérieure, soit de modifier ou compléter l'opération ou de
-prendre toute mesure propre à assurer ou à rétablir une concurrence suffisante.
+I.-Le ministre chargé de l'économie se prononce sur l'opération de concentration dans un délai de cinq semaines à compter de
+la date de réception de la notification complète. 
 
-Ils peuvent également subordonner la réalisation de l'opération à l'observation de prescriptions de nature à apporter au
-progrès économique et social une contribution suffisante pour compenser les atteintes à la concurrence.
+II.-Les parties à l'opération peuvent s'engager à prendre des mesures visant notamment à remédier, le cas échéant, aux effets
+anticoncurrentiels de l'opération soit à l'occasion de la notification de cette opération, soit à tout moment avant
+l'expiration du délai de cinq semaines à compter de la date de réception de la notification complète, tant que la décision
+prévue au I n'est pas intervenue. 
 
-Ces injonctions et prescriptions s'imposent quelles que soient les stipulations des parties.
+Si les engagements sont reçus par le ministre plus de deux semaines après la notification complète de l'opération, le délai
+mentionné au I expire trois semaines après la date de réception desdits engagements par le ministre chargé de l'économie. 
+
+III.-Le ministre chargé de l'économie peut :
+
+- soit constater, par décision motivée, que l'opération qui lui a été notifiée n'entre pas dans le champ défini par les
+articles L. 430-1 et L. 430-2 ;
+
+- soit autoriser l'opération, en subordonnant éventuellement, par décision motivée, cette autorisation à la réalisation
+effective des engagements pris par les parties. 
+
+Toutefois, s'il estime que l'opération est de nature à porter atteinte à la concurrence et que les engagements pris ne
+suffisent pas à y remédier, il saisit pour avis le Conseil de la concurrence. 
+
+IV.-Si le ministre ne prend aucune des trois décisions prévues au III dans le délai mentionné au I, éventuellement prolongé
+en application du II, l'opération est réputée avoir fait l'objet d'une décision d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -34703,45 +35397,103 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 90 () JORF 16 mai 2001
+
 
 ###### Article L430-6
 
-Le Conseil de la concurrence peut, en cas d'exploitation abusive d'une position dominante ou d'un état de dépendance
-économique, demander au ministre chargé de l'économie d'enjoindre, conjointement avec le ministre dont relève le secteur, par
-arrêté motivé, à l'entreprise ou au groupe d'entreprises en cause de modifier, de compléter ou de résilier, dans un délai
-déterminé, tous accords et tous actes par lesquels s'est réalisée la concentration de la puissance économique qui a permis
-les abus même si ces actes ont fait l'objet de la procédure prévue au présent titre.
+Si une opération de concentration a fait l'objet, en application du III de l'article L. 430-5, d'une saisine du Conseil de la
+concurrence, celui-ci examine si elle est de nature à porter atteinte à la concurrence, notamment par création ou
+renforcement d'une position dominante ou par création ou renforcement d'une puissance d'achat qui place les fournisseurs en
+situation de dépendance économique. Il apprécie si l'opération apporte au progrès économique une contribution suffisante pour
+compenser les atteintes à la concurrence. Le conseil tient compte de la compétitivité des entreprises en cause au regard de
+la concurrence internationale.
+
+La procédure applicable à cette consultation du Conseil de la concurrence est celle qui est prévue au deuxième alinéa de
+l'article L. 463-2 et aux articles L. 463-4, L. 463-6 et L. 463-7. Toutefois, les parties qui ont procédé à la notification
+et le commissaire du Gouvernement doivent produire leurs observations en réponse à la communication du rapport dans un délai
+de trois semaines.
+
+Avant de statuer, le conseil peut entendre des tiers en l'absence des parties qui ont procédé à la notification. Les comités
+d'entreprise des entreprises parties à l'opération de concentration sont entendus à leur demande par le conseil dans les
+mêmes conditions.
+
+Le conseil remet son avis au ministre chargé de l'économie dans un délai de trois mois.
+
+Le ministre chargé de l'économie transmet sans délai cet avis aux parties qui ont procédé à la notification.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Ordonnance n°86-1243 du 1 décembre 1986 - art. 43 (Ab)
+  - Code de commerce L430-7 (1ère version)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 92 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Code de commerce - art. L430-5 (V)
   - Code de commerce - art. L430-7-1 (V)
 
+_Cite_:
+
+  - Code de commerce. - art. L463-2 (M)
+  - Code de commerce. - art. L463-4 (M)
+  - Code de commerce. - art. L463-6 (V)
+  - Code de commerce. - art. L463-7 (M)
+
 
 ###### Article L430-7
 
-Les décisions mentionnées au présent titre sont prises selon la procédure prévue au deuxième alinéa de l'article L. 463-2 et
-aux articles L. 463-4, L. 463-6 et L. 463-7. Toutefois, les intéressés doivent produire leurs observations en réponse à la
-communication du rapport dans un délai d'un mois.
+I.-Lorsque le conseil de la concurrence a été saisi, l'opération de concentration fait l'objet d'une décision dans un délai
+de quatre semaines à compter de la remise de l'avis du conseil au ministre chargé de l'économie. 
 
-Ces décisions sont motivées et publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des
-fraudes avec l'avis du Conseil de la concurrence.
+II.-Après avoir pris connaissance de l'avis du Conseil de la concurrence, les parties peuvent proposer des engagements de
+nature à remédier aux effets anticoncurrentiels de l'opération avant la fin d'un délai de quatre semaines à compter de la
+date de remise de l'avis au ministre, à moins que l'opération n'ait déjà fait l'objet de la décision prévue au I. 
 
-En cas de non-respect de ces décisions ou des engagements mentionnés à l'article L. 430-3, le ministre chargé de l'économie
-et le ministre dont relève le secteur économique intéressé peuvent, après consultation du Conseil de la concurrence et dans
-les limites de son avis, prononcer une sanction pécuniaire dont le montant est défini conformément aux troisième et quatrième
-alinéas de l'article L. 464-2.
+Si les engagements sont transmis au ministre plus d'une semaine après la date de remise de l'avis au ministre, le délai
+mentionné au I expire trois semaines après la date de réception desdits engagements par le ministre. 
+
+III.-Le ministre chargé de l'économie et, le cas échéant, le ministre chargé du secteur économique concerné peuvent, par
+arrêté motivé :
+
+- soit interdire l'opération de concentration et enjoindre, le cas échéant, aux parties de prendre toute mesure propre à
+rétablir une concurrence suffisante ;
+
+- soit autoriser l'opération en enjoignant aux parties de prendre toute mesure propre à assurer une concurrence suffisante ou
+en les obligeant à observer des prescriptions de nature à apporter au progrès économique et social une contribution
+suffisante pour compenser les atteintes à la concurrence. 
+
+Les injonctions et prescriptions mentionnées aux deux alinéas précédents s'imposent quelles que soient les clauses
+contractuelles éventuellement conclues par les parties. 
+
+Le projet d'arrêté est transmis aux parties intéressées, auxquelles un délai est imparti pour présenter leurs observations. 
+
+IV.-Si le ministre chargé de l'économie et le ministre chargé du secteur économique concerné n'entendent prendre aucune des
+deux décisions prévues au III, le ministre chargé de l'économie autorise l'opération, par une décision motivée.L'autorisation
+peut être subordonnée à la réalisation effective des engagements pris par les parties qui ont procédé à la notification.
+
+V.-Si aucune des trois décisions prévues aux III et IV n'a été prise dans le délai mentionné au I, éventuellement prolongé en
+application du II, l'opération est réputée avoir fait l'objet d'une décision d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -34771,17 +35523,240 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 92 () JORF 16 mai 2001
+
+
+###### Article L430-8
+
+I.-Si une opération de concentration a été réalisée sans être notifiée, le ministre chargé de l'économie peut infliger aux
+personnes auxquelles incombait la charge de la notification une sanction pécuniaire dont le montant maximum s'élève, pour les
+personnes morales, à 5 % de leur chiffre d'affaires hors taxes réalisé en France lors du dernier exercice clos, augmenté, le
+cas échéant, de celui qu'a réalisé en France durant la même période la partie acquise, et, pour les personnes physiques, à 1,
+5 million d'euros. 
+
+En outre, le ministre enjoint sous astreinte aux parties de notifier l'opération, à moins de revenir à l'état antérieur à la
+concentration. Il peut également saisir le Conseil de la concurrence sans attendre la notification. La procédure prévue aux
+articles L. 430-5 à L. 430-7 est alors applicable. 
+
+II.-Si une opération de concentration notifiée et ne bénéficiant pas de la dérogation prévue au deuxième alinéa de l'article
+L. 430-4 a été réalisée avant l'intervention de la décision prévue au premier alinéa du même article, le ministre chargé de
+l'économie peut infliger aux personnes ayant procédé à la notification une sanction pécuniaire qui ne peut dépasser le
+montant défini au I. 
+
+III.-En cas d'omission ou de déclaration inexacte dans une notification, le ministre chargé de l'économie peut infliger aux
+personnes ayant procédé à la notification une sanction pécuniaire qui ne peut dépasser le montant défini au I. 
+
+Cette sanction peut s'accompagner du retrait de la décision ayant autorisé la réalisation de l'opération. A moins de revenir
+à l'état antérieur à la concentration, les parties sont alors tenues de notifier de nouveau l'opération dans un délai d'un
+mois à compter du retrait de la décision, sauf à encourir les sanctions prévues au I. 
+
+IV.-S'il estime que les parties n'ont pas exécuté dans les délais fixés une injonction, une prescription ou un engagement, le
+ministre chargé de l'économie peut saisir pour avis le Conseil de la concurrence. 
+
+Si l'avis du Conseil de la concurrence constate l'inexécution, le ministre chargé de l'économie et, le cas échéant, le
+ministre chargé du secteur économique concerné peuvent : 
+
+1° Retirer la décision ayant autorisé la réalisation de l'opération. A moins de revenir à l'état antérieur à la
+concentration, les parties sont tenues de notifier de nouveau l'opération dans un délai d'un mois à compter du retrait de la
+décision, sauf à encourir les sanctions prévues au I ; 
+
+2° Enjoindre sous astreinte aux parties auxquelles incombait l'obligation non exécutée d'exécuter dans un délai qu'ils fixent
+les injonctions, prescriptions ou engagements. 
+
+En outre, le ministre chargé de l'économie peut infliger aux personnes auxquelles incombait l'obligation non exécutée une
+sanction pécuniaire qui ne peut dépasser le montant défini au I.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 92 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Décret n°2002-689 du 30 avril 2002 - art. 11 (Ab)
+  - Décret n°2002-689 du 30 avril 2002 - art. 7 (Ab)
+  - Code de commerce - art. Annexe 4-3 (V)
+  - Code de commerce - art. L462-5 (VD)
+  - Code de commerce. - art. R430-10 (V)
+  - Code de commerce. - art. R430-6 (V)
+  - Code de commerce. - art. R430-7 (V)
+  - Code de commerce. - art. R430-8 (Ab)
+
+_Anciens textes_:
+
+  - Code de commerce L430-7 (1ère version)
+
+
+###### Article L430-9
+
+Le Conseil de la concurrence peut, en cas d'exploitation abusive d'une position dominante ou d'un état de dépendance
+économique, demander au ministre chargé de l'économie d'enjoindre, conjointement avec le ministre dont relève le secteur, par
+arrêté motivé, à l'entreprise ou au groupe d'entreprises en cause de modifier, de compléter ou de résilier, dans un délai
+déterminé, tous accords et tous actes par lesquels s'est réalisée la concentration de la puissance économique qui a permis
+les abus même si ces actes ont fait l'objet de la procédure prévue au présent titre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 43 (Ab)
+  - Code de commerce L430-6 (1ère version)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 91 () JORF 16 mai 2001
+
+_Modifié par_:
+
+  - Ordonnance n°2008-1161 du 13 novembre 2008 - art. 4
+
+
+###### Article L430-10
+
+I. - Les décisions prises en application des articles L. 430-5 à L. 430-8 sont rendues publiques, le cas échéant accompagnées
+de l'avis du Conseil de la concurrence, selon des modalités fixées par décret.
+
+II. - Lorsqu'il interroge des tiers au sujet de l'opération, de ses effets et des engagements proposés par les parties et
+rend publique sa décision dans les conditions prévues au I, le ministre chargé de l'économie tient compte de l'intérêt
+légitime des parties qui procèdent à la notification ou des personnes citées à ce que leurs secrets d'affaires ne soient pas
+divulgués.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 9 (publication des décisions)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 93 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Décret n°2002-689 du 30 avril 2002 - art. 9 (Ab)
+  - Code de commerce. - art. R430-8 (Ab)
+  - Code des assurances - art. L413-2 (VD)
+  - Code monétaire et financier - art. L511-4 (VD)
+  - Code monétaire et financier - art. L612-22 (V)
+
 _Cite_:
 
-  - Code de commerce. - art. L430-3 (M)
-  - Code de commerce. - art. L463-2 (M)
-  - Code de commerce. - art. L463-4 (M)
-  - Code de commerce. - art. L463-6 (V)
-  - Code de commerce. - art. L463-7 (M)
-  - Code de commerce. - art. L464-2 (M)
+  - Code de commerce L430-5 à L430-8
 
 
-### TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées.<a id=162></a>
+### TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées.<a id=161></a>
+
+#### Chapitre préliminaire : Dispositions générales.<a id=162></a>
+
+###### Article L440-1
+
+Une Commission d'examen des pratiques commerciales est créée. Elle est composée d'un député et d'un sénateur désignés par les
+commissions permanentes de leur assemblée compétentes en matière de relations commerciales entre fournisseurs et revendeurs,
+de membres, éventuellement honoraires, des juridictions administratives et judiciaires, de représentants des secteurs de la
+production et de la transformation agricole et halieutique, ainsi qu'industrielle et artisanale, des transformateurs, des
+grossistes, des distributeurs et de l'administration, ainsi que de personnalités qualifiées. Elle est présidée par un
+magistrat de l'ordre administratif ou judiciaire. Elle comprend un nombre égal de représentants des producteurs et des
+revendeurs.
+
+Les membres de la commission sont tenus au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir
+connaissance en raison de leurs fonctions.
+
+La commission a pour mission de donner des avis ou formuler des recommandations sur les questions, les documents commerciaux
+ou publicitaires, y compris les factures et contrats couverts par un secret industriel et commercial, et les pratiques
+concernant les relations commerciales entre producteurs, fournisseurs, revendeurs qui lui sont soumis. Elle assure, sous la
+responsabilité de son président, l'anonymat des saisines et des documents qui lui sont soumis, y compris vis-à-vis de ses
+membres.
+
+La commission est saisie par le ministre chargé de l'économie, le ministre chargé du secteur économique concerné, le
+président du Conseil de la concurrence, toute personne morale, notamment les organisations professionnelles ou syndicales,
+les associations de consommateurs agréées, les chambres consulaires ou d'agriculture, ainsi que par tout producteur,
+fournisseur, revendeur s'estimant lésé par une pratique commerciale. Elle peut également se saisir d'office. Le président de
+la commission peut décider de mettre en place plusieurs chambres d'examen au sein de la commission.
+
+L'avis rendu par la commission porte notamment sur la conformité au droit de la pratique ou du document dont elle est saisie.
+
+La commission entend, à sa demande, les personnes et fonctionnaires qu'elle juge utiles à l'accomplissement de sa mission.
+Son président peut demander qu'une enquête soit effectuée par les agents habilités à cet effet par l'article L. 450-1 du
+présent code ou l'article L. 215-1 du code de la consommation, selon les procédures prévues. Le compte rendu de l'enquête est
+remis au président de la commission qui s'assure qu'il préserve l'anonymat des personnes concernées.
+
+La commission peut également décider d'adopter une recommandation sur les questions dont elle est saisie et toutes celles
+entrant dans ses compétences, notamment celles portant sur le développement des bonnes pratiques. Lorsqu'elle fait suite à
+une saisine en application du troisième alinéa, cette recommandation ne contient aucune indication de nature à permettre
+l'identification des personnes concernées. La recommandation est communiquée au ministre chargé de l'économie et est publiée
+sur décision de la commission.
+
+La commission exerce, en outre, un rôle d'observatoire régulier des pratiques commerciales, des facturations et des contrats
+conclus entre producteurs, fournisseurs, revendeurs qui lui sont soumis. Elle établit chaque année un rapport d'activité,
+qu'elle transmet au Gouvernement et aux assemblées parlementaires. Ce rapport est rendu public.
+
+Un décret détermine l'organisation, les moyens et les modalités de fonctionnement de la commission ainsi que les conditions
+nécessaires pour assurer l'anonymat des acteurs économiques visés dans les avis et recommandations de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 51 () JORF 16 mai 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-1370 2001-12-31 (commission d'examen des pratiques commerciales)
+
+_Cité par_:
+
+  - Décret n°2001-1370 du 31 décembre 2001 - art. 1 (Ab)
+  - Décret n°2001-1370 du 31 décembre 2001 - art. 7 (Ab)
+  - Décret n°2012-52 du 17 janvier 2012 (V)
+  - Décret n°2015-91 du 28 janvier 2015 (V)
+  - Code de commerce - art. D440-1 (V)
+  - Code de commerce - art. D440-9 (V)
+  - Code de commerce - art. L442-6 (V)
+  - Code de commerce - art. L950-1 (VT)
+  - Code de commerce - art. L954-2-1 (V)
+  - Code rural et de la pêche maritime - art. L631-27 (VD)
+
+_Cite_:
+
+  - Code de commerce. - art. L450-1 (M)
+  - Code de la consommation - art. L215-1 (M)
+
 
 #### Chapitre Ier : De la transparence.<a id=163></a>
 
@@ -34817,13 +35792,20 @@ _Cite_:
 
 Toute publicité à l'égard du consommateur, diffusée sur tout support ou visible de l'extérieur du lieu de vente, mentionnant
 une réduction de prix ou un prix promotionnel sur les produits alimentaires périssables doit préciser la nature et l'origine
-du ou des produits offerts et la période pendant laquelle est maintenue l'offre proposée par l'annonceur.
-
-Toute infraction aux dispositions du premier alinéa est punie d'une amende de 100000 F.
+du ou des produits offerts et la période pendant laquelle est maintenue l'offre proposée par l'annonceur. La mention relative
+à l'origine est inscrite en caractères d'une taille égale à celle de l'indication du prix.
 
 Lorsque de telles opérations promotionnelles sont susceptibles, par leur ampleur ou leur fréquence, de désorganiser les
 marchés, un arrêté interministériel ou, à défaut, préfectoral fixe, pour les produits concernés, la périodicité et la durée
 de telles opérations.
+
+L'annonce de prix, dans des catalogues ou sur tout autre support promotionnel, hormis électronique, hors lieu de vente,
+portant sur la vente d'un fruit ou légume frais, quelle que soit son origine, est subordonnée à l'existence d'un accord
+interprofessionnel, conclu conformément aux dispositions de l'article L. 632-1 du code rural, qui précise les périodes où une
+telle annonce est possible et ses modalités. Cet accord interprofessionnel peut être étendu conformément aux dispositions des
+articles L. 632-3 et L. 632-4 du même code.
+
+Toute infraction aux dispositions des alinéas ci-dessus est punie d'une amende de 100000 F.
 
 La cessation de la publicité réalisée dans des conditions non conformes aux dispositions du présent article peut être
 ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.
@@ -34839,6 +35821,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 49 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -34856,6 +35842,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la consommation - art. L121-3 (M)
+  - Code rural L632-1, L632-3, L632-4
 
 
 ###### Article L441-3
@@ -34873,9 +35860,9 @@ réduction de prix acquise à la date de la vente ou de la prestation de service
 vente ou de prestation de services, à l'exclusion des escomptes non prévus sur la facture.
 
 La facture mentionne également la date à laquelle le règlement doit intervenir. Elle précise les conditions d'escompte
-applicables en cas de paiement à une date antérieure à celle résultant de l'application des conditions générales de vente. Le
-règlement est réputé réalisé à la date à laquelle les fonds sont mis, par le client, à la disposition du bénéficiaire ou de
-son subrogé.
+applicables en cas de paiement à une date antérieure à celle résultant de l'application des conditions générales de vente
+ainsi que le taux des pénalités exigibles le jour suivant la date de règlement inscrite sur la facture. Le règlement est
+réputé réalisé à la date à laquelle les fonds sont mis, par le client, à la disposition du bénéficiaire ou de son subrogé.
 
 **Liens relatifs à cet article**
 
@@ -34925,6 +35912,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 53 () JORF 16 mai 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 13 (conservation des factures)
 
 
 ###### Article L441-4
@@ -35003,12 +35998,16 @@ Tout producteur, prestataire de services, grossiste ou importateur est tenu de c
 demandeur de prestation de services pour une activité professionnelle qui en fait la demande son barème de prix et ses
 conditions de vente. Celles-ci comprennent les conditions de règlement et, le cas échéant, les rabais et ristournes.
 
-Les conditions de règlement doivent obligatoirement préciser les modalités de calcul et les conditions dans lesquelles des
-pénalités sont appliquées dans le cas où les sommes dues sont versées après la date de paiement figurant sur la facture,
-lorsque le versement intervient au-delà du délai fixé par les conditions générales de vente.
+Sauf dispositions contraires figurant aux conditions de vente ou convenues entre les parties, le délai de règlement des
+sommes dues est fixé au trentième jour suivant la date de réception des marchandises ou d'exécution de la prestation
+demandée.
 
-Ces pénalités sont d'un montant au moins équivalent à celui qui résulterait de l'application d'un taux égal à une fois et
-demie le taux de l'intérêt légal.
+Les conditions de règlement doivent obligatoirement préciser les conditions d'application et le taux d'intérêt des pénalités
+de retard exigibles le jour suivant la date de règlement figurant sur la facture dans le cas où les sommes dues sont réglées
+après cette date. Sauf disposition contraire qui ne peut toutefois fixer un taux inférieur à une fois et demie le taux
+d'intérêt légal, ce taux est égal au taux d'intérêt appliqué par la Banque centrale européenne à son opération de
+refinancement la plus récente majoré de 7 points de pourcentage. Les pénalités de retard sont exigibles sans qu'un rappel
+soit nécessaire.
 
 La communication prévue au premier alinéa s'effectue par tout moyen conforme aux usages de la profession.
 
@@ -35128,10 +36127,63 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 53 () JORF 16 mai 2001
+
 _Cite_:
 
   - Code pénal - art. 121-2 (M)
   - Code pénal - art. 131-38 (M)
+
+
+###### Article L441-7
+
+Pour les produits et services destinés à la consommation courante des ménages, lorsque le délai de paiement convenu entre les
+parties est supérieur à quarante-cinq jours, calculés à compter de la date de livraison des produits ou de prestation du
+service, l'acheteur doit fournir, à ses frais, une lettre de change ou un effet de commerce d'un montant égal à la somme due
+contractuellement à son fournisseur, le cas échéant augmentée des pénalités de retard de paiement. Cette lettre de change ou
+l'effet de commerce indique la date de son paiement. L'envoi de la lettre de change ou de l'effet de commerce est réalisé
+sans qu'aucune demande ou démarche du débiteur soit nécessaire. Si le délai de paiement de la lettre de change conduit à
+dépasser le délai de paiement prévu par le contrat de vente, les pénalités de retard prévues par le troisième alinéa de
+l'article L. 441-6 sont automatiquement appliquées sans demande du fournisseur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 53 () JORF 16 mai 2001
+
+_Abrogé par_:
+
+  - Loi n°2004-1343 du 9 décembre 2004 - art. 83 (V) JORF 10 décembre 2004
+
+_Cité par_:
+
+  - Loi n°2012-1270 du 20 novembre 2012 - art. 24 (V)
+  - Loi n°2016-41 du 26 janvier 2016 - art. 178
+  - Code de commerce - art. L441-8 (V)
+  - Code de commerce - art. L441-9 (V)
+  - Code de commerce - art. L442-6 (M)
+  - Code de la santé publique - art. L1453-1 (V)
+  - Code de la santé publique - art. L1453-2 (V)
+  - Code de la santé publique - art. L1453-6 (VD)
+  - Code de la santé publique - art. L5141-14-2 (V)
+  - Code de la santé publique - art. R1453-2 (VT)
+  - Code de la sécurité sociale. - art. L138-9 (V)
+  - Code de la sécurité sociale. - art. L138-9-1 (V)
+  - Code de la sécurité sociale. - art. L162-16-4 (V)
+  - Code de la sécurité sociale. - art. L165-2 (V)
+  - Code de la sécurité sociale. - art. R138-2 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L441-6 (M)
 
 
 #### Chapitre II : Des pratiques restrictives de concurrence.<a id=164></a>
@@ -35337,29 +36389,64 @@ commerçant, industriel ou artisan :
 de vente ou des modalités de vente ou d'achat discriminatoires et non justifiés par des contreparties réelles en créant, de
 ce fait, pour ce partenaire, un désavantage ou un avantage dans la concurrence ;
 
-2° D'obtenir ou de tenter d'obtenir un avantage, condition préalable à la passation de commandes, sans l'assortir d'un
+2° a) D'obtenir ou de tenter d'obtenir d'un partenaire commercial un avantage quelconque ne correspondant à aucun service
+commercial effectivement rendu ou manifestement disproportionné au regard de la valeur du service rendu. Un tel avantage peut
+notamment consister en la participation, non justifiée par un intérêt commun et sans contrepartie proportionnée, au
+financement d'une opération d'animation commerciale, d'une acquisition ou d'un investissement, en particulier dans le cadre
+de la rénovation de magasins ou encore du rapprochement d'enseignes ou de centrales de référencement ou d'achat ;
+
+b) D'abuser de la relation de dépendance dans laquelle il tient un partenaire ou de sa puissance d'achat ou de vente en le
+soumettant à des conditions commerciales ou obligations injustifiées ;
+
+3° D'obtenir ou de tenter d'obtenir un avantage, condition préalable à la passation de commandes, sans l'assortir d'un
 engagement écrit sur un volume d'achat proportionné et, le cas échéant, d'un service demandé par le fournisseur et ayant fait
 l'objet d'un accord écrit ;
 
-3° D'obtenir ou de tenter d'obtenir, sous la menace d'une rupture brutale des relations commerciales, des prix, des délais de
-paiement, des modalités de vente ou des conditions de coopération commerciale manifestement dérogatoires aux conditions
-générales de vente ;
+4° D'obtenir ou de tenter d'obtenir, sous la menace d'une rupture brutale totale ou partielle des relations commerciales, des
+prix, des délais de paiement, des modalités de vente ou des conditions de coopération commerciale manifestement dérogatoires
+aux conditions générales de vente ;
 
-4° De rompre brutalement, même partiellement, une relation commerciale établie, sans préavis écrit tenant compte des
-relations commerciales antérieures ou des usages reconnus par des accords interprofessionnels. Les dispositions précédentes
-ne font pas obstacle à la faculté de résiliation sans préavis, en cas d'inexécution par l'autre partie de ses obligations ou
-de force majeure ;
+5° De rompre brutalement, même partiellement, une relation commerciale établie, sans préavis écrit tenant compte de la durée
+de la relation commerciale et respectant la durée minimale de préavis déterminée, en référence aux usages du commerce, par
+des accords interprofessionnels. Lorsque la relation commerciale porte sur la fourniture de produits sous marque de
+distributeur, la durée minimale de préavis est double de celle qui serait applicable si le produit n'était pas fourni sous
+marque de distributeur. A défaut de tels accords, des arrêtés du ministre chargé de l'économie peuvent, pour chaque catégorie
+de produits, fixer, en tenant compte des usages du commerce, un délai minimum de préavis et encadrer les conditions de
+rupture des relations commerciales, notamment en fonction de leur durée. Les dispositions qui précèdent ne font pas obstacle
+à la faculté de résiliation sans préavis, en cas d'inexécution par l'autre partie de ses obligations ou en cas de force
+majeure ;
 
-5° De participer directement ou indirectement à la violation de l'interdiction de revente hors réseau faite au distributeur
-lié par un accord de distribution sélective ou exclusive exempté au titre des règles applicables du droit de la concurrence.
+6° De participer directement ou indirectement à la violation de l'interdiction de revente hors réseau faite au distributeur
+lié par un accord de distribution sélective ou exclusive exempté au titre des règles applicables du droit de la concurrence ;
 
-II. - L'action est introduite devant la juridiction civile ou commerciale compétente par toute personne justifiant d'un
-intérêt, par le ministère public, par le ministre chargé de l'économie ou par le président du Conseil de la concurrence,
+7° De soumettre un partenaire à des conditions de règlement manifestement abusives, compte tenu des bonnes pratiques et
+usages commerciaux, et s'écartant au détriment du créancier, sans raison objective, du délai indiqué au deuxième alinéa de
+l'article L. 441-6. .
+
+II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un commerçant, un industriel ou un artisan, la
+possibilité :
+
+a) De bénéficier rétroactivement de remises, de ristournes ou d'accords de coopération commerciale ;
+
+b) D'obtenir le paiement d'un droit d'accès au référencement préalablement à la passation de toute commande ;
+
+c) D'interdire au cocontractant la cession à des tiers des créances qu'il détient sur lui.
+
+L'annulation des clauses relatives au règlement entraîne l'application du délai indiqué au deuxième alinéa de l'article L.
+441-6, sauf si la juridiction saisie peut constater un accord sur des conditions différentes qui soient équitables. 
+
+III. - L'action est introduite devant la juridiction civile ou commerciale compétente par toute personne justifiant d'un
+intérêt, par le ministère public, par le ministre chargé de l'économie ou par le président du Conseil de la concurrence
 lorsque ce dernier constate, à l'occasion des affaires qui relèvent de sa compétence, une pratique mentionnée au présent
 article.
 
-III. - Le président de la juridiction saisie peut, en référé, enjoindre la cessation des agissements en cause ou ordonner
-toute autre mesure provisoire.
+Lors de cette action, le ministre chargé de l'économie et le ministère public peuvent demander à la juridiction saisie
+d'ordonner la cessation des pratiques mentionnées au présent article. Ils peuvent aussi, pour toutes ces pratiques, faire
+constater la nullité des clauses ou contrats illicites, demander la répétition de l'indu et le prononcé d'une amende civile
+dont le montant ne peut excéder 2 millions d'euros. La réparation des préjudices subis peut également être demandée. 
+
+IV. - Le juge des référés peut ordonner la cessation des pratiques discriminatoires ou abusives ou toute autre mesure
+provisoire.
 
 **Liens relatifs à cet article**
 
@@ -35372,6 +36459,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 56 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -35626,6 +36717,9 @@ Des fonctionnaires de catégorie A du ministère chargé de l'économie, spécia
 sceaux, ministre de la justice, sur la proposition du ministre chargé de l'économie, peuvent recevoir des juges d'instruction
 des commissions rogatoires.
 
+Les fonctionnaires habilités mentionnés au présent article peuvent exercer les pouvoirs d'enquête qu'ils tiennent du présent
+article et des articles suivants sur l'ensemble du territoire national.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -35710,6 +36804,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 81 () JORF 16 mai 2001
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de la consommation - art. L141-1 (V)
@@ -35786,8 +36884,8 @@ _Codifié par_:
 ###### Article L450-3
 
 Les enquêteurs peuvent accéder à tous locaux, terrains ou moyens de transport à usage professionnel, demander la
-communication des livres, factures et tous autres documents professionnels et en prendre copie, recueillir sur convocation ou
-sur place les renseignements et justifications.
+communication des livres, factures et tous autres documents professionnels et en obtenir ou prendre copie par tous moyens et
+sur tous supports, recueillir sur convocation ou sur place les renseignements et justifications.
 
 Ils peuvent demander à l'autorité dont ils dépendent de désigner un expert pour procéder à toute expertise contradictoire
 nécessaire.
@@ -35835,31 +36933,46 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 76 () JORF 16 mai 2001
+
 
 ###### Article L450-4
 
-Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la saisie de documents, que dans le cadre d'enquêtes
-demandées par le ministre chargé de l'économie ou le Conseil de la concurrence et sur autorisation judiciaire donnée par
-ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter, ou d'un juge
-délégué par lui. Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit
-être menée dans chacun d'eux, une ordonnance unique peut être délivrée par l'un des présidents compétents.
+Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la saisie de documents et de tout support
+d'information, que dans le cadre d'enquêtes demandées par le ministre chargé de l'économie ou le rapporteur général du
+Conseil de la concurrence sur proposition du rapporteur et sur autorisation judiciaire donnée par ordonnance du président (1)
+du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter, ou d'un juge délégué par lui. Lorsque
+ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun
+d'eux, une ordonnance unique peut être délivrée par l'un des présidents (1) compétents.
 
 Le juge doit vérifier que la demande d'autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les
-éléments d'information de nature à justifier la visite.
+éléments d'information en possession du demandeur de nature à justifier la visite. Lorsque la visite vise à permettre la
+constatation d'infractions aux dispositions du livre IV du présent code en train de se commettre, la demande d'autorisation
+peut ne comporter que les indices permettant de présumer, en l'espèce, l'existence des pratiques dont la preuve est
+recherchée. 
 
 La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Il désigne un ou plusieurs
 officiers de police judiciaire chargés d'assister à ces opérations et de le tenir informé de leur déroulement. Lorsqu'elles
 ont lieu en dehors du ressort de son tribunal de grande instance, il délivre une commission rogatoire pour exercer ce
-contrôle au président du tribunal de grande instance dans le ressort duquel s'effectue la visite.
+contrôle au président (1) du tribunal de grande instance dans le ressort duquel s'effectue la visite.
 
 Le juge peut se rendre dans les locaux pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la
 visite.
+
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui en
+reçoit copie intégrale contre récépissé ou émargement au procès-verbal. En l'absence de l'occupant des lieux ou de son
+représentant, l'ordonnance est notifiée après la visite, par lettre recommandée avec avis de réception. La notification est
+réputée faite à la date de réception figurant sur l'avis. 
 
 L'ordonnance mentionnée au premier alinéa du présent article n'est susceptible que d'un pourvoi en cassation selon les règles
 prévues par le code de procédure pénale. Ce pourvoi n'est pas suspensif.
 
 La visite, qui ne peut commencer avant six heures ou après vingt et une heures, est effectuée en présence de l'occupant des
-lieux ou de son représentant.
+lieux ou de son représentant. En cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en dehors
+des personnes relevant de son autorité, de celle de l'administration de la direction générale de la concurrence, de la
+consommation et de la répression des fraudes ou de celle du Conseil de la concurrence. 
 
 Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire peuvent seuls prendre
 connaissance des pièces et documents avant leur saisie.
@@ -35868,7 +36981,25 @@ Les inventaires et mises sous scellés sont réalisés conformément à l'articl
 
 Les originaux du procès-verbal et de l'inventaire sont transmis au juge qui a ordonné la visite.
 
-Les pièces et documents qui ne sont plus utiles à la manifestation de la vérité sont restitués à l'occupant des lieux.
+Les pièces et documents saisis sont restitués à l'occupant des lieux, dans un délai de six mois à compter de la date à
+laquelle la décision du Conseil de la concurrence est devenue définitive. L'occupant des lieux est mis en demeure, par lettre
+recommandée avec avis de réception, de venir les rechercher, dans un délai de deux mois. A l'expiration de ce délai et à
+défaut de diligences de sa part, les pièces et documents lui sont restitués, à ses frais.  
+
+Le déroulement des opérations de visite ou saisie peut faire l'objet d'un recours auprès du juge les ayant autorisées dans un
+délai de deux mois qui court, pour les personnes occupant les lieux où ces opérations se sont déroulées, à compter de la
+notification de l'ordonnance les ayant autorisées et, pour les autres personnes mises en cause ultérieurement au moyen de
+pièces saisies au cours de ces opérations, à compter de la date à laquelle elles ont eu connaissance de l'existence de ces
+opérations et au plus tard à compter de la notification de griefs prévue à l'article L. 463-2. Le juge se prononce sur ce
+recours par voie d'une ordonnance, qui n'est susceptible que d'un pourvoi en cassation selon les règles prévues au code de la
+procédure pénale. Ce pourvoi n'est pas suspensif.
+
+**Nota:**
+
+(1) -L'article 49 X 1° et 2° de la loi n° 2000-516 du 15 juin 2000, entrant en vigueur le 16 juin 2002, a modifié l'article
+48 de l'ordonnance n° 86-1243 du 1er décembre 1986, en substituant au mot " président ", les mots " juge des libertés et de
+la détention ". Cet article 48 a été abrogé et codifié par l'ordonnance n° 2000-912 du 18 septembre 2000, et est devenu
+l'article L. 450-4 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -35907,6 +37038,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 77 () JORF 16 mai 2001
+
 **Liens**:
 
   - TXT_SOURCE: Décret n°2001-1179 du 12 décembre 2001
@@ -35921,15 +37056,17 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2001-1180 du 12 décembre 2001 - art. 3 (V)
   - TXT_SOURCE: Décret n°2001-1180 du 12 décembre 2001 - art. 4 (V)
   - TXT_SOURCE: Décret n°2001-1180 du 12 décembre 2001 - art. 5 (V)
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 16 (contenu des procès verbaux)
 
 _Cite_:
 
+  - Code de commerce. - art. L463-2 (M)
   - CODE DE PROCEDURE PENALE - art. 56 (M)
 
 
 ###### Article L450-5
 
-Le président du Conseil de la concurrence est informé sans délai du déclenchement et de l'issue des investigations
+Le rapporteur général du Conseil de la concurrence est informé sans délai du déclenchement et de l'issue des investigations
 mentionnées à l'article L. 450-4 lorsqu'elles ont été diligentées à l'initiative du ministre chargé de l'économie et qu'elles
 se rapportent à des faits susceptibles de relever des articles L. 420-1 et L. 420-2.
 
@@ -35946,6 +37083,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 78 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Code de commerce - art. L930-1 (V)
@@ -35959,10 +37100,14 @@ _Cite_:
 
 ###### Article L450-6
 
-A la demande du rapporteur ou des rapporteurs désignés par le président du Conseil de la concurrence pour l'examen de chaque
-affaire, l'autorité dont dépendent les agents visés à l'article L. 450-1 désigne les enquêteurs et fait procéder sans délai à
-toute enquête que le rapporteur juge utile. Ce dernier définit les orientations de l'enquête et est tenu informé de son
-déroulement.
+Le rapporteur général désigne, pour l'examen de chaque affaire, un ou plusieurs rapporteurs. A sa demande, l'autorité dont
+dépendent les agents visés à l'article L. 450-1 désigne les enquêteurs et fait procéder sans délai à toute enquête que le
+rapporteur juge utile. Ce dernier définit les orientations de l'enquête et est tenu informé de son déroulement. 
+
+Un décret précise les conditions dans lesquelles, à la demande motivée du président du Conseil de la concurrence, l'autorité
+dont dépendent les agents visés à l'article L. 450-1 met, pour une durée déterminée, à disposition du rapporteur général du
+Conseil de la concurrence, des enquêteurs pour effectuer certaines enquêtes, conformément aux orientations définies par les
+rapporteurs.
 
 **Liens relatifs à cet article**
 
@@ -35974,6 +37119,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 80 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -36183,6 +37332,9 @@ En cas de partage égal des voix, la voix du président de la formation est pré
 Le rapporteur général, le ou les rapporteurs généraux adjoints et les rapporteurs permanents sont nommés sur proposition du
 président par arrêté du ministre chargé de l'économie. Les autres rapporteurs sont désignés par le président.
 
+Le rapporteur général peut déléguer à un ou des rapporteurs généraux adjoints tout ou partie des attributions qu'il détient
+au titre du livre IV du présent code.
+
 Les crédits attribués au Conseil de la concurrence pour son fonctionnement sont inscrits au budget du ministère chargé de
 l'économie.
 
@@ -36199,6 +37351,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 65 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -36423,8 +37579,15 @@ _Cité par_:
 
 ###### Article L462-8
 
-Le Conseil de la concurrence peut déclarer, par décision motivée, la saisine irrecevable s'il estime que les faits invoqués
-n'entrent pas dans le champ de sa compétence ou ne sont pas appuyés d'éléments suffisamment probants.
+Le Conseil de la concurrence peut déclarer, par décision motivée, la saisine irrecevable pour défaut d'intérêt ou de qualité
+à agir de l'auteur de celle-ci, ou si les faits sont prescrits au sens de l'article L. 462-7, ou s'il estime que les faits
+invoqués n'entrent pas dans le champ de sa compétence.
+
+Il peut aussi rejeter la saisine par décision motivée lorsqu'il estime que les faits invoqués ne sont pas appuyés d'éléments
+suffisamment probants.
+
+Il est donné acte, par décision du président du Conseil de la concurrence ou d'un vice-président délégué par lui, des
+désistements.
 
 **Liens relatifs à cet article**
 
@@ -36436,6 +37599,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 74 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -36450,6 +37617,62 @@ _Cité par_:
   - Code de commerce - art. R463-8 (V)
   - Code de commerce - art. R464-8 (V)
   - Code de commerce. - art. L461-3 (M)
+
+_Cite_:
+
+  - Code de commerce. - art. L462-7 (M)
+
+
+###### Article L462-9
+
+Le Conseil de la concurrence peut, pour ce qui relève de ses compétences et après information préalable du ministre chargé de
+l'économie, communiquer les informations ou les documents qu'il détient ou qu'il recueille, à leur demande, à la Commission
+des Communautés européennes ou aux autorités des autres Etats exerçant des compétences analogues, à leur demande, sous
+réserve de réciprocité, et à condition que l'autorité étrangère compétente soit soumise au secret professionnel avec les
+mêmes garanties qu'en France.
+
+Le Conseil de la concurrence peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que
+celles prévues pour l'exécution de sa mission, conduire ou demander au ministre chargé de l'économie de conduire des
+enquêtes, à la demande d'autorités étrangères exerçant des compétences analogues, sous réserve de réciprocité.
+
+L'obligation de secret professionnel ne fait pas obstacle à la communication par les autorités de concurrence des
+informations ou documents qu'elles détiennent ou qu'elles recueillent, à leur demande, à la Commission des Communautés
+européennes et aux autorités des autres Etats exerçant des compétences analogues et astreintes aux mêmes obligations de
+secret professionnel.
+
+L'assistance demandée par une autorité étrangère exerçant des compétences analogues pour la conduite d'enquêtes ou la
+transmission d'informations détenues ou recueillies par le Conseil de la concurrence est refusée par celui-ci lorsque
+l'exécution de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques
+essentiels ou à l'ordre public français ou lorsqu'une procédure pénale a déjà été engagée en France sur la base des mêmes
+faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les
+mêmes faits.
+
+Les autorités de concurrence, pour ce qui relève de leurs compétences respectives, peuvent utiliser des informations ou des
+documents qui leur auront été transmis dans les mêmes conditions par la Commission des Communautés européennes ou les
+autorités des autres Etats membres exerçant des compétences analogues.
+
+Le conseil peut, pour la mise en oeuvre du présent article, conclure des conventions organisant ses relations avec les
+autorités des autres Etats exerçant des compétences analogues. Ces conventions sont approuvées par le conseil dans les
+conditions prévues à l'article L. 463-7. Elles sont publiées au Journal officiel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 83 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VD)
+
+_Cite_:
+
+  - Code de commerce. - art. L463-7 (M)
 
 
 #### Chapitre III : De la procédure.<a id=170></a>
@@ -36478,14 +37701,18 @@ _Cité par_:
 
 ###### Article L463-2
 
-Sans préjudice des mesures prévues à l'article L. 464-1 le conseil notifie les griefs aux intéressés ainsi qu'au commissaire
-du Gouvernement, qui peuvent consulter le dossier et présenter leurs observations dans un délai de deux mois.
+Sans préjudice des mesures prévues à l'article L. 464-1 le rapporteur général notifie les griefs aux intéressés ainsi qu'au
+commissaire du Gouvernement, qui peuvent consulter le dossier et présenter leurs observations dans un délai de deux mois.
 
 Le rapport est ensuite notifié aux parties, au commissaire du Gouvernement et aux ministres intéressés. Il est accompagné des
 documents sur lesquels se fonde le rapporteur et des observations faites, le cas échéant, par les intéressés.
 
 Les parties ont un délai de deux mois pour présenter un mémoire en réponse qui peut être consulté dans les quinze jours qui
 précèdent la séance par les personnes visées à l'alinéa précédent.
+
+Lorsque des circonstances exceptionnelles le justifient, le président du conseil peut, par une décision non susceptible de
+recours, accorder un délai supplémentaire d'un mois pour la consultation du dossier et la production des observations des
+parties.
 
 **Liens relatifs à cet article**
 
@@ -36516,6 +37743,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 68 () JORF 16 mai 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 36 (notification)
+
 _Cite_:
 
   - Code de commerce. - art. L464-1 (M)
@@ -36523,9 +37758,9 @@ _Cite_:
 
 ###### Article L463-3
 
-Le président du Conseil de la concurrence peut, après notification des griefs aux parties intéressées, décider que l'affaire
-sera portée devant la commission permanente, sans établissement préalable d'un rapport. Cette décision est notifiée aux
-parties.
+Le président du Conseil de la concurrence ou un vice-président délégué par lui peut, après la notification des griefs aux
+parties intéressées, décider que l'affaire sera jugée par le conseil sans établissement préalable d'un rapport. Cette
+décision est notifiée aux parties.
 
 **Liens relatifs à cet article**
 
@@ -36539,6 +37774,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 1 (champ d'application - saisine du Conseil de la concurrence)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 69 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Décret n°2002-689 du 30 avril 2002 - art. 38 (Ab)
@@ -36550,9 +37793,10 @@ _Cité par_:
 
 ###### Article L463-4
 
-Le président du Conseil de la concurrence peut refuser la communication de pièces mettant en jeu le secret des affaires, sauf
-dans les cas où la communication ou la consultation de ces documents est nécessaire à la procédure ou à l'exercice des droits
-des parties. Les pièces considérées sont retirées du dossier.
+Le président du Conseil de la concurrence, ou un vice-président délégué par lui, peut refuser la communication de pièces
+mettant en jeu le secret des affaires, sauf dans les cas où la communication ou la consultation de ces documents est
+nécessaire à la procédure ou à l'exercice des droits des parties. Les pièces considérées sont retirées du dossier ou
+certaines de leurs mentions sont occultées.
 
 **Liens relatifs à cet article**
 
@@ -36582,6 +37826,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 70 () JORF 16 mai 2001
 
 
 ###### Article L463-5
@@ -36674,13 +37922,42 @@ _Cite_:
   - Code de commerce. - art. L462-5 (V)
 
 
+###### Article L463-8
+
+Le rapporteur général peut décider de faire appel à des experts en cas de demande formulée à tout moment de l'instruction par
+le rapporteur ou une partie. Cette décision n'est susceptible d'aucun recours.
+
+La mission et le délai imparti à l'expert sont précisés dans la décision qui le désigne. Le déroulement des opérations
+d'expertise se fait de façon contradictoire.
+
+Le financement de l'expertise est à la charge de la partie qui la demande ou à celle du conseil dans le cas où elle est
+ordonnée à la demande du rapporteur. Toutefois, le conseil peut, dans sa décision sur le fond, faire peser la charge
+définitive sur la ou les parties sanctionnées dans des proportions qu'il détermine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 71 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Décret n°2002-689 du 30 avril 2002 - art. 41 (Ab)
+  - Code de commerce - art. R463-16 (V)
+
+
 #### Chapitre IV : Des décisions et des voies de recours.<a id=171></a>
 
 ###### Article L464-1
 
-Le Conseil de la concurrence peut, après avoir entendu les parties en cause et le commissaire du Gouvernement, prendre les
-mesures conservatoires qui lui sont demandées par le ministre chargé de l'économie, par les personnes mentionnées au deuxième
-alinéa de l'article L. 462-1 ou par les entreprises.
+Le Conseil de la concurrence peut, à la demande du ministre chargé de l'économie, des personnes mentionnées au dernier alinéa
+de l'article L. 462-1 ou des entreprises et après avoir entendu les parties en cause et le commissaire du Gouvernement,
+prendre les mesures conservatoires qui lui sont demandées ou celles qui lui apparaissent nécessaires.
 
 Ces mesures ne peuvent intervenir que si la pratique dénoncée porte une atteinte grave et immédiate à l'économie générale, à
 celle du secteur intéressé, à l'intérêt des consommateurs ou à l'entreprise plaignante.
@@ -36736,6 +38013,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 72 () JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce L462-1 al. 2
@@ -36743,22 +38024,44 @@ _Cite_:
 
 ###### Article L464-2
 
-Il peut ordonner aux intéressés de mettre fin aux pratiques anticoncurrentielles dans un délai déterminé ou imposer des
-conditions particulières.
+I. - Le Conseil de la concurrence peut ordonner aux intéressés de mettre fin aux pratiques anticoncurrentielles dans un délai
+déterminé ou imposer des conditions particulières.
 
 Il peut infliger une sanction pécuniaire applicable soit immédiatement, soit en cas d'inexécution des injonctions.
 
-Les sanctions pécuniaires sont proportionnées à la gravité des faits reprochés, à l'importance du dommage causé à l'économie
-et à la situation de l'entreprise ou de l'organisme sanctionné. Elles sont déterminées individuellement pour chaque
-entreprise ou organisme sanctionné et de façon motivée pour chaque sanction.
+Les sanctions pécuniaires sont proportionnées à la gravité des faits reprochés, à l'importance du dommage causé à l'économie,
+à la situation de l'organisme ou de l'entreprise sanctionné ou du groupe auquel l'entreprise appartient et à l'éventuelle
+réitération de pratiques prohibées par le présent titre. Elles sont déterminées individuellement pour chaque entreprise ou
+organisme sanctionné et de façon motivée pour chaque sanction.
 
-Le montant maximum de la sanction est, pour une entreprise, de 5 % du montant du chiffre d'affaires hors taxes réalisé en
-France au cours du dernier exercice clos. Si le contrevenant n'est pas une entreprise, le maximum est de 10 000 000 F.
+Si le contrevenant n'est pas une entreprise, le montant maximum de la sanction est de 3 millions d'euros. Le montant maximum
+de la sanction est, pour une entreprise, de 10 % du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé au
+cours d'un des exercices clos depuis l'exercice précédant celui au cours duquel les pratiques ont été mises en oeuvre. Si les
+comptes de l'entreprise concernée ont été consolidés ou combinés en vertu des textes applicables à sa forme sociale, le
+chiffre d'affaires pris en compte est celui figurant dans les comptes consolidés ou combinés de l'entreprise consolidante ou
+combinante.
 
-Le Conseil de la concurrence peut ordonner la publication de sa décision dans les journaux ou publications qu'il désigne,
-l'affichage dans les lieux qu'il indique et l'insertion de sa décision dans le rapport établi sur les opérations de
-l'exercice par les gérants, le conseil d'administration ou le directoire de l'entreprise. Les frais sont supportés par la
-personne intéressée.
+Le Conseil de la concurrence peut ordonner la publication, la diffusion ou l'affichage de sa décision ou d'un extrait de
+celle-ci selon les modalités qu'il précise. Il peut également ordonner l'insertion de la décision ou de l'extrait de celle-ci
+dans le rapport établi sur les opérations de l'exercice par les gérants, le conseil d'administration ou le directoire de
+l'entreprise. Les frais sont supportés par la personne intéressée.
+
+II. - Lorsqu'un organisme ou une entreprise ne conteste pas la réalité des griefs qui lui sont notifiés et s'engage à
+modifier ses comportements pour l'avenir, le rapporteur général peut proposer au Conseil de la concurrence, qui entend les
+parties et le commissaire du Gouvernement sans établissement préalable d'un rapport, de prononcer la sanction pécuniaire
+prévue au I en tenant compte de l'absence de contestation. Dans ce cas, le montant maximum de la sanction encourue est réduit
+de moitié.
+
+III. - Une exonération totale ou partielle des sanctions pécuniaires peut être accordée à une entreprise ou à un organisme
+qui a, avec d'autres, mis en oeuvre une pratique prohibée par les dispositions de l'article L. 420-1 s'il a contribué à
+établir la réalité de la pratique prohibée et à identifier ses auteurs, en apportant des éléments d'information dont le
+conseil ou l'administration ne disposaient pas antérieurement. A la suite de la démarche de l'entreprise ou de l'organisme,
+le Conseil de la concurrence, à la demande du rapporteur général ou du ministre chargé de l'économie, adopte à cette fin un
+avis de clémence, qui précise les conditions auxquelles est subordonnée l'exonération envisagée, après que le commissaire du
+Gouvernement et l'entreprise ou l'organisme concerné ont présenté leurs observations ; cet avis est transmis à l'entreprise
+ou à l'organisme et au ministre, et n'est pas publié. Lors de la décision prise en application du I du présent article, le
+conseil peut, si les conditions précisées dans l'avis de clémence ont été respectées, accorder une exonération de sanctions
+pécuniaires proportionnée à la contribution apportée à l'établissement de l'infraction.
 
 **Liens relatifs à cet article**
 
@@ -36771,6 +38074,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 1 (champ d'application - saisine du Conseil de la concurrence)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 73 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -36800,6 +38111,10 @@ _Cité par_:
   - Code de commerce. - art. R464-3 (V)
   - Code de commerce. - art. R464-4 (M)
   - Code de commerce. - art. R464-5 (M)
+
+_Cite_:
+
+  - Code de commerce. - art. L420-1 (M)
 
 
 ###### Article L464-3
@@ -36854,8 +38169,9 @@ _Codifié par_:
 
 ###### Article L464-5
 
-La commission permanente peut prononcer les mesures prévues à l'article L. 464-2.. Toutefois, la sanction pécuniaire
-prononcée ne peut excéder 500 000 F pour chacun des auteurs de pratiques prohibées.
+Le conseil, lorsqu'il statue selon la procédure simplifiée prévue à l'article L. 463-3, peut prononcer les mesures prévues au
+I de l'article L. 464-2. Toutefois, la sanction pécuniaire ne peut excéder 750 000 euros pour chacun des auteurs de pratiques
+prohibées.
 
 **Liens relatifs à cet article**
 
@@ -36869,6 +38185,14 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 1 (champ d'application - saisine du Conseil de la concurrence)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 69 () JORF 16 mai 2001
+
 _Cité par_:
 
   - Décret n°2002-689 du 30 avril 2002 - art. 46 (Ab)
@@ -36876,13 +38200,15 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de commerce. - art. L463-3 (M)
   - Code de commerce. - art. L464-2 (M)
 
 
 ###### Article L464-6
 
-Le Conseil de la concurrence peut décider après que l'auteur de la saisine et le commissaire du Gouvernement ont été mis à
-même de consulter le dossier et de faire valoir leurs observations, qu'il n'y a pas lieu de poursuivre la procédure.
+Lorsque aucune pratique de nature à porter atteinte à la concurrence sur le marché n'est établie, le Conseil de la
+concurrence peut décider, après que l'auteur de la saisine et le commissaire du Gouvernement ont été mis à même de consulter
+le dossier et de faire valoir leurs observations, qu'il n'y a pas lieu de poursuivre la procédure.
 
 **Liens relatifs à cet article**
 
@@ -36894,6 +38220,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 75 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -37204,11 +38534,16 @@ les fonctionnaires qu'il a désignés ou habilités conformément aux dispositio
 concurrence, d'autre part, disposent des pouvoirs respectifs qui leur sont reconnus par les articles du présent livre. Les
 règles de procédure prévues par ces textes leur sont applicables.
 
+Pour l'application des articles 87 et 88 du traité instituant la Communauté européenne, le ministre chargé de l'économie et
+les fonctionnaires qu'il a désignés ou habilités conformément aux dispositions de l'article L. 450-1 disposent des pouvoirs
+qui leur sont reconnus par le titre V du livre IV.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CEE Traité de Rome art. 81 à art. 83
+  - CEE Traité art. 81 à art. 83, art. 87 et art. 88
+  - Code de commerce. - art. L450-1 (M)
 
 _Anciens textes_:
 
@@ -37219,6 +38554,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 84 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -43025,6 +44364,59 @@ _Cite_:
 
   - Code de commerce. - art. L225-219 (Ab)
   - Code de commerce. - art. L242-27 (Ab)
+
+
+###### Article L612-5
+
+Le représentant légal ou, s'il en existe un, le commissaire aux comptes d'une personne morale de droit privé non commerçante
+ayant une activité économique ou d'une association visée à l'article L. 612-4 présente à l'organe délibérant ou, en l'absence
+d'organe délibérant, joint aux documents communiqués aux adhérents un rapport sur les conventions passées directement ou par
+personne interposée entre la personne morale et l'un de ses administrateurs ou l'une des personnes assurant un rôle de
+mandataire social.
+
+Il est de même des conventions passées entre cette personne morale et une société dont un associé indéfiniment responsable,
+un gérant, un administrateur, le directeur général, un directeur général délégué, un membre du directoire ou du conseil de
+surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 10 % est simultanément administrateur
+ou assure un rôle de mandataire social de ladite personne morale.
+
+L'organe délibérant statue sur ce rapport.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles le rapport est établi.
+
+Une convention non approuvée produit néanmoins ses effets. Les conséquences préjudiciables à la personne morale résultant
+d'une telle convention peuvent être mises à la charge, individuellement ou solidairement selon le cas, de l'administrateur ou
+de la personne assurant le rôle de mandataire social.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°85-295 du 1 mars 1985 - art. 25-1 (Ab)
+  - Décret n°85-295 du 1 mars 1985 - art. 25-2 (Ab)
+  - Décret n°2003-1010 du 22 octobre 2003 - art. 58 (Ab)
+  - Arrêté du 10 novembre 2003 - art. 2 (V)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 48 (Ab)
+  - Décret n°2005-1677 du 28 décembre 2005 - art. 49 (Ab)
+  - Décret du 22 juin 2010 - art. Annexe (VD)
+  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+  - Code de commerce - art. R612-6 (V)
+  - Code de commerce - art. R612-7 (V)
+  - Code de l'action sociale et des familles - art. L313-25 (V)
+  - Code de l'action sociale et des familles - art. R314-59 (V)
+  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 112 () JORF 16 mai 2001
+
+_Cite_:
+
+  - Code de commerce. - art. L612-4 (M)
 
 
 ### TITRE II : Du redressement et de la liquidation judiciaires des entreprises (en vigueur jusqu'au 1er janvier 2006)<a id=217></a>
@@ -54541,7 +55933,7 @@ _Cité par_:
 
 ## LIVRE VIII : De quelques professions réglementées.<a id=311></a>
 
-### TITRE UNIQUE : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=312></a>
+### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise<a id=312></a>
 
 #### Chapitre Ier : Des administrateurs judiciaires<a id=313></a>
 
@@ -54565,6 +55957,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -54670,6 +56066,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L811-3
 
@@ -54693,6 +56093,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
 ###### Article L811-4
@@ -54741,6 +56145,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cite_:
 
@@ -54812,6 +56220,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ##### Sous-section 3 : Des conditions d'exercice.<a id=317></a>
 
@@ -54856,6 +56268,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L811-7
 
@@ -54895,6 +56311,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L811-8
 
@@ -54931,6 +56351,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce L811-10 à L811-16, L814-1, L814-5
@@ -54953,6 +56377,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -55000,6 +56428,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce. - art. L611-3 (M)
@@ -55030,6 +56462,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -55094,6 +56530,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L811-13
 
@@ -55133,6 +56573,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L811-14
 
@@ -55149,6 +56593,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -55176,6 +56624,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -55215,6 +56667,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce. - art. L811-2 (M)
@@ -55244,6 +56700,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cité par_:
 
@@ -55423,6 +56883,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L812-3
 
@@ -55485,6 +56949,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ##### Sous-section 3 : Des conditions d'exercice.<a id=326></a>
 
@@ -55524,6 +56992,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L812-5
 
@@ -55562,6 +57034,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ###### Article L812-6
 
@@ -55599,6 +57075,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce L812-8 à L812-10, L814-1, L814-5
@@ -55626,6 +57106,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
 ##### Sous-section 4 : Des incompatibilités.<a id=327></a>
@@ -55662,6 +57146,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cite_:
 
@@ -55703,6 +57191,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce L811-11 à L811-15
@@ -55733,6 +57225,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 _Cite_:
 
@@ -55783,6 +57279,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ##### Section 2 : De la cessation des fonctions.<a id=331></a>
 
@@ -55815,6 +57315,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
 #### Chapitre IV : Dispositions communes<a id=332></a>
@@ -55860,6 +57364,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
 ##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=335></a>
@@ -55912,6 +57420,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 
 ##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération<a id=336></a>
 
@@ -55960,6 +57472,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code civil - art. 2021 (T)
@@ -55991,6 +57507,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
 
 ###### Article L814-5
@@ -56035,6 +57555,10 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
 _Cite_:
 
   - Code de commerce. - art. L621-137 (M)
@@ -56068,10 +57592,252 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=339></a>
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=340></a>
+
+### TITRE II : Des commissaires aux comptes.<a id=339></a>
+
+###### Article L820-1
+
+Nonobstant toute disposition contraire, les articles L. 225-218 à L. 225-242 sont applicables aux commissaires aux comptes
+nommés dans toutes les personnes morales quelle que soit la nature de la certification prévue dans leur mission. Ils sont
+également applicables à ces personnes, sous réserve des règles propres à celles-ci, quel que soit leur statut juridique.
+
+Les obligations mises, par les articles cités à l'alinéa précédent, à la charge des présidents du conseil d'administration,
+directeurs généraux, administrateurs, membres du directoire, gérants des sociétés commerciales sont applicables aux
+dirigeants des personnes morales tenues d'avoir un commissaire aux comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
+
+_Cité par_:
+
+  - Arrêté du 23 avril 2008 - art. (V)
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 53 (V)
+  - Code de commerce - art. A823-29-1 (V)
+  - Code de commerce - art. D820-1 (V)
+  - Code de commerce - art. L822-1-6 (V)
+  - Code de commerce - art. L823-19 (V)
+  - Code de commerce - art. L950-1 (VT)
+  - Code monétaire et financier - art. L214-133 (V)
+  - Code monétaire et financier - art. L214-24-31 (V)
+  - Code monétaire et financier - art. L214-7-2 (V)
+  - Code monétaire et financier - art. L550-5 (V)
+
+_Cite_:
+
+  - Code de commerce L225-218 à L225-242
+
+
+###### Article L820-2
+
+Nul ne peut se prévaloir du titre de commissaire aux comptes s'il ne remplit pas les conditions visées aux articles L.
+225-218 à L. 225-242.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
+
+_Cite_:
+
+  - Code de commerce L225-218 à L225-242
+
+
+###### Article L820-3
+
+Un décret approuve un code de déontologie de la profession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
+
+_Cité par_:
+
+  - Décret n°2016-1026 du 26 juillet 2016 - art. 77
+  - Décret n°2017-540 du 12 avril 2017 - art. 10
+  - Code de commerce - art. A823-5-1 (M)
+  - Code de commerce - art. Annexe 8-1 (VD)
+  - Code de commerce - art. L823-16 (V)
+  - Code de commerce - art. L823-21 (V)
+  - Code de commerce - art. L950-1 (VT)
+  - Code de commerce - art. R823-10 (V)
+
+
+###### Article L820-4
+
+Nonobstant toute disposition contraire :
+
+1° Est puni d'un emprisonnement de deux ans et d'une amende de 200000 F le fait, pour tout dirigeant de personne morale tenue
+d'avoir un commissaire aux comptes, de ne pas en provoquer la désignation ou de ne pas le convoquer à toute assemblée
+générale ;
+
+2° Est puni d'un emprisonnement de cinq ans et d'une amende de 500000 F le fait, pour les dirigeants d'une personne morale ou
+toute personne au service d'une personne morale tenue d'avoir un commissaire aux comptes, de mettre obstacle aux
+vérifications ou contrôles des commissaires aux comptes ou des experts nommés en exécution des articles L. 223-37 et L.
+225-231, ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission et,
+notamment, de tous contrats, livres, documents comptables et registres de procès-verbaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
+_Cité par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
+  - Code monétaire et financier - art. L515-31 (VT)
+
+_Cite_:
+
+  - Code de commerce. - art. L223-37 (V)
+  - Code de commerce. - art. L225-231 (M)
+
+
+###### Article L820-5
+
+Est puni d'un an d'emprisonnement et de 100000 F d'amende le fait, pour toute personne :
+
+1° De faire usage du titre de commissaire aux comptes ou de titres quelconques tendant à créer une similitude ou une
+confusion avec celui-ci, sans être régulièrement inscrite sur la liste prévue au I de l'article L. 225-219 et avoir prêté
+serment dans les conditions prévues à l'article L. 225-223 ;
+
+2° D'exercer illégalement la profession de commissaire aux comptes, en violation des dispositions du I de l'article L.
+225-219 et de l'article L. 225-223 ou d'une mesure d'interdiction ou de suspension temporaire ;
+
+Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel sont applicables aux commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
+_Cite_:
+
+  - Code de commerce. - art. L225-219 (Ab)
+  - Code de commerce. - art. L225-223 (Ab)
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L571-5 (V)
+
+
+###### Article L820-6
+
+Est puni d'un emprisonnement de six mois et d'une amende de 50000 F le fait, pour toute personne d'accepter, d'exercer ou de
+conserver les fonctions de commissaire aux comptes, nonobstant les incompatibilités légales, soit en son nom personnel, soit
+au titre d'associé dans une société de commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
+_Cité par_:
+
+  - Code de commerce - art. L244-1 (V)
+  - Code de commerce - art. R225-171 (VD)
+  - Code monétaire et financier - art. L571-5 (V)
+
+
+###### Article L820-7
+
+Est puni d'un emprisonnement de cinq ans et d'une amende de 500000 F le fait, pour toute personne, de donner ou confirmer
+soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes des informations mensongères
+sur la situation de la personne morale ou de ne pas révéler au procureur de la République les faits délictueux dont il a eu
+connaissance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V) JORF 16 mai 2001
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. L931-13 (MMN)
+  - Code monétaire et financier - art. L571-5 (V)
+
+
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=340></a>
+
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=341></a>
 
 ###### Article L910-1
 
@@ -56177,7 +57943,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=341></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=342></a>
 
 ###### Article L911-1
 
@@ -56468,7 +58234,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=342></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=343></a>
 
 ###### Article L912-1
 
@@ -56585,7 +58351,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=343></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=344></a>
 
 ###### Article L913-1
 
@@ -56606,7 +58372,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=344></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=345></a>
 
 ###### Article L914-1
 
@@ -56653,7 +58419,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=345></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=346></a>
 
 ###### Article L915-1
 
@@ -56753,7 +58519,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=346></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=347></a>
 
 ###### Article L917-1
 
@@ -56841,7 +58607,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=347></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=348></a>
 
 ###### Article L920-1
 
@@ -56991,7 +58757,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=348></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=349></a>
 
 ###### Article L921-1
 
@@ -57293,7 +59059,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=349></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=350></a>
 
 ###### Article L922-1
 
@@ -57489,7 +59255,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=350></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=351></a>
 
 ###### Article L923-1
 
@@ -57533,7 +59299,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=351></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=352></a>
 
 ###### Article L924-1
 
@@ -57682,7 +59448,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L924-6 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=352></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=353></a>
 
 ###### Article L925-1
 
@@ -57807,7 +59573,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=353></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=354></a>
 
 ###### Article L926-1
 
@@ -58042,7 +59808,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=354></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=355></a>
 
 ###### Article L930-1
 
@@ -58179,7 +59945,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=355></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=356></a>
 
 ###### Article L931-1
 
@@ -58576,7 +60342,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=356></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=357></a>
 
 ###### Article L932-1
 
@@ -58919,7 +60685,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=357></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=358></a>
 
 ###### Article L933-1
 
@@ -59061,7 +60827,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=358></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=359></a>
 
 ###### Article L935-1
 
@@ -59229,7 +60995,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=359></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=360></a>
 
 ###### Article L936-1
 
@@ -59570,7 +61336,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L936-11 (M)
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=360></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=361></a>
 
 ###### Article L940-1
 
@@ -59726,7 +61492,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=361></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=362></a>
 
 ###### Article L941-1
 
@@ -60100,7 +61866,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=362></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=363></a>
 
 ###### Article L942-1
 
@@ -60362,7 +62128,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=363></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=364></a>
 
 ###### Article L943-1
 
@@ -60500,7 +62266,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=364></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=365></a>
 
 ###### Article L945-1
 
@@ -60666,7 +62432,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=365></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=366></a>
 
 ###### Article L946-1
 
@@ -60925,7 +62691,7 @@ _Créé par_:
   - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=366></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=367></a>
 
 ###### Article L950-1
 
@@ -61077,7 +62843,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=367></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=368></a>
 
 ###### Article L951-1
 
@@ -61382,7 +63148,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=368></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=369></a>
 
 ###### Article L952-1
 
@@ -61569,7 +63335,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=369></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=370></a>
 
 ###### Article L953-1
 
@@ -61630,7 +63396,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L953-3 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=370></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=371></a>
 
 ###### Article L954-1
 
@@ -61807,7 +63573,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L954-7 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=371></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=372></a>
 
 ###### Article L955-1
 
@@ -61940,7 +63706,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=372></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=373></a>
 
 ###### Article L956-1
 
@@ -62198,7 +63964,7 @@ _Anciens textes_:
   - Code de commerce. - art. L956-9 (M)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=373></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=374></a>
 
 ###### Article L957-1
 
@@ -62251,7 +64017,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=374></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=375></a>
 
 ###### Article L958-1
 
