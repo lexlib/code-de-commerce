@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-06-26
+Version Consolidée au 2004-08-11
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -56793,11 +56793,19 @@ Ils doivent également contribuer à la modernisation des équipements commercia
 consommation et des techniques de commercialisation, au confort d'achat du consommateur et à l'amélioration des conditions de
 travail des salariés.
 
+Le programme national de développement et de modernisation des activités commerciales et artisanales visé à l'article 1er de
+la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat exprime les orientations de l'équipement
+commercial pour la mise en oeuvre des objectifs ci-dessus définis.
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°73-1193 du 27 décembre 1973 - art. 1 (M)
 
 _Anciens textes_:
 
-  - Loi n°73-1193 1973-12-27 art. 1 al. 4 et 5
+  - Loi n°73-1193 du 27 décembre 1973 - art. 1 (V)
 
 _Cité par_:
 
@@ -56813,6 +56821,14 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2004-804 du 9 août 2004 - art. 18 () JORF 11 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L720-2
@@ -56860,7 +56876,10 @@ considération :
 2° La densité d'équipement en moyennes et grandes surfaces dans cette zone ;
 
 3° L'effet potentiel du projet sur l'appareil commercial et artisanal de cette zone et des agglomérations concernées, ainsi
-que sur l'équilibre souhaitable entre les différentes formes de commerce ;
+que sur l'équilibre souhaitable entre les différentes formes de commerce. Lorsque le projet concerne la création ou
+l'extension d'un ensemble commercial, majoritairement composé de magasins spécialisés dans la commercialisation d'articles de
+marques à prix réduit, l'effet potentiel dudit projet est également apprécié indépendamment de la spécificité de la politique
+commerciale de ce type de magasins ;
 
 4° L'impact éventuel du projet en termes d'emplois salariés et non salariés ;
 
@@ -56902,7 +56921,6 @@ protection de l'environnement lorsque celle-ci s'impose dans le cadre de l'instr
 
 _Anciens textes_:
 
-  - Loi n°73-1193 1973-12-27 art. 28
   - Loi n°73-1193 du 27 décembre 1973 - art. 28 (Ab)
 
 _Cite_:
@@ -56934,7 +56952,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 97 () JORF 14 décembre 2000
+  - Loi n°2004-804 du 9 août 2004 - art. 18 () JORF 11 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L720-4
