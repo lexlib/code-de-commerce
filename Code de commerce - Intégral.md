@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-21
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -352,7 +352,7 @@ Version Consolidée au 2004-08-11
         - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#349)
         - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#350)
         - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#351)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-4)](#352)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-6)](#352)
         - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#353)
         - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#354)
       - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L938-1)](#355)
@@ -372,7 +372,7 @@ Version Consolidée au 2004-08-11
         - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#369)
         - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#370)
         - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#371)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-5)](#372)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-7)](#372)
         - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#373)
         - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#374)
         - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#375)
@@ -63154,6 +63154,65 @@ _Cite_:
 
 ###### Article L924-1
 
+Au premier alinéa de l'article L. 430-2, le mot : "trois" est remplacé par le mot : "deux". Les quatrième et cinquième
+alinéas de cet article sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Modifié par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-578 du 26 avril 2012 - art. 9
+
+_Cite_:
+
+  - Code de commerce - art. L430-2
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L924-3 (V)
+
+
+###### Article L924-2
+
+A l'article L. 430-3, la dernière phrase du premier alinéa est supprimée. Au troisième alinéa du même article, les mots : ",
+ou le renvoi total ou partiel d'une opération de dimension communautaire," sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-578 du 26 avril 2012 - art. 9
+
+_Cite_:
+
+  - Code de commerce - art. L430-3
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L924-4 (M)
+  - Code de commerce. - art. L924-4 (T)
+
+
+###### Article L924-3
+
 Le dernier alinéa de l'article L. 441-2 est remplacé par quatre alinéas ainsi rédigés :
 
 " La cessation de la publicité, réalisée dans des conditions non conformes aux dispositions de l'alinéa 1, peut être ordonnée
@@ -63175,7 +63234,7 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -63183,17 +63242,20 @@ _Cite_:
 
   - Code de commerce. - art. L441-2 (M)
 
+_Anciens textes_:
+
+  - Code de commerce. - art. L924-1 (T)
+
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L924-3 (T)
-  - Code de commerce. - art. L924-3 (V)
+  - Code de commerce. - art. L924-5 (V)
 
 
-###### Article L924-2
+###### Article L924-4
 
-Au second alinéa de l'article L. 442-2, avant les mots :
+Au second alinéa de l'article L. 442-2, avant les mots : 
 
-" taxes sur le chiffre d'affaires ", est ajouté le mot :
+" taxes sur le chiffre d'affaires ", est ajouté le mot : 
 
 " éventuelles " ;
 
@@ -63204,21 +63266,25 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 _Cite_:
 
-  - Code de commerce. - art. L442-2 (M)
+  - Code de commerce - art. L442-2 (V)
+
+_Anciens textes_:
+
+  - Code de commerce. - art. L924-2 (T)
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L924-4 (M)
-  - Code de commerce. - art. L924-4 (T)
+  - Code de commerce. - art. L924-6 (M)
+  - Code de commerce. - art. L924-6 (V)
 
 
-###### Article L924-3
+###### Article L924-5
 
 Le dernier alinéa de l'article L. 442-3 est remplacé par quatre alinéas ainsi rédigés :
 
@@ -63240,7 +63306,7 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Créé par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -63250,14 +63316,10 @@ _Cite_:
 
 _Anciens textes_:
 
-  - Code de commerce. - art. L924-1 (T)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L924-5 (V)
+  - Code de commerce. - art. L924-3 (T)
 
 
-###### Article L924-4
+###### Article L924-6
 
 L'article L. 443-1 est modifié ainsi qu'il suit :
 
@@ -63277,26 +63339,21 @@ circulation prévus par le code des impôts applicable dans la collectivité. "
 _Cite_:
 
   - CGI 403
-  - Code de commerce. - art. L443-1 (M)
   - Code rural L326-1 à L326-3
+  - Code de commerce. - art. L443-1 (M)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Créé par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 _Anciens textes_:
 
-  - Code de commerce. - art. L924-2 (T)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L924-6 (M)
-  - Code de commerce. - art. L924-6 (V)
+  - Code de commerce. - art. L924-4 (T)
 
 
 #### Chapitre V : Dispositions d'adaptation du livre V.<a id=353></a>
@@ -67265,6 +67322,56 @@ _Anciens textes_:
 
 ###### Article L954-1
 
+Au premier alinéa de l'article L. 430-2, le mot : "trois" est remplacé par le mot : "deux". Les quatrième et cinquième
+alinéas de cet article sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+_Cite_:
+
+  - Code de commerce. - art. L430-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L954-3 (V)
+
+
+###### Article L954-2
+
+A l'article L. 430-3, la dernière phrase du premier alinéa est supprimée. Au troisième alinéa du même article, les mots : ",
+ou le renvoi total ou partiel d'une opération de dimension communautaire," sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+_Cite_:
+
+  - Code de commerce. - art. L430-3 (M)
+
+_Nouveaux textes_:
+
+  - Code de commerce. - art. L954-4 (V)
+
+
+###### Article L954-3
+
 Le dernier alinéa de l'article L. 441-2 est remplacé par quatre alinéas ainsi rédigés :
 
 " La cessation de la publicité, réalisée dans des conditions non conformes aux dispositions de l'alinéa 1, peut être ordonnée
@@ -67285,7 +67392,7 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -67293,13 +67400,17 @@ _Cite_:
 
   - Code de commerce. - art. L441-2 (M)
 
+_Anciens textes_:
+
+  - Code de commerce. - art. L954-1 (T)
+
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L954-3 (T)
-  - Code de commerce. - art. L954-3 (V)
+  - Code de commerce. - art. L954-5 (T)
+  - Code de commerce. - art. L954-5 (V)
 
 
-###### Article L954-2
+###### Article L954-4
 
 Au second alinéa de l'article L. 442-2, avant les mots :
 
@@ -67314,7 +67425,7 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -67322,13 +67433,17 @@ _Cite_:
 
   - Code de commerce. - art. L442-2 (M)
 
+_Anciens textes_:
+
+  - Code de commerce. - art. L954-2 (T)
+
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L954-4 (T)
-  - Code de commerce. - art. L954-4 (V)
+  - Code de commerce. - art. L954-6 (M)
+  - Code de commerce. - art. L954-6 (V)
 
 
-###### Article L954-3
+###### Article L954-5
 
 Le dernier alinéa de l'article L. 442-3 est remplacé par quatre alinéas ainsi rédigés :
 
@@ -67350,7 +67465,7 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Modifié par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -67360,15 +67475,15 @@ _Cite_:
 
 _Anciens textes_:
 
-  - Code de commerce. - art. L954-1 (T)
+  - Code de commerce. - art. L954-3 (T)
 
 _Nouveaux textes_:
 
-  - Code de commerce. - art. L954-5 (T)
-  - Code de commerce. - art. L954-5 (V)
+  - Code de commerce. - art. L954-7 (M)
+  - Code de commerce. - art. L954-7 (V)
 
 
-###### Article L954-4
+###### Article L954-6
 
 A l'article L. 442-7, les mots : " ou coopérative d'entreprise ou d'administration " sont supprimés.
 
@@ -67379,25 +67494,20 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Créé par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 _Cite_:
 
-  - Code de commerce. - art. L442-7 (V)
+  - Code de commerce - art. L442-7 (V)
 
 _Anciens textes_:
 
-  - Code de commerce. - art. L954-2 (T)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L954-6 (M)
-  - Code de commerce. - art. L954-6 (V)
+  - Code de commerce. - art. L954-4 (T)
 
 
-###### Article L954-5
+###### Article L954-7
 
 L'article L. 443-1 est modifié ainsi qu'il suit :
 
@@ -67417,26 +67527,21 @@ circulation prévus par le code des impôts applicable dans le territoire ".
 _Cite_:
 
   - CGI 403
-  - Code rural L326-1 à L326-3
   - Code de commerce. - art. L443-1 (M)
+  - Code rural L326-1 à L326-3
+
+_Anciens textes_:
+
+  - Code de commerce. - art. L954-5 (T)
 
 _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Transféré par_:
+_Créé par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
-
-_Anciens textes_:
-
-  - Code de commerce. - art. L954-3 (T)
-
-_Nouveaux textes_:
-
-  - Code de commerce. - art. L954-7 (M)
-  - Code de commerce. - art. L954-7 (V)
 
 
 #### Chapitre V : Dispositions d'adaptation du livre V.<a id=373></a>
