@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-07-18
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-1)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -22917,9 +22917,10 @@ _Cité par_:
 
 ###### Article L228-36
 
-Les sociétés par actions appartenant au secteur public et les sociétés anonymes coopératives peuvent émettre des titres
-participatifs. Ces titres ne sont remboursables qu'en cas de liquidation de la société ou, à son initiative, à l'expiration
-d'un délai qui ne peut être inférieur à sept ans et dans les conditions prévues au contrat d'émission.
+Les sociétés par actions appartenant au secteur public et les sociétés coopératives constituées sous la forme de société
+anonyme ou de société à responsabilité limitée peuvent émettre des titres participatifs. Ces titres ne sont remboursables
+qu'en cas de liquidation de la société ou, à son initiative, à l'expiration d'un délai qui ne peut être inférieur à sept ans
+et dans les conditions prévues au contrat d'émission.
 
 Leur rémunération comporte une partie fixe et une partie variable calculée par référence à des éléments relatifs à l'activité
 ou aux résultats de la société et assise sur le nominal du titre. Un décret en Conseil d'Etat fixe les conditions dans
@@ -22935,7 +22936,6 @@ créanciers privilégiés ou chirographaires à l'exclusion des propriétaires d
 
 _Anciens textes_:
 
-  - Loi n°66-537 1966-07-24 art. 283-6
   - Loi n°66-537 du 24 juillet 1966 - art. 283-6 (Ab)
 
 _Cite_:
@@ -22946,6 +22946,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2001-624 du 17 juillet 2001 - art. 36 () JORF 18 juillet 2001
 
 _Cité par_:
 
