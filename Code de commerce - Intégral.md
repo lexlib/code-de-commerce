@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-07-28
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L145-60)](#2)
@@ -10315,9 +10315,9 @@ _Cite_:
 
 ###### Article L223-24
 
-En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaire en application des dispositions du livre VI,
-titre II, les personnes visées par ces dispositions peuvent être rendues responsables du passif social et sont soumises aux
-interdictions et déchéances, dans les conditions prévues par lesdites dispositions.
+En cas d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire en application des
+dispositions du livre VI, titre II, les personnes visées par ces dispositions peuvent être rendues responsables du passif
+social et sont soumises aux interdictions et déchéances, dans les conditions prévues par lesdites dispositions.
 
 **Liens relatifs à cet article**
 
@@ -10325,10 +10325,9 @@ _Anciens textes_:
 
   - Loi n°66-537 du 24 juillet 1966 - art. 54 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 
 ###### Article L223-25
@@ -25878,8 +25877,8 @@ _Cite_:
 
 ###### Article L228-87
 
-Les frais entraînés par la représentation des obligataires au cours de la procédure de redressement judiciaire de la société
-incombent à celle-ci et sont considérés comme des frais d'administration judiciaire.
+Les frais entraînés par la représentation des obligataires au cours des procédures de sauvegarde ou de redressement
+judiciaire de la société incombent à celle-ci et sont considérés comme des frais d'administration judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -25887,10 +25886,9 @@ _Anciens textes_:
 
   - Loi n°66-537 du 24 juillet 1966 - art. 336 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 
 ###### Article L228-88
