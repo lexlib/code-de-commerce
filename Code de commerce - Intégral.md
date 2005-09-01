@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-09-02
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L146-4)](#2)
@@ -41769,9 +41769,10 @@ _Cité par_:
 
 ###### Article L470-4-1
 
-Pour les délits prévus au titre IV du présent livre pour lesquels une peine d'emprisonnement n'est pas encourue, l'autorité
-administrative chargée de la concurrence et de la consommation a droit, tant que l'action publique n'a pas été mise en
-mouvement, de transiger, après accord du procureur de la République, selon les modalités fixées par décret en Conseil d'Etat.
+Pour les délits prévus au titre IV du présent livre pour lesquels une peine d'emprisonnement n'est pas encourue et pour les
+contraventions prévues au présent livre, l'autorité administrative chargée de la concurrence et de la consommation a droit,
+tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur de la République, selon les
+modalités fixées par décret en Conseil d'Etat.
 
 L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
 prescription de l'action publique.
@@ -41786,9 +41787,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-882 du 2 août 2005 - art. 44 () JORF 3 août 2005
+  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 1 () JORF 2 septembre 2005
 
 _Cité par_:
 
@@ -41797,6 +41798,14 @@ _Cité par_:
   - Décret n°2010-1010 du 30 août 2010 - art. 6 (V)
   - Code de commerce - art. L310-6-1 (V)
   - Code de commerce - art. R470-5 (T)
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2017-303 du 9 mars 2017 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de commerce - art. L490-5 (V)
 
 
 ###### Article L470-4-2
