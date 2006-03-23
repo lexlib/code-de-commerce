@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-24
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L146-4)](#2)
@@ -186,7 +186,7 @@ Version Consolidée au 2006-01-06
         - [Chapitre III : De la procédure. (art. L463-1 à L463-8)](#183)
         - [Chapitre IV : Des décisions et des voies de recours. (art. L464-1 à L464-8)](#184)
       - [TITRE VII : Dispositions diverses. (art. L470-1 à L470-8)](#185)
-    - [LIVRE V : Des effets de commerce et des garanties. (art. L511-1 à L526-4)](#186)
+    - [LIVRE V : Des effets de commerce et des garanties. (art. L511-1 à L527-11)](#186)
       - [TITRE Ier : Des effets de commerce. (art. L511-1 à L512-8)](#187)
         - [Chapitre Ier : De la lettre de change (art. L511-1 à L511-81)](#188)
           - [Section 1 : De la création et de la forme de la lettre de change. (art. L511-1 à L511-6)](#189)
@@ -212,7 +212,7 @@ Version Consolidée au 2006-01-06
           - [Section 14 : De la prescription. (art. L511-78)](#209)
           - [Section 15 : Dispositions générales. (art. L511-79 à L511-81)](#210)
         - [Chapitre II : Du billet à ordre. (art. L512-1 à L512-8)](#211)
-      - [TITRE II : Des garanties. (art. L521-1 à L526-4)](#212)
+      - [TITRE II : Des garanties. (art. L521-1 à L527-11)](#212)
         - [Chapitre Ier : Dispositions générales sur le gage commercial (art. L521-1 à L521-3)](#213)
         - [Chapitre II : Des dépôts en magasins généraux (art. L522-1 à L522-40)](#214)
           - [Section 1 : De l'agrément, de la cession et de la cessation d'exploitation. (art. L522-1 à L522-13)](#215)
@@ -223,149 +223,150 @@ Version Consolidée au 2006-01-06
         - [Chapitre III : Du warrant hôtelier (art. L523-1 à L523-15)](#220)
         - [Chapitre IV : Du warrant pétrolier (art. L524-1 à L524-21)](#221)
         - [Chapitre V : Du nantissement de l'outillage et du matériel d'équipement. (art. L525-1 à L525-20)](#222)
-        - [Chapitre VI : De la protection de l'entrepreneur individuel et du conjoint. (art. L526-1 à L526-4)](#223)
-          - [Section 1 : De la déclaration d'insaisissabilité (art. L526-1 à L526-4)](#224)
-    - [LIVRE VI : Des difficultés des entreprises. (art. L610-1 à L670-8)](#225)
-      - [TITRE Ier : De la prévention des difficultés des entreprises. (art. L611-1 à L612-5)](#226)
-        - [Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation (art. L611-1 à L611-15)](#227)
-        - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique (art. L612-1 à L612-5)](#228)
-      - [TITRE II : De la sauvegarde. (art. L620-1 à L628-8)](#229)
-        - [Chapitre Ier : De l'ouverture de la procédure. (art. L621-1 à L621-12)](#230)
-        - [Chapitre II : De l'entreprise au cours de la période d'observation. (art. L622-1 à L622-33)](#231)
-        - [Chapitre III : De l'élaboration du bilan économique, social et environnemental. (art. L623-1 à L623-3)](#232)
-        - [Chapitre IV : De la détermination du patrimoine du débiteur. (art. L624-1 à L624-18)](#233)
-          - [Section 1 : De la vérification et de l'admission des créances. (art. L624-1 à L624-4)](#234)
-          - [Section 2 : Des droits du conjoint. (art. L624-5 à L624-8)](#235)
-          - [Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions. (art. L624-9 à L624-18)](#236)
-        - [Chapitre V : Du règlement des créances résultant du contrat de travail. (art. L625-1 à L625-9)](#237)
-          - [Section 1 : De la vérification des créances. (art. L625-1 à L625-6)](#238)
-          - [Section 2 : Du privilège des salariés. (art. L625-7 à L625-8)](#239)
-          - [Section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L625-9)](#240)
-        - [Chapitre VI : Du plan de sauvegarde. (art. L626-1 à L626-35)](#241)
-          - [Section 1 : De l'élaboration du projet de plan. (art. L626-2 à L626-8)](#242)
-          - [Section 2 : Du jugement arrêtant le plan et de l'exécution du plan. (art. L626-9 à L626-28)](#243)
-          - [Section 3 : Des comités de créanciers. (art. L626-29 à L626-35)](#244)
-        - [Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire. (art. L627-1 à L627-4)](#245)
-        - [Chapitre VIII : De la sauvegarde financière accélérée (art. L628-8)](#246)
-      - [TITRE III : Du redressement judiciaire. (art. L631-1 à L632-4)](#247)
-        - [Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire. (art. L631-1 à L631-22)](#248)
-        - [Chapitre II : De la nullité de certains actes. (art. L632-1 à L632-4)](#249)
-      - [TITRE IV : De la liquidation judiciaire. (art. L640-1 à L644-6)](#250)
-        - [Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire. (art. L640-1 à L640-6)](#251)
-        - [Chapitre Ier : Du jugement de liquidation judiciaire. (art. L641-1 à L641-15)](#252)
-        - [Chapitre II : De la réalisation de l'actif. (art. L642-1 à L642-25)](#253)
-          - [Section 1 : De la cession de l'entreprise. (art. L642-1 à L642-17)](#254)
-          - [Section 2 : De la cession des actifs du débiteur. (art. L642-18 à L642-21)](#255)
-          - [Section 3 : Dispositions communes. (art. L642-22 à L642-25)](#256)
-        - [Chapitre III : De l'apurement du passif. (art. L643-1 à L643-13)](#257)
-          - [Section 1 : Du règlement des créanciers. (art. L643-1 à L643-8)](#258)
-          - [Section 2 : De la clôture des opérations de liquidation judiciaire. (art. L643-9 à L643-13)](#259)
-        - [Chapitre IV : De la liquidation judiciaire simplifiée. (art. L644-1 à L644-6)](#260)
-      - [TITRE V : Des responsabilités et des sanctions. (art. L650-1 à L654-20)](#261)
-        - [Chapitre Ier : De la responsabilité pour insuffisance d'actif. (art. L651-1 à L651-4)](#262)
-        - [Chapitre II : De l'obligation aux dettes sociales. (art. L652-1 à L652-5)](#263)
-        - [Chapitre III : De la faillite personnelle et des autres mesures d'interdiction. (art. L653-1 à L653-11)](#264)
-        - [Chapitre IV : De la banqueroute et des autres infractions. (art. L654-1 à L654-20)](#265)
-          - [Section 1 : De la banqueroute. (art. L654-1 à L654-7)](#266)
-          - [Section 2 : Des autres infractions. (art. L654-8 à L654-15)](#267)
-          - [Section 3 : Des règles de procédures. (art. L654-16 à L654-20)](#268)
-      - [TITRE VI : Des dispositions générales de procédure. (art. L661-1 à L663-4)](#269)
-        - [Chapitre Ier : Des voies de recours. (art. L661-1 à L661-11)](#270)
-        - [Chapitre II : Autres dispositions. (art. L662-1 à L662-6)](#271)
-        - [Chapitre III : Des frais de procédure. (art. L663-1 à L663-4)](#272)
-      - [TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L670-1 à L670-8)](#273)
-    - [LIVRE VII : De l'organisation du commerce (art. L710-1 à L740-3)](#274)
-      - [TITRE Ier : Du réseau des chambres de commerce et d'industrie (art. L710-1 à L713-18)](#275)
-        - [Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie (art. L711-1 à L711-12)](#276)
-          - [Section 1 : Les chambres de commerce et d'industrie (art. L711-1 à L711-5)](#277)
-          - [Section 2 : Les chambres régionales de commerce et d'industrie (art. L711-6 à L711-10)](#278)
-          - [Section 3 : L'assemblée des chambres françaises de commerce et d'industrie (art. L711-11 à L711-12)](#279)
-        - [Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie (art. L712-1 à L712-10)](#280)
-        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires (art. L713-1 à L713-18)](#281)
-          - [Section 1 : De l'élection des membres des chambres de commerce et d'industrie. (art. L713-1 à L713-5)](#282)
-          - [Section 2 : De l'élection des délégués consulaires. (art. L713-6 à L713-10)](#283)
-          - [Section 3 : Dispositions communes. (art. L713-11 à L713-18)](#284)
-      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#285)
-      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-16)](#286)
-      - [TITRE IV : Des manifestations commerciales. (art. L740-1 à L740-3)](#287)
-    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L823-18)](#288)
-      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires et experts en diagnostic d'entreprise. (art. L811-1 à L814-11)](#289)
-        - [Chapitre Ier : Des administrateurs judiciaires. (art. L811-1 à L811-16)](#290)
-          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités. (art. L811-1 à L811-10)](#291)
-            - [Sous-section 1 : Des missions. (art. L811-1)](#292)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#293)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#294)
-            - [Sous-section 4 : Des incompatibilités. (art. L811-10)](#295)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L811-11 à L811-16)](#296)
-            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11 à L811-11-2)](#297)
-            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#298)
-        - [Chapitre II : Des mandataires judiciaires. (art. L812-1 à L812-10)](#299)
-          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités. (art. L812-1 à L812-8)](#300)
-            - [Sous-section 1 : Des missions. (art. L812-1)](#301)
-            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#302)
-            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#303)
-            - [Sous-section 4 : Des incompatibilités. (art. L812-8)](#304)
-          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#305)
-        - [Chapitre III : Des experts en diagnostic d'entreprise. (art. L813-1)](#306)
-        - [Chapitre IV : Dispositions communes. (art. L814-1 à L814-11)](#307)
-          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics. (art. L814-1 à L814-2)](#308)
-            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#309)
-            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#310)
-          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération. (art. L814-3 à L814-5)](#311)
-            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#312)
-          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-11)](#313)
-      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L823-18)](#314)
-        - [Chapitre préliminaire : Dispositions générales. (art. L820-1 à L820-7)](#315)
-        - [Chapitre Ier : De l'organisation et du contrôle de la profession. (art. L821-1 à L821-12)](#316)
-        - [Chapitre II : Du statut des commissaires aux comptes. (art. L822-1 à L822-18)](#317)
-          - [Section 1 : De l'inscription et de la discipline. (art. L822-1 à L822-8)](#318)
-            - [Sous-section 1 : De l'inscription. (art. L822-1 à L822-5)](#319)
-            - [Sous-section 2 : De la discipline. (art. L822-6 à L822-8)](#320)
-          - [Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes. (art. L822-9 à L822-16)](#321)
-          - [Section 3 : De la responsabilité civile. (art. L822-17 à L822-18)](#322)
-        - [Chapitre III : De l'exercice du contrôle légal. (art. L823-1 à L823-18)](#323)
-          - [Section 1 : De la nomination, de la récusation et de la révocation des commissaires aux comptes. (art. L823-1 à L823-8)](#324)
-          - [Section 2 : De la mission du commissaire aux comptes. (art. L823-9 à L823-12)](#325)
-          - [Section 3 : Des modalités d'exercice de la mission. (art. L823-13 à L823-18)](#326)
-    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-2)](#327)
-      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#328)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#329)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#330)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#331)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#332)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#333)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L916-1)](#334)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#335)
-      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L927-1)](#336)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#337)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#338)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#339)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-6)](#340)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#341)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#342)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L927-1)](#343)
-      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L938-1)](#344)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#345)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-6 à L932-17)](#346)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#347)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#348)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#349)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII. (art. L938-1)](#350)
-      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#351)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#352)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#353)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#354)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#355)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#356)
-      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-2)](#357)
-        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#358)
-        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#359)
-        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#360)
-        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-7)](#361)
-        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#362)
-        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#363)
-        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#364)
-        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1 à L958-2)](#365)
+        - [Chapitre VI : De la protection de l'entrepreneur individuel et du conjoint. (art. L526-1 à L526-5)](#223)
+          - [Section 1 : De la déclaration d'insaisissabilité (art. L526-1 à L526-5)](#224)
+        - [Chapitre VII : Du gage des stocks. (art. L527-1 à L527-11)](#225)
+    - [LIVRE VI : Des difficultés des entreprises. (art. L610-1 à L670-8)](#226)
+      - [TITRE Ier : De la prévention des difficultés des entreprises. (art. L611-1 à L612-5)](#227)
+        - [Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation (art. L611-1 à L611-15)](#228)
+        - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique (art. L612-1 à L612-5)](#229)
+      - [TITRE II : De la sauvegarde. (art. L620-1 à L628-8)](#230)
+        - [Chapitre Ier : De l'ouverture de la procédure. (art. L621-1 à L621-12)](#231)
+        - [Chapitre II : De l'entreprise au cours de la période d'observation. (art. L622-1 à L622-33)](#232)
+        - [Chapitre III : De l'élaboration du bilan économique, social et environnemental. (art. L623-1 à L623-3)](#233)
+        - [Chapitre IV : De la détermination du patrimoine du débiteur. (art. L624-1 à L624-18)](#234)
+          - [Section 1 : De la vérification et de l'admission des créances. (art. L624-1 à L624-4)](#235)
+          - [Section 2 : Des droits du conjoint. (art. L624-5 à L624-8)](#236)
+          - [Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions. (art. L624-9 à L624-18)](#237)
+        - [Chapitre V : Du règlement des créances résultant du contrat de travail. (art. L625-1 à L625-9)](#238)
+          - [Section 1 : De la vérification des créances. (art. L625-1 à L625-6)](#239)
+          - [Section 2 : Du privilège des salariés. (art. L625-7 à L625-8)](#240)
+          - [Section 3 : De la garantie du paiement des créances résultant du contrat de travail. (art. L625-9)](#241)
+        - [Chapitre VI : Du plan de sauvegarde. (art. L626-1 à L626-35)](#242)
+          - [Section 1 : De l'élaboration du projet de plan. (art. L626-2 à L626-8)](#243)
+          - [Section 2 : Du jugement arrêtant le plan et de l'exécution du plan. (art. L626-9 à L626-28)](#244)
+          - [Section 3 : Des comités de créanciers. (art. L626-29 à L626-35)](#245)
+        - [Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire. (art. L627-1 à L627-4)](#246)
+        - [Chapitre VIII : De la sauvegarde financière accélérée (art. L628-8)](#247)
+      - [TITRE III : Du redressement judiciaire. (art. L631-1 à L632-4)](#248)
+        - [Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire. (art. L631-1 à L631-22)](#249)
+        - [Chapitre II : De la nullité de certains actes. (art. L632-1 à L632-4)](#250)
+      - [TITRE IV : De la liquidation judiciaire. (art. L640-1 à L644-6)](#251)
+        - [Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire. (art. L640-1 à L640-6)](#252)
+        - [Chapitre Ier : Du jugement de liquidation judiciaire. (art. L641-1 à L641-15)](#253)
+        - [Chapitre II : De la réalisation de l'actif. (art. L642-1 à L642-25)](#254)
+          - [Section 1 : De la cession de l'entreprise. (art. L642-1 à L642-17)](#255)
+          - [Section 2 : De la cession des actifs du débiteur. (art. L642-18 à L642-21)](#256)
+          - [Section 3 : Dispositions communes. (art. L642-22 à L642-25)](#257)
+        - [Chapitre III : De l'apurement du passif. (art. L643-1 à L643-13)](#258)
+          - [Section 1 : Du règlement des créanciers. (art. L643-1 à L643-8)](#259)
+          - [Section 2 : De la clôture des opérations de liquidation judiciaire. (art. L643-9 à L643-13)](#260)
+        - [Chapitre IV : De la liquidation judiciaire simplifiée. (art. L644-1 à L644-6)](#261)
+      - [TITRE V : Des responsabilités et des sanctions. (art. L650-1 à L654-20)](#262)
+        - [Chapitre Ier : De la responsabilité pour insuffisance d'actif. (art. L651-1 à L651-4)](#263)
+        - [Chapitre II : De l'obligation aux dettes sociales. (art. L652-1 à L652-5)](#264)
+        - [Chapitre III : De la faillite personnelle et des autres mesures d'interdiction. (art. L653-1 à L653-11)](#265)
+        - [Chapitre IV : De la banqueroute et des autres infractions. (art. L654-1 à L654-20)](#266)
+          - [Section 1 : De la banqueroute. (art. L654-1 à L654-7)](#267)
+          - [Section 2 : Des autres infractions. (art. L654-8 à L654-15)](#268)
+          - [Section 3 : Des règles de procédures. (art. L654-16 à L654-20)](#269)
+      - [TITRE VI : Des dispositions générales de procédure. (art. L661-1 à L663-4)](#270)
+        - [Chapitre Ier : Des voies de recours. (art. L661-1 à L661-11)](#271)
+        - [Chapitre II : Autres dispositions. (art. L662-1 à L662-6)](#272)
+        - [Chapitre III : Des frais de procédure. (art. L663-1 à L663-4)](#273)
+      - [TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin. (art. L670-1 à L670-8)](#274)
+    - [LIVRE VII : De l'organisation du commerce (art. L710-1 à L740-3)](#275)
+      - [TITRE Ier : Du réseau des chambres de commerce et d'industrie (art. L710-1 à L713-18)](#276)
+        - [Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie (art. L711-1 à L711-12)](#277)
+          - [Section 1 : Les chambres de commerce et d'industrie (art. L711-1 à L711-5)](#278)
+          - [Section 2 : Les chambres régionales de commerce et d'industrie (art. L711-6 à L711-10)](#279)
+          - [Section 3 : L'assemblée des chambres françaises de commerce et d'industrie (art. L711-11 à L711-12)](#280)
+        - [Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie (art. L712-1 à L712-10)](#281)
+        - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires (art. L713-1 à L713-18)](#282)
+          - [Section 1 : De l'élection des membres des chambres de commerce et d'industrie. (art. L713-1 à L713-5)](#283)
+          - [Section 2 : De l'élection des délégués consulaires. (art. L713-6 à L713-10)](#284)
+          - [Section 3 : Dispositions communes. (art. L713-11 à L713-18)](#285)
+      - [TITRE II : De l'équipement commercial (art. L720-1 à L720-11)](#286)
+      - [TITRE III : Des marchés d'intérêt national. (art. L730-1 à L730-16)](#287)
+      - [TITRE IV : Des manifestations commerciales. (art. L740-1 à L740-3)](#288)
+    - [LIVRE VIII : De quelques professions réglementées. (art. L811-1 à L823-18)](#289)
+      - [TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires et experts en diagnostic d'entreprise. (art. L811-1 à L814-11)](#290)
+        - [Chapitre Ier : Des administrateurs judiciaires. (art. L811-1 à L811-16)](#291)
+          - [Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités. (art. L811-1 à L811-10)](#292)
+            - [Sous-section 1 : Des missions. (art. L811-1)](#293)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L811-2 à L811-5)](#294)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L811-6 à L811-9)](#295)
+            - [Sous-section 4 : Des incompatibilités. (art. L811-10)](#296)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L811-11 à L811-16)](#297)
+            - [Sous-section 1 : De la surveillance et de l'inspection. (art. L811-11 à L811-11-2)](#298)
+            - [Sous-section 2 : De la discipline. (art. L811-12 à L811-16)](#299)
+        - [Chapitre II : Des mandataires judiciaires. (art. L812-1 à L812-10)](#300)
+          - [Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités. (art. L812-1 à L812-8)](#301)
+            - [Sous-section 1 : Des missions. (art. L812-1)](#302)
+            - [Sous-section 2 : Des conditions d'accès à la profession. (art. L812-2 à L812-3)](#303)
+            - [Sous-section 3 : Des conditions d'exercice. (art. L812-4 à L812-7)](#304)
+            - [Sous-section 4 : Des incompatibilités. (art. L812-8)](#305)
+          - [Section 2 : De la surveillance, de l'inspection et de la discipline. (art. L812-9 à L812-10)](#306)
+        - [Chapitre III : Des experts en diagnostic d'entreprise. (art. L813-1)](#307)
+        - [Chapitre IV : Dispositions communes. (art. L814-1 à L814-11)](#308)
+          - [Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics. (art. L814-1 à L814-2)](#309)
+            - [Sous-section 1 : Des recours contre les décisions des commissions d'inscription. (art. L814-1)](#310)
+            - [Sous-section 2 : De la représentation des professions auprès des pouvoirs publics. (art. L814-2)](#311)
+          - [Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération. (art. L814-3 à L814-5)](#312)
+            - [Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle. (art. L814-3 à L814-5)](#313)
+          - [Section 3 : Dispositions diverses. (art. L814-8 à L814-11)](#314)
+      - [TITRE II : Des commissaires aux comptes. (art. L820-1 à L823-18)](#315)
+        - [Chapitre préliminaire : Dispositions générales. (art. L820-1 à L820-7)](#316)
+        - [Chapitre Ier : De l'organisation et du contrôle de la profession. (art. L821-1 à L821-12)](#317)
+        - [Chapitre II : Du statut des commissaires aux comptes. (art. L822-1 à L822-18)](#318)
+          - [Section 1 : De l'inscription et de la discipline. (art. L822-1 à L822-8)](#319)
+            - [Sous-section 1 : De l'inscription. (art. L822-1 à L822-5)](#320)
+            - [Sous-section 2 : De la discipline. (art. L822-6 à L822-8)](#321)
+          - [Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes. (art. L822-9 à L822-16)](#322)
+          - [Section 3 : De la responsabilité civile. (art. L822-17 à L822-18)](#323)
+        - [Chapitre III : De l'exercice du contrôle légal. (art. L823-1 à L823-18)](#324)
+          - [Section 1 : De la nomination, de la récusation et de la révocation des commissaires aux comptes. (art. L823-1 à L823-8)](#325)
+          - [Section 2 : De la mission du commissaire aux comptes. (art. L823-9 à L823-12)](#326)
+          - [Section 3 : Des modalités d'exercice de la mission. (art. L823-13 à L823-18)](#327)
+    - [LIVRE IX : Dispositions relatives à l'outre-mer. (art. L910-1 à L958-2)](#328)
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. (art. L910-1 à L917-4)](#329)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L911-1 à L911-14)](#330)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L912-1 à L912-6)](#331)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L913-1)](#332)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L914-1 à L914-2)](#333)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L915-1 à L915-5)](#334)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L916-1)](#335)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L917-1 à L917-4)](#336)
+      - [TITRE II : Dispositions applicables à Mayotte. (art. L920-1 à L927-1)](#337)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L921-1 à L921-14)](#338)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L922-1 à L922-10)](#339)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L923-1 à L923-2)](#340)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L924-1 à L924-6)](#341)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L925-1 à L925-6)](#342)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L926-1 à L926-7)](#343)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L927-1)](#344)
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. (art. L930-1 à L938-1)](#345)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L931-1 à L931-19)](#346)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L932-6 à L932-17)](#347)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L933-1 à L933-8)](#348)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L935-1 à L935-9)](#349)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L936-1 à L936-12)](#350)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII. (art. L938-1)](#351)
+      - [TITRE IV : Dispositions applicables en Polynésie française. (art. L940-1 à L946-13)](#352)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L941-1 à L941-19)](#353)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L942-1 à L942-15)](#354)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L943-1 à L943-8)](#355)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L945-1 à L945-9)](#356)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L946-1 à L946-13)](#357)
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. (art. L950-1 à L958-2)](#358)
+        - [Chapitre Ier : Dispositions d'adaptation du livre Ier. (art. L951-1 à L951-14)](#359)
+        - [Chapitre II : Dispositions d'adaptation du livre II. (art. L952-1 à L952-10)](#360)
+        - [Chapitre III : Dispositions d'adaptation du livre III. (art. L953-1 à L953-3)](#361)
+        - [Chapitre IV : Dispositions d'adaptation du livre IV. (art. L954-1 à L954-7)](#362)
+        - [Chapitre V : Dispositions d'adaptation du livre V. (art. L955-1 à L955-7)](#363)
+        - [Chapitre VI : Dispositions d'adaptation du livre VI. (art. L956-1 à L956-9)](#364)
+        - [Chapitre VII : Dispositions d'adaptation du livre VII. (art. L957-1 à L957-3)](#365)
+        - [Chapitre VIII : Dispositions d'adaptation du livre VIII (art. L958-1 à L958-2)](#366)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : Du commerce en général.<a id=2></a>
@@ -44358,18 +44359,17 @@ _Cite_:
 ###### Article L521-1
 
 Le gage constitué soit par un commerçant, soit par un individu non commerçant, pour un acte de commerce, se constate à
-l'égard des tiers, comme à l'égard des parties contractantes, conformément aux dispositions de l'article L. 110-3.
+l'égard des tiers, comme à l'égard des parties contractantes, conformément aux dispositions de l'article L. 110-3. 
 
 Le gage, à l'égard des valeurs négociables, peut aussi être établi par un endossement régulier, indiquant que les valeurs ont
-été remises en garantie.
+été remises en garantie. 
 
 A l'égard des actions, des parts d'intérêts et des obligations nominatives des sociétés financières, industrielles,
 commerciales ou civiles, dont la transmission s'opère par un transfert sur les registres de la société, ainsi qu'à l'égard
 des inscriptions nominatives sur le grand-livre de la dette publique, le gage peut également être établi par un transfert, à
-titre de garantie, inscrit sur lesdits registres.
+titre de garantie, inscrit sur lesdits registres. 
 
-Il n'est pas dérogé aux dispositions de l'article 2075 du code civil en ce qui concerne les créances mobilières, dont le
-cessionnaire ne peut être saisi à l'égard des tiers que par la signification du transport faite au débiteur.
+Il n'est pas dérogé aux dispositions des articles 2355 à 2366 du code civil en ce qui concerne les créances mobilières. 
 
 Les effets de commerce donnés en gage sont recouvrables par le créancier gagiste.
 
@@ -44380,52 +44380,31 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 45 () JORF 24 mars 2006
+
 _Anciens textes_:
 
   - Code de Commerce 91
   - Code de commerce - art. 91 (Ab)
+
+_Cite_:
+
+  - Code de commerce - art. L110-3 (V)
+  - Code civil - art. 2355 (V)
 
 _Cité par_:
 
   - Code de commerce - art. L950-1 (VT)
   - Code de la défense. - art. L2235-1 (V)
 
-_Cite_:
-
-  - Code de commerce. - art. L110-3 (V)
-  - Code civil - art. 2075 (M)
-
-
-###### Article L521-2
-
-Dans tous les cas, le privilège ne subsiste sur le gage qu'autant que ce gage a été mis et est resté en la possession du
-créancier ou d'un tiers convenu entre les parties.
-
-Le créancier est réputé avoir les marchandises en sa possession, lorsqu'elles sont à sa disposition dans ses magasins ou
-navires, à la douane ou dans un dépôt public, ou si, avant qu'elles soient arrivées, il en est saisi par un connaissement ou
-par une lettre de voiture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-912 2000-09-18
-  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
-
-_Anciens textes_:
-
-  - Code de Commerce 92
-  - Code de commerce - art. 92 (Ab)
-
 
 ###### Article L521-3
 
-A défaut de paiement à l'échéance, le créancier peut, huit jours après une simple signification faite au débiteur et au tiers
-bailleur de gage, s'il y en a un, faire procéder à la vente publique des objets donnés en gage.
+A défaut de paiement à l'échéance, le créancier peut faire procéder à la vente publique des objets donnés en gage huit jours
+après une simple signification faite au débiteur et au tiers bailleur de gage, s'il y en a un, et selon les modalités prévues
+par le présent article, sans que la convention puisse y déroger.
 
 Les ventes autres que celles dont les prestataires de services d'investissement sont chargés sont faites par les courtiers.
 Toutefois, sur la requête des parties, le président du tribunal de commerce peut désigner pour y procéder une autre classe
@@ -44434,8 +44413,8 @@ d'officiers publics.
 Les dispositions des articles L. 322-9 à L. 322-13 sur les ventes publiques sont applicables aux ventes prévues par l'alinéa
 précédent.
 
-Toute clause qui autoriserait le créancier à s'approprier le gage ou à en disposer sans les formalités ci-dessus prescrites
-est nulle.
+Le créancier peut également demander l'attribution judiciaire du gage ou convenir de son appropriation conformément aux
+articles 2347 et 2348 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -44443,6 +44422,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 46 () JORF 24 mars 2006
 
 _Anciens textes_:
 
@@ -44466,6 +44449,8 @@ _Cité par_:
 _Cite_:
 
   - Code de commerce L322-9 à L322-13
+  - Code civil - art. 2347 (V)
+  - Code civil - art. 2348 (V)
 
 
 #### Chapitre II : Des dépôts en magasins généraux<a id=214></a>
@@ -47010,7 +46995,7 @@ _Codifié par_:
 
 ###### Article L526-1
 
-Par dérogation aux articles 2092 et 2093 du code civil, une personne physique immatriculée à un registre de publicité légale
+Par dérogation aux articles 2284 et 2285 du code civil, une personne physique immatriculée à un registre de publicité légale
 à caractère professionnel ou exerçant une activité professionnelle agricole ou indépendante peut déclarer insaisissables ses
 droits sur l'immeuble où est fixée sa résidence principale. Cette déclaration, publiée au bureau des hypothèques ou, dans les
 départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre foncier, n'a d'effet qu'à l'égard des créanciers dont les
@@ -47051,14 +47036,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
-
-_Cite_:
-
-  - Code civil - art. 2092 (T)
-  - Code civil - art. 2093 (T)
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 
 ###### Article L526-2
@@ -47148,7 +47128,310 @@ _Créé par_:
   - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
 
 
-## LIVRE VI : Des difficultés des entreprises.<a id=225></a>
+###### Article L526-5
+
+Les dispositions des articles L. 313-14 à L. 313-14-2 du code de la consommation sont applicables aux opérations de prêt
+consenties à toute personne physique immatriculée à un registre de publicité légale à caractère professionnel, à toute
+personne physique exerçant une activité professionnelle agricole ou indépendante ainsi qu'au gérant associé unique d'une
+société à responsabilité limitée, et garanties par une hypothèque rechargeable inscrite sur l'immeuble où l'intéressé a fixé
+sa résidence principale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 43 () JORF 24 mars 2006
+
+_Cite_:
+
+  - Code de la consommation L313-14 à L313-14-2
+
+
+#### Chapitre VII : Du gage des stocks.<a id=225></a>
+
+###### Article L527-1
+
+Tout crédit consenti par un établissement de crédit à une personne morale de droit privé ou à une personne physique dans
+l'exercice de son activité professionnelle peut être garanti par un gage sans dépossession des stocks détenus par cette
+personne.
+
+Le gage des stocks est constitué par acte sous seing privé.
+
+A peine de nullité, l'acte constitutif du gage doit comporter les mentions suivantes :
+
+1° La dénomination : "acte de gage des stocks" ;
+
+2° La désignation des parties ;
+
+3° La mention que l'acte est soumis aux dispositions des articles L. 527-1 à L. 527-11 ;
+
+4° Le nom de l'assureur qui garantit contre l'incendie et la destruction ;
+
+5° La désignation de la créance garantie ;
+
+6° Une description permettant d'identifier les biens présents ou futurs engagés, en nature, qualité, quantité et valeur ainsi
+que l'indication du lieu de leur conservation ;
+
+7° La durée de l'engagement.
+
+Les dispositions de l'article 2335 du code civil sont applicables.
+
+Un gardien peut être désigné dans l'acte de gage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VT)
+
+_Cite_:
+
+  - Code de commerce L527-1 à L527-11
+  - Code civil - art. 2335 (V)
+
+
+###### Article L527-2
+
+Est réputée non écrite toute clause prévoyant que le créancier deviendra propriétaire des stocks en cas de non-paiement de la
+dette exigible par le débiteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VT)
+
+
+###### Article L527-3
+
+Peuvent être donnés en gage, à l'exclusion des biens soumis à une clause de réserve de propriété, les stocks de matières
+premières et approvisionnements, les produits intermédiaires, résiduels et finis ainsi que les marchandises appartenant au
+débiteur et estimés en nature et en valeur à la date du dernier inventaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+
+###### Article L527-4
+
+Le gage des stocks ne produit effet que s'il est inscrit sur un registre public tenu au greffe du tribunal dans le ressort
+duquel le débiteur a son siège ou son domicile. L'inscription doit être prise, à peine de nullité du gage, dans le délai de
+quinze jours à compter de la formation de l'acte constitutif.
+
+Le rang des créanciers gagistes entre eux est déterminé par la date de leur inscription. Les créanciers inscrits le même jour
+viennent en concurrence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Décret n°2006-1803 du 23 décembre 2006 - art. 1 (Ab)
+  - Code de commerce - art. L950-1 (VT)
+
+
+###### Article L527-5
+
+Les stocks constituent, jusqu'au remboursement total des sommes avancées, la garantie de l'établissement de crédit.
+
+Le privilège du créancier passe de plein droit des stocks aliénés à ceux qui leur sont substitués.
+
+Le créancier peut, à tout moment et à ses frais, faire constater l'état des stocks engagés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Code de commerce - art. L950-1 (VT)
+
+
+###### Article L527-6
+
+Le débiteur est responsable de la conservation des stocks en quantité et en qualité dans les conditions prévues à l'article
+1137 du code civil.
+
+Il justifie que les stocks sont assurés contre les risques d'incendie et de destruction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Code de commerce - art. R527-17 (V)
+
+_Cite_:
+
+  - Code civil - art. 1137 (V)
+
+
+###### Article L527-7
+
+Le débiteur tient à la disposition du créancier un état des stocks engagés ainsi que la comptabilité de toutes les opérations
+les concernant.
+
+Il s'engage à ne pas diminuer de son fait la valeur des stocks.
+
+Lorsque l'état des stocks fait apparaître une diminution de 20 % de leur valeur telle que mentionnée dans l'acte constitutif,
+le créancier peut mettre en demeure le débiteur, soit de rétablir la garantie, soit de rembourser une partie des sommes
+prêtées en proportion de la diminution constatée. S'il ne lui est pas donné satisfaction, le créancier peut exiger le
+remboursement total de la créance, considérée comme échue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Cité par_:
+
+  - Décret n°2006-1803 du 23 décembre 2006 - art. 18 (Ab)
+  - Code de commerce - art. L526-8 (M)
+  - Code de commerce - art. L526-9 (V)
+
+
+###### Article L527-8
+
+Les parties peuvent convenir que la part des stocks engagés diminue à proportion du désintéressement du créancier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+
+###### Article L527-9
+
+En cas de remboursement anticipé de la créance, le débiteur n'est pas tenu des intérêts restant à courir jusqu'à son
+échéance.
+
+Si le créancier refuse les offres du débiteur, celui-ci peut, pour se libérer, consigner la somme offerte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+
+###### Article L527-10
+
+En cas de non-paiement de la créance exigible, le créancier peut poursuivre la réalisation de son gage dans les conditions
+prévues aux articles 2346 et 2347 du code civil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-912 du 18 septembre 2000
+  - Loi n°2003-7 du 3 janvier 2003
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 2346
+  - Code civil - art. 2347
+
+
+###### Article L527-11
+
+Les conditions d'application des dispositions du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-912 2000-09-18
+  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Créé par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
+
+
+## LIVRE VI : Des difficultés des entreprises.<a id=226></a>
 
 ###### Article L610-1
 
@@ -47196,9 +47479,9 @@ _Cité par_:
   - Code de commerce. - art. R940-3 (V)
 
 
-### TITRE Ier : De la prévention des difficultés des entreprises.<a id=226></a>
+### TITRE Ier : De la prévention des difficultés des entreprises.<a id=227></a>
 
-#### Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation<a id=227></a>
+#### Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation<a id=228></a>
 
 ###### Article L611-1
 
@@ -47854,7 +48137,7 @@ _Cité par_:
   - Code de commerce - art. L642-2 (V)
 
 
-#### Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique<a id=228></a>
+#### Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique<a id=229></a>
 
 ###### Article L612-1
 
@@ -48173,7 +48456,7 @@ _Cite_:
   - Code de commerce. - art. L612-4 (M)
 
 
-### TITRE II : De la sauvegarde.<a id=229></a>
+### TITRE II : De la sauvegarde.<a id=230></a>
 
 ###### Article L620-1
 
@@ -48263,7 +48546,7 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 13 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-#### Chapitre Ier : De l'ouverture de la procédure.<a id=230></a>
+#### Chapitre Ier : De l'ouverture de la procédure.<a id=231></a>
 
 ###### Article L621-1
 
@@ -48868,7 +49151,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L621-9 (V)
 
 
-#### Chapitre II : De l'entreprise au cours de la période d'observation.<a id=231></a>
+#### Chapitre II : De l'entreprise au cours de la période d'observation.<a id=232></a>
 
 ###### Article L622-1
 
@@ -49135,7 +49418,8 @@ _Nouveaux textes_:
 Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement
 d'ouverture, à l'exception du paiement par compensation de créances connexes. Il emporte également, de plein droit,
 interdiction de payer toute créance née après le jugement d'ouverture, non mentionnée au I de l'article L. 622-17, à
-l'exception des créances liées aux besoins de la vie courante du débiteur personne physique et des créances alimentaires.
+l'exception des créances liées aux besoins de la vie courante du débiteur personne physique et des créances alimentaires. Il
+fait enfin obstacle à la conclusion et à la réalisation d'un pacte commissoire.
 
 Le juge-commissaire peut autoriser le chef d'entreprise ou l'administrateur à faire un acte de disposition étranger à la
 gestion courante de l'entreprise, à consentir une hypothèque ou un nantissement ou à compromettre ou transiger.
@@ -49173,8 +49457,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 47 () JORF 24 mars 2006
 
 _Cite_:
 
@@ -50436,7 +50719,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L643-12 (V)
 
 
-#### Chapitre III : De l'élaboration du bilan économique, social et environnemental.<a id=232></a>
+#### Chapitre III : De l'élaboration du bilan économique, social et environnemental.<a id=233></a>
 
 ###### Article L623-1
 
@@ -50582,9 +50865,9 @@ _Cité par_:
   - Code du travail - art. L432-1 (AbD)
 
 
-#### Chapitre IV : De la détermination du patrimoine du débiteur.<a id=233></a>
+#### Chapitre IV : De la détermination du patrimoine du débiteur.<a id=234></a>
 
-##### Section 1 : De la vérification et de l'admission des créances.<a id=234></a>
+##### Section 1 : De la vérification et de l'admission des créances.<a id=235></a>
 
 ###### Article L624-1
 
@@ -50743,7 +51026,7 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 47 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Section 2 : Des droits du conjoint.<a id=235></a>
+##### Section 2 : Des droits du conjoint.<a id=236></a>
 
 ###### Article L624-5
 
@@ -50873,7 +51156,7 @@ _Créé par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 49 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions.<a id=236></a>
+##### Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions.<a id=237></a>
 
 ###### Article L624-9
 
@@ -50943,7 +51226,7 @@ _Anciens textes_:
 
 ###### Article L624-11
 
-Le privilège et le droit de revendication établis par le 4° de l'article 2102 du code civil au profit du vendeur de meubles
+Le privilège et le droit de revendication établis par le 4° de l'article 2332 du code civil au profit du vendeur de meubles
 ainsi que l'action résolutoire ne peuvent être exercés que dans la limite des dispositions des articles L. 624-12 à L. 624-18
 du présent code.
 
@@ -50954,10 +51237,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 52 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 _Cité par_:
 
@@ -50966,7 +51248,7 @@ _Cité par_:
 _Cite_:
 
   - Code de commerce L624-12 à L624-18
-  - Code civil - art. 2102 (M)
+  - Code civil - art. 2332 (V)
 
 _Anciens textes_:
 
@@ -51072,16 +51354,14 @@ Peuvent être revendiquées, à condition qu'elles se retrouvent en nature, les 
 titre de dépôt, soit pour être vendues pour le compte du propriétaire.
 
 Peuvent également être revendiqués, s'ils se retrouvent en nature au moment de l'ouverture de la procédure, les biens vendus
-avec une clause de réserve de propriété subordonnant le transfert de propriété au paiement intégral du prix. Cette clause,
-qui peut figurer dans un écrit régissant un ensemble d'opérations commerciales convenues entre les parties, doit avoir été
-convenue entre les parties dans un écrit établi, au plus tard, au moment de la livraison. Nonobstant toute clause contraire,
-la clause de réserve de propriété est opposable à l'acheteur et aux autres créanciers, à moins que les parties n'aient
-convenu par écrit de l'écarter ou de la modifier.
+avec une clause de réserve de propriété. Cette clause doit avoir été convenue entre les parties dans un écrit au plus tard au
+moment de la livraison. Elle peut l'être dans un écrit régissant un ensemble d'opérations commerciales convenues entre les
+parties.
 
 La revendication en nature peut s'exercer dans les mêmes conditions sur les biens mobiliers incorporés dans un autre bien
-mobilier lorsque leur récupération peut être effectuée sans dommage pour les biens eux-mêmes et le bien dans lequel ils sont
-incorporés. La revendication en nature peut également s'exercer sur des biens fongibles lorsque se trouvent entre les mains
-de l'acheteur des biens de même espèce et de même qualité.
+lorsque la séparation de ces biens peut être effectuée sans qu'ils en subissent un dommage. La revendication en nature peut
+également s'exercer sur des biens fongibles lorsque des biens de même nature et de même qualité se trouvent entre les mains
+du débiteur ou de toute personne les détenant pour son compte.
 
 Dans tous les cas, il n'y a pas lieu à revendication si, sur décision du juge-commissaire, le prix est payé immédiatement. Le
 juge-commissaire peut également, avec le consentement du créancier requérant, accorder un délai de règlement. Le paiement du
@@ -51094,10 +51374,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 54 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 48 () JORF 24 mars 2006
 
 _Anciens textes_:
 
@@ -51114,10 +51393,10 @@ _Cité par_:
 
 ###### Article L624-17
 
-L'administrateur ou, à défaut, le débiteur après accord du mandataire judiciaire peut acquiescer à la demande en
-revendication ou en restitution d'un bien visé à la présente section, avec l'accord du débiteur. A défaut d'accord ou en cas
-de contestation, la demande est portée devant le juge-commissaire qui statue sur le sort du contrat, au vu des observations
-du créancier, du débiteur et du mandataire de justice saisi.
+L'administrateur avec l'accord du débiteur ou à défaut le débiteur après accord du mandataire judiciaire peut acquiescer à la
+demande en revendication ou en restitution d'un bien visé à la présente section. A défaut d'accord ou en cas de contestation,
+la demande est portée devant le juge-commissaire qui statue sur le sort du contrat, au vu des observations du créancier, du
+débiteur et du mandataire de justice saisi.
 
 **Liens relatifs à cet article**
 
@@ -51126,10 +51405,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 55 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 48 () JORF 24 mars 2006
 
 _Cité par_:
 
@@ -51145,7 +51423,8 @@ _Anciens textes_:
 ###### Article L624-18
 
 Peut être revendiqué le prix ou la partie du prix des biens visés à l'article L. 624-16 qui n'a été ni payé, ni réglé en
-valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la date du jugement ouvrant la procédure.
+valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la date du jugement ouvrant la procédure. Peut être
+revendiquée dans les mêmes conditions l'indemnité d'assurance subrogée au bien.
 
 **Liens relatifs à cet article**
 
@@ -51154,16 +51433,15 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
-
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 55 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
 _Cité par_:
 
   - Décret n°2005-1677 du 28 décembre 2005 - art. 115 (Ab)
   - Code de commerce - art. R641-31 (V)
   - Code de commerce. - art. R624-16 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 48 () JORF 24 mars 2006
 
 _Anciens textes_:
 
@@ -51174,9 +51452,9 @@ _Cite_:
   - Code de commerce. - art. L624-16 (M)
 
 
-#### Chapitre V : Du règlement des créances résultant du contrat de travail.<a id=237></a>
+#### Chapitre V : Du règlement des créances résultant du contrat de travail.<a id=238></a>
 
-##### Section 1 : De la vérification des créances.<a id=238></a>
+##### Section 1 : De la vérification des créances.<a id=239></a>
 
 ###### Article L625-1
 
@@ -51470,16 +51748,16 @@ _Nouveaux textes_:
   - Code de commerce. - art. L653-6 (M)
 
 
-##### Section 2 : Du privilège des salariés.<a id=239></a>
+##### Section 2 : Du privilège des salariés.<a id=240></a>
 
 ###### Article L625-7
 
-Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de sauvegarde :
+Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de sauvegarde : 
 
 1° Par le privilège établi par les articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail, pour les causes
-et montants définis auxdits articles ;
+et montants définis auxdits articles ; 
 
-2° Par le privilège du 4° de l'article 2101 et du 2° de l'article 2104 du code civil.
+2° Par le privilège du 4° de l'article 2331 et du 2° de l'article 2104 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -51503,17 +51781,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 58 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 _Cite_:
 
-  - Code de commerce 2101
-  - Code civil - art. 2104 (M)
-  - Code du travail - art. L143-10 (M)
-  - Code du travail - art. L143-11 (M)
-  - Code du travail - art. L742-6 (V)
-  - Code du travail - art. L751-15 (AbD)
+  - Code civil - art. 2331 (V)
 
 
 ###### Article L625-8
@@ -51584,7 +51856,7 @@ _Cite_:
   - Code du travail - art. L751-15 (AbD)
 
 
-##### Section 3 : De la garantie du paiement des créances résultant du contrat de travail.<a id=240></a>
+##### Section 3 : De la garantie du paiement des créances résultant du contrat de travail.<a id=241></a>
 
 ###### Article L625-9
 
@@ -51802,7 +52074,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L653-9 (V)
 
 
-#### Chapitre VI : Du plan de sauvegarde.<a id=241></a>
+#### Chapitre VI : Du plan de sauvegarde.<a id=242></a>
 
 ###### Article L626-1
 
@@ -51851,7 +52123,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-1 (V)
 
 
-##### Section 1 : De l'élaboration du projet de plan.<a id=242></a>
+##### Section 1 : De l'élaboration du projet de plan.<a id=243></a>
 
 ###### Article L626-2
 
@@ -52232,7 +52504,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-8 (V)
 
 
-##### Section 2 : Du jugement arrêtant le plan et de l'exécution du plan.<a id=243></a>
+##### Section 2 : Du jugement arrêtant le plan et de l'exécution du plan.<a id=244></a>
 
 ###### Article L626-9
 
@@ -53047,7 +53319,7 @@ _Créé par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 82 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Section 3 : Des comités de créanciers.<a id=244></a>
+##### Section 3 : Des comités de créanciers.<a id=245></a>
 
 ###### Article L626-29
 
@@ -53299,7 +53571,7 @@ _Créé par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-#### Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire.<a id=245></a>
+#### Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire.<a id=246></a>
 
 ###### Article L627-1
 
@@ -53445,7 +53717,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L654-15 (V)
 
 
-#### Chapitre VIII : De la sauvegarde financière accélérée<a id=246></a>
+#### Chapitre VIII : De la sauvegarde financière accélérée<a id=247></a>
 
 ###### Article L628-8
 
@@ -53489,9 +53761,9 @@ _Nouveaux textes_:
   - Code de commerce. - art. L670-8 (V)
 
 
-### TITRE III : Du redressement judiciaire.<a id=247></a>
+### TITRE III : Du redressement judiciaire.<a id=248></a>
 
-#### Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire.<a id=248></a>
+#### Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire.<a id=249></a>
 
 ###### Article L631-1
 
@@ -54299,7 +54571,7 @@ _Cite_:
   - Code de commerce. - art. L642-2 (V)
 
 
-#### Chapitre II : De la nullité de certains actes.<a id=249></a>
+#### Chapitre II : De la nullité de certains actes.<a id=250></a>
 
 ###### Article L632-1
 
@@ -54319,7 +54591,7 @@ dans les relations d'affaires ;
 décision de justice ayant acquis force de chose jugée ;
 
 6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
-nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
+nantissement ou de gage constitués sur les biens du débiteur pour dettes antérieurement contractées ;
 
 7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
 paiement ;
@@ -54342,11 +54614,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 93 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 94 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 49 () JORF 24 mars 2006
 
 _Cité par_:
 
@@ -54459,9 +54729,9 @@ _Cité par_:
   - Code des assurances - art. L311-20 (V)
 
 
-### TITRE IV : De la liquidation judiciaire.<a id=250></a>
+### TITRE IV : De la liquidation judiciaire.<a id=251></a>
 
-#### Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire.<a id=251></a>
+#### Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire.<a id=252></a>
 
 ###### Article L640-1
 
@@ -54665,7 +54935,7 @@ _Créé par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-#### Chapitre Ier : Du jugement de liquidation judiciaire.<a id=252></a>
+#### Chapitre Ier : Du jugement de liquidation judiciaire.<a id=253></a>
 
 ###### Article L641-1
 
@@ -55368,9 +55638,9 @@ _Cité par_:
   - Code de commerce. - art. R641-40 (V)
 
 
-#### Chapitre II : De la réalisation de l'actif.<a id=253></a>
+#### Chapitre II : De la réalisation de l'actif.<a id=254></a>
 
-##### Section 1 : De la cession de l'entreprise.<a id=254></a>
+##### Section 1 : De la cession de l'entreprise.<a id=255></a>
 
 ###### Article L642-1
 
@@ -56001,7 +56271,7 @@ _Cite_:
   - Code de commerce - art. L642-15 (V)
 
 
-##### Section 2 : De la cession des actifs du débiteur.<a id=255></a>
+##### Section 2 : De la cession des actifs du débiteur.<a id=256></a>
 
 ###### Article L642-18
 
@@ -56176,7 +56446,7 @@ _Cite_:
   - Code de commerce - art. L631-22
 
 
-##### Section 3 : Dispositions communes.<a id=256></a>
+##### Section 3 : Dispositions communes.<a id=257></a>
 
 ###### Article L642-22
 
@@ -56309,9 +56579,9 @@ _Anciens textes_:
   - Code de commerce. - art. L622-21 (M)
 
 
-#### Chapitre III : De l'apurement du passif.<a id=257></a>
+#### Chapitre III : De l'apurement du passif.<a id=258></a>
 
-##### Section 1 : Du règlement des créanciers.<a id=258></a>
+##### Section 1 : Du règlement des créanciers.<a id=259></a>
 
 ###### Article L643-1
 
@@ -56559,7 +56829,7 @@ _Anciens textes_:
   - Code de commerce. - art. L622-29 (M)
 
 
-##### Section 2 : De la clôture des opérations de liquidation judiciaire.<a id=259></a>
+##### Section 2 : De la clôture des opérations de liquidation judiciaire.<a id=260></a>
 
 ###### Article L643-9
 
@@ -56763,7 +57033,7 @@ _Cité par_:
   - Code de commerce - art. R643-24 (V)
 
 
-#### Chapitre IV : De la liquidation judiciaire simplifiée.<a id=260></a>
+#### Chapitre IV : De la liquidation judiciaire simplifiée.<a id=261></a>
 
 ###### Article L644-1
 
@@ -56909,7 +57179,7 @@ _Cité par_:
   - Code de commerce - art. R644-4 (V)
 
 
-### TITRE V : Des responsabilités et des sanctions.<a id=261></a>
+### TITRE V : Des responsabilités et des sanctions.<a id=262></a>
 
 ###### Article L650-1
 
@@ -56937,7 +57207,7 @@ _Cité par_:
   - Code monétaire et financier - art. L312-5 (V)
 
 
-#### Chapitre Ier : De la responsabilité pour insuffisance d'actif.<a id=262></a>
+#### Chapitre Ier : De la responsabilité pour insuffisance d'actif.<a id=263></a>
 
 ###### Article L651-1
 
@@ -57119,7 +57389,7 @@ _Cite_:
   - Code de commerce. - art. L651-3 (V)
 
 
-#### Chapitre II : De l'obligation aux dettes sociales.<a id=263></a>
+#### Chapitre II : De l'obligation aux dettes sociales.<a id=264></a>
 
 ###### Article L652-1
 
@@ -57308,7 +57578,7 @@ _Cite_:
   - Code de commerce - art. L651-4
 
 
-#### Chapitre III : De la faillite personnelle et des autres mesures d'interdiction.<a id=264></a>
+#### Chapitre III : De la faillite personnelle et des autres mesures d'interdiction.<a id=265></a>
 
 ###### Article L653-1
 
@@ -57768,9 +58038,9 @@ _Cite_:
   - Code de commerce. - art. L653-8 (V)
 
 
-#### Chapitre IV : De la banqueroute et des autres infractions.<a id=265></a>
+#### Chapitre IV : De la banqueroute et des autres infractions.<a id=266></a>
 
-##### Section 1 : De la banqueroute.<a id=266></a>
+##### Section 1 : De la banqueroute.<a id=267></a>
 
 ###### Article L654-1
 
@@ -58021,7 +58291,7 @@ _Cite_:
   - Code pénal - art. 131-39 (MMN)
 
 
-##### Section 2 : Des autres infractions.<a id=267></a>
+##### Section 2 : Des autres infractions.<a id=268></a>
 
 ###### Article L654-8
 
@@ -58295,7 +58565,7 @@ _Anciens textes_:
   - Code de commerce. - art. L627-4 (M)
 
 
-##### Section 3 : Des règles de procédures.<a id=268></a>
+##### Section 3 : Des règles de procédures.<a id=269></a>
 
 ###### Article L654-16
 
@@ -58417,9 +58687,9 @@ _Anciens textes_:
   - Code de commerce. - art. L626-19 (M)
 
 
-### TITRE VI : Des dispositions générales de procédure.<a id=269></a>
+### TITRE VI : Des dispositions générales de procédure.<a id=270></a>
 
-#### Chapitre Ier : Des voies de recours.<a id=270></a>
+#### Chapitre Ier : Des voies de recours.<a id=271></a>
 
 ###### Article L661-1
 
@@ -58767,7 +59037,7 @@ _Cité par_:
   - Code de commerce - art. R661-1 (V)
 
 
-#### Chapitre II : Autres dispositions.<a id=271></a>
+#### Chapitre II : Autres dispositions.<a id=272></a>
 
 ###### Article L662-1
 
@@ -58967,7 +59237,7 @@ _Cité par_:
   - Code de commerce - art. R662-16 (V)
 
 
-#### Chapitre III : Des frais de procédure.<a id=272></a>
+#### Chapitre III : Des frais de procédure.<a id=273></a>
 
 ###### Article L663-1
 
@@ -59133,7 +59403,7 @@ _Anciens textes_:
   - Code de commerce. - art. L627-2 (M)
 
 
-### TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=273></a>
+### TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.<a id=274></a>
 
 ###### Article L670-1
 
@@ -59368,9 +59638,9 @@ _Anciens textes_:
   - Code de commerce. - art. L628-8 (T)
 
 
-## LIVRE VII : De l'organisation du commerce<a id=274></a>
+## LIVRE VII : De l'organisation du commerce<a id=275></a>
 
-### TITRE Ier : Du réseau des chambres de commerce et d'industrie<a id=275></a>
+### TITRE Ier : Du réseau des chambres de commerce et d'industrie<a id=276></a>
 
 ###### Article L710-1
 
@@ -59433,9 +59703,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. L135 Y (V)
 
 
-#### Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie<a id=276></a>
+#### Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie<a id=277></a>
 
-##### Section 1 : Les chambres de commerce et d'industrie<a id=277></a>
+##### Section 1 : Les chambres de commerce et d'industrie<a id=278></a>
 
 ###### Article L711-1
 
@@ -59653,7 +59923,7 @@ _Cite_:
   - Code du travail - art. L961-10 (M)
 
 
-##### Section 2 : Les chambres régionales de commerce et d'industrie<a id=278></a>
+##### Section 2 : Les chambres régionales de commerce et d'industrie<a id=279></a>
 
 ###### Article L711-6
 
@@ -59890,7 +60160,7 @@ _Modifié par_:
   - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 
-##### Section 3 : L'assemblée des chambres françaises de commerce et d'industrie<a id=279></a>
+##### Section 3 : L'assemblée des chambres françaises de commerce et d'industrie<a id=280></a>
 
 ###### Article L711-11
 
@@ -59958,7 +60228,7 @@ _Cité par_:
   - Code de commerce. - art. D711-67-4 (V)
 
 
-#### Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie<a id=280></a>
+#### Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie<a id=281></a>
 
 ###### Article L712-1
 
@@ -60257,9 +60527,9 @@ _Créé par_:
   - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
 
 
-#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires<a id=281></a>
+#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires<a id=282></a>
 
-##### Section 1 : De l'élection des membres des chambres de commerce et d'industrie.<a id=282></a>
+##### Section 1 : De l'élection des membres des chambres de commerce et d'industrie.<a id=283></a>
 
 ###### Article L713-1
 
@@ -60576,7 +60846,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L713-11 (M)
 
 
-##### Section 2 : De l'élection des délégués consulaires.<a id=283></a>
+##### Section 2 : De l'élection des délégués consulaires.<a id=284></a>
 
 ###### Article L713-6
 
@@ -60836,7 +61106,7 @@ _Cite_:
   - Code de commerce. - art. L713-7 (T)
 
 
-##### Section 3 : Dispositions communes.<a id=284></a>
+##### Section 3 : Dispositions communes.<a id=285></a>
 
 ###### Article L713-11
 
@@ -61155,7 +61425,7 @@ _Anciens textes_:
   - Code de commerce. - art. L713-15 (T)
 
 
-### TITRE II : De l'équipement commercial<a id=285></a>
+### TITRE II : De l'équipement commercial<a id=286></a>
 
 ###### Article L720-1
 
@@ -61848,7 +62118,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE III : Des marchés d'intérêt national.<a id=286></a>
+### TITRE III : Des marchés d'intérêt national.<a id=287></a>
 
 ###### Article L730-1
 
@@ -62287,7 +62557,7 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE IV : Des manifestations commerciales.<a id=287></a>
+### TITRE IV : Des manifestations commerciales.<a id=288></a>
 
 ###### Article L740-1
 
@@ -62376,15 +62646,15 @@ _Abrogé par_:
   - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-## LIVRE VIII : De quelques professions réglementées.<a id=288></a>
+## LIVRE VIII : De quelques professions réglementées.<a id=289></a>
 
-### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires et experts en diagnostic d'entreprise.<a id=289></a>
+### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires et experts en diagnostic d'entreprise.<a id=290></a>
 
-#### Chapitre Ier : Des administrateurs judiciaires.<a id=290></a>
+#### Chapitre Ier : Des administrateurs judiciaires.<a id=291></a>
 
-##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités.<a id=291></a>
+##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités.<a id=292></a>
 
-##### Sous-section 1 : Des missions.<a id=292></a>
+##### Sous-section 1 : Des missions.<a id=293></a>
 
 ###### Article L811-1
 
@@ -62428,7 +62698,7 @@ _Cite_:
   - Code de commerce. - art. L663-2 (V)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=293></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=294></a>
 
 ###### Article L811-2
 
@@ -62730,7 +63000,7 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=294></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=295></a>
 
 ###### Article L811-6
 
@@ -62892,7 +63162,7 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### Sous-section 4 : Des incompatibilités.<a id=295></a>
+##### Sous-section 4 : Des incompatibilités.<a id=296></a>
 
 ###### Article L811-10
 
@@ -62956,9 +63226,9 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=296></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=297></a>
 
-##### Sous-section 1 : De la surveillance et de l'inspection.<a id=297></a>
+##### Sous-section 1 : De la surveillance et de l'inspection.<a id=298></a>
 
 ###### Article L811-11
 
@@ -63074,7 +63344,7 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-##### Sous-section 2 : De la discipline.<a id=298></a>
+##### Sous-section 2 : De la discipline.<a id=299></a>
 
 ###### Article L811-12
 
@@ -63299,11 +63569,11 @@ _Cite_:
   - Code pénal - art. 433-17 (V)
 
 
-#### Chapitre II : Des mandataires judiciaires.<a id=299></a>
+#### Chapitre II : Des mandataires judiciaires.<a id=300></a>
 
-##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités.<a id=300></a>
+##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités.<a id=301></a>
 
-##### Sous-section 1 : Des missions.<a id=301></a>
+##### Sous-section 1 : Des missions.<a id=302></a>
 
 ###### Article L812-1
 
@@ -63348,7 +63618,7 @@ _Cite_:
   - Code de commerce. - art. L663-2 (V)
 
 
-##### Sous-section 2 : Des conditions d'accès à la profession.<a id=302></a>
+##### Sous-section 2 : Des conditions d'accès à la profession.<a id=303></a>
 
 ###### Article L812-2
 
@@ -63680,7 +63950,7 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Sous-section 3 : Des conditions d'exercice.<a id=303></a>
+##### Sous-section 3 : Des conditions d'exercice.<a id=304></a>
 
 ###### Article L812-4
 
@@ -63831,7 +64101,7 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Sous-section 4 : Des incompatibilités.<a id=304></a>
+##### Sous-section 4 : Des incompatibilités.<a id=305></a>
 
 ###### Article L812-8
 
@@ -63892,7 +64162,7 @@ _Cite_:
   - Code rural L351-4
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=305></a>
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.<a id=306></a>
 
 ###### Article L812-9
 
@@ -63967,7 +64237,7 @@ _Cite_:
   - Code pénal - art. 433-17 (V)
 
 
-#### Chapitre III : Des experts en diagnostic d'entreprise.<a id=306></a>
+#### Chapitre III : Des experts en diagnostic d'entreprise.<a id=307></a>
 
 ###### Article L813-1
 
@@ -64020,11 +64290,11 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-#### Chapitre IV : Dispositions communes.<a id=307></a>
+#### Chapitre IV : Dispositions communes.<a id=308></a>
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics.<a id=308></a>
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics.<a id=309></a>
 
-##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=309></a>
+##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.<a id=310></a>
 
 ###### Article L814-1
 
@@ -64068,7 +64338,7 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=310></a>
+##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.<a id=311></a>
 
 ###### Article L814-2
 
@@ -64125,9 +64395,9 @@ _Modifié par_:
   - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération.<a id=311></a>
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération.<a id=312></a>
 
-##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=312></a>
+##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.<a id=313></a>
 
 ###### Article L814-3
 
@@ -64135,25 +64405,25 @@ Une caisse dotée de la personnalité civile et gérée par les cotisants a pour
 effets ou valeurs reçus ou gérés par chaque administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les
 listes, à l'occasion des opérations dont ils sont chargés à raison de leurs fonctions. Deux magistrats du parquet sont
 désignés pour exercer, l'un en qualité de titulaire, l'autre de suppléant, les fonctions de commissaire du Gouvernement
-auprès de la caisse.
+auprès de la caisse. 
 
 L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire et pour chaque mandataire judiciaire inscrits
-sur les listes.
+sur les listes. 
 
 Les ressources de la caisse sont constituées par le produit d'une cotisation spéciale annuelle payée par chaque
-administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les listes.
+administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les listes. 
 
 Les cotisations payées par les administrateurs judiciaires et par les mandataires judiciaires sont affectées à la garantie
-des seuls administrateurs judiciaires et mandataires judiciaires inscrits sur les listes.
+des seuls administrateurs judiciaires et mandataires judiciaires inscrits sur les listes. 
 
 Au cas où les ressources de la caisse s'avèrent insuffisantes pour exécuter ses obligations, elle procède à un appel de fonds
-complémentaire auprès des professionnels inscrits sur les listes.
+complémentaire auprès des professionnels inscrits sur les listes. 
 
-La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2021 du
+La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2298 du
 code civil et sur la seule justification de l'exigibilité de la créance et de la non-représentation des fonds par
-l'administrateur judiciaire ou le mandataire judiciaire inscrits sur les listes.
+l'administrateur judiciaire ou le mandataire judiciaire inscrits sur les listes. 
 
-La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code.
+La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code. 
 
 Les recours contre les décisions de la caisse sont portés devant le tribunal de grande instance de Paris.
 
@@ -64161,7 +64431,6 @@ Les recours contre les décisions de la caisse sont portés devant le tribunal d
 
 _Anciens textes_:
 
-  - Loi n°85-99 1985-01-25 art. 34
   - Loi n°85-99 du 25 janvier 1985 - art. 34 (Ab)
 
 _Cité par_:
@@ -64183,11 +64452,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 _Cite_:
 
-  - Code civil - art. 2021 (T)
+  - Code civil - art. 2298 (V)
 
 
 ###### Article L814-4
@@ -64273,7 +64542,7 @@ _Cite_:
   - Code de commerce - art. L812-2 (V)
 
 
-##### Section 3 : Dispositions diverses.<a id=313></a>
+##### Section 3 : Dispositions diverses.<a id=314></a>
 
 ###### Article L814-8
 
@@ -64404,9 +64673,9 @@ _Cité par_:
   - Code de commerce - art. L950-1 (VT)
 
 
-### TITRE II : Des commissaires aux comptes.<a id=314></a>
+### TITRE II : Des commissaires aux comptes.<a id=315></a>
 
-#### Chapitre préliminaire : Dispositions générales.<a id=315></a>
+#### Chapitre préliminaire : Dispositions générales.<a id=316></a>
 
 ###### Article L820-1
 
@@ -64668,7 +64937,7 @@ _Modifié par_:
   - Loi n°2003-706 du 1 août 2003 - art. 99 () JORF 2 août 2003
 
 
-#### Chapitre Ier : De l'organisation et du contrôle de la profession.<a id=316></a>
+#### Chapitre Ier : De l'organisation et du contrôle de la profession.<a id=317></a>
 
 ###### Article L821-1
 
@@ -65237,11 +65506,11 @@ _Cité par_:
   - Code de commerce - art. R821-72 (V)
 
 
-#### Chapitre II : Du statut des commissaires aux comptes.<a id=317></a>
+#### Chapitre II : Du statut des commissaires aux comptes.<a id=318></a>
 
-##### Section 1 : De l'inscription et de la discipline.<a id=318></a>
+##### Section 1 : De l'inscription et de la discipline.<a id=319></a>
 
-##### Sous-section 1 : De l'inscription.<a id=319></a>
+##### Sous-section 1 : De l'inscription.<a id=320></a>
 
 ###### Article L822-1
 
@@ -65581,7 +65850,7 @@ _Abrogé par_:
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
 
 
-##### Sous-section 2 : De la discipline.<a id=320></a>
+##### Sous-section 2 : De la discipline.<a id=321></a>
 
 ###### Article L822-6
 
@@ -65709,7 +65978,7 @@ _Abrogé par_:
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
 
 
-##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.<a id=321></a>
+##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.<a id=322></a>
 
 ###### Article L822-9
 
@@ -66073,7 +66342,7 @@ _Cité par_:
   - Code de commerce. - art. L822-11 (VT)
 
 
-##### Section 3 : De la responsabilité civile.<a id=322></a>
+##### Section 3 : De la responsabilité civile.<a id=323></a>
 
 ###### Article L822-17
 
@@ -66145,9 +66414,9 @@ _Cite_:
   - Code de commerce - art. L225-254 (V)
 
 
-#### Chapitre III : De l'exercice du contrôle légal.<a id=323></a>
+#### Chapitre III : De l'exercice du contrôle légal.<a id=324></a>
 
-##### Section 1 : De la nomination, de la récusation et de la révocation des commissaires aux comptes.<a id=324></a>
+##### Section 1 : De la nomination, de la récusation et de la révocation des commissaires aux comptes.<a id=325></a>
 
 ###### Article L823-1
 
@@ -66457,7 +66726,7 @@ _Cité par_:
   - Code monétaire et financier - art. R144-8 (M)
 
 
-##### Section 2 : De la mission du commissaire aux comptes.<a id=325></a>
+##### Section 2 : De la mission du commissaire aux comptes.<a id=326></a>
 
 ###### Article L823-9
 
@@ -66607,7 +66876,7 @@ _Créé par_:
   - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 19 () JORF 9 septembre 2005
 
 
-##### Section 3 : Des modalités d'exercice de la mission.<a id=326></a>
+##### Section 3 : Des modalités d'exercice de la mission.<a id=327></a>
 
 ###### Article L823-13
 
@@ -66850,9 +67119,9 @@ _Cité par_:
   - Code monétaire et financier - art. L515-31 (VT)
 
 
-## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=327></a>
+## LIVRE IX : Dispositions relatives à l'outre-mer.<a id=328></a>
 
-### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=328></a>
+### TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.<a id=329></a>
 
 ###### Article L910-1
 
@@ -66967,7 +67236,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=329></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=330></a>
 
 ###### Article L911-1
 
@@ -67275,7 +67544,7 @@ _Cite_:
   - Code de commerce - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=330></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=331></a>
 
 ###### Article L912-1
 
@@ -67379,7 +67648,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 94 A (Ab)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=331></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=332></a>
 
 ###### Article L913-1
 
@@ -67400,7 +67669,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=332></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=333></a>
 
 ###### Article L914-1
 
@@ -67447,7 +67716,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 403 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=333></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=334></a>
 
 ###### Article L915-1
 
@@ -67547,7 +67816,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=334></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=335></a>
 
 ###### Article L916-1
 
@@ -67569,7 +67838,7 @@ _Cite_:
   - Code de commerce - art. L643-11 (V)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=335></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=336></a>
 
 ###### Article L917-1
 
@@ -67657,7 +67926,7 @@ _Cite_:
   - Code de commerce. - art. L712-1 (T)
 
 
-### TITRE II : Dispositions applicables à Mayotte.<a id=336></a>
+### TITRE II : Dispositions applicables à Mayotte.<a id=337></a>
 
 ###### Article L920-1
 
@@ -67802,7 +68071,7 @@ _Abrogé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 70
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=337></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=338></a>
 
 ###### Article L921-1
 
@@ -68117,7 +68386,7 @@ _Cite_:
   - Code de commerce. - art. L145-35 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=338></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=339></a>
 
 ###### Article L922-1
 
@@ -68344,7 +68613,7 @@ _Cite_:
   - Code de commerce - art. L251-7
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=339></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=340></a>
 
 ###### Article L923-1
 
@@ -68388,7 +68657,7 @@ _Cite_:
   - Code de commerce. - art. L322-9 (V)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=340></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=341></a>
 
 ###### Article L924-1
 
@@ -68594,7 +68863,7 @@ _Anciens textes_:
   - Code de commerce. - art. L924-4 (T)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=341></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=342></a>
 
 ###### Article L925-1
 
@@ -68719,7 +68988,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=342></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=343></a>
 
 ###### Article L926-1
 
@@ -68945,7 +69214,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L926-6 (M)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=343></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=344></a>
 
 ###### Article L927-1
 
@@ -68969,7 +69238,7 @@ _Cite_:
   - Code de commerce. - art. L711-6 (M)
 
 
-### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=344></a>
+### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=345></a>
 
 ###### Article L930-1
 
@@ -69117,7 +69386,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=345></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=346></a>
 
 ###### Article L931-1
 
@@ -69522,7 +69791,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=346></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=347></a>
 
 ###### Article L932-6
 
@@ -69722,7 +69991,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=347></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=348></a>
 
 ###### Article L933-1
 
@@ -69864,7 +70133,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=348></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=349></a>
 
 ###### Article L935-1
 
@@ -70032,7 +70301,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=349></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=350></a>
 
 ###### Article L936-1
 
@@ -70372,7 +70641,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L936-11 (M)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII.<a id=350></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII.<a id=351></a>
 
 ###### Article L938-1
 
@@ -70397,7 +70666,7 @@ _Créé par_:
   - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
 
 
-### TITRE IV : Dispositions applicables en Polynésie française.<a id=351></a>
+### TITRE IV : Dispositions applicables en Polynésie française.<a id=352></a>
 
 ###### Article L940-1
 
@@ -70566,7 +70835,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=352></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=353></a>
 
 ###### Article L941-1
 
@@ -70944,7 +71213,7 @@ _Cite_:
   - Code de commerce - art. L145-56 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=353></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=354></a>
 
 ###### Article L942-1
 
@@ -71214,7 +71483,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=354></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=355></a>
 
 ###### Article L943-1
 
@@ -71352,7 +71621,7 @@ _Cite_:
   - Code de commerce - art. L322-16 (V)
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=355></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=356></a>
 
 ###### Article L945-1
 
@@ -71518,7 +71787,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=356></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=357></a>
 
 ###### Article L946-1
 
@@ -71799,7 +72068,7 @@ _Créé par_:
   - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
 
 
-### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=357></a>
+### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.<a id=358></a>
 
 ###### Article L950-1
 
@@ -71965,7 +72234,7 @@ _Codifié par_:
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=358></a>
+#### Chapitre Ier : Dispositions d'adaptation du livre Ier.<a id=359></a>
 
 ###### Article L951-1
 
@@ -72282,7 +72551,7 @@ _Cite_:
   - Code de commerce - art. L145-43 (V)
 
 
-#### Chapitre II : Dispositions d'adaptation du livre II.<a id=359></a>
+#### Chapitre II : Dispositions d'adaptation du livre II.<a id=360></a>
 
 ###### Article L952-1
 
@@ -72489,7 +72758,7 @@ _Cite_:
   - Code de commerce - art. L251-7 (V)
 
 
-#### Chapitre III : Dispositions d'adaptation du livre III.<a id=360></a>
+#### Chapitre III : Dispositions d'adaptation du livre III.<a id=361></a>
 
 ###### Article L953-1
 
@@ -72573,7 +72842,7 @@ _Anciens textes_:
   - Code de commerce. - art. L953-2 (T)
 
 
-#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=361></a>
+#### Chapitre IV : Dispositions d'adaptation du livre IV.<a id=362></a>
 
 ###### Article L954-1
 
@@ -72799,7 +73068,7 @@ _Créé par_:
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 
-#### Chapitre V : Dispositions d'adaptation du livre V.<a id=362></a>
+#### Chapitre V : Dispositions d'adaptation du livre V.<a id=363></a>
 
 ###### Article L955-1
 
@@ -72932,7 +73201,7 @@ _Cite_:
   - Code de commerce - art. L525-18 (V)
 
 
-#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=363></a>
+#### Chapitre VI : Dispositions d'adaptation du livre VI.<a id=364></a>
 
 ###### Article L956-1
 
@@ -73219,7 +73488,7 @@ _Nouveaux textes_:
   - Code de commerce. - art. L956-8 (V)
 
 
-#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=364></a>
+#### Chapitre VII : Dispositions d'adaptation du livre VII.<a id=365></a>
 
 ###### Article L957-1
 
@@ -73272,7 +73541,7 @@ _Cite_:
   - Code de commerce - art. L712-1 (V)
 
 
-#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=365></a>
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII<a id=366></a>
 
 ###### Article L958-1
 
