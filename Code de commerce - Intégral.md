@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L146-4)](#2)
@@ -35657,9 +35657,9 @@ Les ventes volontaires de meubles aux enchères publiques sont, sauf les cas pr�
 réalisées par des sociétés de forme commerciale régies par le livre II, et dont l'activité est réglementée par les
 dispositions du présent chapitre.
 
-Ces ventes peuvent également être organisées et réalisées à titre accessoire par les notaires et les huissiers de justice.
-Cette activité est exercée dans le cadre de leur office et selon les règles qui leur sont applicables. Ils ne peuvent être
-mandatés que par le propriétaire des biens.
+Ces ventes peuvent également être organisées et réalisées à titre accessoire par les notaires et les huissiers de justice
+dans les communes où il n'est pas établi d'office de commissaire-priseur judiciaire. Cette activité est exercée dans le cadre
+de leur office et selon les règles qui leur sont applicables. Ils ne peuvent être mandatés que par le propriétaire des biens.
 
 **Liens relatifs à cet article**
 
@@ -35681,6 +35681,10 @@ _Codifié par_:
 
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+_Modifié par_:
+
+  - Loi n°2006-728 du 23 juin 2006 - art. 35 () JORF 24 juin 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -56372,7 +56376,7 @@ amiable, il peut toujours être fait surenchère.
 Les adjudications réalisées en application des alinéas qui précèdent emportent purge des hypothèques.
 
 Le liquidateur répartit le produit des ventes et règle l'ordre entre les créanciers, sous réserve des contestations qui sont
-portées devant le tribunal de grande instance.
+portées devant le juge de l'exécution.
 
 En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en considération de la situation personnelle et
 familiale du débiteur, lui accorder des délais de grâce dont il détermine la durée pour quitter sa maison d'habitation
@@ -56382,8 +56386,8 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 **Nota:**
 
-: Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
-décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du décret
+en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -56415,10 +56419,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-  - Loi n°2005-845 du 26 juillet 2005 - art. 112 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+  - Ordonnance n°2006-461 du 21 avril 2006 - art. 14 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
 
 _Anciens textes_:
 
