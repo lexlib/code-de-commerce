@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-02-22
 ## Contenu: 
   - [Partie législative (art. L110-1 à L958-2)](#1)
     - [LIVRE Ier : Du commerce en général. (art. L110-1 à L146-4)](#2)
@@ -70723,8 +70723,9 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
-7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et des dispositions relatives aux délégués
-consulaires ; les articles L. 721-3 à L. 721-6 ;
+7° Le titre Ier du livre VII, à l'exception de la section 2 du chapitre Ier, du second alinéa de l'article L. 711-5, des
+articles L. 712-2, L. 712-4 et L. 712-5, ainsi que des dispositions relatives aux délégués consulaires ; les articles L.
+721-3 à L. 721-6 ;
 
 8° Le livre VIII.
 
@@ -70737,11 +70738,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2006-673 2006-06-08 art. 9 2° JORF 9 juin 2006
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
-  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8, L711-5, L712-1, L721-3 à L721-6
+  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8, L721-3 à L721-6
   - Code de commerce. - art. L125-3 (V)
   - Code de commerce. - art. L126-1 (V)
   - Code de commerce. - art. L225-245-1 (V)
@@ -70755,8 +70756,6 @@ _Cite_:
   - Code de commerce. - art. L524-21 (V)
   - Code de commerce. - art. L622-19 (M)
   - Code de commerce. - art. L625-9 (M)
-  - Code de commerce. - art. L711-5 (M)
-  - Code de commerce. - art. L712-1 (T)
 
 
 ###### Article L920-2
@@ -71996,9 +71995,17 @@ _Nouveaux textes_:
 
 ###### Article L927-1
 
-Pour l'application à Mayotte de l'article L. 711-6, le représentant de l'Etat à Mayotte est habilité à accorder à la chambre
-de commerce et d'industrie de Mayotte l'autorisation prévue à cet article, par délégation permanente du ministre chargé de la
-tutelle des chambres de commerce et d'industrie.
+Pour l'application à Mayotte :
+
+1° De l'article L. 711-2, le dernier alinéa (4°) est ainsi rédigé :
+
+" 4° Elles sont associées à l'élaboration du plan d'aménagement et de développement durable et des plans locaux d'urbanisme.
+";
+
+2° Du premier alinéa de l'article L. 711-5, les mots : "dans les conditions prévues aux articles L. 443-1 et L. 753-1 du code
+de l'éducation" sont supprimés ;
+
+3° De l'article L. 712-7, les mots : " , notamment celles mentionnées au 2° de l'article L. 711-8," sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -72007,13 +72014,9 @@ _Codifié par_:
   - Ordonnance 2000-912 2000-09-18
   - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
-
-_Cite_:
-
-  - Code de commerce. - art. L711-6 (M)
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 
 ### TITRE III : Dispositions applicables en Nouvelle-Calédonie.<a id=378></a>
