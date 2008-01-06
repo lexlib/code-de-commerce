@@ -1,69 +1,49 @@
 # Article Annexe 7-4-1
 
-Tableau n° 1
+PARTICIPATION AU FINANCEMENT DE LA BOURSE COMMUNE
 
-PRODUIT HORS TAXES : De 0 à 100 000  (a)
+Tableau n° 1 
 
-COEFFICIENT : 0
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ PRODUIT HORS TAXES               │ COEFFICIENT │ CALCUL                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ De 0 à 100 000 euros (a)         │ 0           │ A = 0.                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ De 100 000 à 200 000 euros (b)   │ 1           │ B = (b) × coefficient × (tr %) : nombre de parts. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ De 200 000 à 500 000 euros (c)   │ 1,5         │ C = (c) × coefficient × (tr %) : nombre de parts. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ De 500 000 à 1 000 000 euros (d) │ 2           │ D = (d) × coefficient × (tr %) : nombre de parts. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Supérieur à 1 000 000 euros (e)  │ 2,5         │ E = (e) × coefficient × (tr %) : nombre de parts. ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-CALCUL : A = (a) x coefficient x (tr %) x nombre de parts.
 
-PRODUIT HORS TAXES : De 100 000 à 200 000  (b)
+Tableau n° 2 
 
-COEFFICIENT : 1
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ NOMBRE DE GREFFIERS │ NOMBRE DE PARTS                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1                   │ 1                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2                   │ 3                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3                   │ 4,5                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4                   │ 5,5                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5                   │ 6,5                                 ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ + de 5              │ Une part par associé supplémentaire ┃
+┗━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-CALCUL : B = (b) x coefficient x (tr %) x nombre de parts.
-
-PRODUIT HORS TAXES : De 200 000 à 500 000  (c)
-
-COEFFICIENT : 1,5
-
-CALCUL : C = (c) x coefficient x (tr %) x nombre de parts.
-
-PRODUIT HORS TAXES : De 500 000 à 1 000 000  (d)
-
-COEFFICIENT : 2
-
-CALCUL : D = (d) x coefficient x (tr %) x nombre de parts.
-
-PRODUIT HORS TAXES : Supérieur à 1 000 000  (e)
-
-COEFFICIENT : 2,5
-
-CALCUL : E = (e) x coefficient x (tr %) x nombre de parts.
-
-Tableau n° 2
-
-NOMBRE DE GREFFIERS : 1
-
-NOMBRE DE PARTS : 1
-
-NOMBRE DE GREFFIERS : 2
-
-NOMBRE DE PARTS : 3
-
-NOMBRE DE GREFFIERS : 3
-
-NOMBRE DE PARTS : 4,5
-
-NOMBRE DE GREFFIERS : 4
-
-NOMBRE DE PARTS : 5,5
-
-NOMBRE DE GREFFIERS : 5
-
-NOMBRE DE PARTS : 6,5
-
-NOMBRE DE GREFFIERS : + de 5
-
-NOMBRE DE PARTS : Une part par associé supplémentaire
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
-
-_Créé par_:
-
-  - Décret n°2007-862 du 14 mai 2007 - art. 2 () JORF 15 mai 2007
+  - Décret n°2008-21 du 3 janvier 2008 - art.
