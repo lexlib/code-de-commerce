@@ -1,297 +1,71 @@
 # Article Annexe 7-4
 
-Nombre des assesseurs des chambres commerciales des tribunaux de grande instance
+Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
+
+des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉPARTEMENTS      │ SIÈGE DE LA CHAMBRE COMMERCIALE du tribunal │ NOMBRE D'ASSESSEURS de la chambre commerciale du tribu- ┃
+┃                   │ de grande instance                          │ nal de grande instance                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de   │                                             │                                                         ┃
+┃ Colmar            │                                             │                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bas-Rhin          │ Saverne                                     │ 8                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                   │ Strasbourg                                  │ 32                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haut-Rhin         │ Colmar                                      │ 12                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                   │ Mulhouse                                    │ 22                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de   │                                             │                                                         ┃
+┃ Metz              │                                             │                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Moselle           │ Metz                                        │ 19                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                   │ Sarreguemines                               │ 12                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                   │ Thionville                                  │ 12                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉPARTEMENTS                          │ SIÈGE DU TRIBUNAL MIXTE de com-  │ NOMBRE DE JUGES ÉLUS du tribunal mixte de com- ┃
+┃                                       │ merce                            │ merce                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Basse-Terre           │                                  │                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guadeloupe                            │ Basse-Terre                      │ 5                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                       │ Pointe-à-Pitre                   │ 6                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Fort-de-France        │                                  │                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Martinique                            │ Fort-de-France                   │ 7                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guyane                                │ Cayenne                          │ 5                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cour d'appel de Saint-Denis de La     │                                  │                                                ┃
+┃ Réunion                               │                                  │                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ La Réunion                            │ Saint-Denis                      │ 5                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                       │ Saint-Pierre                     │ 5                                              ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-des départements du Bas-Rhin, du Haut-Rhin et de la Moselle 
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-
-DÉPARTEMENTS
-
-</td>
-      <td>
-
-SIÈGE DE LA CHAMBRE COMMERCIALE
-
-du tribunal de grande instance 
-
-</td>
-      <td>
-
-NOMBRE D'ASSESSEURS
-
-de la chambre commerciale
-
-du tribunal de grande instance 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cour d'appel de Colmar 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Bas-Rhin 
-
-</td>
-      <td align="center">
-
-Saverne 
-
-</td>
-      <td align="center">
-
-8 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-Strasbourg 
-
-</td>
-      <td align="center">
-
-32 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Haut-Rhin 
-
-</td>
-      <td align="center">
-
-Colmar 
-
-</td>
-      <td align="center">
-
-12 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-Mulhouse 
-
-</td>
-      <td align="center">
-
-22 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cour d'appel de Metz 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Moselle 
-
-</td>
-      <td align="center">
-
-Metz 
-
-</td>
-      <td align="center">
-
-19 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-Sarreguemines 
-
-</td>
-      <td align="center">
-
-12 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-Thionville 
-
-</td>
-      <td align="center">
-
-12 
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**
-**
-
-**
-
-Nombre des juges élus des tribunaux mixtes de commerce des départements d'outre-mer 
-
-<table>
-  <tbody>
-    <tr>
-      <td>DÉPARTEMENTS</td>
-      <td>SIÈGE DU TRIBUNAL MIXTE 
-
-de commerce 
-
-</td>
-      <td>NOMBRE DE JUGES ÉLUS 
-
-du tribunal mixte de commerce 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cour d'appel de Basse-Terre 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Guadeloupe 
-
-</td>
-      <td align="center">
-
-Basse-Terre 
-
-</td>
-      <td align="center">
-
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-Pointe-à-Pitre 
-
-</td>
-      <td align="center">
-
-6 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cour d'appel de Fort-de-France 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Martinique 
-
-</td>
-      <td align="center">
-
-Fort-de-France 
-
-</td>
-      <td align="center">
-
-7 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Guyane 
-
-</td>
-      <td align="center">
-
-Cayenne 
-
-</td>
-      <td align="center">
-
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Cour d'appel de Saint-Denis de la Réunion 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Réunion 
-
-</td>
-      <td align="center">
-
-Saint-Denis 
-
-</td>
-      <td align="center">
-
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-Saint-Pierre 
-
-</td>
-      <td align="center">
-
-5
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1151 du 25 septembre 2009 - art.
 
 _Cité par_:
 
