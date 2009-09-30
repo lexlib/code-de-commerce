@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -52,7 +52,7 @@ Auch
 </td>
       <td>
 
-11 
+12 
 
 </td>
       <td>
@@ -634,7 +634,7 @@ Jura
 </td>
       <td>
 
-Lons-le-Saunier  
+Lons-le-Saunier 
 
 </td>
       <td>
@@ -3118,6 +3118,10 @@ Versailles
 </table>
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2009-1151 du 25 septembre 2009 - art.
 
 _Cité par_:
 
