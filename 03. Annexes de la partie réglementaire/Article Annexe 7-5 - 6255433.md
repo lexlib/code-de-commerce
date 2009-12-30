@@ -6,7 +6,7 @@ TABLEAU I ANNEXÉ À L'ARTICLE R. 743-140
 
 ACTES JUDICIAIRES (1)
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table cellpadding="0" border="1" cellspacing="1">
   <thead>
     <tr>
       <td width="91">
@@ -192,7 +192,7 @@ Seconde copie certifiée conforme revêtue de la formule exécutoire.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Injonction de payer (procédure d')
 
@@ -327,7 +327,7 @@ Jugement : forfait de transmission par partie.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Instruction avant jugement
 
@@ -529,7 +529,7 @@ Visa, cote et paraphe des livres.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Procédures ouvertes après le 1
           <sup>er</sup> janvier 2006 en application du livre VI du code de commerce
@@ -634,7 +634,7 @@ tribunal.
 </td>
       <td valign="top">
 
-Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire 
 
 </td>
       <td valign="top">
@@ -730,7 +730,7 @@ Extrait établi en vue des mesures de publicité.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) a) Les émoluments ainsi alloués comprennent le coût d'une copie certifiée conforme, revêtue de la formule exécutoire et
 d'une copie délivrée à chaque partie,
@@ -754,7 +754,7 @@ Registre du commerce et des sociétés
 
 Registre des agents commerciaux
 
-<table cellpadding="0" border="1" cellspacing="1">
+<table cellpadding="0" cellspacing="1" border="1">
   <thead>
     <tr>
       <td width="88">
@@ -776,7 +776,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A. - Registre du commerce et des sociétés (1)
 
@@ -1094,7 +1094,7 @@ Diligences de transmission de la formalité à l'INPI.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 B. - Registre des agents commerciaux
 
@@ -1152,7 +1152,7 @@ Extrait d'inscription de la déclaration.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) Le greffier réclame distinctement le montant des taxes perçues pour le compte de l'Institut national de la propriété
 industrielle et des frais d'insertion au BODACC.
@@ -1285,14 +1285,14 @@ Mention d'une contestation en marge d'une inscription.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 B. - Privilège de la sécurité sociale et des régimes complémentaires
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, radiation totale d'une inscription non périmée
 
@@ -1333,7 +1333,7 @@ Montant des sommes privilégiées supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée
 
@@ -1474,7 +1474,7 @@ C. - Vente et nantissement des fonds de commerce
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription, y compris radiation totale d'une inscription non périmée
 
@@ -1575,7 +1575,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription
 
@@ -1721,7 +1721,7 @@ Copie certifiée conforme.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 D. - Nantissement d'un fonds agricole ou d'un fonds artisanal
 
@@ -1880,7 +1880,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée
 
@@ -2074,7 +2074,7 @@ J. - Warrants (1) (2)
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Etablissement du warrant, y compris radiation
 
@@ -2275,14 +2275,14 @@ nantissement de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (1) A l'exclusion des warrants agricoles.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (2) Il n'est rien dû pour les mentions portées sur le registre des avis et oppositions.
 
@@ -2295,7 +2295,7 @@ TABLEAU IV ANNEXÉ À L'ARTICLE R. 743-140
 
 Publicités diverses
 
-<table cellspacing="1" cellpadding="0" border="1">
+<table cellspacing="1" border="1" cellpadding="0">
   <thead>
     <tr>
       <td width="91">
@@ -2409,7 +2409,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 B. - Contrat de location
 
@@ -2849,7 +2849,7 @@ G. - Immatriculation des bateaux de rivière
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription et radiation d'un acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droit réel (3)
 (montant de la somme inscrit dans l'acte)
@@ -3101,7 +3101,7 @@ immatriculation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (2) Pour l'ensemble des formalités (réception de la copie du protêt, délivrance d'un récépissé, inscription sur le registre
 et fichiers, etc.) ainsi que, en ce qui concerne les protêts de chèques, pour la réception et la transmission de la copie
@@ -3130,7 +3130,7 @@ TABLEAU V ANNEXÉ À L'ARTICLE R. 743-140
 
 Propriétés industrielles
 
-<table cellspacing="1" border="1" cellpadding="0">
+<table cellpadding="0" border="1" cellspacing="1">
   <thead>
     <tr>
       <td width="91">
@@ -3182,7 +3182,7 @@ TABLEAU VI ANNEXÉ À L'ARTICLE R. 743-140
 
 Opérations diverses
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table border="1" cellspacing="1" cellpadding="0">
   <thead>
     <tr>
       <td width="91">
@@ -3204,7 +3204,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Séquestre judiciaire
 
@@ -3318,8 +3318,8 @@ déterminés conformément aux dispositions de l'article R. 621-11 du code de co
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture
-des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le
+prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -3329,7 +3329,7 @@ Emoluments du greffe par débiteur et forfait de transmission
 
 (Exprimés en taux de base)
 
-<table cellpadding="0" border="1" cellspacing="1">
+<table cellpadding="0" cellspacing="1" border="1">
     <thead>
       <tr>
         <td width="104">
@@ -3411,7 +3411,7 @@ De 6 à 19 salariés
 De 20 à 150 salariés
 
 </td>
-        <td valign="top" colspan="3">
+        <td colspan="3" valign="top">
 
 Plus de 150 salariés
 
@@ -3626,7 +3626,7 @@ Total...
     </tbody>
   </table>
 
-<table border="1" cellspacing="1" cellpadding="0">
+<table cellpadding="0" cellspacing="1" border="1">
   <tbody>
     <tr>
       <td valign="top">
@@ -3656,11 +3656,16 @@ moitié du droit au greffe de l'établissement secondaire)...
   </tbody>
 </table>
 
+**Nota:**
+
+Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont
+applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1851 du 26 décembre 2007 - art. 2
+  - Décret n°2009-1661 du 28 décembre 2009 - art. 4
 
 _Cité par_:
 
