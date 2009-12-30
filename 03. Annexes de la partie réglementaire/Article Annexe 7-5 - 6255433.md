@@ -132,7 +132,7 @@ Vérification de dépens.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Copie certifiée conforme
 
@@ -529,7 +529,7 @@ Visa, cote et paraphe des livres.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Procédures ouvertes après le 1
           <sup>er</sup> janvier 2006 en application du livre VI du code de commerce
@@ -634,7 +634,7 @@ tribunal.
 </td>
       <td valign="top">
 
-Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire 
 
 </td>
       <td valign="top">
@@ -754,7 +754,7 @@ Registre du commerce et des sociétés
 
 Registre des agents commerciaux
 
-<table cellpadding="0" cellspacing="1" border="1">
+<table cellpadding="0" border="1" cellspacing="1">
   <thead>
     <tr>
       <td width="88">
@@ -1152,7 +1152,7 @@ Extrait d'inscription de la déclaration.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (1) Le greffier réclame distinctement le montant des taxes perçues pour le compte de l'Institut national de la propriété
 industrielle et des frais d'insertion au BODACC.
@@ -1186,7 +1186,7 @@ TABLEAU III ANNEXÉ À L'ARTICLE R. 743-140
 
 Privilèges et sûretés
 
-<table border="1" cellspacing="1" cellpadding="0">
+<table cellspacing="1" cellpadding="0" border="1">
   <thead>
     <tr>
       <td width="91">
@@ -1210,7 +1210,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A. - Privilège du Trésor en matière fiscale
 
@@ -1292,7 +1292,7 @@ B. - Privilège de la sécurité sociale et des régimes complémentaires
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, radiation totale d'une inscription non périmée
 
@@ -1374,7 +1374,7 @@ Montant des sommes privilégiées supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Renouvellement d'une inscription, subrogation
 
@@ -1474,7 +1474,7 @@ C. - Vente et nantissement des fonds de commerce
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription, y compris radiation totale d'une inscription non périmée
 
@@ -1534,7 +1534,7 @@ Montant supérieur ou égal à 32 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée
 
@@ -1575,7 +1575,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription
 
@@ -1721,7 +1721,7 @@ Copie certifiée conforme.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 D. - Nantissement d'un fonds agricole ou d'un fonds artisanal
 
@@ -1822,7 +1822,7 @@ I. - Gage sur meubles corporels
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription, y compris radiation totale d'une inscription (montant de la somme garantie)
 
@@ -1880,7 +1880,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée
 
@@ -2119,7 +2119,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Radiation partielle
 
@@ -2160,7 +2160,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Renouvellement du warrant, inscription d'avis d'escompte
 
@@ -2409,7 +2409,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 B. - Contrat de location
 
@@ -2501,7 +2501,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 C. - Inscription sur le registre spécial des prêts et délais
 
@@ -2593,7 +2593,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 D. - Clause de réserve de propriété
 
@@ -2685,7 +2685,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 E. - Clause d'inaliénabilité
 
@@ -2777,7 +2777,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 F. - Publicité des protêts et des certificats de non-paiement des chèques postaux
 
@@ -2842,7 +2842,7 @@ Délivrance d'un extrait de registre des protêts positif ou négatif.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 G. - Immatriculation des bateaux de rivière
 
@@ -2891,7 +2891,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Mention de radiation totale ou partielle d'une inscription hypothécaire (montant de la somme inscrit dans l'acte)
 
@@ -2930,7 +2930,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription (sur la valeur de la plus faible inscription faisant
 l'objet de la subrogation ou du renouvellement) (montant de la somme inscrit dans l'acte)
@@ -3094,14 +3094,14 @@ immatriculation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) Il n'est rien perçu, en sus de l'émolument ainsi fixé, pour toute radiation consécutive à un report d'inscription.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (2) Pour l'ensemble des formalités (réception de la copie du protêt, délivrance d'un récépissé, inscription sur le registre
 et fichiers, etc.) ainsi que, en ce qui concerne les protêts de chèques, pour la réception et la transmission de la copie
@@ -3110,7 +3110,7 @@ destinée au procureur de la République.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (3) Lorsque l'inscription est requise sur plusieurs bateaux et porte, pour chacun d'eux, sur la totalité de la créance, le
 droit proportionnel est réduit :
@@ -3130,7 +3130,7 @@ TABLEAU V ANNEXÉ À L'ARTICLE R. 743-140
 
 Propriétés industrielles
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table cellpadding="0" cellspacing="1" border="1">
   <thead>
     <tr>
       <td width="91">
@@ -3169,7 +3169,7 @@ Dépôt de dessins et modèles (1).
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) Pour l'ensemble des formalités y compris le récépissé de dépôt.
 
@@ -3204,7 +3204,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Séquestre judiciaire
 
@@ -3318,8 +3318,8 @@ déterminés conformément aux dispositions de l'article R. 621-11 du code de co
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture
-des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le
+prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -3329,7 +3329,7 @@ Emoluments du greffe par débiteur et forfait de transmission
 
 (Exprimés en taux de base)
 
-<table border="1" cellspacing="1" cellpadding="0">
+<table cellspacing="1" border="1" cellpadding="0">
     <thead>
       <tr>
         <td width="104">
@@ -3401,7 +3401,7 @@ Aucun salarié
 De 1 à 5 salariés
 
 </td>
-        <td valign="top" colspan="2">
+        <td colspan="2" valign="top">
 
 De 6 à 19 salariés
 
@@ -3626,7 +3626,7 @@ Total...
     </tbody>
   </table>
 
-<table cellspacing="1" border="1" cellpadding="0">
+<table cellpadding="0" cellspacing="1" border="1">
   <tbody>
     <tr>
       <td valign="top">
@@ -3656,11 +3656,16 @@ moitié du droit au greffe de l'établissement secondaire)...
   </tbody>
 </table>
 
+**Nota:**
+
+Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont
+applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1851 du 26 décembre 2007 - art. 2
+  - Décret n°2009-1661 du 28 décembre 2009 - art. 4
 
 _Cité par_:
 
