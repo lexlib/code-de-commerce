@@ -634,7 +634,7 @@ tribunal.
 </td>
       <td valign="top">
 
-Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire 
 
 </td>
       <td valign="top">
@@ -3318,8 +3318,8 @@ déterminés conformément aux dispositions de l'article R. 621-11 du code de co
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture
-des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le
+prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -3656,11 +3656,16 @@ moitié du droit au greffe de l'établissement secondaire)...
   </tbody>
 </table>
 
+**Nota:**
+
+Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont
+applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1851 du 26 décembre 2007 - art. 2
+  - Décret n°2009-1661 du 28 décembre 2009 - art. 4
 
 _Cité par_:
 
