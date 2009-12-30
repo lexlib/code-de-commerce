@@ -6,7 +6,7 @@ TABLEAU I ANNEXÉ À L'ARTICLE R. 743-140
 
 ACTES JUDICIAIRES (1)
 
-<table border="1" cellspacing="1" cellpadding="0">
+<table cellpadding="0" cellspacing="1" border="1">
   <thead>
     <tr>
       <td width="91">
@@ -268,7 +268,7 @@ Opposition à injonction de payer.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Jugements
 
@@ -402,7 +402,7 @@ Prestation de serment.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Référés
 
@@ -529,7 +529,7 @@ Visa, cote et paraphe des livres.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Procédures ouvertes après le 1
           <sup>er</sup> janvier 2006 en application du livre VI du code de commerce
@@ -634,7 +634,7 @@ tribunal.
 </td>
       <td valign="top">
 
-Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire 
 
 </td>
       <td valign="top">
@@ -730,7 +730,7 @@ Extrait établi en vue des mesures de publicité.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) a) Les émoluments ainsi alloués comprennent le coût d'une copie certifiée conforme, revêtue de la formule exécutoire et
 d'une copie délivrée à chaque partie,
@@ -754,7 +754,7 @@ Registre du commerce et des sociétés
 
 Registre des agents commerciaux
 
-<table cellpadding="0" cellspacing="1" border="1">
+<table border="1" cellpadding="0" cellspacing="1">
   <thead>
     <tr>
       <td width="88">
@@ -776,7 +776,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 A. - Registre du commerce et des sociétés (1)
 
@@ -1094,7 +1094,7 @@ Diligences de transmission de la formalité à l'INPI.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 B. - Registre des agents commerciaux
 
@@ -1292,7 +1292,7 @@ B. - Privilège de la sécurité sociale et des régimes complémentaires
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription, radiation totale d'une inscription non périmée
 
@@ -1467,7 +1467,7 @@ Délivrance d'un certificat de subrogation, de mention de saisie, de radiation d
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 C. - Vente et nantissement des fonds de commerce
 
@@ -1575,7 +1575,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription
 
@@ -1744,7 +1744,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 F. - Nantissement judiciaire
 
@@ -1790,7 +1790,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 H. - Nantissement de l'outillage et du matériel
 
@@ -1880,7 +1880,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée
 
@@ -2119,7 +2119,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Radiation partielle
 
@@ -2160,7 +2160,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Renouvellement du warrant, inscription d'avis d'escompte
 
@@ -2295,7 +2295,7 @@ TABLEAU IV ANNEXÉ À L'ARTICLE R. 743-140
 
 Publicités diverses
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table cellspacing="1" cellpadding="0" border="1">
   <thead>
     <tr>
       <td width="91">
@@ -2317,7 +2317,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 A. - Crédit-bail en matière mobilière
 
@@ -2501,7 +2501,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 C. - Inscription sur le registre spécial des prêts et délais
 
@@ -2593,7 +2593,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 D. - Clause de réserve de propriété
 
@@ -2849,7 +2849,7 @@ G. - Immatriculation des bateaux de rivière
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription et radiation d'un acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droit réel (3)
 (montant de la somme inscrit dans l'acte)
@@ -3094,7 +3094,7 @@ immatriculation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (1) Il n'est rien perçu, en sus de l'émolument ainsi fixé, pour toute radiation consécutive à un report d'inscription.
 
@@ -3130,7 +3130,7 @@ TABLEAU V ANNEXÉ À L'ARTICLE R. 743-140
 
 Propriétés industrielles
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table cellpadding="0" border="1" cellspacing="1">
   <thead>
     <tr>
       <td width="91">
@@ -3182,7 +3182,7 @@ TABLEAU VI ANNEXÉ À L'ARTICLE R. 743-140
 
 Opérations diverses
 
-<table cellspacing="1" border="1" cellpadding="0">
+<table cellpadding="0" cellspacing="1" border="1">
   <thead>
     <tr>
       <td width="91">
@@ -3204,7 +3204,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Séquestre judiciaire
 
@@ -3318,8 +3318,8 @@ déterminés conformément aux dispositions de l'article R. 621-11 du code de co
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture
-des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le
+prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -3401,7 +3401,7 @@ Aucun salarié
 De 1 à 5 salariés
 
 </td>
-        <td valign="top" colspan="2">
+        <td colspan="2" valign="top">
 
 De 6 à 19 salariés
 
@@ -3411,7 +3411,7 @@ De 6 à 19 salariés
 De 20 à 150 salariés
 
 </td>
-        <td colspan="3" valign="top">
+        <td valign="top" colspan="3">
 
 Plus de 150 salariés
 
@@ -3626,7 +3626,7 @@ Total...
     </tbody>
   </table>
 
-<table cellpadding="0" cellspacing="1" border="1">
+<table cellpadding="0" border="1" cellspacing="1">
   <tbody>
     <tr>
       <td valign="top">
@@ -3656,11 +3656,16 @@ moitié du droit au greffe de l'établissement secondaire)...
   </tbody>
 </table>
 
+**Nota:**
+
+Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont
+applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2007-1851 du 26 décembre 2007 - art. 2
+  - Décret n°2009-1661 du 28 décembre 2009 - art. 4
 
 _Cité par_:
 
