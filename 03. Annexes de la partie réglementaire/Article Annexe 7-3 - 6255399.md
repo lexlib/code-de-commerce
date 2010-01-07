@@ -140,28 +140,11 @@ _Cour d'appel de Saint-Denis-de-la-Réunion_
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="139">
+      <td valign="top" width="139">
 
 La Réunion 
 
 </td>
-      <td valign="top" width="124">
-
-Saint-Denis
-
-</td>
-      <td valign="top" width="195">
-
-Saint-Denis 
-
-</td>
-      <td valign="top" width="225">
-
-Ressort du tribunal de grande instance de Saint-Denis 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="124">
 
 Saint-Pierre
@@ -185,12 +168,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 _Modifié par_:
 
-  - Décret n°2008-146 du 15 février 2008 - art. 4
-  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2008-146 du 15 février 2008, v. init.
+  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
 
 _Cité par_:
 
