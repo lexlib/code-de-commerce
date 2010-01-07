@@ -28,24 +28,31 @@ Ressort
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel d'Agen
 
 </td>
-      <td align="left" valign="top">
-      </td><td align="left" valign="top">
-      </td><td align="left" valign="top">
-    </td></tr>
+    </tr>
     <tr>
-      <td align="left" valign="top">Gers</td>
-      <td align="left" valign="top">Auch
+      <td align="left" valign="top">
+
+Gers
 
 </td>
-      <td align="left" valign="top">Auch
+      <td align="left" valign="top">
+
+Auch
 
 </td>
-      <td align="left" valign="top">Ressort du tribunal de grande instance d'Auch
+      <td align="left" valign="top">
+
+Auch
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal de grande instance d'Auch
 
 </td>
     </tr>
@@ -96,7 +103,7 @@ Ressort des tribunaux de grande instance d'Agen et de Marmande
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel d'Aix-en-Provence
 
@@ -189,13 +196,6 @@ Cannes
       <td align="left" valign="top">
 
 Ressort du tribunal d'instance de Cannes
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Cour d'appel d'Agen
 
 </td>
     </tr>
@@ -327,7 +327,7 @@ Ressort du tribunal de grande instance de Toulon
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel d'Amiens
 
@@ -444,7 +444,7 @@ Ressort des tribunaux de grande instance d'Amiens, d'Abbeville et de Péronne
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel d'Angers
 
@@ -519,7 +519,7 @@ Ressort du tribunal de grande instance du Mans
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Bastia
 
@@ -570,7 +570,7 @@ Ressort du tribunal de grande instance de Bastia
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Besançon
 
@@ -675,7 +675,7 @@ Ressort des tribunaux de grande instance de Belfort et de Montbéliard
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Bordeaux
 
@@ -783,7 +783,7 @@ Libourne
 Ressort du tribunal d'instance de Libourne et cantons de Blaye, Bourg, Saint-Ciers-sur-Gironde et Saint-Savin</td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Bourges
 
@@ -856,7 +856,7 @@ Ressort du tribunal de grande instance de Nevers
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Caen
 
@@ -969,7 +969,7 @@ Ressort des tribunaux de grande instance d'Alençon et d'Argentan
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Chambéry
 
@@ -1042,7 +1042,7 @@ Ressort du tribunal de grande instance de Thonon-les-Bains
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Colmar
 
@@ -1113,7 +1113,7 @@ La chambre commerciale du tribunal de grande instance est compétente en matièr
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Dijon
 
@@ -1204,7 +1204,7 @@ Ressort du tribunal de grande instance de Mâcon
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Douai
 
@@ -1351,7 +1351,7 @@ Ressort des tribunaux de grande instance de Boulogne-sur-Mer et de Saint-Omer
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Grenoble
 
@@ -1444,7 +1444,7 @@ Ressort des tribunaux de grande instance de Vienne et de Bourgoin-Jallieu
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Limoges
 
@@ -1519,7 +1519,7 @@ Ressort du tribunal de grande instance de Limoges
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Lyon
 
@@ -1533,11 +1533,7 @@ Ain
 </td>
       <td align="left" valign="top">
 
-Bourg-en-Bresse 
-
-Belley
-
-</td>
+Bourg-en-Bresse </td>
       <td align="left" valign="top">
 
 Bourg-en-Bresse
@@ -1545,7 +1541,7 @@ Bourg-en-Bresse
 </td>
       <td align="left" valign="top">
 
-Ressort des tribunaux de grande instance de Bourg-en-Bresse et de Belley
+Ressort des tribunaux de grande instance de Bourg-en-Bresse 
 
 </td>
     </tr>
@@ -1632,7 +1628,7 @@ Ressort du tribunal de grande instance de Villefranche-sur-Saône
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Metz
 
@@ -1685,7 +1681,7 @@ La chambre commerciale du tribunal de grande instance est compétente en matièr
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Montpellier
 
@@ -1739,11 +1735,7 @@ Aveyron
 </td>
       <td align="left" valign="top">
 
-Rodez 
-
-Millau
-
-</td>
+Rodez </td>
       <td align="left" valign="top">
 
 Rodez
@@ -1751,7 +1743,7 @@ Rodez
 </td>
       <td align="left" valign="top">
 
-Ressort des tribunaux de grande instance de Rodez et de Millau
+Ressort des tribunaux de grande instance de Rodez 
 
 </td>
     </tr>
@@ -1818,7 +1810,7 @@ Ressort du tribunal de grande instance de Perpignan
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Nancy
 
@@ -1913,7 +1905,7 @@ Ressort des tribunaux de grande instance d'Epinal et de Saint-Dié-des-Vosges
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Nîmes
 
@@ -2012,7 +2004,7 @@ Ressort des tribunaux de grande instance d'Avignon et de Carpentras
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel d'Orléans
 
@@ -2087,7 +2079,7 @@ Ressort des tribunaux de grande instance d'Orléans et de Montargis
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Paris
 
@@ -2264,7 +2256,7 @@ Ressort du tribunal de grande instance de Sens
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Pau
 
@@ -2373,7 +2365,7 @@ Ressort du tribunal de grande instance de Tarbes
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Poitiers
 
@@ -2492,7 +2484,7 @@ Ressort du tribunal de grande instance de Poitiers
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Reims
 
@@ -2560,9 +2552,8 @@ Châlons-en-Champagne
 </td>
       <td align="left" valign="top">
 
-Ressort du tribunal d'instance de Châlons-en-Champagne
-
-</td>
+Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er
+canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne</td>
     </tr>
     <tr>
       <td align="left" valign="top">
@@ -2584,7 +2575,7 @@ Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Rennes
 
@@ -2659,29 +2650,7 @@ Ressort du tribunal de grande instance de Quimper
     <tr>
       <td align="left" valign="top">
 
-Ille-et-Vilaine
-
-</td>
-      <td align="left" valign="top">
-
-Rennes
-
-</td>
-      <td align="left" valign="top">
-
-Rennes
-
-</td>
-      <td align="left" valign="top">
-
-Ressort du tribunal de grande instance de Rennes
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-et 
+Ille-et-Vilaine et 
 
 Côtes-d'Armor
 
@@ -2785,7 +2754,7 @@ Ressort du tribunal de grande instance de Vannes
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Riom
 
@@ -2902,7 +2871,7 @@ Ressort des tribunaux de grande instance de Clermont-Ferrand et de Riom
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Rouen
 
@@ -3007,7 +2976,7 @@ Ressort du tribunal de grande instance de Rouen
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Toulouse
 
@@ -3122,7 +3091,7 @@ Ressort du tribunal de grande instance de Montauban
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left" colspan="4" valign="top">
 
 Cour d'appel de Versailles
 
@@ -3223,7 +3192,7 @@ Ressort du tribunal de grande instance de Versailles
 
 _Modifié par_:
 
-  - Décret n°2008-146 du 15 février 2008 - art. 4
+  - Décret n°2009-1629  du 23 décembre 2009 -  Annexe (V)
 
 _Cité par_:
 
