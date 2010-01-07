@@ -4,7 +4,7 @@ Juridictions compétentes en métropole pour connaître, en application de l'art
 
 des procédures applicables aux commerçants et artisans 
 
-<table width="740" border="1" align="center">
+<table border="1" width="740" align="center">
   <tbody>
     <tr>
       <td>
@@ -2260,8 +2260,7 @@ Le département
 
 _Modifié par_:
 
-  - Décret n°2008-146 du 15 février 2008 - art. 4
-  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
+  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
 
 _Cite_:
 

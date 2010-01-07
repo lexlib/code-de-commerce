@@ -4,71 +4,37 @@ Juridictions compétentes dans les départements d'outre-mer pour connaître, en
 
 des procédures applicables aux commerçants et artisans 
 
-<table align="center" border="1" width="740">
+<table border="1" align="center" width="740">
   <tbody>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
-DÉPARTEMENT
-
-</td>
-      <td>
-
-JURIDICTION
+DÉPARTEMENT 
 
 </td>
-      <td colspan="2">
+      <td align="left" valign="top">
 
-RESSORT
+JURIDICTION 
+
+</td>
+      <td align="left" colspan="2" valign="top">
+
+RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
 Guadeloupe 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Tribunal mixte de commerce de Pointe-à-Pitre 
 
 </td>
-      <td align="center">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Guyane 
-
-</td>
-      <td align="center">
-
-Tribunal mixte de commerce de Cayenne 
-
-</td>
-      <td align="center">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Martinique 
-
-</td>
-      <td align="center">
-
-Tribunal mixte de commerce de Fort-de-France 
-
-</td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le département 
 
@@ -76,6 +42,40 @@ Le département
     </tr>
     <tr>
       <td valign="top" align="left">
+
+Guyane 
+
+</td>
+      <td align="left" valign="top">
+
+Tribunal mixte de commerce de Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Martinique 
+
+</td>
+      <td valign="top" align="left">
+
+Tribunal mixte de commerce de Fort-de-France 
+
+</td>
+      <td align="left" valign="top">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 La Réunion 
 
@@ -102,8 +102,7 @@ Ressort du tribunal mixte de commerce
 
 _Modifié par_:
 
-  - Décret n°2008-146 du 15 février 2008 - art. 4
-  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
+  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
 
 _Cite_:
 
