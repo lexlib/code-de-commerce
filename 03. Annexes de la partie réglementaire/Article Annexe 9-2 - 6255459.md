@@ -1,54 +1,37 @@
 # Article Annexe 9-2
 
-JURIDICTIONS COMPÉTENTES DANS LES COLLECTIVITÉS D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE POUR CONNAÎTRE,
+Juridictions compétentes dans les collectivités d'outre-mer et en Nouvelle-Calédonie pour connaître en application de
+l'article L. 610-1 ou de l'article L. 621-5 dans sa version applicable à la Polynésie française des procédures applicables
+aux commerçants et artisans 
 
-EN APPLICATION DE L'ARTICLE L. 610-1, DES PROCÉDURES APPLICABLES AUX COMMERCANTS ET ARTISANS
-
-<table align="center" border="1" width="740" cellspacing="1" cellpadding="0">
+<table align="center" border="1" cellpadding="0" width="740" cellspacing="1">
   <thead>
     <tr>
       <td width="227">
 
-COLLECTIVITÉ
+COLLECTIVITÉ 
 
 </td>
       <td width="227">
 
-JURIDICTION
+JURIDICTION 
 
 </td>
       <td width="227">
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="227" valign="top">
-
-Mayotte. 
-
-</td>
-      <td width="227" valign="top">
-
-Tribunal de première instance de Mamoudzou. 
-
-</td>
-      <td width="227" valign="top">
-
-La collectivité territoriale. 
-
-</td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Saint-Pierre-et-Miquelon. 
 
 </td>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Tribunal de première instance de Saint-Pierre. 
 
@@ -70,19 +53,19 @@ Nouvelle-Calédonie.
 Tribunal mixte de commerce de Nouméa. 
 
 </td>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 La collectivité territoriale. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Polynésie française. 
 
 </td>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Tribunal mixte de commerce de Papeete. 
 
@@ -94,7 +77,7 @@ La collectivité territoriale.
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Wallis et Futuna. 
 
@@ -117,7 +100,12 @@ La collectivité territoriale.
 
 _Modifié par_:
 
-  - Décret n°2009-160 du 12 février 2009 - art. 154 (V)
+  - Décret n°2011-338 du 29 mars 2011 - art.
+
+_Cite_:
+
+  - Code de commerce - art. L610-1 (V)
+  - Code de commerce - art. L621-5 (V)
 
 _Cité par_:
 
