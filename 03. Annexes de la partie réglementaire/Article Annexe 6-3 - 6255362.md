@@ -9,22 +9,22 @@ des procédures applicables aux commerçants et artisans
     <tr>
       <td align="left" valign="top">
 
-DÉPARTEMENT 
+DÉPARTEMENT
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 JURIDICTION 
 
 </td>
-      <td align="left" valign="top" colspan="2">
+      <td colspan="2" align="left" valign="top">
 
 RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Guadeloupe 
 
@@ -51,7 +51,7 @@ Guyane
 Tribunal mixte de commerce de Cayenne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le département 
 
@@ -63,7 +63,7 @@ Le département
 Martinique 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tribunal mixte de commerce de Fort-de-France 
 
@@ -75,7 +75,24 @@ Le département
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
+
+Mayotte 
+
+</td>
+      <td valign="top" align="left">
+
+Tribunal mixte de commerce de Mamoudzou 
+
+</td>
+      <td valign="top" align="left">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
 
 La Réunion 
 
@@ -102,7 +119,7 @@ Ressort du tribunal mixte de commerce
 
 _Modifié par_:
 
-  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cite_:
 
