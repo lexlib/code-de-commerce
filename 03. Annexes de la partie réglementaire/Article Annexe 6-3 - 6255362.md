@@ -7,9 +7,9 @@ des procédures applicables aux commerçants et artisans
 <table width="740" border="1" align="center">
   <tbody>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-DÉPARTEMENT 
+DÉPARTEMENT
 
 </td>
       <td valign="top" align="left">
@@ -46,12 +46,12 @@ Le département
 Guyane 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tribunal mixte de commerce de Cayenne 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le département 
 
@@ -63,7 +63,7 @@ Le département
 Martinique 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Tribunal mixte de commerce de Fort-de-France 
 
@@ -77,17 +77,34 @@ Le département
     <tr>
       <td align="left" valign="top">
 
+Mayotte 
+
+</td>
+      <td valign="top" align="left">
+
+Tribunal mixte de commerce de Mamoudzou 
+
+</td>
+      <td valign="top" align="left">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
 La Réunion 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tribunal mixte de commerce de Saint-Denis 
 
 Tribunal mixte de commerce de Saint-Pierre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal mixte de commerce 
 
@@ -102,7 +119,7 @@ Ressort du tribunal mixte de commerce
 
 _Modifié par_:
 
-  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cite_:
 
