@@ -4,27 +4,27 @@ Juridictions compétentes dans les départements d'outre-mer pour connaître, en
 
 des procédures applicables aux commerçants et artisans 
 
-<table border="1" width="740" align="center">
+<table align="center" width="740" border="1">
   <tbody>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
-DÉPARTEMENT 
+DÉPARTEMENT
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 JURIDICTION 
 
 </td>
-      <td colspan="2" align="left" valign="top">
+      <td align="left" valign="top" colspan="2">
 
 RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Guadeloupe 
 
@@ -34,14 +34,14 @@ Guadeloupe
 Tribunal mixte de commerce de Pointe-à-Pitre 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Guyane 
 
@@ -58,7 +58,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Martinique 
 
@@ -77,6 +77,23 @@ Le département
     <tr>
       <td align="left" valign="top">
 
+Mayotte 
+
+</td>
+      <td valign="top" align="left">
+
+Tribunal mixte de commerce de Mamoudzou 
+
+</td>
+      <td valign="top" align="left">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
 La Réunion 
 
 </td>
@@ -87,7 +104,7 @@ Tribunal mixte de commerce de Saint-Denis
 Tribunal mixte de commerce de Saint-Pierre 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal mixte de commerce 
 
@@ -102,7 +119,7 @@ Ressort du tribunal mixte de commerce
 
 _Modifié par_:
 
-  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cite_:
 
