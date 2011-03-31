@@ -1,6 +1,6 @@
 # Article Annexe 7-3
 
-Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer
+**Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer**
 
 <table border="1" cellpadding="0" cellspacing="0">
   <tbody>
@@ -12,9 +12,7 @@ DÉPARTEMENT
 </td>
       <td rowspan="2" width="124">
 
-TRIBUNAL
-
-de grande instance
+TRIBUNAL de grande instance
 
 </td>
       <td colspan="2" width="420">
@@ -142,22 +140,42 @@ _Cour d'appel de Saint-Denis-de-la-Réunion_
     <tr>
       <td valign="top" width="139">
 
-La Réunion 
+Mayotte
 
 </td>
       <td valign="top" width="124">
 
-Saint-Pierre
+Mamoudzou 
 
 </td>
       <td valign="top" width="195">
 
-Saint-Pierre
+Mamoudzou 
 
 </td>
-      <td valign="top" width="225">
+      <td valign="top" width="225">Ressort du tribunal de grande instance de Mamoudzou 
 
-Ressort du tribunal de grande instance de Saint-Pierre
+</td>
+    </tr>
+    <tr>
+      <td>La Réunion 
+
+</td>
+      <td>Saint-Denis  </td>
+      <td>Saint-Denis  </td>
+      <td>Ressort du tribunal de grande instance de Saint-Denis 
+
+</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Saint-Pierre 
+
+</td>
+      <td>Saint-Pierre 
+
+</td>
+      <td>Ressort du tribunal de grande instance de Saint-Pierre 
 
 </td>
     </tr>
@@ -168,7 +186,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 _Modifié par_:
 
-  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cité par_:
 
