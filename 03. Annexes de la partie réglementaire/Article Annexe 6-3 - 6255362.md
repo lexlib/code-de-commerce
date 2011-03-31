@@ -9,7 +9,7 @@ des procédures applicables aux commerçants et artisans
     <tr>
       <td align="left" valign="top">
 
-DÉPARTEMENT 
+DÉPARTEMENT
 
 </td>
       <td align="left" valign="top">
@@ -77,6 +77,23 @@ Le département
     <tr>
       <td align="left" valign="top">
 
+Mayotte 
+
+</td>
+      <td align="left" valign="top">
+
+Tribunal mixte de commerce de Mamoudzou 
+
+</td>
+      <td align="left" valign="top">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
 La Réunion 
 
 </td>
@@ -102,7 +119,7 @@ Ressort du tribunal mixte de commerce
 
 _Modifié par_:
 
-  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+  - Décret n°2011-338 du 29 mars 2011 - art.
 
 _Cite_:
 
