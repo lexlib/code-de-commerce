@@ -1,12 +1,13 @@
 # Article Annexe 6-4
 
-JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1, DES
-PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
+JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1, 
+
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS 
 
 <pre>
 ┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓
 ┃ DÉPARTEMENT │ JURIDICTION                                    │ RESSORT         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┣━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━┫
 ┃ Guadeloupe. │ Tribunal de grande instance de Basse-Terre.    │ Ressort du TGI. ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃             │ Tribunal de grande instance de Pointe-à-Pitre. │ Ressort du TGI. ┃
@@ -14,6 +15,8 @@ PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 ┃ Guyane.     │ Tribunal de grande instance de Cayenne.        │ Le département. ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Martinique. │ Tribunal de grande instance de Fort-de-France. │ Le département. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Mayotte     │ Tribunal de grande instance de Mamoudzou       │ Le département  ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Réunion.    │ Tribunal de grande instance de Saint-Denis.    │ Ressort du TGI. ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -26,7 +29,15 @@ PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
 _Codifié par_:
 
-  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+  - Décret n°2007-431 du 25 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2011-338 du 29 mars 2011 - art.
+
+_Cite_:
+
+  - Code de commerce - art. L610-1 (V)
 
 _Cité par_:
 
