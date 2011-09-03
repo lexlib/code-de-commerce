@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -1390,12 +1390,12 @@ Vienne
 </td>
       <td>
 
-19 
+26 
 
 </td>
       <td>
 
-3 
+4 
 
 </td>
     </tr>
@@ -3119,10 +3119,6 @@ Versailles
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2010-962 du 26 août 2010 - art.
-
 _Cité par_:
 
   - Décret n°2010-962 du 26 août 2010 - art. 1 (V)
@@ -3130,3 +3126,7 @@ _Cité par_:
   - Décret n°2016-1017 du 25 juillet 2016 - art. 1 (V)
   - Code de commerce - art. A713-11 (V)
   - Code de commerce - art. D721-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-1044 du 1er septembre 2011 - art.
