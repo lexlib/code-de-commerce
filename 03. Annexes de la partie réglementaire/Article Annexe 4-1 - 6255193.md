@@ -4,8 +4,8 @@ JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7,
 
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
-<table align="center" width="740" cellspacing="1" border="1" cellpadding="0">
-  <thead>
+<table width="718" border="1" cellpadding="0" align="center" cellspacing="1">
+  <tbody>
     <tr>
       <td width="227">
 
@@ -20,22 +20,20 @@ RESSORT
 
 </td>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td width="227" valign="top">
 
 Marseille.
 
 </td>
-      <td width="491" valign="top">
+      <td valign="top" width="491">
 
 Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Bordeaux.
 
@@ -66,7 +64,7 @@ Fort-de-France.
 </td>
       <td valign="top" width="491">
 
-Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.
+Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France. 
 
 </td>
     </tr>
@@ -100,7 +98,7 @@ Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy.
 Paris.
 
 </td>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
 Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis-de-la-Réunion et Versailles.
 
@@ -112,7 +110,7 @@ Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis-de-la-Réu
 Rennes.
 
 </td>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
 Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
@@ -125,7 +123,11 @@ Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 _Codifié par_:
 
-  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+  - Décret n°2007-431 du 25 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2011-1877 du 14 décembre 2011 - art.
 
 _Cité par_:
 
