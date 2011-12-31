@@ -36,7 +36,7 @@ Ressort
     <tr>
       <td colspan="4" valign="top" width="683">
 
-_Cour d'appel de Basse-Terre_
+Cour d'appel de Basse-Terre
 
 </td>
     </tr>
@@ -82,7 +82,36 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre
     <tr>
       <td colspan="4" valign="top" width="683">
 
-_Cour d'appel de Fort-de-France_
+Cour d'appel de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Guyane 
+
+</td>
+      <td align="left" valign="top">
+
+Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Cayenne
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal de grande instance de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Fort-de-France
 
 </td>
     </tr>
@@ -109,31 +138,9 @@ Ressort du tribunal de grande instance de Fort-de-France
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139">
-
-Guyane 
-
-</td>
-      <td valign="top" width="124">
-
-Cayenne 
-
-</td>
-      <td valign="top" width="195">
-
-Cayenne
-
-</td>
-      <td valign="top" width="225">
-
-Ressort du tribunal de grande instance de Cayenne 
-
-</td>
-    </tr>
-    <tr>
       <td colspan="4" valign="top" width="683">
 
-_Cour d'appel de Saint-Denis-de-la-Réunion_
+Cour d'appel de Saint-Denis-de-la-Réunion
 
 </td>
     </tr>
@@ -153,29 +160,37 @@ Mamoudzou
 Mamoudzou 
 
 </td>
-      <td valign="top" width="225">Ressort du tribunal de grande instance de Mamoudzou 
+      <td valign="top" width="225">
+
+Ressort du tribunal de grande instance de Mamoudzou 
 
 </td>
     </tr>
     <tr>
-      <td>La Réunion 
+      <td>
+
+La Réunion 
 
 </td>
-      <td>Saint-Denis  </td>
-      <td>Saint-Denis  </td>
-      <td>Ressort du tribunal de grande instance de Saint-Denis 
+      <td>Saint-Denis </td>
+      <td>Saint-Denis </td>
+      <td>
+
+Ressort du tribunal de grande instance de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td> </td>
-      <td>Saint-Pierre 
+      <td>
+      </td><td>Saint-Pierre 
 
 </td>
       <td>Saint-Pierre 
 
 </td>
-      <td>Ressort du tribunal de grande instance de Saint-Pierre 
+      <td>
+
+Ressort du tribunal de grande instance de Saint-Pierre 
 
 </td>
     </tr>
@@ -186,7 +201,7 @@ Mamoudzou
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
 
 _Cité par_:
 
