@@ -17,7 +17,8 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Lille.                                           │ Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen.          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Fort-de-France.                                  │ Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.      ┃
+┃ Fort-de-France.                                  │ Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-       ┃
+┃                                                  │ France.                                                                ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Lyon.                                            │ Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom.      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -36,7 +37,11 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 _Codifié par_:
 
-  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+  - Décret n°2007-431 du 25 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2011-1877 du 14 décembre 2011 - art.
 
 _Cité par_:
 
