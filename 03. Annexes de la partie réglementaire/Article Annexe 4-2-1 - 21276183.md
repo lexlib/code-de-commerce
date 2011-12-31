@@ -11,14 +11,12 @@ DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 SIÈGE DES TRIBUNAUX DE COMMERCE
 
-et des tribunaux mixtes
-
-de commerce 
+et des tribunaux mixtes de commerce 
 
 </td>
       <td>
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
@@ -66,7 +64,7 @@ Fort-de-France.
 </td>
       <td align="center">
 
-Le ressort des cours d'appel de Basse-Terre et de Fort-de-France. 
+Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France. 
 
 </td>
     </tr>
@@ -123,9 +121,9 @@ Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1384 du 11 novembre 2009 - art. 2
+  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
 
 _Cité par_:
 
@@ -134,4 +132,4 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce - art. L442-6 (V)
+  - Code de commerce - art. L442-6
