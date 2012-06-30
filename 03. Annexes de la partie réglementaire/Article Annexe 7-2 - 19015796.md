@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -229,7 +229,7 @@ Aix-en-Provence
 </td>
       <td>
 
-27 
+28 
 
 </td>
       <td>
@@ -918,12 +918,12 @@ Lisieux
 </td>
       <td>
 
-18 
+14 
 
 </td>
       <td>
 
-3 
+2 
 
 </td>
     </tr>
@@ -3129,4 +3129,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1044 du 1er septembre 2011 - art.
+  - Décret n°2012-831 du 29 juin 2012 - art.
