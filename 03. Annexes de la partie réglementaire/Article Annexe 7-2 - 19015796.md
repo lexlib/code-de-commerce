@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -1326,7 +1326,7 @@ Gap
 </td>
       <td>
 
-9 
+11 
 
 </td>
       <td>
@@ -3129,4 +3129,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-831 du 29 juin 2012 - art.
+  - Décret n°2012-1087 du 27 septembre 2012 - art.
