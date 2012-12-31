@@ -168,11 +168,7 @@ Siège et ressort des tribunaux de commerce
 ┃                       ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃                       │ Dunkerque             │ Dunkerque           │ Ressort du tribunal de grande instance de Dunkerque ┃
 ┃                       ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                       │ Lille                 │ Lille               │ Ressort du tribunal d'instance de Lille, à l'excep- ┃
-┃                       │                       │                     │ tion du canton de Lannoy                            ┃
-┃                       │                       ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                       │                       │ Roubaix-Tourcoing   │ Ressort des tribunaux d'instance de Roubaix et de   ┃
-┃                       │                       │                     │ Tourcoing et canton de Lannoy                       ┃
+┃                       │ Lille                 │ Tourcoing           │ Ressort du tribunal de grande instance de Lille     ┃
 ┃                       ├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃                       │ Valenciennes Avesnes- │ Valenciennes        │ Ressort des tribunaux de grande instance de Valen-  ┃
 ┃                       │ sur-Helpe             │                     │ ciennes et d'Avesnes-sur-Helpe                      ┃
@@ -417,8 +413,7 @@ Siège et ressort des tribunaux de commerce
 
 _Modifié par_:
 
-  - Décret n°2010-1774 du 31 décembre 2010 - art.
-  - Décret n°2010-1775 du 31 décembre 2010 - art. (V)
+  - Décret n°2012-1444 du 24 décembre 2012 - art.
 
 _Cité par_:
 
