@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table border="1" cellpadding="0">
+<table align="center" border="1" width="740" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -1210,37 +1210,17 @@ Dunkerque
 </td>
       <td>
 
-Lille 
+Tourcoing 
 
 </td>
       <td>
 
-41 
+65 
 
 </td>
       <td>
 
-7 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Roubaix-Tourcoing 
-
-</td>
-      <td>
-
-29 
-
-</td>
-      <td>
-
-5 
+11 
 
 </td>
     </tr>
@@ -3129,4 +3109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1087 du 27 septembre 2012 - art.
+  - Décret n°2012-1048 du 13 septembre 2012 - art.
