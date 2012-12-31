@@ -2,7 +2,7 @@
 
 Siège et ressort des tribunaux de commerce
 
-<table border="1" cellpadding="0" cellspacing="0">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="740">
   <tbody>
     <tr>
       <td rowspan="2" width="148">
@@ -1180,7 +1180,7 @@ Cour d'appel de Douai
 </td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top" width="148">
+      <td rowspan="4" valign="top" width="148">
 
 Nord 
 
@@ -1216,36 +1216,24 @@ Dunkerque
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal de grande instance de Dunkerque 
+Ressort du tribunal de grande instance de Dunkerque
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="142">
+      <td valign="top" width="142">
 
 Lille 
 
 </td>
       <td valign="top" width="180">
 
-Lille 
+Tourcoing
 
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal d'instance de Lille, à l'exception du canton de Lannoy 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="180">
-
-Roubaix-Tourcoing 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort des tribunaux d'instance de Roubaix et de Tourcoing et canton de Lannoy 
+Ressort du tribunal de grande instance de Lille
 
 </td>
     </tr>
@@ -3089,8 +3077,7 @@ Ressort du tribunal de grande instance de Versailles
 
 _Modifié par_:
 
-  - Décret n°2010-1774 du 31 décembre 2010 - art.
-  - Décret n°2010-1775 du 31 décembre 2010 - art. (V)
+  - Décret n°2012-1444 du 24 décembre 2012 - art.
 
 _Cité par_:
 
