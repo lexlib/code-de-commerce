@@ -172,7 +172,7 @@ Grasse
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal d'instance de Grasse 
+Ressort du tribunal d'instance de Grasse et des cantons de Carros, de Coursegoules et de Vence 
 
 </td>
     </tr>
@@ -184,7 +184,8 @@ Antibes
 </td>
       <td valign="top" width="206">
 
-Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer 
+Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer à l'exception des cantons de Carros, de Coursegoules et de
+Vence 
 
 </td>
     </tr>
@@ -3075,10 +3076,6 @@ Ressort du tribunal de grande instance de Versailles
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2012-1444 du 24 décembre 2012 - art.
-
 _Cité par_:
 
   - Décret n°2012-1444 du 24 décembre 2012 - art. 2 (V)
@@ -3088,3 +3085,7 @@ _Cité par_:
   - Code de commerce - art. R811-7 (V)
   - Code de commerce. - art. A712-27 (V)
   - Code de commerce. - art. A712-28 (V)
+
+_Modifié par_:
+
+  - Décret n°2013-540 du 25 juin 2013 - art.
