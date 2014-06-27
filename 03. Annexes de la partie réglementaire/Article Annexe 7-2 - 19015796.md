@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table width="740" align="center" border="1" cellpadding="0">
+<table align="center" width="740" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -2337,12 +2337,12 @@ La Roche-sur-Yon
 </td>
       <td>
 
-19 
+24 
 
 </td>
       <td>
 
-3 
+4 
 
 </td>
     </tr>
@@ -3109,4 +3109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1048 du 13 septembre 2012 - art.
+  - Décret n°2014-695 du 25 juin 2014 - art.
