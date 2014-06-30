@@ -531,8 +531,7 @@ Visa, cote et paraphe des livres.
     <tr>
       <td colspan="3" valign="top">
 
-Procédures ouvertes après le 1 
-          <sup>er </sup>janvier 2006 en application du livre VI du code de commerce 
+Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce 
 
 </td>
     </tr>
@@ -696,17 +695,17 @@ Mention sur l'état des créances.
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="left" valign="top">
 
 169 
 
 </td>
-      <td valign="top">
+      <td align="left" valign="top">
 
 Dépôt et conservation des documents, actes ou pièces, y inclus procès-verbal et certificat de dépôt ou reçus de déclaration. 
 
 </td>
-      <td valign="top">
+      <td align="left" valign="top">
 
 2 
 
@@ -802,6 +801,23 @@ Personne physique.
 </td>
     </tr>
     <tr>
+      <td>
+
+201 bis 
+
+</td>
+      <td>
+
+Immatriculation principale par création d'une entreprise, personne physique 
+
+</td>
+      <td>
+
+18
+
+</td>
+    </tr>
+    <tr>
       <td valign="top">
 
 202 
@@ -816,6 +832,23 @@ publics.
       <td valign="top">
 
 44 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+202 bis
+
+</td>
+      <td>
+
+Immatriculation principale par création de sociétés commerciales 
+
+</td>
+      <td>
+
+22
 
 </td>
     </tr>
@@ -1162,8 +1195,10 @@ Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
     </tr>
     <tr>
       <td align="center">230 </td>
-      <td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art.
-L. 526-7, L. 526-16 et L. 526-17-II) 
+      <td>
+
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art. L. 526-7,
+L. 526-16 et L. 526-17-II) 
 
 </td>
       <td align="center">32 </td>
@@ -1172,8 +1207,10 @@ L. 526-7, L. 526-16 et L. 526-17-II)
       <td align="center">231 
 
 </td>
-      <td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant
-mentions au RCS (10) 
+      <td>
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au
+RCS (10) 
 
 </td>
       <td align="center">28 
@@ -1182,44 +1219,56 @@ mentions au RCS (10)
     </tr>
     <tr>
       <td align="center">232 </td>
-      <td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des
-actes ou décisions de modification sans mentions RCS (10) 
+      <td>
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou
+décisions de modification sans mentions RCS (10) 
 
 </td>
       <td align="center">14 </td>
     </tr>
     <tr>
       <td align="center">233 </td>
-      <td>Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14) 
+      <td>
+
+Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14) 
 
 </td>
       <td align="center">5 </td>
     </tr>
     <tr>
       <td align="center">234 </td>
-      <td>Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire 
+      <td>
+
+Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire 
 
 </td>
       <td align="center">6 </td>
     </tr>
     <tr>
       <td align="center">235 </td>
-      <td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou
-reçus d'un autre registre ou répertoire aux fins de mentions 
+      <td>
+
+Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un
+autre registre ou répertoire aux fins de mentions 
 
 </td>
       <td align="center">18 </td>
     </tr>
     <tr>
       <td align="center">236 </td>
-      <td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
+      <td>
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
 
 </td>
       <td align="center">7 </td>
     </tr>
     <tr>
       <td align="center">237 </td>
-      <td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
+      <td>
+
+Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
 
 </td>
       <td align="center">6 </td>
@@ -1236,8 +1285,12 @@ Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
       <td align="center">240 
 
 </td>
-      <td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art.
-L. 526-7, L. 526-16 et L. 526-17-II) </td>
+      <td>
+
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7,
+L. 526-16 et L. 526-17-II) 
+
+</td>
       <td align="center">32 
 
 </td>
@@ -1246,8 +1299,12 @@ L. 526-7, L. 526-16 et L. 526-17-II) </td>
       <td align="center">241 
 
 </td>
-      <td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant
-mentions au RSAC (11) </td>
+      <td>
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au
+RSAC (11) 
+
+</td>
       <td align="center">28 
 
 </td>
@@ -1256,29 +1313,39 @@ mentions au RSAC (11) </td>
       <td align="center">242 
 
 </td>
-      <td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des
-actes ou décisions de modification sans mentions au RSAC (11) </td>
+      <td>
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou
+décisions de modification sans mentions au RSAC (11) 
+
+</td>
       <td align="center">14 
 
 </td>
     </tr>
     <tr>
       <td align="center">243 </td>
-      <td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
+      <td>
+
+Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
 
 </td>
       <td align="center">5 </td>
     </tr>
     <tr>
       <td align="center">244 </td>
-      <td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
+      <td>
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
 
 </td>
       <td align="center">7 </td>
     </tr>
     <tr>
       <td align="center">245 </td>
-      <td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
+      <td>
+
+Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
 
 </td>
       <td align="center">6 </td>
@@ -1293,49 +1360,71 @@ actes ou décisions de modification sans mentions au RSAC (11) </td>
     </tr>
     <tr>
       <td align="center">250 </td>
-      <td>Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le
-dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation </td>
+      <td>
+
+Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la
+déclaration d'affectation du patrimoine et les émoluments de radiation 
+
+</td>
       <td align="center">36 </td>
     </tr>
     <tr>
       <td align="center">251 </td>
-      <td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant
-mentions au registre (11) 
+      <td>
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au
+registre (11) 
 
 </td>
       <td align="center">28 </td>
     </tr>
     <tr>
       <td align="center">252 </td>
-      <td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des
-actes ou décisions de modification sans mentions au registre (11) </td>
+      <td>
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou
+décisions de modification sans mentions au registre (11) 
+
+</td>
       <td align="center">14 </td>
     </tr>
     <tr>
       <td align="center">253 </td>
-      <td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
+      <td>
+
+Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
 
 </td>
       <td align="center">5 </td>
     </tr>
     <tr>
-      <td align="center">254 
+      <td align="center">
+
+254 
 
 </td>
-      <td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) </td>
+      <td>
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
+
+</td>
       <td align="center">7 
 
 </td>
     </tr>
     <tr>
       <td align="center">255 </td>
-      <td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
+      <td>
+
+Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
 
 </td>
       <td align="center">6 </td>
     </tr>
     <tr>
-      <td align="center">256 
+      <td align="center">
+
+256 
 
 </td>
       <td>Extrait du registre des entrepreneurs individuels à responsabilité limitée </td>
@@ -3872,14 +3961,14 @@ Le décret du 3 avril 1919 est abrogé et codifié dans la  partie réglementair
 
 _Modifié par_:
 
-  - Décret n°2013-253 du 25 mars 2013 - art. 3 (V)
+  - Décret n°2014-506 du 19 mai 2014 - art. 2
 
 _Cité par_:
 
   - Code de commerce - art. A742-6 (V)
   - Code de commerce - art. R663-19 (M)
-  - Code de commerce - art. R743-140 (V)
+  - Code de commerce - art. R743-140 (VD)
 
 _Cite_:
 
-  - Code des transports - art. R4124-6 (V)
+  - Code des transports - art. R4124-6
