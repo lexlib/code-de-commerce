@@ -132,7 +132,7 @@ Vérification de dépens.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Copie certifiée conforme 
 
@@ -268,7 +268,7 @@ Opposition à injonction de payer.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Jugements 
 
@@ -327,7 +327,7 @@ Jugement : forfait de transmission par partie.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Instruction avant jugement 
 
@@ -531,8 +531,7 @@ Visa, cote et paraphe des livres.
     <tr>
       <td colspan="3" valign="top">
 
-Procédures ouvertes après le 1 
-          <sup>er </sup>janvier 2006 en application du livre VI du code de commerce 
+Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce 
 
 </td>
     </tr>
@@ -696,17 +695,17 @@ Mention sur l'état des créances.
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" align="left">
 
 169 
 
 </td>
-      <td valign="top">
+      <td align="left" valign="top">
 
 Dépôt et conservation des documents, actes ou pièces, y inclus procès-verbal et certificat de dépôt ou reçus de déclaration. 
 
 </td>
-      <td valign="top">
+      <td align="left" valign="top">
 
 2 
 
@@ -754,7 +753,7 @@ Registre du commerce et des sociétés
 
 Registre des agents commerciaux 
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table border="1" cellspacing="1" cellpadding="0">
   <thead>
     <tr>
       <td width="88">
@@ -776,7 +775,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A.-Registre du commerce et des sociétés (1) 
 
@@ -802,6 +801,23 @@ Personne physique.
 </td>
     </tr>
     <tr>
+      <td>
+
+201 bis 
+
+</td>
+      <td>
+
+Immatriculation principale par création d'une entreprise, personne physique 
+
+</td>
+      <td>
+
+18
+
+</td>
+    </tr>
+    <tr>
       <td valign="top">
 
 202 
@@ -816,6 +832,23 @@ publics.
       <td valign="top">
 
 44 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+202 bis
+
+</td>
+      <td>
+
+Immatriculation principale par création de sociétés commerciales 
+
+</td>
+      <td>
+
+22
 
 </td>
     </tr>
@@ -1162,8 +1195,10 @@ Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
     </tr>
     <tr>
       <td align="center">230 </td>
-      <td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art.
-L. 526-7, L. 526-16 et L. 526-17-II) 
+      <td>
+
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art. L. 526-7,
+L. 526-16 et L. 526-17-II) 
 
 </td>
       <td align="center">32 </td>
@@ -1172,8 +1207,10 @@ L. 526-7, L. 526-16 et L. 526-17-II)
       <td align="center">231 
 
 </td>
-      <td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant
-mentions au RCS (10) 
+      <td>
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au
+RCS (10) 
 
 </td>
       <td align="center">28 
@@ -1182,44 +1219,56 @@ mentions au RCS (10)
     </tr>
     <tr>
       <td align="center">232 </td>
-      <td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des
-actes ou décisions de modification sans mentions RCS (10) 
+      <td>
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou
+décisions de modification sans mentions RCS (10) 
 
 </td>
       <td align="center">14 </td>
     </tr>
     <tr>
       <td align="center">233 </td>
-      <td>Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14) 
+      <td>
+
+Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14) 
 
 </td>
       <td align="center">5 </td>
     </tr>
     <tr>
       <td align="center">234 </td>
-      <td>Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire 
+      <td>
+
+Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire 
 
 </td>
       <td align="center">6 </td>
     </tr>
     <tr>
       <td align="center">235 </td>
-      <td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou
-reçus d'un autre registre ou répertoire aux fins de mentions 
+      <td>
+
+Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un
+autre registre ou répertoire aux fins de mentions 
 
 </td>
       <td align="center">18 </td>
     </tr>
     <tr>
       <td align="center">236 </td>
-      <td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
+      <td>
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
 
 </td>
       <td align="center">7 </td>
     </tr>
     <tr>
       <td align="center">237 </td>
-      <td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
+      <td>
+
+Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
 
 </td>
       <td align="center">6 </td>
@@ -1236,8 +1285,12 @@ Dépôt effectué par les entrepreneurs individuels à responsabilité limitée
       <td align="center">240 
 
 </td>
-      <td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art.
-L. 526-7, L. 526-16 et L. 526-17-II) </td>
+      <td>
+
+Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7,
+L. 526-16 et L. 526-17-II) 
+
+</td>
       <td align="center">32 
 
 </td>
@@ -1246,8 +1299,12 @@ L. 526-7, L. 526-16 et L. 526-17-II) </td>
       <td align="center">241 
 
 </td>
-      <td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant
-mentions au RSAC (11) </td>
+      <td>
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au
+RSAC (11) 
+
+</td>
       <td align="center">28 
 
 </td>
@@ -1256,29 +1313,39 @@ mentions au RSAC (11) </td>
       <td align="center">242 
 
 </td>
-      <td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des
-actes ou décisions de modification sans mentions au RSAC (11) </td>
+      <td>
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou
+décisions de modification sans mentions au RSAC (11) 
+
+</td>
       <td align="center">14 
 
 </td>
     </tr>
     <tr>
       <td align="center">243 </td>
-      <td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
+      <td>
+
+Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
 
 </td>
       <td align="center">5 </td>
     </tr>
     <tr>
       <td align="center">244 </td>
-      <td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
+      <td>
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
 
 </td>
       <td align="center">7 </td>
     </tr>
     <tr>
       <td align="center">245 </td>
-      <td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
+      <td>
+
+Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
 
 </td>
       <td align="center">6 </td>
@@ -1293,49 +1360,71 @@ actes ou décisions de modification sans mentions au RSAC (11) </td>
     </tr>
     <tr>
       <td align="center">250 </td>
-      <td>Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le
-dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation </td>
+      <td>
+
+Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la
+déclaration d'affectation du patrimoine et les émoluments de radiation 
+
+</td>
       <td align="center">36 </td>
     </tr>
     <tr>
       <td align="center">251 </td>
-      <td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant
-mentions au registre (11) 
+      <td>
+
+Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au
+registre (11) 
 
 </td>
       <td align="center">28 </td>
     </tr>
     <tr>
       <td align="center">252 </td>
-      <td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des
-actes ou décisions de modification sans mentions au registre (11) </td>
+      <td>
+
+Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou
+décisions de modification sans mentions au registre (11) 
+
+</td>
       <td align="center">14 </td>
     </tr>
     <tr>
       <td align="center">253 </td>
-      <td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
+      <td>
+
+Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) 
 
 </td>
       <td align="center">5 </td>
     </tr>
     <tr>
-      <td align="center">254 
+      <td align="center">
+
+254 
 
 </td>
-      <td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) </td>
+      <td>
+
+Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) 
+
+</td>
       <td align="center">7 
 
 </td>
     </tr>
     <tr>
       <td align="center">255 </td>
-      <td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
+      <td>
+
+Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation 
 
 </td>
       <td align="center">6 </td>
     </tr>
     <tr>
-      <td align="center">256 
+      <td align="center">
+
+256 
 
 </td>
       <td>Extrait du registre des entrepreneurs individuels à responsabilité limitée </td>
@@ -1390,7 +1479,7 @@ TABLEAU III ANNEXÉ À L'ARTICLE R. 743-140
 
 Privilèges et sûretés 
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table border="1" cellspacing="1" cellpadding="0">
   <thead>
     <tr>
       <td width="91">
@@ -1414,7 +1503,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 A.-Privilège du Trésor en matière fiscale 
 
@@ -1489,14 +1578,14 @@ Mention d'une contestation en marge d'une inscription.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 B.-Privilège de la sécurité sociale et des régimes complémentaires 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, radiation totale d'une inscription non périmée 
 
@@ -1537,7 +1626,7 @@ Montant des sommes privilégiées supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée 
 
@@ -1578,7 +1667,7 @@ Montant des sommes privilégiées supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Renouvellement d'une inscription, subrogation 
 
@@ -1671,14 +1760,14 @@ Délivrance d'un certificat de subrogation, de mention de saisie, de radiation d
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 C.-Vente et nantissement des fonds de commerce 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, y compris radiation totale d'une inscription non périmée 
 
@@ -1925,7 +2014,7 @@ Copie certifiée conforme.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 D.-Nantissement d'un fonds agricole ou d'un fonds artisanal 
 
@@ -1971,7 +2060,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 G.-Gage des stocks 
 
@@ -1994,7 +2083,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 H.-Nantissement de l'outillage et du matériel 
 
@@ -2026,7 +2115,7 @@ I.-Gage sur meubles corporels
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, y compris radiation totale d'une inscription (montant de la somme garantie) 
 
@@ -2084,7 +2173,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Radiation partielle d'une inscription non périmée 
 
@@ -2144,7 +2233,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription (montant de la somme garantie) 
 
@@ -2479,7 +2568,7 @@ nantissement de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) A l'exclusion des warrants agricoles. 
 
@@ -2499,7 +2588,7 @@ TABLEAU IV ANNEXÉ À L'ARTICLE R. 743-140
 
 Publicités diverses 
 
-<table cellpadding="0" cellspacing="1" border="1">
+<table border="1" cellpadding="0" cellspacing="1">
   <thead>
     <tr>
       <td width="91">
@@ -2521,7 +2610,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A.-Crédit-bail en matière mobilière 
 
@@ -2705,7 +2794,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 C.-Inscription sur le registre spécial des prêts et délais 
 
@@ -2889,7 +2978,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 E.-Clause d'inaliénabilité 
 
@@ -2988,7 +3077,7 @@ F.-Publicité des protêts et des certificats de non-paiement des chèques posta
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription d'un protêt y compris radiation (2) (montant de la somme inscrit dans l'acte) 
 
@@ -3046,14 +3135,14 @@ Délivrance d'un extrait de registre des protêts positif ou négatif.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 G.-Immatriculation des bateaux de rivière 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription et radiation d'un acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droit réel (3)
 (montant de la somme inscrit dans l'acte) 
@@ -3298,14 +3387,14 @@ immatriculation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) Il n'est rien perçu, en sus de l'émolument ainsi fixé, pour toute radiation consécutive à un report d'inscription. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (2) Pour l'ensemble des formalités (réception de la copie du protêt, délivrance d'un récépissé, inscription sur le registre
 et fichiers, etc.) ainsi que, en ce qui concerne les protêts de chèques, pour la réception et la transmission de la copie
@@ -3314,7 +3403,7 @@ destinée au procureur de la République.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (3) Lorsque l'inscription est requise sur plusieurs bateaux et porte, pour chacun d'eux, sur la totalité de la créance, le
 droit proportionnel est réduit :
@@ -3386,7 +3475,7 @@ TABLEAU VI ANNEXÉ À L'ARTICLE R. 743-140
 
 Opérations diverses 
 
-<table cellspacing="1" border="1" cellpadding="0">
+<table cellpadding="0" cellspacing="1" border="1">
   <thead>
     <tr>
       <td width="91">
@@ -3408,7 +3497,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Séquestre judiciaire 
 
@@ -3610,7 +3699,7 @@ De 1 à 5 salariés
 De 6 à 19 salariés 
 
 </td>
-        <td colspan="2" valign="top">
+        <td valign="top" colspan="2">
 
 De 20 à 150 salariés 
 
@@ -3830,7 +3919,7 @@ Total...
     </tbody>
   </table>
 
-<table cellspacing="1" border="1" cellpadding="0">
+<table cellpadding="0" border="1" cellspacing="1">
   <tbody>
     <tr>
       <td valign="top">
@@ -3872,14 +3961,14 @@ Le décret du 3 avril 1919 est abrogé et codifié dans la  partie réglementair
 
 _Modifié par_:
 
-  - Décret n°2013-253 du 25 mars 2013 - art. 3 (V)
+  - Décret n°2014-506 du 19 mai 2014 - art. 2
 
 _Cité par_:
 
   - Code de commerce - art. A742-6 (V)
   - Code de commerce - art. R663-19 (M)
-  - Code de commerce - art. R743-140 (V)
+  - Code de commerce - art. R743-140 (VD)
 
 _Cite_:
 
-  - Code des transports - art. R4124-6 (V)
+  - Code des transports - art. R4124-6
