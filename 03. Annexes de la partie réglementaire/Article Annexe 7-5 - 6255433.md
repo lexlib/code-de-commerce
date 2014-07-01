@@ -6,7 +6,7 @@ TABLEAU I ANNEXÉ À L'ARTICLE R. 743-140
 
 ACTES JUDICIAIRES (1) 
 
-<table cellpadding="0" cellspacing="1" border="1">
+<table cellpadding="0" border="1" cellspacing="1" width="740" align="center">
   <thead>
     <tr>
       <td width="91">
@@ -132,7 +132,7 @@ Vérification de dépens.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Copie certifiée conforme 
 
@@ -268,7 +268,7 @@ Opposition à injonction de payer.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Jugements 
 
@@ -402,7 +402,7 @@ Prestation de serment.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Référés 
 
@@ -700,12 +700,12 @@ Mention sur l'état des créances.
 169 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dépôt et conservation des documents, actes ou pièces, y inclus procès-verbal et certificat de dépôt ou reçus de déclaration. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 2 
 
@@ -753,7 +753,7 @@ Registre du commerce et des sociétés
 
 Registre des agents commerciaux 
 
-<table cellspacing="1" border="1" cellpadding="0">
+<table cellspacing="1" cellpadding="0" border="1" align="center" width="740">
   <thead>
     <tr>
       <td width="88">
@@ -1128,7 +1128,7 @@ Diligences de transmission de la formalité à l'INPI.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 B.-Registre des agents commerciaux 
 
@@ -1427,7 +1427,11 @@ Copie des comptes annuels ou du document comptable simplifié ou de la déclarat
 256 
 
 </td>
-      <td>Extrait du registre des entrepreneurs individuels à responsabilité limitée </td>
+      <td>
+
+Extrait du registre des entrepreneurs individuels à responsabilité limitée 
+
+</td>
       <td align="center">2 
 
 </td>
@@ -1479,7 +1483,7 @@ TABLEAU III ANNEXÉ À L'ARTICLE R. 743-140
 
 Privilèges et sûretés 
 
-<table cellpadding="0" border="1" cellspacing="1">
+<table align="center" cellpadding="0" width="740" border="1" cellspacing="1">
   <thead>
     <tr>
       <td width="91">
@@ -1503,7 +1507,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A.-Privilège du Trésor en matière fiscale 
 
@@ -1585,7 +1589,7 @@ B.-Privilège de la sécurité sociale et des régimes complémentaires
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, radiation totale d'une inscription non périmée 
 
@@ -1626,7 +1630,7 @@ Montant des sommes privilégiées supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée 
 
@@ -1827,7 +1831,7 @@ Montant supérieur ou égal à 32 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée 
 
@@ -1868,7 +1872,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription 
 
@@ -2037,7 +2041,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 F.-Nantissement judiciaire 
 
@@ -2060,7 +2064,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 G.-Gage des stocks 
 
@@ -2083,7 +2087,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 H.-Nantissement de l'outillage et du matériel 
 
@@ -2106,7 +2110,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 I.-Gage sur meubles corporels 
 
@@ -2173,7 +2177,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Radiation partielle d'une inscription non périmée 
 
@@ -2545,7 +2549,7 @@ Rédaction de lettre recommandée (en cas de formalité obligatoire).
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 K.-Nantissement de parts sociales ou de meubles incorporels 
 
@@ -2575,7 +2579,7 @@ nantissement de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (2) Il n'est rien dû pour les mentions portées sur le registre des avis et oppositions. 
 
@@ -2588,7 +2592,7 @@ TABLEAU IV ANNEXÉ À L'ARTICLE R. 743-140
 
 Publicités diverses 
 
-<table border="1" cellspacing="1" cellpadding="0">
+<table width="740" align="center" cellspacing="1" border="1" cellpadding="0">
   <thead>
     <tr>
       <td width="91">
@@ -2610,7 +2614,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A.-Crédit-bail en matière mobilière 
 
@@ -2794,7 +2798,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 C.-Inscription sur le registre spécial des prêts et délais 
 
@@ -2886,7 +2890,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 D.-Clause de réserve de propriété 
 
@@ -2978,7 +2982,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 E.-Clause d'inaliénabilité 
 
@@ -3070,14 +3074,14 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 F.-Publicité des protêts et des certificats de non-paiement des chèques postaux 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription d'un protêt y compris radiation (2) (montant de la somme inscrit dans l'acte) 
 
@@ -3135,14 +3139,14 @@ Délivrance d'un extrait de registre des protêts positif ou négatif.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 G.-Immatriculation des bateaux de rivière 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Inscription et radiation d'un acte ou jugement translatif, constitutif ou déclaratif de propriété ou de droit réel (3)
 (montant de la somme inscrit dans l'acte) 
@@ -3223,7 +3227,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription (sur la valeur de la plus faible inscription faisant
 l'objet de la subrogation ou du renouvellement) (montant de la somme inscrit dans l'acte) 
@@ -3387,14 +3391,14 @@ immatriculation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (1) Il n'est rien perçu, en sus de l'émolument ainsi fixé, pour toute radiation consécutive à un report d'inscription. 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (2) Pour l'ensemble des formalités (réception de la copie du protêt, délivrance d'un récépissé, inscription sur le registre
 et fichiers, etc.) ainsi que, en ce qui concerne les protêts de chèques, pour la réception et la transmission de la copie
@@ -3403,7 +3407,7 @@ destinée au procureur de la République.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (3) Lorsque l'inscription est requise sur plusieurs bateaux et porte, pour chacun d'eux, sur la totalité de la créance, le
 droit proportionnel est réduit :
@@ -3423,7 +3427,7 @@ TABLEAU V ANNEXÉ À L'ARTICLE R. 743-140
 
 Propriétés industrielles 
 
-<table cellpadding="0" border="1" cellspacing="1">
+<table align="center" cellspacing="1" border="1" width="740" cellpadding="0">
   <thead>
     <tr>
       <td width="91">
@@ -3462,7 +3466,7 @@ Dépôt de dessins et modèles (1).
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) Pour l'ensemble des formalités y compris le récépissé de dépôt. 
 
@@ -3475,7 +3479,7 @@ TABLEAU VI ANNEXÉ À L'ARTICLE R. 743-140
 
 Opérations diverses 
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table width="740" cellpadding="0" align="center" border="1" cellspacing="1">
   <thead>
     <tr>
       <td width="91">
@@ -3497,7 +3501,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Séquestre judiciaire 
 
@@ -3620,306 +3624,304 @@ Emoluments du greffe par débiteur et forfait de transmission
 
 (hors frais d'huissiers, frais relatifs aux journaux d'annonces légales, BODACC) 
 
-(Exprimés en taux de base) 
+(Exprimés en taux de base)
 
-<table cellpadding="0" border="1" cellspacing="1">
-    <thead>
-      <tr>
-        <td width="104">
+<table align="center" cellspacing="1" width="740" border="1" cellpadding="0">
+  <tbody>
+    <tr>
+      <td width="104">
 
 NUMÉROS 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 701 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 702 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 703 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 704 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 705 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 706 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 707 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 708 
 
 </td>
-        <td width="39">
+      <td width="39">
 
 709 
 
 </td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top">
 
 Nombre de salariés... 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 Aucun salarié 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 De 1 à 5 salariés 
 
 </td>
-        <td valign="top" colspan="2">
+      <td valign="top" colspan="2">
 
 De 6 à 19 salariés 
 
 </td>
-        <td valign="top" colspan="2">
+      <td valign="top" colspan="2">
 
 De 20 à 150 salariés 
 
 </td>
-        <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Plus de 150 salariés 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top">
 
 Seuil de CA... 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA inférieur à 750 k € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA supérieur à 750 k € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA inférieur à 3 000 k € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA supérieur à 3 000 k € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA inférieur à 20 000 k € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA de 20 000 k € à 50 000 k € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 CA supérieur à 50 000 k € 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top">
 
 Droit principal.-Nombre de taux de base... 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 480 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 525 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 1 100 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 1 240 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 2 090 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 2 580 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 5 294 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 7 468 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 12 520 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top">
 
 Frais de transmission.
 
 - Nombre de taux de base... 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 60 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 65 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 120 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 230 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 300 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 380 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 596 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 682 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 760 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top">
 
 Total... 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 702 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 767 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 1 586 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 1 911 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 3 107 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 3 848 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 7 657 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 10 595 € 
 
 </td>
-        <td valign="top">
+      <td valign="top">
 
 17 264 € 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
-<table border="1" cellpadding="0" cellspacing="1">
+<table cellspacing="1" border="1" cellpadding="0" align="center" width="740">
   <tbody>
     <tr>
       <td valign="top">
@@ -3949,10 +3951,116 @@ moitié du droit au greffe de l'établissement secondaire)...
   </tbody>
 </table>
 
-**Nota:**
+TABLEAU VIII ANNEXÉ À L'ARTICLE R. 743-140 
 
-Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont
-applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+Par exception au principe de la facturation des actes dont le tarif est fixé par le tableau I, les émoluments et les frais de
+transmission de la procédure de rétablissement professionnel ouverte font l'objet d'une tarification forfaitaire par
+débiteur. 
+
+Cette tarification forfaitaire ne comprend pas les émoluments, les frais et les débours résultant des actions prévues au
+titre V du livre VI, dont le tarif est fixé par le tableau I, ainsi que les frais de copies d'actes ou de pièces délivrées
+aux parties. 
+
+En cas d'ouverture d'une liquidation judiciaire dans les conditions prévues à l'article L. 645-9, le forfait applicable est
+celui prévu au tableau VII, déduction faite des sommes dues au titre du droit principal en application du présent tableau. 
+
+Tarification forfaitaire applicable à la procédure de rétablissement professionnel 
+
+Emoluments du greffe par débiteur et forfait de transmission (hors frais d'huissiers, frais relatifs aux journaux d'annonces
+légales, BODACC) 
+
+<table width="740" border="1" align="center">
+  <tbody>
+    <tr>
+      <td>
+
+NUMÉROS
+
+</td>
+      <td>
+
+NATURE DES ACTES
+
+</td>
+      <td>
+
+ÉMOLUMENTS
+
+(taux de base) 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+801 
+
+</td>
+      <td>
+
+Droit principal. 
+
+</td>
+      <td align="center">
+
+300 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+802 
+
+</td>
+      <td>
+
+Droit accessoire par procédure devant le juge commis statuant sur une demande de report ou de délai de paiement en
+application de l'article L. 645-6.
+
+</td>
+      <td align="center">
+
+50 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+809 
+
+</td>
+      <td>
+
+Frais de transmission. 
+
+</td>
+      <td align="center">
+
+50 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+819 
+
+</td>
+      <td>
+
+Droit accessoire en cas d'ouverture d'une procédure de liquidation judiciaire en application de l'article L. 645-9.
+
+</td>
+      <td align="center">
+
+60</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
 
 Le décret du 3 avril 1919 est abrogé et codifié dans la  partie réglementaire du code des transports par le décret n°
 2013-253 du 25 mars 2013, article 4.
@@ -3961,13 +4069,13 @@ Le décret du 3 avril 1919 est abrogé et codifié dans la  partie réglementair
 
 _Modifié par_:
 
-  - Décret n°2014-506 du 19 mai 2014 - art. 2
+  - Décret n°2014-736 du 30 juin 2014 - art. 133
 
 _Cité par_:
 
   - Code de commerce - art. A742-6 (V)
   - Code de commerce - art. R663-19 (M)
-  - Code de commerce - art. R743-140 (VD)
+  - Code de commerce - art. R743-140 (V)
 
 _Cite_:
 
