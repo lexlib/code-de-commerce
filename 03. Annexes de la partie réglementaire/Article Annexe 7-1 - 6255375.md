@@ -447,7 +447,9 @@ Maine-et-Loire
 </td>
       <td valign="top" width="142">
 
-Angers 
+Angers
+
+Saumur
 
 </td>
       <td valign="top" width="180">
@@ -457,53 +459,21 @@ Angers
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal de grande instance d'Angers 
+Ressort des tribunaux de grande instance de d'Angers et de Saumur
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="148">
-
-Mayenne 
-
-</td>
-      <td valign="top" width="142">
-
-Laval 
-
-</td>
-      <td valign="top" width="180">
-
-Laval 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance de Laval 
-
-</td>
+      <td>Mayenne </td>
+      <td>Laval </td>
+      <td>Laval </td>
+      <td>Ressort du tribunal de grande instance de Laval </td>
     </tr>
     <tr>
-      <td valign="top" width="148">
-
-Sarthe 
-
-</td>
-      <td valign="top" width="142">
-
-Le Mans 
-
-</td>
-      <td valign="top" width="180">
-
-Le Mans 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance du Mans 
-
-</td>
+      <td>Sarthe </td>
+      <td>Le Mans </td>
+      <td>Le Mans </td>
+      <td>Ressort du tribunal de grande instance du Mans </td>
     </tr>
     <tr>
       <td colspan="4" width="675">
@@ -1258,9 +1228,9 @@ Ressort des tribunaux de grande instance de Valenciennes et d'Avesnes-sur-Helpe
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="148">
+      <td valign="top" width="148">
 
-Pas-de-Calais 
+Pas-de-Calais
 
 </td>
       <td valign="top" width="142">
@@ -1282,16 +1252,19 @@ Ressort des tribunaux de grande instance d'Arras et de Béthune
 </td>
     </tr>
     <tr>
-      <td valign="top" width="142">
-
-Boulogne-sur-Mer
+      <td>
 
 Saint-Omer 
 
 </td>
+      <td valign="top" width="142">
+
+Boulogne-sur-Mer
+
+</td>
       <td valign="top" width="180">
 
-Boulogne-sur-Mer 
+Boulogne-sur-Mer
 
 </td>
       <td valign="top" width="206">
@@ -1405,7 +1378,9 @@ Corrèze
 </td>
       <td valign="top" width="142">
 
-Brive-la-Gaillarde 
+Brive-la-Gaillarde
+
+Tulle
 
 </td>
       <td valign="top" width="180">
@@ -1415,53 +1390,21 @@ Brive-la-Gaillarde
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal de grande instance de Brive-la-Gaillarde 
+Ressort des tribunaux de grande instance de Brive-la-Gaillarde et de Tulle
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="148">
-
-Creuse 
-
-</td>
-      <td valign="top" width="142">
-
-Guéret 
-
-</td>
-      <td valign="top" width="180">
-
-Guéret 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance de Guéret 
-
-</td>
+      <td>Creuse </td>
+      <td>Guéret </td>
+      <td>Guéret </td>
+      <td>Ressort du tribunal de grande instance de Guéret </td>
     </tr>
     <tr>
-      <td valign="top" width="148">
-
-Haute-Vienne 
-
-</td>
-      <td valign="top" width="142">
-
-Limoges 
-
-</td>
-      <td valign="top" width="180">
-
-Limoges 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance de Limoges 
-
-</td>
+      <td>Haute-Vienne </td>
+      <td>Limoges </td>
+      <td>Limoges </td>
+      <td>Ressort du tribunal de grande instance de Limoges </td>
     </tr>
     <tr>
       <td colspan="4" width="675">
@@ -1500,19 +1443,33 @@ Loire
 </td>
       <td valign="top" width="142">
 
-Saint-Etienne
+Roanne
 
 </td>
       <td valign="top" width="180">
 
-Saint-Etienne
+Roanne
 
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal de grande instance de Saint-Etienne
+Ressort du tribunal de grande instance de Roanne
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+Saint-Etienne
+
+</td>
+      <td>
+
+Saint-Etienne
+
+</td>
+      <td>Ressort du tribunal de grande instance de Saint-Etienne </td>
     </tr>
     <tr>
       <td rowspan="2" valign="top" width="148">
@@ -2563,15 +2520,33 @@ Ille-et-Vilaine et Côtes-d'Armor
 </td>
       <td valign="top" width="142">
 
-Saint-Malo 
+Rennes
 
 </td>
       <td valign="top" width="180">
 
-Saint-Malo 
+Rennes
 
 </td>
       <td valign="top" width="206">
+
+Ressort du tribunal de grande instance de Rennes
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+Saint-Malo 
+
+</td>
+      <td>
+
+Saint-Malo 
+
+</td>
+      <td>
 
 Ressort du tribunal de grande instance de Saint-Malo 
 
@@ -2874,7 +2849,7 @@ Cour d'appel de Toulouse
     <tr>
       <td valign="top" width="148">
 
-Ariège 
+Ariège
 
 </td>
       <td valign="top" width="142">
@@ -2894,87 +2869,46 @@ Ressort du tribunal de grande instance de Foix
 </td>
     </tr>
     <tr>
-      <td valign="top" width="148">
+      <td>
 
 Haute-Garonne 
 
 </td>
-      <td valign="top" width="142">
+      <td>
+
+Toulouse
+
+Saint-Gaudens
+
+</td>
+      <td>
 
 Toulouse 
 
 </td>
-      <td valign="top" width="180">
+      <td>
 
-Toulouse 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance de Toulouse 
+Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="148">
-
-Tarn 
-
-</td>
-      <td valign="top" width="142">
-
-Albi 
-
-</td>
-      <td valign="top" width="180">
-
-Albi 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance d'Albi 
-
-</td>
+      <td>Tarn </td>
+      <td>Albi </td>
+      <td>Albi </td>
+      <td>Ressort du tribunal de grande instance d'Albi </td>
     </tr>
     <tr>
-      <td valign="top" width="142">
-
-Castres 
-
-</td>
-      <td valign="top" width="180">
-
-Castres 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance de Castres 
-
-</td>
+      <td>
+      </td><td>Castres </td>
+      <td>Castres </td>
+      <td>Ressort du tribunal de grande instance de Castres </td>
     </tr>
     <tr>
-      <td valign="top" width="148">
-
-Tarn-et-Garonne 
-
-</td>
-      <td valign="top" width="142">
-
-Montauban 
-
-</td>
-      <td valign="top" width="180">
-
-Montauban 
-
-</td>
-      <td valign="top" width="206">
-
-Ressort du tribunal de grande instance de Montauban 
-
-</td>
+      <td>Tarn-et-Garonne </td>
+      <td>Montauban </td>
+      <td>Montauban </td>
+      <td>Ressort du tribunal de grande instance de Montauban </td>
     </tr>
     <tr>
       <td colspan="4" width="675">
@@ -3088,4 +3022,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-540 du 25 juin 2013 - art.
+  - Décret n°2013-1258 du 27 décembre 2013 - art. 5
