@@ -992,6 +992,17 @@ Dépôt des comptes annuels.
 </td>
     </tr>
     <tr>
+      <td align="center">210  bis
+
+</td>
+      <td>
+
+Dépôt des comptes annuels assortis d'une déclaration de confidentialité 
+
+</td>
+      <td align="center"> 5</td>
+    </tr>
+    <tr>
       <td valign="top">
 
 211 
@@ -1024,6 +1035,20 @@ Certificat négatif d'immatriculation, communication d'actes ou de pièces dépo
 1 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+
+212 bis
+
+</td>
+      <td align="center" valign="middle">
+        Certificat attestant que les comptes annuels ont été déposés 
+
+mais ne sont pas rendus publics.
+
+</td>
+      <td align="center"> 1</td>
     </tr>
     <tr>
       <td valign="top">
@@ -1109,6 +1134,15 @@ Copie de statuts, actes ou de pièces déposées (forfait).
 6 
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+217 bis 
+
+</td>
+      <td>Copie de la déclaration de confidentialité des comptes annuels </td>
+      <td align="center"> 1</td>
     </tr>
     <tr>
       <td valign="top">
@@ -4069,7 +4103,11 @@ Le décret du 3 avril 1919 est abrogé et codifié dans la  partie réglementair
 
 _Modifié par_:
 
-  - Décret n°2014-736 du 30 juin 2014 - art. 133
+  - Décret n°2014-1189 du 15 octobre 2014 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art. 10 (V)
 
 _Cité par_:
 
