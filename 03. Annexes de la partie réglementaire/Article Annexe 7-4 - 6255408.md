@@ -4,7 +4,7 @@ Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
 
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
-<table border="1" cellpadding="0" width="740" align="center">
+<table cellpadding="0" width="740" align="center" border="1">
   <tbody>
     <tr>
       <td>
@@ -57,9 +57,7 @@ Saverne
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Strasbourg
 
@@ -89,9 +87,7 @@ Colmar
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Mulhouse
 
@@ -130,9 +126,7 @@ Metz
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Sarreguemines
 
@@ -145,9 +139,7 @@ Sarreguemines
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Thionville
 
@@ -163,7 +155,7 @@ Thionville
 
 Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
 
-<table width="740" cellpadding="0" align="center" border="1">
+<table width="740" cellpadding="0" border="1" align="center">
   <tbody>
     <tr>
       <td>
@@ -312,7 +304,7 @@ Saint-Denis
 </td>
       <td align="center">
 
-5
+8
 
 </td>
     </tr>
@@ -338,7 +330,7 @@ Saint-Pierre
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
+  - Décret n°2015-801 du 1er juillet 2015 - art.
 
 _Cité par_:
 
