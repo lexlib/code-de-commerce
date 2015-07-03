@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
 
-<table cellpadding="0" width="740" align="center" border="1">
+<table align="center" border="1" width="740" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -442,7 +442,7 @@ Compiègne
 </td>
       <td>
 
-16 
+21 
 
 </td>
       <td>
@@ -1556,7 +1556,7 @@ Villefranche-sur-Saône
 </td>
       <td>
 
-12 
+16 
 
 </td>
       <td>
@@ -1605,7 +1605,7 @@ Narbonne
 </td>
       <td>
 
-13 
+15 
 
 </td>
       <td>
@@ -2273,7 +2273,7 @@ La Rochelle
 </td>
       <td>
 
-24 
+27 
 
 </td>
       <td>
@@ -2293,7 +2293,7 @@ Saintes
 </td>
       <td>
 
-15 
+18 
 
 </td>
       <td>
@@ -2315,7 +2315,7 @@ Niort
 </td>
       <td>
 
-16 
+19 
 
 </td>
       <td>
@@ -2359,12 +2359,12 @@ Poitiers
 </td>
       <td>
 
-17 
+20 
 
 </td>
       <td>
 
-3 
+4 
 
 </td>
     </tr>
@@ -2649,7 +2649,7 @@ Vannes
 </td>
       <td>
 
-14 
+16 
 
 </td>
       <td>
@@ -3041,7 +3041,7 @@ Nanterre
 </td>
       <td>
 
-64 
+72 
 
 </td>
       <td>
@@ -3109,4 +3109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-695 du 25 juin 2014 - art.
+  - Décret n°2015-801 du 1er juillet 2015 - art.
