@@ -4,7 +4,7 @@ Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
 
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
-<table width="740" cellpadding="0" align="center" border="1">
+<table border="1" cellpadding="0" align="center" width="740">
   <tbody>
     <tr>
       <td>
@@ -155,7 +155,7 @@ Thionville
 
 Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
 
-<table align="center" cellpadding="0" width="740" border="1">
+<table cellpadding="0" width="740" border="1" align="center">
   <tbody>
     <tr>
       <td>
@@ -261,7 +261,7 @@ Fort-de-France
 </td>
       <td>
 
-7
+9
 
 </td>
     </tr>
@@ -330,7 +330,7 @@ Saint-Pierre
 
 _Modifié par_:
 
-  - Décret n°2015-801 du 1er juillet 2015 - art.
+  - Décret n°2015-906 du 23 juillet 2015 - art.
 
 _Cité par_:
 
