@@ -261,7 +261,7 @@ Fort-de-France
 </td>
       <td>
 
-7
+9
 
 </td>
     </tr>
@@ -330,7 +330,7 @@ Saint-Pierre
 
 _Modifié par_:
 
-  - Décret n°2015-801 du 1er juillet 2015 - art.
+  - Décret n°2015-906 du 23 juillet 2015 - art.
 
 _Cité par_:
 
