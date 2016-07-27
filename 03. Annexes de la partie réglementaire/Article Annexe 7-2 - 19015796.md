@@ -1,433 +1,158 @@
 # Article Annexe 7-2
 
-NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE 
+NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
-<table cellpadding="0" border="1" width="740" align="center">
+<table align="center" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
 
-DÉPARTEMENTS 
+DÉPARTEMENTS
 
 </td>
       <td>
 
-SIÈGE 
+SIÈGE
 
-du tribunal de commerce 
-
-</td>
-      <td>
-
-NOMBRE DE JUGES 
-
-du tribunal de commerce 
+du tribunal de commerce
 
 </td>
       <td>
 
-NOMBRE DE CHAMBRES 
+NOMBRE DE JUGES
 
-du tribunal de commerce 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel d'Agen 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Gers 
+du tribunal de commerce
 
 </td>
       <td>
 
-Auch 
+NOMBRE DE CHAMBRES
 
-</td>
-      <td>
-
-12 
-
-</td>
-      <td>
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lot 
-
-</td>
-      <td>
-
-Cahors 
-
-</td>
-      <td>
-
-12 
-
-</td>
-      <td>
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lot-et-Garonne 
-
-</td>
-      <td>
-
-Agen 
-
-</td>
-      <td>
-
-21 
-
-</td>
-      <td>
-
-4 
+du tribunal de commerce
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel d'Aix-en-Provence 
+Cour d'appel d'Agen
 
 </td>
     </tr>
     <tr>
       <td>
 
-Alpes-de-Haute-Provence 
+Gers
 
 </td>
       <td>
 
-Manosque 
+Auch
 
 </td>
       <td>
 
-13 
+12
 
 </td>
       <td>
 
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Alpes-Maritimes 
-
-</td>
-      <td>
-
-Antibes 
-
-</td>
-      <td>
-
-26 
-
-</td>
-      <td>
-
-4 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Cannes 
+Lot
 
 </td>
       <td>
 
-23 
+Cahors
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
+12
 
 </td>
       <td>
 
-Grasse 
-
-</td>
-      <td>
-
-16 
-
-</td>
-      <td>
-
-3 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Nice 
+Lot-et-Garonne
 
 </td>
       <td>
 
-45 
+Agen
 
 </td>
       <td>
 
-7 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Bouches-du-Rhône 
+21
 
 </td>
       <td>
 
-Aix-en-Provence 
-
-</td>
-      <td>
-
-28 
-
-</td>
-      <td>
-
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Salon-de-Provence 
-
-</td>
-      <td>
-
-19 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Marseille 
-
-</td>
-      <td>
-
-80 
-
-</td>
-      <td>
-
-12 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Tarascon 
-
-</td>
-      <td>
-
-20 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Var 
-
-</td>
-      <td>
-
-Draguignan 
-
-</td>
-      <td>
-
-19 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Fréjus 
-
-</td>
-      <td>
-
-24 
-
-</td>
-      <td>
-
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Toulon 
-
-</td>
-      <td>
-
-34 
-
-</td>
-      <td>
-
-5 
+4
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel d'Amiens 
+Cour d'appel d'Aix-en-Provence
 
 </td>
     </tr>
     <tr>
       <td>
 
-Aisne 
+Alpes-de-Haute-Provence
 
 </td>
       <td>
 
-Saint-Quentin 
+Manosque
 
 </td>
       <td>
 
-22 
+13
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Soissons 
-
-</td>
-      <td>
-
-13 
-
-</td>
-      <td>
-
-2 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Oise 
+Alpes-Maritimes
 
 </td>
       <td>
 
-Beauvais 
+Antibes
 
 </td>
       <td>
 
-15 
+26
 
 </td>
       <td>
 
-3 
+4
 
 </td>
     </tr>
@@ -437,192 +162,467 @@ Beauvais
 </td>
       <td>
 
-Compiègne 
+Cannes
 
 </td>
       <td>
 
-21 
+23
 
 </td>
       <td>
 
-3 
+4
 
 </td>
     </tr>
     <tr>
       <td>
 
-Somme 
+</td>
+      <td>
+
+Grasse
 
 </td>
       <td>
 
-Amiens 
+16
 
 </td>
       <td>
 
-21 
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 </td>
       <td>
 
-4 
+Nice
+
+</td>
+      <td>
+
+45
+
+</td>
+      <td>
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Bouches-du-Rhône
+
+</td>
+      <td>
+
+Aix-en-Provence
+
+</td>
+      <td>
+
+28
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Salon-de-Provence
+
+</td>
+      <td>
+
+19
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Marseille
+
+</td>
+      <td>
+
+80
+
+</td>
+      <td>
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Tarascon
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Var
+
+</td>
+      <td>
+
+Draguignan
+
+</td>
+      <td>
+
+19
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Fréjus
+
+</td>
+      <td>
+
+24
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Toulon
+
+</td>
+      <td>
+
+34
+
+</td>
+      <td>
+
+5
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel d'Angers 
+Cour d'appel d'Amiens
 
 </td>
     </tr>
     <tr>
       <td>
 
-Maine-et-Loire 
+Aisne
 
 </td>
       <td>
 
-Angers 
+Saint-Quentin
 
 </td>
       <td>
 
-28 
+22
 
 </td>
       <td>
 
-5 
+4
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mayenne 
+</td>
+      <td>
+
+Soissons
 
 </td>
       <td>
 
-Laval 
+13
 
 </td>
       <td>
 
-14 
-
-</td>
-      <td>
-
-3 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Sarthe 
+Oise
 
 </td>
       <td>
 
-Le Mans 
+Beauvais
 
 </td>
       <td>
 
-22 
+15
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Bastia 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Corse-du-Sud 
+</td>
+      <td>
+
+Compiègne
 
 </td>
       <td>
 
-Ajaccio 
+21
 
 </td>
       <td>
 
-13 
-
-</td>
-      <td>
-
-2 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Haute-Corse 
+Somme
 
 </td>
       <td>
 
-Bastia 
+Amiens
 
 </td>
       <td>
 
-15 
+21
 
 </td>
       <td>
 
-3 
+4
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Besançon 
+Cour d'appel d'Angers
 
 </td>
     </tr>
     <tr>
       <td>
 
-Doubs 
+Maine-et-Loire
 
 </td>
       <td>
 
-Besançon 
+Angers
 
 </td>
       <td>
 
-19 
+28
 
 </td>
       <td>
 
-3 
+5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Mayenne
+
+</td>
+      <td>
+
+Laval
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Sarthe
+
+</td>
+      <td>
+
+Le Mans
+
+</td>
+      <td>
+
+22
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Bastia
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Corse-du-Sud
+
+</td>
+      <td>
+
+Ajaccio
+
+</td>
+      <td>
+
+13
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Haute-Corse
+
+</td>
+      <td>
+
+Bastia
+
+</td>
+      <td>
+
+15
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Besançon
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Doubs
+
+</td>
+      <td>
+
+Besançon
+
+</td>
+      <td>
+
+19
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
@@ -634,411 +634,276 @@ Jura
 </td>
       <td>
 
-Lons-le-Saunier  
+Lons-le-Saunier
 
 </td>
       <td>
 
-15 
+15
 
 </td>
       <td>
 
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Haute-Saône 
+Haute-Saône
 
 </td>
       <td>
 
-Vesoul 
+Vesoul
 
 </td>
       <td>
 
-15 
+15
 
 </td>
       <td>
 
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Territoire de Belfort 
+Territoire de Belfort
 
 </td>
       <td>
 
-Belfort 
+Belfort
 
 </td>
       <td>
 
-18 
+18
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Bordeaux 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Charente 
-
-</td>
-      <td>
-
-Angoulême 
-
-</td>
-      <td>
-
-20 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Dordogne 
-
-</td>
-      <td>
-
-Bergerac 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Périgueux 
-
-</td>
-      <td>
-
-17 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Gironde 
-
-</td>
-      <td>
-
-Bordeaux 
-
-</td>
-      <td>
-
-48 
-
-</td>
-      <td>
-
-7 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Libourne 
-
-</td>
-      <td>
-
-17 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Bourges 
+Cour d'appel de Bordeaux
 
 </td>
     </tr>
     <tr>
       <td>
 
-Cher 
+Charente
 
 </td>
       <td>
 
-Bourges 
+Angoulême
 
 </td>
       <td>
 
-13 
+20
 
 </td>
       <td>
 
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Indre 
-
-</td>
-      <td>
-
-Châteauroux 
-
-</td>
-      <td>
-
-16 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Nièvre 
+Dordogne
 
 </td>
       <td>
 
-Nevers 
+Bergerac
 
 </td>
       <td>
 
-15 
+14
 
 </td>
       <td>
 
-3 
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Périgueux
+
+</td>
+      <td>
+
+17
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Gironde
+
+</td>
+      <td>
+
+Bordeaux
+
+</td>
+      <td>
+
+54
+
+</td>
+      <td>
+
+7
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Libourne
+
+</td>
+      <td>
+
+17
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Caen 
+Cour d'appel de Bourges
 
 </td>
     </tr>
     <tr>
       <td>
 
-Calvados 
+Cher
 
 </td>
       <td>
 
-Caen 
+Bourges
 
 </td>
       <td>
 
-28 
+13
 
 </td>
       <td>
 
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Lisieux 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-2 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Manche 
+Indre
 
 </td>
       <td>
 
-Cherbourg-Octeville 
+Châteauroux
 
 </td>
       <td>
 
-13 
+16
 
 </td>
       <td>
 
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Coutances 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Orne 
+Nièvre
 
 </td>
       <td>
 
-Alençon 
+Nevers
 
 </td>
       <td>
 
-15 
+15
 
 </td>
       <td>
 
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Chambéry 
+Cour d'appel de Caen
 
 </td>
     </tr>
     <tr>
       <td>
 
-Savoie 
+Calvados
 
 </td>
       <td>
 
-Chambéry 
+Caen
 
 </td>
       <td>
 
-28 
+28
 
 </td>
       <td>
 
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Savoie 
-
-</td>
-      <td>
-
-Annecy 
-
-</td>
-      <td>
-
-26 
-
-</td>
-      <td>
-
-4 
+5
 
 </td>
     </tr>
@@ -1048,90 +913,39 @@ Annecy
 </td>
       <td>
 
-Thonon-les-Bains 
+Lisieux
 
 </td>
       <td>
 
-17 
+14
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Dijon 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Côte-d'Or 
+Manche
 
 </td>
       <td>
 
-Dijon 
+Cherbourg-Octeville
 
 </td>
       <td>
 
-28 
+13
 
 </td>
       <td>
 
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Marne 
-
-</td>
-      <td>
-
-Chaumont 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Saône-et-Loire 
-
-</td>
-      <td>
-
-Chalon-sur-Saône 
-
-</td>
-      <td>
-
-20 
-
-</td>
-      <td>
-
-3 
+2
 
 </td>
     </tr>
@@ -1141,86 +955,90 @@ Chalon-sur-Saône
 </td>
       <td>
 
-Mâcon 
+Coutances
 
 </td>
       <td>
 
-14 
+14
 
 </td>
       <td>
 
-3 
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Orne
+
+</td>
+      <td>
+
+Alençon
+
+</td>
+      <td>
+
+15
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Douai 
+Cour d'appel de Chambéry
 
 </td>
     </tr>
     <tr>
       <td>
 
-Nord 
+Savoie
 
 </td>
       <td>
 
-Douai 
+Chambéry
 
 </td>
       <td>
 
-19 
+28
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Dunkerque 
-
-</td>
-      <td>
-
-18 
-
-</td>
-      <td>
-
-3 
+5
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Tourcoing 
+Haute-Savoie
 
 </td>
       <td>
 
-65 
+Annecy
 
 </td>
       <td>
 
-11 
+26
+
+</td>
+      <td>
+
+4
 
 </td>
     </tr>
@@ -1230,132 +1048,90 @@ Tourcoing
 </td>
       <td>
 
-Valenciennes 
+Thonon-les-Bains
 
 </td>
       <td>
 
-22 
+17
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pas-de-Calais 
-
-</td>
-      <td>
-
-Arras 
-
-</td>
-      <td>
-
-28 
-
-</td>
-      <td>
-
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Boulogne-sur-Mer 
-
-</td>
-      <td>
-
-25 
-
-</td>
-      <td>
-
-4 
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Grenoble 
+Cour d'appel de Dijon
 
 </td>
     </tr>
     <tr>
       <td>
 
-Haute-Alpes 
+Côte-d'Or
 
 </td>
       <td>
 
-Gap 
+Dijon
 
 </td>
       <td>
 
-11 
+28
 
 </td>
       <td>
 
-2 
+5
 
 </td>
     </tr>
     <tr>
       <td>
 
-Drôme 
+Haute-Marne
 
 </td>
       <td>
 
-Romans-sur-Isère 
+Chaumont
 
 </td>
       <td>
 
-25 
+14
 
 </td>
       <td>
 
-4 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Isère 
+Saône-et-Loire
 
 </td>
       <td>
 
-Grenoble 
+Chalon-sur-Saône
 
 </td>
       <td>
 
-32 
+20
 
 </td>
       <td>
 
-5 
+3
 
 </td>
     </tr>
@@ -1365,141 +1141,46 @@ Grenoble
 </td>
       <td>
 
-Vienne 
+Mâcon
 
 </td>
       <td>
 
-26 
+14
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Limoges 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Corrèze 
-
-</td>
-      <td>
-
-Brive-la-Gaillarde 
-
-</td>
-      <td>
-
-16 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Creuse 
-
-</td>
-      <td>
-
-Guéret 
-
-</td>
-      <td>
-
-9 
-
-</td>
-      <td>
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Vienne 
-
-</td>
-      <td>
-
-Limoges 
-
-</td>
-      <td>
-
-20 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Lyon 
+Cour d'appel de Douai
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ain 
+Nord
 
 </td>
       <td>
 
-Bourg-en-Bresse 
+Douai
 
 </td>
       <td>
 
-23 
+19
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Loire 
-
-</td>
-      <td>
-
-Roanne 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
@@ -1509,39 +1190,17 @@ Roanne
 </td>
       <td>
 
-Saint-Etienne 
+Dunkerque
 
 </td>
       <td>
 
-29 
+18
 
 </td>
       <td>
 
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Rhône 
-
-</td>
-      <td>
-
-Lyon 
-
-</td>
-      <td>
-
-69 
-
-</td>
-      <td>
-
-10 
+3
 
 </td>
     </tr>
@@ -1551,110 +1210,152 @@ Lyon
 </td>
       <td>
 
-Villefranche-sur-Saône 
+Tourcoing
 
 </td>
       <td>
 
-16 
+65
 
 </td>
       <td>
 
-3 
+11
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Valenciennes
+
+</td>
+      <td>
+
+22
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pas-de-Calais
+
+</td>
+      <td>
+
+Arras
+
+</td>
+      <td>
+
+28
+
+</td>
+      <td>
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Boulogne-sur-Mer
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+4
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Montpellier 
+Cour d'appel de Grenoble
 
 </td>
     </tr>
     <tr>
       <td>
 
-Aude 
+Haute-Alpes
 
 </td>
       <td>
 
-Carcassonne 
+Gap
 
 </td>
       <td>
 
-17 
+11
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Narbonne 
-
-</td>
-      <td>
-
-15 
-
-</td>
-      <td>
-
-2 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Aveyron 
+Drôme
 
 </td>
       <td>
 
-Rodez 
+Romans-sur-Isère
 
 </td>
       <td>
 
-13 
+25
 
 </td>
       <td>
 
-2 
+4
 
 </td>
     </tr>
     <tr>
       <td>
 
-Hérault 
+Isère
 
 </td>
       <td>
 
-Béziers 
+Grenoble
 
 </td>
       <td>
 
-22 
+32
 
 </td>
       <td>
 
-4 
+5
 
 </td>
     </tr>
@@ -1664,373 +1365,232 @@ Béziers
 </td>
       <td>
 
-Montpellier 
+Vienne
 
 </td>
       <td>
 
-44 
+26
 
 </td>
       <td>
 
-7 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pyrénées-Orientales 
-
-</td>
-      <td>
-
-Perpignan 
-
-</td>
-      <td>
-
-25 
-
-</td>
-      <td>
-
-4 
+4
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Nancy 
+Cour d'appel de Limoges
 
 </td>
     </tr>
     <tr>
       <td>
 
-Meurthe-et-Moselle 
+Corrèze
 
 </td>
       <td>
 
-Briey 
+Brive-la-Gaillarde
 
 </td>
       <td>
 
-11 
+16
 
 </td>
       <td>
 
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Nancy 
-
-</td>
-      <td>
-
-24 
-
-</td>
-      <td>
-
-4 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Meuse 
+Creuse
 
 </td>
       <td>
 
-Bar-le-Duc 
+Guéret
 
 </td>
       <td>
 
-11 
+9
 
 </td>
       <td>
 
-2 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vosges 
+Haute-Vienne
 
 </td>
       <td>
 
-Epinal 
+Limoges
 
 </td>
       <td>
 
-20 
+20
 
 </td>
       <td>
 
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Nîmes 
+Cour d'appel de Lyon
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ardèche 
+Ain
 
 </td>
       <td>
 
-Aubenas 
+Bourg-en-Bresse
 
 </td>
       <td>
 
-15 
+23
 
 </td>
       <td>
 
-3 
+4
 
 </td>
     </tr>
     <tr>
       <td>
 
-Gard 
+Loire
 
 </td>
       <td>
 
-Nîmes 
+Roanne
 
 </td>
       <td>
 
-37 
+14
 
 </td>
       <td>
 
-6 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Lozère 
+</td>
+      <td>
+
+Saint-Etienne
 
 </td>
       <td>
 
-Mende 
+29
 
 </td>
       <td>
 
-9 
-
-</td>
-      <td>
-
-2 
+5
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vaucluse 
+Rhône
 
 </td>
       <td>
 
-Avignon 
+Lyon
 
 </td>
       <td>
 
-35 
+69
 
 </td>
       <td>
 
-6 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel d'Orléans 
+10
 
 </td>
     </tr>
     <tr>
       <td>
 
-Indre-et-Loire 
+</td>
+      <td>
+
+Villefranche-sur-Saône
 
 </td>
       <td>
 
-Tours 
+16
 
 </td>
       <td>
 
-25 
-
-</td>
-      <td>
-
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Loir-et-Cher 
-
-</td>
-      <td>
-
-Blois 
-
-</td>
-      <td>
-
-15 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Loiret 
-
-</td>
-      <td>
-
-Orléans 
-
-</td>
-      <td>
-
-30 
-
-</td>
-      <td>
-
-5 
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Paris 
+Cour d'appel de Montpellier
 
 </td>
     </tr>
     <tr>
       <td>
 
-Paris 
+Aude
 
 </td>
       <td>
 
-Paris 
+Carcassonne
 
 </td>
       <td>
 
-172 
+17
 
 </td>
       <td>
 
-25 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Essonne 
-
-</td>
-      <td>
-
-Evry 
-
-</td>
-      <td>
-
-50 
-
-</td>
-      <td>
-
-8 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Seine-et-Marne 
-
-</td>
-      <td>
-
-Melun 
-
-</td>
-      <td>
-
-36 
-
-</td>
-      <td>
-
-6 
+3
 
 </td>
     </tr>
@@ -2040,83 +1600,61 @@ Melun
 </td>
       <td>
 
-Meaux 
+Narbonne
 
 </td>
       <td>
 
-30 
+15
 
 </td>
       <td>
 
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Seine-Saint-Denis 
-
-</td>
-      <td>
-
-Bobigny 
-
-</td>
-      <td>
-
-66 
-
-</td>
-      <td>
-
-10 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Val-de-Marne 
+Aveyron
 
 </td>
       <td>
 
-Créteil 
+Rodez
 
 </td>
       <td>
 
-49 
+13
 
 </td>
       <td>
 
-8 
+2
 
 </td>
     </tr>
     <tr>
       <td>
 
-Yonne 
+Hérault
 
 </td>
       <td>
 
-Auxerre 
+Béziers
 
 </td>
       <td>
 
-11 
+22
 
 </td>
       <td>
 
-2 
+4
 
 </td>
     </tr>
@@ -2126,88 +1664,68 @@ Auxerre
 </td>
       <td>
 
-Sens 
+Montpellier
 
 </td>
       <td>
 
-13 
+44
 
 </td>
       <td>
 
-2 
+7
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pyrénées-Orientales
+
+</td>
+      <td>
+
+Perpignan
+
+</td>
+      <td>
+
+25
+
+</td>
+      <td>
+
+4
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Pau 
+Cour d'appel de Nancy
 
 </td>
     </tr>
     <tr>
       <td>
 
-Landes 
+Meurthe-et-Moselle
 
 </td>
       <td>
 
-Dax 
+Briey
 
 </td>
       <td>
 
-15 
+11
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Mont-de-Marsan 
-
-</td>
-      <td>
-
-17 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pyrénées-Atlantiques 
-
-</td>
-      <td>
-
-Bayonne 
-
-</td>
-      <td>
-
-17 
-
-</td>
-      <td>
-
-3 
+2
 
 </td>
     </tr>
@@ -2217,340 +1735,302 @@ Bayonne
 </td>
       <td>
 
-Pau 
+Nancy
 
 </td>
       <td>
 
-20 
+24
 
 </td>
       <td>
 
-3 
+4
 
 </td>
     </tr>
     <tr>
       <td>
 
-Hautes-Pyrénées 
+Meuse
 
 </td>
       <td>
 
-Tarbes 
+Bar-le-Duc
 
 </td>
       <td>
 
-18 
+11
 
 </td>
       <td>
 
-3 
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vosges
+
+</td>
+      <td>
+
+Epinal
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Poitiers 
+Cour d'appel de Nîmes
 
 </td>
     </tr>
     <tr>
       <td>
 
-Charente-Maritime 
+Ardèche
 
 </td>
       <td>
 
-La Rochelle 
+Aubenas
 
 </td>
       <td>
 
-27 
+15
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Saintes 
-
-</td>
-      <td>
-
-18 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Deux-Sèvres 
+Gard
 
 </td>
       <td>
 
-Niort 
+Nîmes
 
 </td>
       <td>
 
-19 
+37
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Vendée 
-
-</td>
-      <td>
-
-La Roche-sur-Yon 
-
-</td>
-      <td>
-
-24 
-
-</td>
-      <td>
-
-4 
+6
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vienne 
+Lozère
 
 </td>
       <td>
 
-Poitiers 
+Mende
 
 </td>
       <td>
 
-20 
+9
 
 </td>
       <td>
 
-4 
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vaucluse
+
+</td>
+      <td>
+
+Avignon
+
+</td>
+      <td>
+
+35
+
+</td>
+      <td>
+
+6
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Reims 
+Cour d'appel d'Orléans
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ardennes 
+Indre-et-Loire
 
 </td>
       <td>
 
-Sedan 
+Tours
 
 </td>
       <td>
 
-15 
+25
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Aube 
-
-</td>
-      <td>
-
-Troyes 
-
-</td>
-      <td>
-
-17 
-
-</td>
-      <td>
-
-3 
+4
 
 </td>
     </tr>
     <tr>
       <td>
 
-Marne 
+Loir-et-Cher
 
 </td>
       <td>
 
-Châlons-en-Champagne 
+Blois
 
 </td>
       <td>
 
-12 
+15
 
 </td>
       <td>
 
-2 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Reims 
+Loiret
 
 </td>
       <td>
 
-32 
+Orléans
 
 </td>
       <td>
 
-5 
+30
+
+</td>
+      <td>
+
+5
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Rennes 
+Cour d'appel de Paris
 
 </td>
     </tr>
     <tr>
       <td>
 
-Côtes-du-Nord 
+Paris
 
 </td>
       <td>
 
-Saint-Brieuc 
+Paris
 
 </td>
       <td>
 
-22 
+172
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Finistère 
-
-</td>
-      <td>
-
-Brest 
-
-</td>
-      <td>
-
-21 
-
-</td>
-      <td>
-
-4 
+25
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Quimper 
+Essonne
 
 </td>
       <td>
 
-16 
+Evry
 
 </td>
       <td>
 
-3 
+50
+
+</td>
+      <td>
+
+8
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ille-et-Vilaine 
+Seine-et-Marne
 
 </td>
       <td>
 
-Rennes 
+Melun
 
 </td>
       <td>
 
-26 
+36
 
 </td>
       <td>
 
-4 
+6
 
 </td>
     </tr>
@@ -2560,245 +2040,132 @@ Rennes
 </td>
       <td>
 
-Saint-Malo 
+Meaux
 
 </td>
       <td>
 
-14 
+30
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Loire-Atlantique 
-
-</td>
-      <td>
-
-Nantes 
-
-</td>
-      <td>
-
-34 
-
-</td>
-      <td>
-
-5 
+5
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Saint-Nazaire 
+Seine-Saint-Denis
 
 </td>
       <td>
 
-15 
+Bobigny
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Morbihan 
+73
 
 </td>
       <td>
 
-Lorient 
-
-</td>
-      <td>
-
-20 
-
-</td>
-      <td>
-
-3 
+10
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Vannes 
+Val-de-Marne
 
 </td>
       <td>
 
-16 
+Créteil
 
 </td>
       <td>
 
-3 
+49
+
+</td>
+      <td>
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Yonne
+
+</td>
+      <td>
+
+Auxerre
+
+</td>
+      <td>
+
+11
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Sens
+
+</td>
+      <td>
+
+13
+
+</td>
+      <td>
+
+2
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Riom 
+Cour d'appel de Pau
 
 </td>
     </tr>
     <tr>
       <td>
 
-Allier 
+Landes
 
 </td>
       <td>
 
-Cusset 
+Dax
 
 </td>
       <td>
 
-14 
+15
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Montluçon 
-
-</td>
-      <td>
-
-12 
-
-</td>
-      <td>
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Cantal 
-
-</td>
-      <td>
-
-Aurillac 
-
-</td>
-      <td>
-
-11 
-
-</td>
-      <td>
-
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Loire 
-
-</td>
-      <td>
-
-Le Puy-en-Velay 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Puy-de-Dôme 
-
-</td>
-      <td>
-
-Clermont-Ferrand 
-
-</td>
-      <td>
-
-32 
-
-</td>
-      <td>
-
-5 
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Rouen 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Eure 
-
-</td>
-      <td>
-
-Bernay 
-
-</td>
-      <td>
-
-10 
-
-</td>
-      <td>
-
-2 
+3
 
 </td>
     </tr>
@@ -2808,59 +2175,39 @@ Bernay
 </td>
       <td>
 
-Evreux 
+Mont-de-Marsan
 
 </td>
       <td>
 
-20 
+17
 
 </td>
       <td>
 
-3 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Seine-Maritime 
-
-</td>
-      <td>
-
-Dieppe 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
-
-Le Havre 
+Pyrénées-Atlantiques
 
 </td>
       <td>
 
-26 
+Bayonne
 
 </td>
       <td>
 
-4 
+17
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
@@ -2870,90 +2217,68 @@ Le Havre
 </td>
       <td>
 
-Rouen 
+Pau
 
 </td>
       <td>
 
-34 
+20
 
 </td>
       <td>
 
-5 
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hautes-Pyrénées
+
+</td>
+      <td>
+
+Tarbes
+
+</td>
+      <td>
+
+18
+
+</td>
+      <td>
+
+3
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Toulouse 
+Cour d'appel de Poitiers
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ariège 
+Charente-Maritime
 
 </td>
       <td>
 
-Foix 
+La Rochelle
 
 </td>
       <td>
 
-10 
+27
 
 </td>
       <td>
 
-2 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Garonne 
-
-</td>
-      <td>
-
-Toulouse 
-
-</td>
-      <td>
-
-52 
-
-</td>
-      <td>
-
-8 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Tarn 
-
-</td>
-      <td>
-
-Albi 
-
-</td>
-      <td>
-
-12 
-
-</td>
-      <td>
-
-2 
+4
 
 </td>
     </tr>
@@ -2963,129 +2288,804 @@ Albi
 </td>
       <td>
 
-Castres 
+Saintes
 
 </td>
       <td>
 
-14 
+18
 
 </td>
       <td>
 
-3 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Tarn-et-Garonne 
+Deux-Sèvres
 
 </td>
       <td>
 
-Montauban 
+Niort
 
 </td>
       <td>
 
-15 
+19
 
 </td>
       <td>
 
-3 
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vendée
+
+</td>
+      <td>
+
+La Roche-sur-Yon
+
+</td>
+      <td>
+
+24
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vienne
+
+</td>
+      <td>
+
+Poitiers
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+4
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Versailles 
+Cour d'appel de Reims
 
 </td>
     </tr>
     <tr>
       <td>
 
-Eure-et-Loir 
+Ardennes
 
 </td>
       <td>
 
-Chartres 
+Sedan
 
 </td>
       <td>
 
-24 
+20
 
 </td>
       <td>
 
-4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Hauts-de-Seine 
-
-</td>
-      <td>
-
-Nanterre 
-
-</td>
-      <td>
-
-72 
-
-</td>
-      <td>
-
-10 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Val-d'Oise 
+Aube
 
 </td>
       <td>
 
-Pontoise 
+Troyes
 
 </td>
       <td>
 
-50 
+17
 
 </td>
       <td>
 
-8 
+3
 
 </td>
     </tr>
     <tr>
       <td>
 
-Yvelines 
+Marne
 
 </td>
       <td>
 
-Versailles 
+Châlons-en-Champagne
 
 </td>
       <td>
 
-50 
+12
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Reims
+
+</td>
+      <td>
+
+32
+
+</td>
+      <td>
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Rennes
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Côtes-du-Nord
+
+</td>
+      <td>
+
+Saint-Brieuc
+
+</td>
+      <td>
+
+22
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Finistère
+
+</td>
+      <td>
+
+Brest
+
+</td>
+      <td>
+
+21
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Quimper
+
+</td>
+      <td>
+
+16
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ille-et-Vilaine
+
+</td>
+      <td>
+
+Rennes
+
+</td>
+      <td>
+
+31
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Saint-Malo
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Loire-Atlantique
+
+</td>
+      <td>
+
+Nantes
+
+</td>
+      <td>
+
+34
+
+</td>
+      <td>
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Saint-Nazaire
+
+</td>
+      <td>
+
+15
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Morbihan
+
+</td>
+      <td>
+
+Lorient
+
+</td>
+      <td>
+
+23
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Vannes
+
+</td>
+      <td>
+
+16
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Riom
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Allier
+
+</td>
+      <td>
+
+Cusset
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Montluçon
+
+</td>
+      <td>
+
+12
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cantal
+
+</td>
+      <td>
+
+Aurillac
+
+</td>
+      <td>
+
+11
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Haute-Loire
+
+</td>
+      <td>
+
+Le Puy-en-Velay
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Puy-de-Dôme
+
+</td>
+      <td>
+
+Clermont-Ferrand
+
+</td>
+      <td>
+
+32
+
+</td>
+      <td>
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Rouen
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Eure
+
+</td>
+      <td>
+
+Bernay
+
+</td>
+      <td>
+
+10
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Evreux
+
+</td>
+      <td>
+
+20
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Seine-Maritime
+
+</td>
+      <td>
+
+Dieppe
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Le Havre
+
+</td>
+      <td>
+
+26
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Rouen
+
+</td>
+      <td>
+
+34
+
+</td>
+      <td>
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Toulouse
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ariège
+
+</td>
+      <td>
+
+Foix
+
+</td>
+      <td>
+
+10
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Haute-Garonne
+
+</td>
+      <td>
+
+Toulouse
+
+</td>
+      <td>
+
+58
+
+</td>
+      <td>
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tarn
+
+</td>
+      <td>
+
+Albi
+
+</td>
+      <td>
+
+12
+
+</td>
+      <td>
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Castres
+
+</td>
+      <td>
+
+14
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tarn-et-Garonne
+
+</td>
+      <td>
+
+Montauban
+
+</td>
+      <td>
+
+15
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Versailles
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Eure-et-Loir
+
+</td>
+      <td>
+
+Chartres
+
+</td>
+      <td>
+
+24
+
+</td>
+      <td>
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hauts-de-Seine
+
+</td>
+      <td>
+
+Nanterre
+
+</td>
+      <td>
+
+72
+
+</td>
+      <td>
+
+10
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Val-d'Oise
+
+</td>
+      <td>
+
+Pontoise
+
+</td>
+      <td>
+
+50
+
+</td>
+      <td>
+
+8
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Yvelines
+
+</td>
+      <td>
+
+Versailles
+
+</td>
+      <td>
+
+50
 
 </td>
       <td>
@@ -3109,4 +3109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-801 du 1er juillet 2015 - art.
+  - Décret n°2016-1017 du 25 juillet 2016 - art.
