@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
-<table border="1" align="center" cellpadding="0">
+<table cellpadding="0" border="1" align="center">
   <tbody>
     <tr>
       <td>
@@ -734,7 +734,7 @@ Bergerac
 </td>
       <td>
 
-14
+16
 
 </td>
       <td>
@@ -2160,7 +2160,7 @@ Dax
 </td>
       <td>
 
-15
+17
 
 </td>
       <td>
@@ -2202,7 +2202,7 @@ Bayonne
 </td>
       <td>
 
-17
+21
 
 </td>
       <td>
@@ -3109,4 +3109,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1017 du 25 juillet 2016 - art.
+  - Décret n°2016-1082 du 3 août 2016 - art.
