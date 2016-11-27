@@ -82,7 +82,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td rowspan="3" valign="top" width="229">
 
 Allier 
 
@@ -105,6 +105,16 @@ TGI de Montluçon
 
 </td>
       <td valign="top" width="220">
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td>TGI de Moulins 
+
+</td>
+      <td>
 
 Ressort du TGI 
 
@@ -438,7 +448,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td rowspan="2" valign="top" width="229">
 
 Corrèze 
 
@@ -450,7 +460,17 @@ TGI de Brive-la-Gaillarde
 </td>
       <td valign="top" width="220">
 
-Le département 
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td>TGI de Tulle 
+
+</td>
+      <td>
+
+Ressort du TGI 
 
 </td>
     </tr>
@@ -724,7 +744,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td rowspan="2" valign="top" width="229">
 
 Garonne (Haute-) 
 
@@ -736,7 +756,17 @@ TGI de Toulouse
 </td>
       <td valign="top" width="220">
 
-Le département 
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td>TGI de Saint-Gaudens 
+
+</td>
+      <td>
+
+Ressort du TGI 
 
 </td>
     </tr>
@@ -879,11 +909,21 @@ Le département
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td rowspan="3" valign="top">
 
-Isère 
+Isère
 
 </td>
+      <td>TGI de Bourgoin-Jallieu 
+
+</td>
+      <td>
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="221">
 
 TGI de Grenoble 
@@ -1126,7 +1166,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td rowspan="2" valign="top" width="229">
 
 Maine-et-Loire 
 
@@ -1138,7 +1178,17 @@ TGI d'Angers
 </td>
       <td valign="top" width="220">
 
-Le département 
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td>TGI de Saumur 
+
+</td>
+      <td>
+
+Ressort du TGI 
 
 </td>
     </tr>
@@ -2333,15 +2383,16 @@ Le département
   </tbody>
 </table>
 
+**Nota:**
+
+Les modifications des compétences des tribunaux de Saint-Gaudens (Haute-Garonne), Saumur (Maine-et-Loire) et Tulle (Corrèze)
+résultant du décret n° 2016-1608 du 25 novembre 2016 entrent en vigueur le 27 décembre 2016.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-146 du 15 février 2008 - art. 4
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2008-146 du 15 février 2008, v. init.
+  - Décret n°2016-1608 du 25 novembre 2016 - art.
 
 _Cite_:
 
