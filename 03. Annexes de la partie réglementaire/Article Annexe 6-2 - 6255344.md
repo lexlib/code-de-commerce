@@ -4,7 +4,7 @@ Juridictions compétentes par département en métropole pour connaître, en app
 
 des procédures applicables aux personnes qui ne sont ni commerçants ni artisans 
 
-<table border="1" align="center" cellspacing="0" width="740" cellpadding="0">
+<table cellspacing="0" align="center" cellpadding="0" width="740" border="1">
   <tbody>
     <tr>
       <td width="229">
@@ -41,7 +41,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="3" valign="top">
+      <td valign="top" rowspan="3" width="229">
 
 Aisne 
 
@@ -58,7 +58,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Saint-Quentin 
 
@@ -70,7 +70,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Soissons 
 
@@ -82,17 +82,17 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td width="229" valign="top" rowspan="3">
 
 Allier 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Cusset 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -111,6 +111,16 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
+      <td>TGI de Moulins 
+
+</td>
+      <td>
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="229">
 
 Alpes-de-Haute-Provence 
@@ -121,7 +131,7 @@ Alpes-de-Haute-Provence
 TGI de Digne-les-Bains 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
@@ -138,19 +148,19 @@ Alpes (Hautes-)
 TGI de Gap 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2" valign="top" width="229">
 
 Alpes-Maritimes 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Grasse 
 
@@ -184,19 +194,19 @@ Ardèche
 TGI de Privas 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Ardennes 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Charleville-Mézières 
 
@@ -208,7 +218,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Ariège 
 
@@ -225,7 +235,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Aube 
 
@@ -242,12 +252,12 @@ Le département
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="229" valign="top">
+      <td valign="top" rowspan="2" width="229">
 
 Aude 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Carcassonne 
 
@@ -259,19 +269,19 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Narbonne 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Aveyron 
 
@@ -288,7 +298,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="3">
+      <td rowspan="3" valign="top" width="229">
 
 Bouches-du-Rhône 
 
@@ -310,7 +320,7 @@ Ressort du TGI
 TGI de Marseille 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -322,14 +332,14 @@ Ressort du TGI
 TGI de Tarascon 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td width="229" rowspan="2" valign="top">
 
 Calvados 
 
@@ -346,19 +356,19 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Lisieux 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Cantal 
 
@@ -368,31 +378,31 @@ Cantal
 TGI d'Aurillac 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Charente 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Angoulême 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2" valign="top" width="229">
 
 Charente-Maritime 
 
@@ -409,7 +419,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Saintes 
 
@@ -438,19 +448,29 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td rowspan="2" valign="top" width="229">
 
 Corrèze 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Brive-la-Gaillarde 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
-Le département 
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td>TGI de Tulle 
+
+</td>
+      <td>
+
+Ressort du TGI 
 
 </td>
     </tr>
@@ -460,12 +480,12 @@ Le département
 Corse-du-Sud 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Ajaccio 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
@@ -482,14 +502,14 @@ Corse (Haute-)
 TGI de Bastia 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Côte-d'Or 
 
@@ -511,7 +531,7 @@ Le département
 Côtes-d'Armor 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Saint-Brieuc 
 
@@ -528,24 +548,24 @@ Ressort du TGI
 Creuse 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Guéret 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td valign="top" width="229" rowspan="2">
 
 Dordogne 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Bergerac 
 
@@ -562,19 +582,19 @@ Ressort du TGI
 TGI de Périgueux 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td valign="top" rowspan="2" width="229">
 
 Doubs 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Besançon 
 
@@ -586,7 +606,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Montbéliard 
 
@@ -598,7 +618,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Drôme 
 
@@ -608,7 +628,7 @@ Drôme
 TGI de Valence 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
@@ -620,7 +640,7 @@ Le département
 Essonne 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Evry 
 
@@ -637,12 +657,12 @@ Le département à l'exception de l'emprise de l'aérodrome de Paris-Orly
 Eure 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Evreux 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
@@ -666,7 +686,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="229" valign="top">
+      <td valign="top" width="229" rowspan="2">
 
 Finistère 
 
@@ -695,7 +715,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="229" valign="top">
+      <td rowspan="2" valign="top" width="229">
 
 Gard 
 
@@ -712,7 +732,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Nîmes 
 
@@ -724,7 +744,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" rowspan="2" valign="top">
 
 Garonne (Haute-) 
 
@@ -736,12 +756,22 @@ TGI de Toulouse
 </td>
       <td width="220" valign="top">
 
-Le département 
+Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>TGI de Saint-Gaudens 
+
+</td>
+      <td>
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td width="229" valign="top">
 
 Gers 
 
@@ -751,33 +781,21 @@ Gers
 TGI d'Auch 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour 
 
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="2" valign="top">
+      <td valign="top" rowspan="2" width="229">
 
 Gironde 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Bordeaux 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Libourne 
 
 </td>
       <td width="220" valign="top">
@@ -787,17 +805,29 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td width="221" valign="top">
+
+TGI de Libourne 
+
+</td>
+      <td valign="top" width="220">
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="2" width="229">
 
 Hérault 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Béziers 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -809,14 +839,14 @@ Ressort du TGI
 TGI de Montpellier 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td valign="top" width="229" rowspan="2">
 
 Ille-et-Vilaine 
 
@@ -833,7 +863,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Saint-Malo 
 
@@ -850,12 +880,12 @@ Ressort du TGI
 Indre 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Châteauroux 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
@@ -867,7 +897,7 @@ Le département
 Indre-et-Loire 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Tours 
 
@@ -879,11 +909,21 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td valign="top" rowspan="3">
 
-Isère 
+Isère
 
 </td>
+      <td>TGI de Bourgoin-Jallieu 
+
+</td>
+      <td>
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="221">
 
 TGI de Grenoble 
@@ -908,12 +948,12 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Jura 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Lons-le-Saunier 
 
@@ -925,12 +965,12 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td valign="top" width="229" rowspan="2">
 
 Landes 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Dax 
 
@@ -947,14 +987,14 @@ Ressort du TGI
 TGI de Mont-de-Marsan 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Loir-et-Cher 
 
@@ -964,31 +1004,31 @@ Loir-et-Cher
 TGI de Blois 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td rowspan="2" valign="top" width="229">
 
 Loire 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Roanne 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Saint-Etienne 
 
@@ -1005,7 +1045,7 @@ Ressort du TGI
 Loire (Haute-) 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI du Puy-en-Velay 
 
@@ -1022,7 +1062,7 @@ Le département
 Loire-Atlantique 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Nantes 
 
@@ -1046,7 +1086,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2" width="229" valign="top">
 
 Loiret 
 
@@ -1063,19 +1103,19 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Orléans 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Lot 
 
@@ -1109,12 +1149,12 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Lozère 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Mende 
 
@@ -1126,19 +1166,29 @@ Le département
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top" rowspan="2">
 
 Maine-et-Loire 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Angers 
 
 </td>
       <td width="220" valign="top">
 
-Le département 
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td>TGI de Saumur 
+
+</td>
+      <td>
+
+Ressort du TGI 
 
 </td>
     </tr>
@@ -1153,7 +1203,7 @@ Manche
 TGI de Cherbourg-Octeville 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -1165,19 +1215,19 @@ Ressort du TGI
 TGI de Coutances 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2" valign="top" width="229">
 
 Marne 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Châlons-en-Champagne 
 
@@ -1189,7 +1239,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Reims 
 
@@ -1201,24 +1251,24 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Marne (Haute-)
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Chaumont
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Mayenne 
 
@@ -1235,46 +1285,46 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="2" valign="top">
+      <td valign="top" rowspan="2" width="229">
 
 Meurthe-et-Moselle 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Briey 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Nancy 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="2" valign="top">
+      <td rowspan="2" width="229" valign="top">
 
 Meuse 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Bar-le-Duc 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1286,14 +1336,14 @@ Ressort du TGI
 TGI de Verdun 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td width="229" rowspan="2" valign="top">
 
 Morbihan 
 
@@ -1303,14 +1353,14 @@ Morbihan
 TGI de Lorient 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Vannes 
 
@@ -1322,7 +1372,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="229" valign="top">
+      <td valign="top" rowspan="3" width="229">
 
 Moselle 
 
@@ -1344,14 +1394,14 @@ Ressort du TGI
 TGI de Sarreguemines 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Thionville 
 
@@ -1373,19 +1423,19 @@ Nièvre
 TGI de Nevers 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="6">
+      <td rowspan="6" valign="top" width="229">
 
 Nord 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI d'Avesnes-sur-Helpe 
 
@@ -1421,12 +1471,12 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Dunkerque 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -1438,7 +1488,7 @@ Ressort du TGI
 TGI de Lille 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1450,19 +1500,19 @@ Ressort du TGI
 TGI de Valenciennes 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="229" valign="top">
+      <td width="229" rowspan="3" valign="top">
 
 Oise 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Beauvais 
 
@@ -1486,7 +1536,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Senlis 
 
@@ -1508,7 +1558,7 @@ Orne
 TGI d'Alençon 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1527,17 +1577,17 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Paris 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Paris 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
@@ -1554,7 +1604,7 @@ Pas-de-Calais
 TGI d'Arras 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -1566,14 +1616,14 @@ Ressort du TGI
 TGI de Béthune 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Boulogne-sur-Mer 
 
@@ -1590,7 +1640,7 @@ Ressort du TGI
 TGI de Saint-Omer 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1607,24 +1657,24 @@ Puy-de-Dôme
 TGI de Clermont-Ferrand 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td width="229" valign="top" rowspan="2">
 
 Pyrénées-Atlantiques 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Bayonne 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1670,33 +1720,21 @@ Pyrénées-Orientales
 TGI de Perpignan 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td valign="top" rowspan="2" width="229">
 
 Rhin (Bas-) 
 
 </td>
-      <td width="221" valign="top">
-
-TGI de Saverne 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="221">
 
-TGI de Strasbourg 
+TGI de Saverne 
 
 </td>
       <td valign="top" width="220">
@@ -1706,17 +1744,29 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="2" valign="top">
+      <td width="221" valign="top">
+
+TGI de Strasbourg 
+
+</td>
+      <td width="220" valign="top">
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="top" width="229">
 
 Rhin (Haut-) 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Colmar 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1728,33 +1778,21 @@ Ressort du TGI
 TGI de Mulhouse 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td width="229" valign="top" rowspan="2">
 
 Rhône 
 
 </td>
-      <td width="221" valign="top">
-
-TGI de Lyon 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="221">
 
-TGI de Villefranche-sur-Saône 
+TGI de Lyon 
 
 </td>
       <td width="220" valign="top">
@@ -1764,7 +1802,19 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="221" valign="top">
+
+TGI de Villefranche-sur-Saône 
+
+</td>
+      <td valign="top" width="220">
+
+Ressort du TGI 
+
+</td>
+    </tr>
+    <tr>
+      <td width="229" valign="top">
 
 Saône (Haute-) 
 
@@ -1781,7 +1831,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="2" valign="top">
+      <td valign="top" rowspan="2" width="229">
 
 Saône-et-Loire 
 
@@ -1791,7 +1841,7 @@ Saône-et-Loire
 TGI de Chalon-sur-Saône 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -1815,7 +1865,7 @@ Ressort du TGI
 Sarthe 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI du Mans 
 
@@ -1827,7 +1877,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="229">
 
 Savoie 
 
@@ -1849,7 +1899,7 @@ Ressort du TGI
 TGI de Chambéry 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
@@ -1878,19 +1928,19 @@ Ressort du TGI
 TGI de Bonneville 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Thonon-les-Bains 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -1943,7 +1993,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Rouen 
 
@@ -1955,12 +2005,12 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="229" valign="top">
+      <td valign="top" rowspan="3" width="229">
 
 Seine-et-Marne 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Fontainebleau 
 
@@ -1972,7 +2022,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Meaux 
 
@@ -1996,7 +2046,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Seine-Saint-Denis 
 
@@ -2006,19 +2056,19 @@ Seine-Saint-Denis
 TGI de Bobigny 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy -Charles-de-Gaulle 
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Sèvres (Deux-) 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI Niort 
 
@@ -2047,7 +2097,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="229" valign="top">
+      <td rowspan="2" valign="top" width="229">
 
 Tarn 
 
@@ -2064,12 +2114,12 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Castres 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
@@ -2081,7 +2131,7 @@ Ressort du TGI
 Tarn-et-Garonne 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Montauban 
 
@@ -2093,17 +2143,17 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Territoire de Belfort 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Belfort 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département 
 
@@ -2120,7 +2170,7 @@ Val-de-Marne
 TGI de Créteil 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Le département et l'emprise de l'aérodrome de Paris-Orly 
 
@@ -2132,7 +2182,7 @@ Le département et l'emprise de l'aérodrome de Paris-Orly
 Val-d'Oise 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Pontoise 
 
@@ -2144,7 +2194,7 @@ Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td width="229" valign="top" rowspan="2">
 
 Var 
 
@@ -2154,31 +2204,31 @@ Var
 TGI de Draguignan 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI de Toulon
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Ressort du TGI
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2" valign="top" width="229">
 
 Vaucluse 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI d'Avignon 
 
@@ -2234,7 +2284,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td width="229" valign="top">
 
 Vienne 
 
@@ -2256,12 +2306,12 @@ Le département
 Vienne (Haute-) 
 
 </td>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Limoges 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
@@ -2273,7 +2323,7 @@ Le département
 Vosges 
 
 </td>
-      <td valign="top" width="221">
+      <td width="221" valign="top">
 
 TGI d'Epinal 
 
@@ -2285,7 +2335,7 @@ Le département
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="229">
 
 Yonne 
 
@@ -2295,14 +2345,14 @@ Yonne
 TGI d'Auxerre 
 
 </td>
-      <td width="220" valign="top">
+      <td valign="top" width="220">
 
 Ressort du TGI 
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td valign="top" width="221">
 
 TGI de Sens 
 
@@ -2314,7 +2364,7 @@ Ressort du TGI
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td valign="top" width="229">
 
 Yvelines 
 
@@ -2324,7 +2374,7 @@ Yvelines
 TGI de Versailles 
 
 </td>
-      <td valign="top" width="220">
+      <td width="220" valign="top">
 
 Le département 
 
@@ -2333,15 +2383,16 @@ Le département
   </tbody>
 </table>
 
+**Nota:**
+
+Les modifications des compétences des tribunaux de Saint-Gaudens (Haute-Garonne), Saumur (Maine-et-Loire) et Tulle (Corrèze)
+résultant du décret n° 2016-1608 du 25 novembre 2016 entrent en vigueur le 27 décembre 2016.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-146 du 15 février 2008 - art. 4
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2008-146 du 15 février 2008, v. init.
+  - Décret n°2016-1608 du 25 novembre 2016 - art.
 
 _Cite_:
 
