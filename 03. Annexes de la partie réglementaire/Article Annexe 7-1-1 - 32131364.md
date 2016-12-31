@@ -11,8 +11,8 @@ Siège et ressort des tribunaux de commerce spécialisés
 ┃ Bordeaux  ┃ Tribunaux de commerce d'Angoulême, de Bayonne, de Bergerac, de Bordeaux, de Dax, de Libourne, de Mont-de-Mar- ┃
 ┃           ┃ san, de Pau, de Périgueux, de Tarbes                                                                          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Dijon     ┃ Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Briey, de Chalon-sur-Saône, de Chaumont, de  ┃
-┃           ┃ Dijon, d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul                                            ┃
+┃ Dijon     ┃ Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Val de Briey, de Chalon-sur-Saône, de Chau-  ┃
+┃           ┃ mont, de Dijon, d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul                                   ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Evry      ┃ Tribunaux de commerce d'Auxerre, d'Evry, de Melun, de Sens                                                    ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -54,8 +54,13 @@ Siège et ressort des tribunaux de commerce spécialisés
 </pre>
 
 
+**Nota:**
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
+instances introduites après le 1er janvier 2017.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-217 du 26 février 2016 - art.
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
