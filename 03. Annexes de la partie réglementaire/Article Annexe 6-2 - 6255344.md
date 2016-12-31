@@ -1292,7 +1292,7 @@ Meurthe-et-Moselle
 </td>
       <td valign="top" width="221">
 
-TGI de Briey 
+TGI de Val de Briey
 
 </td>
       <td valign="top" width="220">
@@ -2337,7 +2337,7 @@ Le département
     <tr>
       <td rowspan="2" valign="top" width="229">
 
-Yonne 
+Yonne f
 
 </td>
       <td valign="top" width="221">
@@ -2385,14 +2385,14 @@ Le département
 
 **Nota:**
 
-Les modifications des compétences des tribunaux de Saint-Gaudens (Haute-Garonne), Saumur (Maine-et-Loire) et Tulle (Corrèze)
-résultant du décret n° 2016-1608 du 25 novembre 2016 entrent en vigueur le 27 décembre 2016.
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
+instances introduites après le 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1608 du 25 novembre 2016 - art.
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
 
 _Cite_:
 
