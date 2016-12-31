@@ -1,10 +1,10 @@
 # Article Annexe 6-1
 
-Juridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,
+fJuridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,
 
 des procédures applicables aux commerçants et artisans 
 
-<table width="740" border="1" align="center">
+<table width="740" align="center" border="1">
   <tbody>
     <tr>
       <td>
@@ -1265,9 +1265,7 @@ Meurthe-et-Moselle
 </td>
       <td align="center">
 
-TC de Briey 
-
-</td>
+TC de Val de Briey</td>
       <td align="center">
 
 Ressort du TC 
@@ -2243,11 +2241,16 @@ Le département
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
+instances introduites après le 1er janvier 2017.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-1047 du 13 septembre 2012 - art.
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
 
 _Cite_:
 
