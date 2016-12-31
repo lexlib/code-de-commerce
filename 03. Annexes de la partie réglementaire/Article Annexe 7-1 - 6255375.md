@@ -94,7 +94,7 @@ Lot-et-Garonne
 </td>
       <td valign="top" width="142">
 
-Agen 
+Agen f
 
 </td>
       <td valign="top" width="180">
@@ -1705,17 +1705,17 @@ Meurthe-et-Moselle
 </td>
       <td valign="top" width="142">
 
-Briey
+Val de Briey
 
 </td>
       <td valign="top" width="180">
 
-Briey
+Val de Briey
 
 </td>
       <td valign="top" width="206">
 
-Ressort du tribunal de grande instance de Briey 
+Ressort du tribunal de grande instance de Val de Briey 
 
 </td>
     </tr>
@@ -3008,6 +3008,11 @@ Ressort du tribunal de grande instance de Versailles
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
+instances introduites après le 1er janvier 2017.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -3022,4 +3027,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1258 du 27 décembre 2013 - art. 5
+  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
