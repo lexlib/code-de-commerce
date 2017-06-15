@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
-<table align="center" border="1" cellpadding="0">
+<table cellpadding="0" border="1" align="center">
   <tbody>
     <tr>
       <td>
@@ -935,7 +935,7 @@ Manche
 </td>
       <td>
 
-Cherbourg-Octeville
+Cherbourg-en-Cotentin
 
 </td>
       <td>
@@ -2471,7 +2471,7 @@ Cour d'appel de Rennes
     <tr>
       <td>
 
-Côtes-du-Nord
+Côtes-d'Armor
 
 </td>
       <td>
@@ -3114,4 +3114,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
+  - Décret n°2017-1097 du 13 juin 2017 - art. 1
+  - Décret n°2017-1097 du 13 juin 2017 - art. 6
