@@ -1,6 +1,6 @@
 # Article Annexe 7-1-1
 
-Siège et ressort des tribunaux de commerce spécialisés 
+Siège et ressort des tribunaux de commerce spécialisés
 
 <pre>
 ┏━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -43,7 +43,7 @@ Siège et ressort des tribunaux de commerce spécialisés
 ┠┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Rennes    ┃ Tribunaux de commerce de Brest, de Lorient, de Quimper, de Rennes, de Saint-Brieuc, de Saint-Malo, de Vannes  ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Rouen     ┃ Tribunaux de commerce d'Alençon, de Bernay, de Caen, de Cherbourg-Octeville, de Coutances, de Dieppe,         ┃
+┃ Rouen     ┃ Tribunaux de commerce d'Alençon, de Bernay, de Caen, de Cherbourg-en-Cotentin, de Coutances, de Dieppe,       ┃
 ┃           ┃ d'Evreux, du Havre, de Lisieux, de Rouen                                                                      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Toulouse  ┃ Tribunaux de commerce d'Agen, d'Albi, d'Auch, de Cahors, de Castres, de Foix, de Montauban, de Toulouse       ┃
@@ -54,13 +54,8 @@ Siège et ressort des tribunaux de commerce spécialisés
 </pre>
 
 
-**Nota:**
-
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
+  - Décret n°2017-1097 du 13 juin 2017 - art. 1
