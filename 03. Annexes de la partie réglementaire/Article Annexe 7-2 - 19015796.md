@@ -1981,7 +1981,7 @@ Paris
 </td>
       <td>
 
-172
+180
 
 </td>
       <td>
@@ -2565,7 +2565,7 @@ Saint-Malo
 </td>
       <td>
 
-14
+16
 
 </td>
       <td>
@@ -3114,5 +3114,5 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1097 du 13 juin 2017 - art. 1
-  - Décret n°2017-1097 du 13 juin 2017 - art. 6
+  - Décret n°2017-1160 du 11 juillet 2017 - art.
+  - Décret n°2017-1161 du 11 juillet 2017 - art. (V)
