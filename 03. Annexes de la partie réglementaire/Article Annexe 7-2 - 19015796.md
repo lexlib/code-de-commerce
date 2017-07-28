@@ -229,7 +229,7 @@ Aix-en-Provence
 </td>
       <td>
 
-28
+32
 
 </td>
       <td>
@@ -566,7 +566,7 @@ Ajaccio
 </td>
       <td>
 
-13
+15
 
 </td>
       <td>
@@ -3114,5 +3114,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1160 du 11 juillet 2017 - art.
-  - Décret n°2017-1161 du 11 juillet 2017 - art. (V)
+  - Décret n°2017-1195 du 26 juillet 2017 - art.
