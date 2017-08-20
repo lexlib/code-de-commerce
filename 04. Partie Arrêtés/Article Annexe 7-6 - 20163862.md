@@ -1,6 +1,6 @@
 # Article Annexe 7-6
 
-**Droit civil**
+I. – Droit civil
 
 Les personnes : droit des personnes ; jouissance et privation des droits civils.
 
@@ -20,15 +20,15 @@ La société : société civile ; société en participation.
 
 Les régimes matrimoniaux : notions générales.
 
-**Droit commercial**
+II. – Droit commercial
 
 Les commerçants.
 
+Les agents commerciaux.
+
 Les actes de commerce.
 
-Les livres de commerce.
-
-Le registre du commerce et des sociétés : la publicité.
+Le registre du commerce et des sociétés et les autres registres de publicité légale.
 
 Le fonds de commerce et ses composantes.
 
@@ -36,7 +36,7 @@ Les sociétés commerciales.
 
 Les groupements d'intérêt économique.
 
-Le droit national des entreprises en difficulté.
+Le droit des entreprises en difficulté.
 
 Le chèque et les effets de commerce.
 
@@ -44,35 +44,36 @@ Les protêts et les certificats de non-paiement.
 
 Les sûretés et privilèges commerciaux.
 
-La propriété industrielle.
-
-Les marques de fabrique, dessins et modèles.
-
 Le crédit-bail.
 
-**Organisation judiciaire**
+Le droit de la concurrence.
 
-_Procédure civile et commerciale_
+Les contrats commerciaux.
 
-L'organisation judiciaire : les juridictions, les magistrats, les auxiliaires de justice.
+III. – Procédure civile et commerciale
 
-La juridiction commerciale : organisation, compétence et fonctionnement ; l'élection des juges consulaires.
+Procédure civile
 
-Les principes directeurs du procès.
+Les juridictions civiles : organisation, compétence, composition et fonctionnement. Les principes directeurs du procès. Le
+jugement.
 
-Le déroulement de l'instance : les incidents d'instance.
+Le déroulement de l'instance.
 
 L'administration de la preuve.
 
-Le jugement.
+L'exécution du jugement.
 
 Les voies de recours.
 
+Procédure commerciale
+
+Les juridictions commerciales : organisation, compétence, composition et fonctionnement.
+
 La procédure devant le tribunal de commerce.
 
-Le référé commercial : les ordonnances sur requête.
+Le référé commercial et les ordonnances sur requête.
 
-Les diligences du greffier dans le droit national des entreprises en difficulté.
+La procédure des entreprises en difficulté.
 
 L'injonction de payer.
 
@@ -80,31 +81,29 @@ Les délais de procédure.
 
 L'aide judiciaire.
 
-_Réglementation professionnelle et gestion du greffe_
+IV. – Réglementation professionnelle du greffier de tribunal de commerce
 
-Déontologie :
+Le statut et la déontologie.
 
-― le statut ;
+Le tarif.
 
-― le tarif ;
+Le rôle du greffier dans le fonctionnement du tribunal de commerce.
 
-― le rôle du greffier dans le fonctionnement du tribunal de commerce.
+V. – Organisation et gestion d'un greffe
 
-Organisation et gestion d'un greffe :
+Notions générales sur le droit du travail.
 
-― notions générales sur le droit du travail ;
+Notions générales sur la comptabilité.
 
-― notions générales sur la comptabilité ;
-
-― obligations comptables et sociales, délais.
+Obligations comptables et sociales, délais.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Arrêté du 14 janvier 2009 - art. (V)
+  - Arrêté du 11 août 2017 - art. 2
 
 _Cité par_:
 
+  - Code de commerce - art. A742-11 (V)
   - Code de commerce - art. A742-5 (V)
-  - Code de commerce. - art. A742-11 (M)
