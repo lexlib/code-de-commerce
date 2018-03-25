@@ -3,7 +3,7 @@
 La liste des prestations dont les tarifs sont régis par le titre IV bis (partie réglementaire) du code de commerce est la
 suivante :
 
-Tableau 1 annexé à l'article R. 444-3 
+Tableau 1 annexé à l'article R. 444-3
 
 <table border="1">
   <tbody>
@@ -33,7 +33,7 @@ Nature de la prestation</th>
       <td align="center" rowspan="7">
 
 Actes</td>
-      <td rowspan="3" align="center">
+      <td align="center" rowspan="3">
 
 Actes de prisée et d'inventaire</td>
       <td>
@@ -104,7 +104,7 @@ Assistance à l'essai et au poinçonnage des matières précieuses</td>
       <td align="center">
 
 8</td>
-      <td rowspan="7" align="center">
+      <td align="center" rowspan="7">
 
 Formalités</td>
       <td align="center">
@@ -129,7 +129,7 @@ Dépôt à la Caisse des dépôts et consignations</td>
       <td align="center">
 
 10</td>
-      <td rowspan="3" align="center">
+      <td align="center" rowspan="3">
 
 Réquisitions et levées d'états</td>
       <td>
@@ -203,10 +203,10 @@ Nature de la prestation</th>
       <td align="center">
 
 1</td>
-      <td align="center" rowspan="38">
+      <td rowspan="37" align="center">
 
 Actes judiciaires</td>
-      <td align="center" rowspan="10">
+      <td align="center" rowspan="9">
 
 Générique</td>
       <td>
@@ -228,14 +228,6 @@ Certificat</td>
       <td>
 
 Envoi et exécution d'une commission rogatoire</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4</td>
-      <td>
-
-Contredit sur la compétence</td>
     </tr>
     <tr>
       <td align="center">
@@ -384,7 +376,7 @@ Transmission d'un jugement, par partie</td>
       <td align="center">
 
 21</td>
-      <td rowspan="4" align="center">
+      <td align="center" rowspan="4">
 
 Actes d'instruction
 
@@ -553,7 +545,7 @@ Extrait établi en vue des mesures de publicité</td>
       <td align="center">
 
 39</td>
-      <td align="center" rowspan="46">
+      <td align="center" rowspan="48">
 
 Prestations relatives aux registres</td>
       <td rowspan="21">
@@ -963,11 +955,27 @@ Extrait du registre des entrepreneurs individuels à responsabilité limitée</t
     <tr>
       <td align="center">
 
+84-1</td>
+      <td align="center" rowspan="2">Prestations relatives au registre
+
+des bénéficiaires effectifs</td>
+      <td>Dépôt du document relatif au bénéficiaire effectif mentionné au deuxième alinéa de l'article L. 561-46 du code
+monétaire et financier, lors de la demande d'immatriculation à un registre de publicité légale ou au plus tard dans les
+quinze jours à compter de la délivrance du récépissé de dépôt de dossier de création d'entreprise</td>
+    </tr>
+    <tr>
+      <td align="center">84-2</td>
+      <td>Dépôt du document modificatif ou complémentaire au document relatif au bénéficiaire effectif mentionné au deuxième
+alinéa de l'article L. 561-46 du code monétaire et financier</td>
+    </tr>
+    <tr>
+      <td align="center">
+
 85</td>
       <td rowspan="30" align="center">
 
 Privilèges et sûretés</td>
-      <td rowspan="4" align="center">
+      <td align="center" rowspan="4">
 
 Privilège du Trésor
 
@@ -1426,7 +1434,7 @@ domicile élu</td>
       <td>
 
 Acte de déclaration de propriété faite sous serment devant le tribunal de commerce prévu à l'article 101 du code du domaine
-public fluvial et de la navigation intérieure </td>
+public fluvial et de la navigation intérieure</td>
     </tr>
     <tr>
       <td align="center">
@@ -1442,7 +1450,7 @@ Dépôt de procès-verbal de saisie</td>
 133</td>
       <td>
 
-Délivrance de tout état d'inscription positif ou négatif prévu à l'article R. 4121-4 du code des transports </td>
+Délivrance de tout état d'inscription positif ou négatif prévu à l'article R. 4121-4 du code des transports</td>
     </tr>
     <tr>
       <td align="center">
@@ -1459,7 +1467,7 @@ Délivrance de tout certificat</td>
       <td>
 
 Délivrance des copies de tous actes déposés au greffe en application du code du domaine public fluvial et de la navigation
-intérieure </td>
+intérieure</td>
     </tr>
     <tr>
       <td align="center">
@@ -1535,7 +1543,7 @@ circonscription et remplissant les conditions fixées au II de l'article L. 713-
       <td align="center">
 
 143</td>
-      <td align="center" colspan="2" rowspan="2">
+      <td rowspan="2" align="center" colspan="2">
 
 Actes des procédures de liquidation
 
@@ -1566,7 +1574,7 @@ Transmissions réalisées dans le cadre des procédures mentionnées au numéro 
       <td align="center">
 
 145</td>
-      <td colspan="2" rowspan="2" align="center">
+      <td rowspan="2" colspan="2" align="center">
 
 Actes des procédures de rétablissement
 
@@ -1651,10 +1659,10 @@ Significations de requête et d'ordonnance d'injonction de payer.</td>
       <td align="center">
 
 5</td>
-      <td align="center" rowspan="36">
+      <td rowspan="36" align="center">
 
 Actes ayant pour but d'informer les parties et les tiers</td>
-      <td align="center" rowspan="3">
+      <td rowspan="3" align="center">
 
 Procédure de
 
@@ -1663,7 +1671,7 @@ saisie-attribution
 </td>
       <td>
 
-Dénonciation de saisie-attribution, prévue à l'article R. 211-3 du code des procédures civiles d'exécution </td>
+Dénonciation de saisie-attribution, prévue à l'article R. 211-3 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1672,7 +1680,7 @@ Dénonciation de saisie-attribution, prévue à l'article R. 211-3 du code des p
       <td>
 
 Signification au tiers saisi de l'acquiescement du débiteur, prévue au second alinéa de l'article R. 211-6 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1681,7 +1689,7 @@ procédures civiles d'exécution </td>
       <td>
 
 Signification au tiers saisi du certificat de non-contestation, prévue au premier alinéa de l'article R. 211-6 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1693,7 +1701,7 @@ Procédure de saisie-vente</td>
       <td>
 
 Dénonciation au débiteur de la saisie-vente pratiquée entre les mains d'un tiers détenteur, prévue à l'article R. 221-26 du
-code des procédures civiles d'exécution </td>
+code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1702,7 +1710,7 @@ code des procédures civiles d'exécution </td>
       <td>
 
 Dénonciation d'opposition au créancier premier saisissant et au débiteur, prévue à l'article R. 221-42 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1711,7 +1719,7 @@ civiles d'exécution </td>
       <td>
 
 Dénonciation d'opposition et sommation au créancier premier saisissant de notifier toute proposition amiable de vente, prévue
-à l'article R. 221-46 du code des procédures civiles d'exécution </td>
+à l'article R. 221-46 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1720,7 +1728,7 @@ Dénonciation d'opposition et sommation au créancier premier saisissant de noti
       <td>
 
 Sommation au créancier premier saisissant de procéder aux formalités de mise en vente forcée, prévue à l'article R. 221-46 du
-code des procédures civiles d'exécution </td>
+code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1728,7 +1736,7 @@ code des procédures civiles d'exécution </td>
 12</td>
       <td>
 
-Signification de la date de vente au débiteur, prévue à l'article R. 221-35 du code des procédures civiles d'exécution </td>
+Signification de la date de vente au débiteur, prévue à l'article R. 221-35 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1740,7 +1748,7 @@ Procédure de saisie par déclaration à la préfecture</td>
       <td>
 
 Dénonciation au débiteur du procès-verbal d'indisponibilité du certificat d'immatriculation, prévue à l'article R. 223-3 du
-code des procédures civiles d'exécution </td>
+code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1752,7 +1760,7 @@ Procédure de saisie des droits d'associé et des valeurs mobilières</td>
       <td>
 
 Dénonciation au débiteur de la saisie des droits d'associé et des valeurs mobilières, prévue à l'article R. 232-6 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1761,7 +1769,7 @@ procédures civiles d'exécution </td>
       <td>
 
 Signification à la société ou à la personne morale émettrice d'un certificat de non contestation avec ordre de vente, prévue
-à l'article R. 233-1 du code des procédures civiles d'exécution </td>
+à l'article R. 233-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1770,7 +1778,7 @@ Signification à la société ou à la personne morale émettrice d'un certifica
       <td>
 
 Signification à la société du cahier des charges, prévue au premier alinéa de l'article R. 233-7 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1780,7 +1788,7 @@ civiles d'exécution </td>
 
 Signification au débiteur, à la société et aux autres créanciers opposants, s'il y a lieu, de la date de vente de parts
 d'associé et de valeurs mobilières, prévue au troisième alinéa de l'article R. 233-8 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1791,8 +1799,8 @@ d'exécution </td>
 Mesures d'expulsion</td>
       <td>
 
-Signification au débiteur ou au créancier saisissant du procès-verbal d'expulsion, prévue aux articles R. 432-2 et R. 433-7
-du code des procédures civiles d'exécution</td>
+Signification au débiteur ou au créancier saisissant du procès-verbal d'expulsion, prévue aux articles R. 432-2et R. 433-7du
+code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1813,7 +1821,7 @@ d'exécution </td>
       <td>
 
 Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1822,7 +1830,7 @@ d'exécution </td>
       <td>
 
 Signification au tiers saisi de l'acte de conversion en saisie-attribution de la saisie conservatoire des créances avec
-demande de paiement, prévue à l'article R. 523-7 du code des procédures civiles d'exécution </td>
+demande de paiement, prévue à l'article R. 523-7 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1831,7 +1839,7 @@ demande de paiement, prévue à l'article R. 523-7 du code des procédures civil
       <td>
 
 Signification au débiteur de l'acte de conversion en saisie-attribution de la saisie conservatoire des créances, prévue à
-l'article R. 523-8 du code des procédures civiles d'exécution </td>
+l'article R. 523-8 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1840,7 +1848,7 @@ l'article R. 523-8 du code des procédures civiles d'exécution </td>
       <td>
 
 Signification au tiers saisi du certificat de non-contestation et sommation de payer, prévue à l'article R. 523-9 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1853,7 +1861,7 @@ corporels</td>
       <td>
 
 Dénonciation au débiteur du procès-verbal de saisie conservatoire de meubles entre les mains d'un tiers, prévue au deuxième
-alinéa de l'article R. 522-5 du code des procédures civiles d'exécution </td>
+alinéa de l'article R. 522-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1862,7 +1870,7 @@ alinéa de l'article R. 522-5 du code des procédures civiles d'exécution </td>
       <td>
 
 Dénonciation au tiers des actes de poursuite de la procédure, prévue à l'article R. 511-8 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1871,7 +1879,7 @@ d'exécution </td>
       <td>
 
 Signification au débiteur de l'acte de conversion en saisie-vente de la saisie conservatoire de meubles avec commandement de
-payer, prévue au premier alinéa de l'article R. 522-7 du code des procédures civiles d'exécution </td>
+payer, prévue au premier alinéa de l'article R. 522-7 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1880,7 +1888,7 @@ payer, prévue au premier alinéa de l'article R. 522-7 du code des procédures 
       <td>
 
 Signification au tiers détenteur de l'acte de conversion en saisie-vente de la saisie conservatoire de meubles, prévue au
-dernier alinéa de l'article R. 522-7 du code des procédures civiles d'exécution </td>
+dernier alinéa de l'article R. 522-7 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1888,8 +1896,8 @@ dernier alinéa de l'article R. 522-7 du code des procédures civiles d'exécuti
 28</td>
       <td>
 
-Dénonciation au créancier premier saisissant de la saisie conservatoire de meubles, prévue aux articles R. 522-11 et R.
-522-12 du code des procédures civiles d'exécution</td>
+Dénonciation au créancier premier saisissant de la saisie conservatoire de meubles, prévue aux articles R. 522-11et R.
+522-12du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1898,7 +1906,7 @@ Dénonciation au créancier premier saisissant de la saisie conservatoire de meu
       <td>
 
 Signification à l'officier vendeur d'un acte de conversion en saisie-vente de la saisie conservatoire de meubles, prévue à
-l'article R. 251-5 du code des procédures civiles d'exécution </td>
+l'article R. 251-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1911,7 +1919,7 @@ valeurs mobilières</td>
       <td>
 
 Dénonciation au débiteur de la saisie conservatoire des droits d'associé et des valeurs mobilières, prévue à l'article R.
-524-2 du code des procédures civiles d'exécution </td>
+524-2 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1920,7 +1928,7 @@ Dénonciation au débiteur de la saisie conservatoire des droits d'associé et d
       <td>
 
 Dénonciation au tiers saisi de l'acte de conversion en saisie-vente de la saisie conservatoire des droits d'associé et des
-valeurs mobilières, prévue à l'article R. 524-5 du code des procédures civiles d'exécution </td>
+valeurs mobilières, prévue à l'article R. 524-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1932,7 +1940,7 @@ Mesures conservatoires et sûretés judiciaires réalisées dans le cadre des s�
       <td>
 
 Dénonciation au débiteur du dépôt des bordereaux d'inscription ou de la signification du nantissement, prévue à l'article R.
-532-5 du code des procédures civiles d'exécution </td>
+532-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -1979,7 +1987,7 @@ commerce, prévue à l'article L. 143-2 du présent code</td>
 
 Dénonciation à la caution du commandement de payer les loyers et sommation de payer, prévue à l'article 24 de la loi n°
 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23
-décembre 1986 </td>
+décembre 1986</td>
     </tr>
     <tr>
       <td align="center">
@@ -1987,7 +1995,7 @@ décembre 1986 </td>
 37</td>
       <td>
 
-Signification de mémoire prévue à l'article 978 du code de procédure civile </td>
+Signification de mémoire</td>
     </tr>
     <tr>
       <td align="center">
@@ -1995,7 +2003,7 @@ Signification de mémoire prévue à l'article 978 du code de procédure civile 
 38</td>
       <td>
 
-Procès-verbal d'offres réelles, prévu à l'article 1426 du code de procédure civile </td>
+Procès-verbal d'offres réelles, prévu à l'article 1426 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2004,7 +2012,7 @@ Procès-verbal d'offres réelles, prévu à l'article 1426 du code de procédure
       <td>
 
 Dénonciation au débiteur de la saisie-revendication entre les mains d'un tiers, prévue au deuxième alinéa de l'article R.
-222-22 du code des procédures civiles d'exécution </td>
+222-22 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2012,7 +2020,7 @@ Dénonciation au débiteur de la saisie-revendication entre les mains d'un tiers
 40</td>
       <td>
 
-Signification d'une proposition de redressement prévue aux articles L. 57 et L. 76 du livre des procédures fiscales</td>
+Signification d'une proposition de redressement prévue aux articles L. 57et L. 76du livre des procédures fiscales</td>
     </tr>
     <tr>
       <td align="center">
@@ -2021,13 +2029,13 @@ Signification d'une proposition de redressement prévue aux articles L. 57 et L.
       <td align="center" rowspan="9">
 
 Mise en demeure de payer et commandement de payer</td>
-      <td rowspan="3" align="center">
+      <td align="center" rowspan="3">
 
 Saisie-vente</td>
       <td>
 
-Injonction de communiquer et le commandement de payer, prévus à l'article R. 221-3 du code des procédures civiles d'exécution
-</td>
+Injonction de communiquer et le commandement de payer, prévus à l'article R. 221-3 du code des procédures civiles
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2044,7 +2052,7 @@ Commandement de payer précédant la saisie-vente, prévu à l'article R. 221-1 
       <td>
 
 Signification du certificat de non-paiement valant commandement de payer, prévue à l'article L. 131-73 du code monétaire et
-financier </td>
+financier</td>
     </tr>
     <tr>
       <td align="center">
@@ -2067,8 +2075,8 @@ améliorer les rapports locatifs et portant modification de la loi n° 86-1290 d
 Charges de copropriété</td>
       <td>
 
-Commandement de payer les charges de copropriété, prévu à l'article 19 de la loi n° 65-557 du 10 juillet 1965 fixant le
-statut de la copropriété des immeubles bâtis</td>
+Commandement de payer les charges de copropriété, prévu à l'article 19 de la loi n° 65-557 du 10 juillet 1965fixant le statut
+de la copropriété des immeubles bâtis</td>
     </tr>
     <tr>
       <td align="center">
@@ -2080,7 +2088,7 @@ Saisie de biens placés dans un coffre-fort</td>
       <td>
 
 Commandement de payer et la dénonciation au débiteur de la saisie des biens placés dans un coffre-fort, prévus à l'article R.
-224-3 du code des procédures civiles d'exécution </td>
+224-3 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2092,7 +2100,7 @@ Saisie conservatoire des droits d'associés et des valeurs mobilières</td>
       <td>
 
 Commandement de payer et la dénonciation au débiteur de l'acte de conversion en saisie-vente de la saisie conservatoire des
-droits d'associé et des valeurs mobilières, prévus à l'article R. 524-4 du code des procédures civiles d'exécution </td>
+droits d'associé et des valeurs mobilières, prévus à l'article R. 524-4 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2107,8 +2115,7 @@ Lettres de change. Billets
 </td>
       <td>
 
-Protêt, prévu aux articles L. 511-52 et L. 512-3 du présent code et à l'article L. 131-47 du code monétaire et financier </
-td>
+Protêt, prévu aux articles L. 511-52 et L. 512-3 du présent code et à l'article L. 131-47 du code monétaire et financier</td>
     </tr>
     <tr>
       <td align="center">
@@ -2120,7 +2127,7 @@ Saisie-appréhension</td>
       <td>
 
 Commandement de payer et la dénonciation au débiteur du procès-verbal d'appréhension à la demande du créancier gagiste,
-prévus à l'article R. 222-6 du code des procédures civiles d'exécution </td>
+prévus à l'article R. 222-6 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2131,7 +2138,7 @@ prévus à l'article R. 222-6 du code des procédures civiles d'exécution </td>
 Actes ayant pour but soit l'indisponibilité de biens ou de créances, soit le nantissement de parts sociales et de valeurs
 mobilières, soit l'opposabilité de cession ou de nantissement de créance prévus aux articles 1690 du code civil, de
 nantissement d'outillage et de matériel d'équipement prévus à l'article L. 525-9 du présent code.</td>
-      <td align="center" rowspan="2">
+      <td rowspan="2" align="center">
 
 Actes réalisés dans le cadre de la saisie-attribution</td>
       <td>
@@ -2156,7 +2163,7 @@ Saisie-vente</td>
       <td>
 
 Acte de saisie-vente ou acte de saisie-vente transformée en réception de deniers, prévu à l'article R. 221-16 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2164,7 +2171,7 @@ procédures civiles d'exécution </td>
 53</td>
       <td>
 
-Acte de saisie-vente transformée en carence, prévu à l'article R. 221-14 du code des procédures civiles d'exécution </td>
+Acte de saisie-vente transformée en carence, prévu à l'article R. 221-14 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2172,7 +2179,7 @@ Acte de saisie-vente transformée en carence, prévu à l'article R. 221-14 du c
 54</td>
       <td>
 
-Acte d'opposition-jonction, prévu à l'article R. 221-41 du code des procédures civiles d'exécution </td>
+Acte d'opposition-jonction, prévu à l'article R. 221-41 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2183,7 +2190,7 @@ Acte d'opposition-jonction, prévu à l'article R. 221-41 du code des procédure
 Saisie des récoltes sur pied</td>
       <td>
 
-Acte de saisie, prévu à l'article R. 221-57 du code des procédures civiles d'exécution </td>
+Acte de saisie, prévu à l'article R. 221-57 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2198,7 +2205,7 @@ Saisie par déclaration
 </td>
       <td>
 
-Acte de déclaration, prévu à l'article R. 223-2 du code des procédures civiles d'exécution </td>
+Acte de déclaration, prévu à l'article R. 223-2 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2209,7 +2216,7 @@ Acte de déclaration, prévu à l'article R. 223-2 du code des procédures civil
 Saisie des droits d'associé et des valeurs mobilières</td>
       <td>
 
-Acte de saisie, prévu à l'article R. 232-5 du code des procédures civiles d'exécution </td>
+Acte de saisie, prévu à l'article R. 232-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2221,7 +2228,7 @@ Mesures conservatoires et de sûretés judiciaires dans le cadre d'une saisie co
 td>
       <td>
 
-Acte de saisie conservataire, prévu à l'article R. 522-1 du code des procédures civiles d'exécution </td>
+Acte de saisie conservataire, prévu à l'article R. 522-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2232,7 +2239,7 @@ Acte de saisie conservataire, prévu à l'article R. 522-1 du code des procédur
 Mesures conservatoires et de sûretés judiciaires dans le cadre d'une saisie conservatoire des créances</td>
       <td>
 
-Acte de saisie conservatoire, prévu à l'article R. 523-1 du code des procédures civiles d'exécution </td>
+Acte de saisie conservatoire, prévu à l'article R. 523-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2244,7 +2251,7 @@ Mesures conservatoires et de sûretés judiciaires dans le cadre d'une saisie co
 mobilières</td>
       <td>
 
-Acte de saisie conservatoire, prévu à l'article R. 524-1 du code des procédures civiles d'exécution </td>
+Acte de saisie conservatoire, prévu à l'article R. 524-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2256,7 +2263,7 @@ Mesures conservatoires et de sûretés judiciaires dans le cadre des sûretés</
       <td>
 
 Signification à la société du nantissement des parts sociales, prévue à l'article R. 532-3 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2265,7 +2272,7 @@ d'exécution </td>
       <td>
 
 Signification à la société ou à la personne morale émettrice du nantissement des valeurs mobilières, prévue à l'article R.
-532-4 du code des procédures civiles d'exécution </td>
+532-4 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2289,7 +2296,7 @@ dans un coffre-fort
 </td>
       <td>
 
-Acte de saisie, prévu à l'article R. 224-1 du code des procédures civiles d'exécution </td>
+Acte de saisie, prévu à l'article R. 224-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2300,7 +2307,7 @@ Acte de saisie, prévu à l'article R. 224-1 du code des procédures civiles d'e
 Saisie-revendication des biens meubles corporels</td>
       <td>
 
-Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédures civiles d'exécution </td>
+Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2311,7 +2318,7 @@ Acte de saisie-revendication, prévu à l'article R. 222-11 du code des procédu
 Saisie-appréhension.</td>
       <td>
 
-Acte d'appréhension, prévu à l'article R. 222-4 du code des procédures civiles d'exécution </td>
+Acte d'appréhension, prévu à l'article R. 222-4 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2326,7 +2333,7 @@ du véhicule
 </td>
       <td>
 
-Acte d'immobilisation ou d'enlèvement, prévu à l'article R. 223-8 du code des procédures civiles d'exécution </td>
+Acte d'immobilisation ou d'enlèvement, prévu à l'article R. 223-8 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2341,8 +2348,8 @@ et aéronefs
 </td>
       <td>
 
-Acte de saisie, prévu aux articles L. 123-2 et R. 123-9 du code de l'aviation civile, aux articles L. 5114-22 à L. 5114-25,
-et L. 5114-27 à L. 5114-29 du code des transports, et aux articles 30,32 à 35,37 à 39,42,43,45 à 47,50, et 52 à 58 décret n°
+Acte de saisie, prévu aux articles L. 123-2et R. 123-9du code de l'aviation civile, aux articles L. 5114-22 à L. 5114-25, et
+L. 5114-27 à L. 5114-29du code des transports, et aux articles 30,32 à 35,37 à 39,42,43,45 à 47,50, et 52 à 58 décret n°
 67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer</td>
     </tr>
     <tr>
@@ -2365,7 +2372,7 @@ Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-7 du
 Saisie immobilière</td>
       <td>
 
-Commandement de payer valant saisie, prévu aux articles R. 321-1 et R. 321-5 du code des procédures civiles d'exécution</td>
+Commandement de payer valant saisie, prévu aux articles R. 321-1et R. 321-5du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2374,7 +2381,7 @@ Commandement de payer valant saisie, prévu aux articles R. 321-1 et R. 321-5 du
       <td>
 
 Commandement de payer au débiteur principal avec mention du commandement valant saisie délivré au tiers détenteur, prévu à
-l'article R. 321-5 du code des procédures civiles d'exécution </td>
+l'article R. 321-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2383,7 +2390,7 @@ l'article R. 321-5 du code des procédures civiles d'exécution </td>
       <td>
 
 Dénonciation au conjoint lorsque le bien est le siège du logement de la famille et qu'il appartient en propre à l'un des
-époux, prévu à l'article R. 321-5 du code des procédures civiles d'exécution </td>
+époux, prévu à l'article R. 321-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2404,7 +2411,7 @@ Oppositions</td>
       <td>
 
 Opposition au paiement du prix de cession d'un lot de copropriété, prévue à l'article 20 de la loi n° 65-557 du 10 juillet
-1965 fixant le statut de la copropriété des immeubles bâtis</td>
+1965fixant le statut de la copropriété des immeubles bâtis</td>
     </tr>
     <tr>
       <td align="center">
@@ -2421,7 +2428,7 @@ Opposition au prix de vente du fonds de commerce ou de cession du droit au bail,
 76</td>
       <td>
 
-Opposition à partage (entre les mains d'un notaire), prévue à l'article 882 du code civil </td>
+Opposition à partage (entre les mains d'un notaire), prévue à l'article 882 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -2436,7 +2443,7 @@ de créances
 </td>
       <td>
 
-Signification au débiteur de la cession de créances et autres droits incorporels, prévue à l'article 1690 du code civil </td>
+Signification au débiteur de la cession de créances et autres droits incorporels, prévue à l'article 1690 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -2478,8 +2485,8 @@ du véhicule
 </td>
       <td>
 
-Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction, prévue aux articles R. 223-12 et R.
-223-13 du code des procédures civiles d'exécution</td>
+Dénonciation au débiteur du procès-verbal d'immobilisation du véhicule avec injonction, prévue aux articles R. 223-12et R.
+223-13du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2491,7 +2498,7 @@ Saisie-appréhension et d'une saisie-revendication</td>
       <td>
 
 Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2499,7 +2506,7 @@ civiles d'exécution </td>
 83</td>
       <td>
 
-Sommation au tiers de remettre le bien, prévue à l'article R. 222-7 du code des procédures civiles d'exécution </td>
+Sommation au tiers de remettre le bien, prévue à l'article R. 222-7 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2511,7 +2518,7 @@ Saisie-appréhension des biens placés dans un coffre-fort</td>
       <td>
 
 Commandement à la personne tenue de la remise de délivrer ou de restituer, prévu à l'article R. 222-2 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2520,7 +2527,7 @@ civiles d'exécution </td>
       <td>
 
 Sommation au débiteur d'assister à l'ouverture du coffre-fort, prévue à l'article R. 525-4 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2531,7 +2538,7 @@ d'exécution </td>
 Mesures d'expulsion</td>
       <td>
 
-Commandement de quitter les lieux, prévu à l'article R. 411-1 du code des procédures civiles d'exécution </td>
+Commandement de quitter les lieux, prévu à l'article R. 411-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2543,19 +2550,19 @@ Saisie des droits d'associé et des valeurs mobilières</td>
       <td>
 
 Sommation aux créanciers opposants de prendre communication du cahier des charges, prévue au deuxième alinéa de l'article R.
-233-7 du code des procédures civiles d'exécution </td>
+233-7 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
 
 88</td>
-      <td rowspan="2" align="center">
+      <td align="center" rowspan="2">
 
 Saisie immobilière</td>
       <td>
 
 Assignation du débiteur saisi à comparaître devant le juge de l'exécution à une audience d'orientation, prévue à l'article R.
-322-4 du code des procédures civiles d'exécution </td>
+322-4 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2564,7 +2571,7 @@ Assignation du débiteur saisi à comparaître devant le juge de l'exécution à
       <td>
 
 Dénonciation aux créanciers inscrits valant assignation à comparaître, prévue à l'article R. 322-6 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2587,7 +2594,7 @@ et au nantissement des fonds de commerce</td>
 Successions</td>
       <td>
 
-Sommation de prendre parti, prévu à l'article 771 du code civil </td>
+Sommation de prendre parti, prévu à l'article 771 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -2610,12 +2617,12 @@ ou non contenue dans un des commandements visés aux articles 7 et 24 dudit arti
       <td rowspan="5">
 
 Mise en vente forcée des biens saisis</td>
-      <td rowspan="2" align="center">
+      <td align="center" rowspan="2">
 
 Saisie-vente</td>
       <td>
 
-Certification d'accomplissement des formalités de publicité de vente, prévue aux articles R. 221-34 et R. 221-60 du code des
+Certification d'accomplissement des formalités de publicité de vente, prévue aux articles R. 221-34et R. 221-60du code des
 procédures civiles d'exécution</td>
     </tr>
     <tr>
@@ -2624,7 +2631,7 @@ procédures civiles d'exécution</td>
 94</td>
       <td>
 
-Acte de vérification et d'enlèvement, prévu aux articles L. 221-3, R. 221-36 et R. 522-8 du code des procédures civiles
+Acte de vérification et d'enlèvement, prévu aux articles L. 221-3, R. 221-36et R. 522-8du code des procédures civiles
 d'exécution</td>
     </tr>
     <tr>
@@ -2640,7 +2647,7 @@ dans un coffre-fort.
 </td>
       <td>
 
-Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort, prévu aux articles R. 224-5 et R. 224-7 du code des
+Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort, prévu aux articles R. 224-5et R. 224-7du code des
 procédures civiles d'exécution</td>
     </tr>
     <tr>
@@ -2652,7 +2659,7 @@ procédures civiles d'exécution</td>
 Saisie immobilière</td>
       <td>
 
-Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32 et R. 322-33 du code des procédures civiles d'exécution</td>
+Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32et R. 322-33du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2663,7 +2670,7 @@ Procès-verbal d'apposition d'avis, prévu aux articles R. 322-32 et R. 322-33 d
 Expulsion</td>
       <td>
 
-Procès-verbal d'inventaire, prévu à l'article R. 433-5 du code des procédures civiles d'exécution </td>
+Procès-verbal d'inventaire, prévu à l'article R. 433-5 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2714,20 +2721,20 @@ Actes divers</td>
 Saisie-attribution</td>
       <td>
 
-Mainlevée quittance au tiers saisi, prévue à l'article R. 211-7 du code des procédures civiles d'exécution </td>
+Mainlevée quittance au tiers saisi, prévue à l'article R. 211-7 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
 
 103</td>
       <td align="left">
-      </td><td align="center" rowspan="2">
+      </td><td rowspan="2" align="center">
 
 Saisie-vente</td>
       <td>
 
 Mainlevée de saisie-vente et la mainlevée d'opposition-jonction, prévue à l'article R. 221-47 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2737,7 +2744,7 @@ d'exécution </td>
       </td><td>
 
 Acte de consignation et mainlevée totale ou partielle de saisie-vente, après la vente amiable par le débiteur, prévu à
-l'article R. 221-32 du code des procédures civiles d'exécution </td>
+l'article R. 221-32 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2749,7 +2756,7 @@ l'article R. 221-32 du code des procédures civiles d'exécution </td>
 Offres réelles</td>
       <td>
 
-Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile </td>
+Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2761,7 +2768,7 @@ Procès-verbal de consignation, prévu à l'article 1428 du code de procédure c
 Expulsion</td>
       <td>
 
-Procès-verbal d'expulsion ou reprise des lieux, prévu à l'article R. 432-1 du code des procédures civiles d'exécution </td>
+Procès-verbal d'expulsion ou reprise des lieux, prévu à l'article R. 432-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -2770,7 +2777,7 @@ Procès-verbal d'expulsion ou reprise des lieux, prévu à l'article R. 432-1 du
       <td align="left">
       </td><td>
 
-Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile </td>
+Procès-verbal de consignation, prévu à l'article 1428 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2779,14 +2786,14 @@ Procès-verbal de consignation, prévu à l'article 1428 du code de procédure c
       <td align="left">
       </td><td>
 
-Procès-verbal de destruction, prévu à l'article R. 433-6 du code des procédures civiles d'exécution </td>
+Procès-verbal de destruction, prévu à l'article R. 433-6 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
 
 109</td>
       <td align="left">
-      </td><td rowspan="2" align="center">
+      </td><td align="center" rowspan="2">
 
 Baux et loyers</td>
       <td>
@@ -2800,8 +2807,8 @@ Congés et les demandes de renouvellement de bail commercial, prévus aux articl
       <td align="left">
       </td><td>
 
-Congés et les offres de renouvellement de bail rural, prévus à l'article 1775 du code civil et à la section 8 du chapitre Ier
-du Titre Ier du Livre IV du code rural et de la pêche maritime </td>
+Congés et les offres de renouvellement de bail rural, prévus à l'article 1775 du code civilet à la section 8 du chapitre Ier
+du Titre Ier du Livre IV du code rural et de la pêche maritime</td>
     </tr>
     <tr>
       <td align="center">
@@ -2815,7 +2822,7 @@ Procédure de reprise des locaux abandonnés</td>
 
 Constatation de l'abandon du local d'habitation avec inventaire des meubles laissés sur place prévue au troisième aliéna de
 l'article 14-1 de la loi du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n°
-86-1290 du 23 décembre 1986 </td>
+86-1290 du 23 décembre 1986</td>
     </tr>
     <tr>
       <td align="center">
@@ -2828,8 +2835,8 @@ Constats</td>
       <td>
 
 Établissement par l'huissier d'un état des lieux à frais partagés entre le bailleur et le locataire, prévu à l'article 3-2 de
-la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du
-23 décembre 1986 </td>
+la loi n° 89-462 du 6 juillet 1989tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du
+23 décembre 1986</td>
     </tr>
     <tr>
       <td align="center">
@@ -2867,7 +2874,7 @@ td>
 Mariage</td>
       <td>
 
-Opposition à mariage, prévue à l'article 176 du code civil </td>
+Opposition à mariage, prévue à l'article 176 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -2882,7 +2889,7 @@ Actes en provenance et à destination d'un autre Etat</td>
 Signification en provenance d'un autre Etat, prévue dans le Règlement (CE) n° 1393/2007 du Parlement européen et du Conseil
 du 13 novembre 2007 relatif à la signification et à la notification dans les Etats membres des actes judiciaires et
 extrajudiciaires en matière civile ou commerciale, et abrogeant le règlement (CE) n° 1348/2000 du Conseil et à l'article
-688-2 du code de procédure civile </td>
+688-2 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2892,7 +2899,7 @@ extrajudiciaires en matière civile ou commerciale, et abrogeant le règlement (
       </td><td>
 
 Transmission de la demande de signification ou de notification dans un autre Etat étranger, prévue dans le Règlement
-mentionné au numéro 116 du présent tableau, et à l'article 684 du code de procédure civile </td>
+mentionné au numéro 116 du présent tableau, et à l'article 684 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2904,8 +2911,7 @@ mentionné au numéro 116 du présent tableau, et à l'article 684 du code de pr
 Scellés</td>
       <td>
 
-Procès-verbal d'apposition des scellés sans diligences particulières, prévu à l'article 1308 du code de procédure civile </
-td>
+Procès-verbal d'apposition des scellés sans diligences particulières, prévu à l'article 1308 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2924,7 +2930,7 @@ procédure civile </td>
       <td align="left">
       </td><td>
 
-Procès-verbal de carence, prévu au deuxième alinéa de l'article 1304 du code de procédure civile </td>
+Procès-verbal de carence, prévu au deuxième alinéa de l'article 1304 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2933,7 +2939,7 @@ Procès-verbal de carence, prévu au deuxième alinéa de l'article 1304 du code
       <td align="left">
       </td><td>
 
-Sommation d'assister aux opérations de levée des scellés, prévue à l'article 1317 du code de procédure civile </td>
+Sommation d'assister aux opérations de levée des scellés, prévue à l'article 1317 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2942,7 +2948,7 @@ Sommation d'assister aux opérations de levée des scellés, prévue à l'articl
       <td align="left">
       </td><td>
 
-Acte d'inventaire lors de la levée des scellés, prévu à l'article 1319 du code de procédure civile </td>
+Acte d'inventaire lors de la levée des scellés, prévu à l'article 1319 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2951,7 +2957,7 @@ Acte d'inventaire lors de la levée des scellés, prévu à l'article 1319 du co
       <td align="left">
       </td><td>
 
-Procès-verbal de levée des scellés, prévu à l'article 1320 du code de procédure civile </td>
+Procès-verbal de levée des scellés, prévu à l'article 1320 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2960,7 +2966,7 @@ Procès-verbal de levée des scellés, prévu à l'article 1320 du code de proc�
       <td align="left">
       </td><td>
 
-Etat descriptif, prévu à l'article 1323 du code de procédure civile </td>
+Etat descriptif, prévu à l'article 1323 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -2978,7 +2984,7 @@ Etat descriptif avec diligences particulières, prévu aux articles 1312 à 1314
       <td align="left">
       </td><td>
 
-Procès-verbal de déplacement des scellés, prévu à l'article 1324 du code de procédure civile </td>
+Procès-verbal de déplacement des scellés, prévu à l'article 1324 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -3030,7 +3036,7 @@ Carence</td>
       <td>
 
 Etablissement d'un procès-verbal constatant que le destinataire de la signification est sans domicile, ni résidence ni lieu
-de travail connus, conformément aux dispositions de l'article 659 du code de procédure civile </td>
+de travail connus, conformément aux dispositions de l'article 659 du code de procédure civile</td>
     </tr>
   </tbody>
 </table>
@@ -3266,7 +3272,7 @@ Recherche des informations</td>
       <td align="left">
       </td><td>
 
-Requête aux fins de recherche des informations, prévue aux articles L. 152-1 et L. 152-2 du code des procédures civiles
+Requête aux fins de recherche des informations, prévue aux articles L. 152-1et L. 152-2du code des procédures civiles
 d'exécution</td>
     </tr>
     <tr>
@@ -3286,14 +3292,14 @@ procédures civiles d'exécution </td>
       <td align="center">
 
 153</td>
-      <td rowspan="2" align="center">
+      <td align="center" rowspan="2">
 
 Saisie des rémunérations</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td>
 
-Requête au greffe aux fins de saisie des rémunérations ou en intervention, prévue à l'article R. 3252-13 du code du travail
-</td>
+Requête au greffe aux fins de saisie des rémunérations ou en intervention, prévue à l'article R. 3252-13 du code du travail</
+td>
     </tr>
     <tr>
       <td align="center">
@@ -3302,7 +3308,7 @@ Requête au greffe aux fins de saisie des rémunérations ou en intervention, pr
       <td align="left">
 
 Notification à l'employeur d'un acte de saisie des rémunérations lorsque le courrier revient non réclamé au tribunal, prévue
-à l'article 670-1 du code de procédure civile </td>
+à l'article 670-1 du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -3315,7 +3321,7 @@ Saisie-attribution</td>
       </td><td>
 
 Requête au secrétariat-greffe du juge de l'exécution aux fins de délivrance d'un certificat de non-contestation, prévue à
-l'article R. 211-6 du code des procédures civiles d'exécution </td>
+l'article R. 211-6 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3324,7 +3330,7 @@ l'article R. 211-6 du code des procédures civiles d'exécution </td>
       <td>
 
 Etablissement du certificat de non-contestation par l'huissier de justice qui a procédé à la saisie, prévue à l'article R.
-211-6 du code des procédures civiles d'exécution </td>
+211-6 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3333,7 +3339,7 @@ Etablissement du certificat de non-contestation par l'huissier de justice qui a 
       <td align="left">
 
 Dénonciation de la saisine du juge de l'exécution à l'huissier de justice en matière de contestation de saisie-attribution,
-prévue à l'article R. 211-11 du code des procédures civiles d'exécution </td>
+prévue à l'article R. 211-11 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3342,10 +3348,10 @@ prévue à l'article R. 211-11 du code des procédures civiles d'exécution </td
       <td align="center" rowspan="4">
 
 Incidents et difficultés d'exécution</td>
-      <td rowspan="4" align="left">
+      <td align="left" rowspan="4">
       </td><td>
 
-Saisine du juge de l'exécution sur la difficulté d'exécution, prévue aux articles R. 151-2, R. 221-53 et R. 442-1 du code des
+Saisine du juge de l'exécution sur la difficulté d'exécution, prévue aux articles R. 151-2, R. 221-53et R. 442-1du code des
 procédures civiles d'exécution</td>
     </tr>
     <tr>
@@ -3355,7 +3361,7 @@ procédures civiles d'exécution</td>
       <td>
 
 Information aux parties de la difficulté d'exécution et des lieux, jour et heure de l'audience, prévue à l'article R. 151-3
-du code des procédures civiles d'exécution </td>
+du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3364,7 +3370,7 @@ du code des procédures civiles d'exécution </td>
       <td>
 
 Réquisition du concours de la force publique au préfet, prévue à l'article R. 153-1 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3373,16 +3379,16 @@ d'exécution </td>
       <td>
 
 Notification au procureur et au créancier du refus du concours de la force publique, prévue à l'article R. 153-1 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
 
 162</td>
-      <td align="center" rowspan="4">
+      <td rowspan="4" align="center">
 
-saisie-vente</td>
-      <td rowspan="4" align="left">
+Saisie-vente</td>
+      <td align="left" rowspan="4">
       </td><td>
 
 Requête au juge de l'exécution aux fins d'autorisation de saisie-vente, prévue à l'article R. 221-2 du code mentionné des
@@ -3395,7 +3401,7 @@ procédures civiles d'exécution</td>
       <td>
 
 Requête au juge de l'exécution aux fins de désignation d'un séquestre, prévue à l'article R. 221-19 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3404,7 +3410,7 @@ civiles d'exécution </td>
       <td>
 
 Communication au créancier saisissant et aux créanciers opposants des propositions de vente amiable, prévue à l'article R.
-221-31 du code des procédures civiles d'exécution </td>
+221-31 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3412,17 +3418,17 @@ Communication au créancier saisissant et aux créanciers opposants des proposit
 165</td>
       <td>
 
-Information des lieux, jour et heure de la vente, prévue à l'article R. 221-35 du code des procédures civiles d'exécution </
+Information des lieux, jour et heure de la vente, prévue à l'article R. 221-35 du code des procédures civiles d'exécution</
 td>
     </tr>
     <tr>
       <td align="center">
 
 166</td>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 Saisie-appréhension</td>
-      <td rowspan="4" align="center">
+      <td align="center" rowspan="4">
 
 En vertu d'un titre
 
@@ -3432,7 +3438,7 @@ exécutoire
       <td>
 
 Notification à la personne tenue de délivrer ou de restituer le bien de l'acte de la remise volontaire ou de l'appréhension
-du bien, prévue à l'article R. 222-5 et au second alinéa de l'article R. 222-10 du code des procédures civiles d'exécution </
+du bien, prévue à l'article R. 222-5 et au second alinéa de l'article R. 222-10 du code des procédures civiles d'exécution</
 td>
     </tr>
     <tr>
@@ -3442,7 +3448,7 @@ td>
       <td>
 
 Notification à la personne tenue de délivrer ou de restituer le bien de la sommation de remettre, prévue à l'article R. 222-7
-du code des procédures civiles d'exécution </td>
+du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3451,7 +3457,7 @@ du code des procédures civiles d'exécution </td>
       <td>
 
 Requête au juge de l'exécution aux fins d'une autorisation spéciale d'appréhension dans les locaux servant à l'habitation du
-tiers, prévue à l'article R. 221-2 du code des procédures civiles d'exécution </td>
+tiers, prévue à l'article R. 221-2 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3460,7 +3466,7 @@ tiers, prévue à l'article R. 221-2 du code des procédures civiles d'exécutio
       <td>
 
 Notification au tiers de l'acte de saisie-appréhension, prévue au premier alinéa de l'article R. 222-10 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3485,7 +3491,7 @@ Saisie-revendication</td>
       </td><td>
 
 Requête au juge de l'exécution aux fins de saisie-revendication, prévue à l'article R. 222-17 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3494,11 +3500,11 @@ d'exécution </td>
       <td rowspan="3">
 
 Mesures d'exécution sur les véhicules terrestres à moteur.</td>
-      <td align="left" rowspan="3">
+      <td rowspan="3" align="left">
       </td><td>
 
 Mainlevée au préfet de la saisie par déclaration à la préfecture, prévue à l'article R. 223-4 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3507,7 +3513,7 @@ d'exécution </td>
       <td>
 
 Lettre au débiteur l'informant de l'immobilisation de son véhicule, prévue à l'article R. 223-9 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3516,20 +3522,20 @@ civiles d'exécution </td>
       <td>
 
 Information au créancier gagiste des propositions de vente amiable ou de la mise en vente aux enchères du véhicule, prévue à
-l'article R. 223-11 du code des procédures civiles d'exécution </td>
+l'article R. 223-11 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
 
 175</td>
-      <td align="center" rowspan="3">
+      <td rowspan="3" align="center">
 
 Saisie des droits d'associé et des valeurs mobilières.</td>
-      <td rowspan="3" align="left">
+      <td align="left" rowspan="3">
       </td><td>
 
 Requête au secrétariat-greffe du juge de l'exécution d'un certificat de non-contestation, prévue à l'article R. 233-1 du code
-des procédures civiles d'exécution </td>
+des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3538,7 +3544,7 @@ des procédures civiles d'exécution </td>
       <td>
 
 Rédaction du cahier des charges en matière de saisie des droits d'associé et des valeurs mobilières non admises à la cote
-officielle ou à celle du second marché, prévue à l'article R. 233-6 du code des procédures civiles d'exécution </td>
+officielle ou à celle du second marché, prévue à l'article R. 233-6 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3547,21 +3553,21 @@ officielle ou à celle du second marché, prévue à l'article R. 233-6 du code 
       <td>
 
 Notification à la société d'une copie du cahier des charges, prévue à l'article R. 233-7 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
 
 178</td>
-      <td rowspan="5" align="center">
+      <td align="center" rowspan="5">
 
 Expulsion</td>
       <td align="left" rowspan="5">
       </td><td>
 
 Notification au représentant de l'Etat de l'assignation aux fins de constat de la résiliation, prévue à l'article 24 de la
-loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23
-décembre 1986 </td>
+loi n° 89-462 du 6 juillet 1989tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23
+décembre 1986</td>
     </tr>
     <tr>
       <td align="center">
@@ -3570,7 +3576,7 @@ décembre 1986 </td>
       <td>
 
 Information au représentant de l'Etat du commandement d'avoir à quitter les lieux, prévue aux articles L. 412-5 et au R.
-412-2 du code des procédures civiles d'exécution </td>
+412-2 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3588,7 +3594,7 @@ Notification à la personne expulsée de la consignation du produit de la vente,
       <td>
 
 Notification à la personne expulsée de la mise sous enveloppe scellée des papiers et documents de nature personnelle, prévue
-au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'exécution </td>
+au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3596,7 +3602,7 @@ au deuxième alinéa de l'article R. 433-6 du code des procédures civiles d'ex�
 182</td>
       <td>
 
-Notification du procès-verbal d'expulsion au percepteur, prévue aux articles 1686 et 1687 du code général des impôts.</td>
+Notification du procès-verbal d'expulsion au percepteur, prévue aux articles 1686et 1687du code général des impôts.</td>
     </tr>
     <tr>
       <td align="center">
@@ -3622,7 +3628,7 @@ Distribution de deniers</td>
       </td><td>
 
 Projet de répartition du prix en matière de distribution de deniers, prévue à l'article R. 251-2 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3631,7 +3637,7 @@ civiles d'exécution </td>
       <td>
 
 Notification du projet de répartition amiable au débiteur et à chacun des créanciers, prévue à l'article R. 251-4 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3640,7 +3646,7 @@ procédures civiles d'exécution </td>
       <td>
 
 Convocation du débiteur et de tous les créanciers et dressant les points de désaccord, prévue à l'article R. 251-6 du code
-des procédures civiles d'exécution </td>
+des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3649,7 +3655,7 @@ des procédures civiles d'exécution </td>
       <td>
 
 Acte constatant le désaccord des créanciers et dressant les points de désaccord, prévue à l'article R. 251-8 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3665,7 +3671,7 @@ ou de faire
       <td align="left">
       </td><td>
 
-Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407 et 1425-1 du code de procédure civile</td>
+Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407et 1425-1du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -3674,11 +3680,11 @@ Requête aux fins d'injonction de payer ou de faire, prévue aux articles 1407 e
       <td rowspan="2" align="center">
 
 Saisie immobilière</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td>
 
 Rédaction du bordereau en vue de la publication du commandement, prévue à l'article R. 321-6 du code des procédures civiles
-d'exécution </td>
+d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3686,7 +3692,7 @@ d'exécution </td>
 190</td>
       <td>
 
-Mention en marge au bureau des hypothèques, prévue à l'article R. 322-9 du code des procédures civiles d'exécution </td>
+Mention en marge au bureau des hypothèques, prévue à l'article R. 322-9 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3695,7 +3701,7 @@ Mention en marge au bureau des hypothèques, prévue à l'article R. 322-9 du co
       <td align="center" rowspan="6">
 
 Formalités diverses</td>
-      <td rowspan="6" align="left">
+      <td align="left" rowspan="6">
       </td><td>
 
 Levée d'extraits de la matrice cadastrale</td>
@@ -3739,7 +3745,7 @@ Réquisitions d'état civil</td>
 196</td>
       <td>
 
-Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2
+Appels de cause, prévus à l'article 11 du décret n° 56-222 du 29 février 1956pris pour l'application de l'ordonnance du 2
 novembre 1945 relative au statut des huissiers de justice</td>
     </tr>
     <tr>
@@ -3750,8 +3756,7 @@ novembre 1945 relative au statut des huissiers de justice</td>
       </td><td align="left">
       </td><td>
 
-Actes du palais, prévus à l'article 11 du décret mentionné au 196, et aux articles 671 et 982 du code de procédure civile</
-td>
+Actes du palais, prévus à l'article 11 du décret mentionné au 196, et aux articles 671et 982du code de procédure civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -3764,19 +3769,19 @@ Constats</td>
       </td><td>
 
 Lettres de convocation des parties à l'état des lieux mentionné à l'article 3-2 de la loi n° 89-462 du 6 juillet 1989 tendant
-à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 </td>
+à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986</td>
     </tr>
     <tr>
       <td align="center">
 
 199</td>
-      <td align="center" rowspan="3">
+      <td rowspan="3" align="center">
 
 Paiement direct des pensions alimentaires</td>
       <td rowspan="3" align="left">
       </td><td>
 
-Demande de paiement direct, prévue aux articles L. 213-5 et R. 213-7 du code des procédures civiles d'exécution</td>
+Demande de paiement direct, prévue aux articles L. 213-5et R. 213-7du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
       <td align="center">
@@ -3784,7 +3789,7 @@ Demande de paiement direct, prévue aux articles L. 213-5 et R. 213-7 du code de
 200</td>
       <td>
 
-Demande de paiement direct faute d'accord entre les parties, prévue aux articles L. 213-5 et R. 213-7 du code des procédures
+Demande de paiement direct faute d'accord entre les parties, prévue aux articles L. 213-5et R. 213-7du code des procédures
 civiles d'exécution</td>
     </tr>
     <tr>
@@ -3793,7 +3798,7 @@ civiles d'exécution</td>
 201</td>
       <td>
 
-Notification de la modification ou de la mainlevée de la demande, prévue aux articles L. 213-5 et R. 213-7 du code des
+Notification de la modification ou de la mainlevée de la demande, prévue aux articles L. 213-5et R. 213-7du code des
 procédures civiles d'exécution</td>
     </tr>
     <tr>
@@ -3803,10 +3808,10 @@ procédures civiles d'exécution</td>
       <td rowspan="2">
 
 Inventaire estimatif de l'actif et du passif des successions vacantes</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
       </td><td>
 
-Inventaire en cas de succession vacante, prévu à l'article 809-2 du code civil </td>
+Inventaire en cas de succession vacante, prévu à l'article 809-2 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -3815,7 +3820,7 @@ Inventaire en cas de succession vacante, prévu à l'article 809-2 du code civil
       <td>
 
 Délivrance d'une copie de l'inventaire dressé en cas de succession vacante, prévue à l'article 1345 du code de procédure
-civile </td>
+civile</td>
     </tr>
     <tr>
       <td align="center">
@@ -4226,13 +4231,13 @@ Nature de la prestation</td>
       <td align="center">
 
 1</td>
-      <td align="center" rowspan="180">
+      <td rowspan="187" align="center">
 
 Actes</td>
-      <td rowspan="43" align="center">
+      <td rowspan="45" align="center">
 
 Actes relatifs principalement à la famille</td>
-      <td rowspan="23">
+      <td rowspan="24">
 
 Actes concernant la transmission du patrimoine par succession ou donation</td>
       <td>
@@ -4417,6 +4422,13 @@ Donation entre époux, pendant le mariage</td>
 Révocation de donation entre époux, de testament, de mandat, ou de substitution</td>
     </tr>
     <tr>
+      <td align="center">23-1</td>
+      <td>
+
+Attestation de propriété qui est délivrée à la suite du constat de la survenance d'une condition résolutoire entraînant la
+révocation d'une donation en application de l'article 960 du code civil</td>
+    </tr>
+    <tr>
       <td align="center">
 
 24</td>
@@ -4426,7 +4438,7 @@ Actes concernant la protection des membres de la famille</td>
       <td>
 
 Option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du prédécédé prévue à l'article 1390 du
-code civil, ou pour le prélèvement de biens communs prévue à l'article 1511 du code civil </td>
+code civil, ou pour le prélèvement de biens communs prévue à l'article 1511 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4435,7 +4447,7 @@ code civil, ou pour le prélèvement de biens communs prévue à l'article 1511 
       <td>
 
 Option par les héritiers pour le maintien des formes et modalités de règlement de la prestation compensatoire qui incombait à
-l'époux débiteur décédé, prévue à l'article 280-1 du code civil </td>
+l'époux débiteur décédé, prévue à l'article 280-1 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4475,7 +4487,7 @@ Déclaration d'emploi par acte séparé</td>
 30</td>
       <td>
 
-Constitution de pension alimentaire et rente indexée en vertu des articles 205 et 373-2-3 du code civil</td>
+Constitution de pension alimentaire et rente indexée en vertu des articles 205et 373-2-3du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4491,7 +4503,7 @@ Constitution de pension alimentaire et rente indexée dans les autres cas que ce
 32</td>
       <td>
 
-Constitution de rente perpétuelle ou de rente viagère</td>
+Constitution de rente perpétuelle, constitution de rente viagère ou rachat de rente viagère portant sur un immeuble</td>
     </tr>
     <tr>
       <td align="center">
@@ -4515,7 +4527,8 @@ Récépissé ou arrêté de compte de tutelle, par acte séparé</td>
 35</td>
       <td>
 
-Établissement du mandat posthume</td>
+Etablissement du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil</
+td>
     </tr>
     <tr>
       <td align="center">
@@ -4523,7 +4536,8 @@ Récépissé ou arrêté de compte de tutelle, par acte séparé</td>
 36</td>
       <td>
 
-Acceptation du mandat posthume par acte séparé</td>
+Acceptation du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477 du code civil</
+td>
     </tr>
     <tr>
       <td align="center">
@@ -4531,7 +4545,8 @@ Acceptation du mandat posthume par acte séparé</td>
 37</td>
       <td>
 
-Révocation par le mandant</td>
+Révocation, par le mandant, du mandat posthume ou du mandat de protection future prévu au troisième alinéa de l'article 477
+du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4539,7 +4554,8 @@ Révocation par le mandant</td>
 38</td>
       <td>
 
-Renonciation par le mandataire</td>
+Renonciation, par le mandataire, au mandat posthume ou au mandat de protection future prévu au troisième alinéa de l'article
+477 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4548,13 +4564,13 @@ Renonciation par le mandataire</td>
       <td>
 
 Examen des comptes du mandataire désigné au titre d'un mandat de protection future, en application de l'article 491 du code
-civil </td>
+civil</td>
     </tr>
     <tr>
       <td align="center">
 
 40</td>
-      <td rowspan="4">
+      <td rowspan="5">
 
 Actes relatifs à la pérennité des liens familiaux</td>
       <td>
@@ -4575,7 +4591,7 @@ Contrat de mariage, contre-lettre, changement de régime matrimonial</td>
 42</td>
       <td>
 
-Elaboration d'un projet de liquidation du régime matrimonial, prévue au 10° de l'article 255 du code civil </td>
+Elaboration d'un projet de liquidation du régime matrimonial, prévue au 10° de l'article 255 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4584,16 +4600,20 @@ Elaboration d'un projet de liquidation du régime matrimonial, prévue au 10° d
       <td>
 
 Consentement des époux ou concubins dans le cadre d'une procréation médicalement assistée nécessitant l'intervention d'un
-tiers donneur prévu à l'article 311-20 du code civil </td>
+tiers donneur prévu à l'article 311-20 du code civil</td>
+    </tr>
+    <tr>
+      <td align="center">43-1</td>
+      <td>Consentement à l'adoption réalisé en application de l'article 348-3 du code civil</td>
     </tr>
     <tr>
       <td align="center">
 
 44</td>
-      <td rowspan="54">
+      <td rowspan="56">
 
 Actes relatifs principalement aux biens immobiliers et fonciers</td>
-      <td rowspan="28">
+      <td rowspan="30">
 
 Actes relatifs à la propriété et la mutation de propriété</td>
       <td>
@@ -4681,6 +4701,11 @@ Transfert de propriété ou de jouissance entre collectivités territoriales et/
 
 Vente ou cession de gré à gré de tous biens et droits quelconques mobiliers ou immobiliers, corporels ou incorporels, sauf
 dispositions contraires au présent tableau.</td>
+    </tr>
+    <tr>
+      <td align="center">54-1</td>
+      <td>Etablissement par acte authentique de la promesse de vente d'une durée de plus de dix-huit mois prévue à l'article
+L. 290-1 du code de la construction et de l'habitat</td>
     </tr>
     <tr>
       <td align="center">
@@ -4785,7 +4810,7 @@ consentis par les départements, communes, établissements publics et sociétés
 66</td>
       <td>
 
-Conclusion du contrat initial de location-accession régie par la loi n° 84-595 du 12 juillet 1984 définissant la location-
+Conclusion du contrat initial de location-accession régie par la loi n° 84-595 du 12 juillet 1984définissant la location-
 accession à la propriété immobilière</td>
     </tr>
     <tr>
@@ -4806,12 +4831,19 @@ Ventes, soumises à publicité foncière, des biens et droits suivants : fonds d
 unités de production, de branches d'activité d'entreprise, au sens du livre VI du présent code</td>
     </tr>
     <tr>
-      <td align="center">
-
-69</td>
+      <td align="center">69</td>
       <td>
 
 Ventes par adjudication judiciaire de tous biens et droits autres que meubles et objets mobiliers, arbres en détail, et
+bateaux</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+69-1</td>
+      <td>
+
+Vente par adjudication volontaire de tous biens et droits autres que meubles et objets mobiliers, arbres en détail et
 bateaux</td>
     </tr>
     <tr>
@@ -4972,7 +5004,7 @@ td>
 88</td>
       <td>
 
-Contrat de promotion immobilière mentionné à l'article 1831-1 du code civil </td>
+Contrat de promotion immobilière mentionné à l'article 1831-1 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4987,7 +5019,7 @@ Actes relatifs principalement au patrimoine et la propriété de l'activité éc
 </td>
       <td>
 
-Convention d'indivision mentionnée aux articles 815-1 et 1873-1 à 1873-18 du code civil</td>
+Convention d'indivision mentionnée aux articles 815-1et 1873-1 à 1873-18du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -5027,7 +5059,7 @@ Abandon de mitoyenneté ou servitudes</td>
 94</td>
       <td>
 
-Etablissement de l'acte de règlement de copropriété ou descriptif en volume</td>
+Etablissement de l'acte de règlement de copropriété ou du descriptif</td>
     </tr>
     <tr>
       <td align="center">
@@ -5035,7 +5067,8 @@ Etablissement de l'acte de règlement de copropriété ou descriptif en volume</
 95</td>
       <td>
 
-Mise en conformité du règlement de copropriété ou descriptif en volume</td>
+Mise en conformité aux obligations légales, ou modification, afin de prendre en compte la volonté des copropriétaires ou des
+parties, du règlement de copropriété ou du descriptif</td>
     </tr>
     <tr>
       <td align="center">
@@ -5057,7 +5090,7 @@ Echange multilatéral</td>
       <td align="center">
 
 98</td>
-      <td rowspan="73">
+      <td rowspan="76">
 
 Actes relatifs principalement à l'activité économique
 
@@ -5193,7 +5226,7 @@ Cautionnement</td>
       <td align="center">
 
 112</td>
-      <td align="left" rowspan="40">
+      <td rowspan="40" align="left">
 
 Actes relatifs principalement aux prêts, dettes et sûretés participant à l'activité économique
 
@@ -5232,7 +5265,7 @@ Crédit-bail</td>
 115</td>
       <td>
 
-Vente à l'utilisateur</td>
+Vente à l'utilisateur dans le cadre d'une opération de crédit-bail</td>
     </tr>
     <tr>
       <td align="center">
@@ -5428,7 +5461,7 @@ secteur aidé</td>
 139</td>
       <td>
 
-Déclaration d'insaisissabilité de la résidence principale, prévue aux articles L. 526-1 et L. 526-2</td>
+Déclaration d'insaisissabilité prévue au deuxième alinéa de l'article L. 526-1</td>
     </tr>
     <tr>
       <td align="center">
@@ -5436,8 +5469,8 @@ Déclaration d'insaisissabilité de la résidence principale, prévue aux articl
 140</td>
       <td>
 
-Renonciation à l'insaisissabilité des droits sur la résidence principale ou à la déclaration mentionnée au numéro 139, prévue
-à la première phrase du deuxième alinéa de l'article L. 526-3</td>
+Renonciation à l'insaisissabilité des droits ou à la déclaration mentionnée au numéro 139, prévue à la première phrase du
+deuxième alinéa de l'article L. 526-3</td>
     </tr>
     <tr>
       <td align="center">
@@ -5454,7 +5487,7 @@ Révocation de la renonciation mentionnée au numéro 140, prévue à la quatri�
 142</td>
       <td>
 
-Endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976 relative à certaines formes de
+Endossement de copie exécutoire à ordre mentionnée dans la loi n° 76-519 du 15 juin 1976relative à certaines formes de
 transmission des créances sans négociation</td>
     </tr>
     <tr>
@@ -5512,7 +5545,7 @@ propriété</td>
 149</td>
       <td>
 
-Compromis prévu au titre XVI du livre III du code civil </td>
+Compromis prévu au titre XVI du livre III du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -5555,7 +5588,7 @@ Certificat de légalité pour les transferts de siège de sociétés européenne
 153</td>
       <td>
 
-Devis et marché vente en dehors du cas prévu à l'article 1831-1 du code civil </td>
+Devis et marché vente en dehors du cas prévu à l'article 1831-1 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -5563,7 +5596,7 @@ Devis et marché vente en dehors du cas prévu à l'article 1831-1 du code civil
 154</td>
       <td>
 
-Devis et marché bail en dehors du cas prévu à l'article 1831-1 du code civil </td>
+Devis et marché bail en dehors du cas prévu à l'article 1831-1 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -5676,24 +5709,54 @@ Transports de droits litigieux</td>
 
 168</td>
       <td align="left">
-    </td></tr>
+
+Acte complémentaire ou interprétatif</td>
+    </tr>
     <tr>
       <td align="center">
 
 169</td>
       <td align="left">
-    </td></tr>
+
+Acte rectificatif</td>
+    </tr>
     <tr>
       <td align="center">
 
 170</td>
       <td align="left">
-    </td></tr>
+
+Autorisations (en général)</td>
+    </tr>
+    <tr>
+      <td align="center">170-1</td>
+      <td>
+      </td><td align="left">
+
+Etablissement du contrat de fiducie et de ses actes subséquents, lorsqu'ils requièrent un acte notarié en application du
+deuxième alinéa de l'article 2012 du code civil ou du deuxième alinéa de l'article 2019 du même code</td>
+    </tr>
+    <tr>
+      <td align="center">170-2</td>
+      <td>
+      </td><td align="left">
+
+Actes relatifs aux autorisations d'occupation temporaire du domaine public mentionnées aux articles L. 1311-5 et suivants du
+code général des collectivités territoriales et qui sont constitutives de droits réels</td>
+    </tr>
+    <tr>
+      <td align="center">170-3</td>
+      <td>
+      </td><td align="left">
+
+Attestation de propriété qui est délivrée à la suite d'une dissolution automatique d'une société civile immobilière n'ayant
+pas été immatriculée et qui entraîne une indivision entre les anciens associés</td>
+    </tr>
     <tr>
       <td align="center">
 
 171</td>
-      <td colspan="2" rowspan="10" align="center">
+      <td rowspan="10" colspan="2" align="center">
 
 Actes divers
 
@@ -5789,10 +5852,10 @@ division de parcelle</td>
       <td align="center">
 
 181</td>
-      <td align="center" rowspan="42">
+      <td rowspan="42" align="center">
 
 Formalités</td>
-      <td align="center" colspan="2" rowspan="18">
+      <td colspan="2" rowspan="18" align="center">
 
 Formalités relatives au crédit et à l'immobilier
 
@@ -5818,7 +5881,7 @@ bis de l'article 225-19 du code pénal, en cas d'infraction prévue à l'article
 182</td>
       <td>
 
-Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitation dans le cadre de
+Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitationdans le cadre de
 l'élaboration de l'acte authentique mentionné au premier alinéa de l'article L. 711-5 du même code</td>
     </tr>
     <tr>
@@ -5828,7 +5891,7 @@ l'élaboration de l'acte authentique mentionné au premier alinéa de l'article 
       <td>
 
 Immatriculation d'office du syndicat de copropriétaires dans les cas prévus au deuxième alinéa de l'article L. 711-5 du code
-de la construction et de l'habitation </td>
+de la construction et de l'habitation</td>
     </tr>
     <tr>
       <td align="center">
@@ -5837,7 +5900,7 @@ de la construction et de l'habitation </td>
       <td>
 
 Immatriculation du syndicat de copropriétaires d'un immeuble mis en copropriété dans le cas prévu au I de l'article L. 711-4
-du code de la construction et de l'habitation </td>
+du code de la construction et de l'habitation</td>
     </tr>
     <tr>
       <td align="center">
@@ -5928,8 +5991,8 @@ extraits d'acte, réquisitions d'état</td>
       <td>
 
 Transmission au Conseil supérieur du notariat des informations relatives aux mutations d'immeubles à titre onéreux
-nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre 1945
-relative au statut du notariat</td>
+nécessaires à l'exercice de la mission de service public prévue à l'article 6-1 de l'ordonnance n° 45-2590 du 2 novembre
+1945relative au statut du notariat</td>
     </tr>
     <tr>
       <td align="center">
@@ -6139,21 +6202,1083 @@ Rédaction d'affiches ou d'insertions dans les journaux en vue de publications d
 Consultation de fichier public</td>
     </tr>
     <tr>
+      <td align="center">220</td>
       <td align="left">
-      </td><td align="left">
-    </td></tr>
+
+Certificat de mesurage en application de l'article 46 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la
+copropriété des immeubles bâtis</td>
+    </tr>
     <tr>
+      <td align="center">221</td>
       <td align="left">
-      </td><td align="left">
-    </td></tr>
+
+Chacun des documents composant le dossier de diagnostic technique prévu à l'article L. 271-4 du code de la construction et de
+l'habitat, mentionnés au I de cet article</td>
+    </tr>
     <tr>
+      <td align="center">222</td>
       <td align="left">
-      </td><td align="left">
-    </td></tr>
+
+Dépôt au rang des minutes de la convention prévue à l'article 229-1 du code civil</td>
+    </tr>
   </tbody>
 </table>
 
-TABLEAU 6 ANNEXÉ À L'ARTICLE R. 444-3
+Tableau 5-1 annexé à l'article R. 444-3
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th colspan="4">
+
+Actes et formalités réalisés par les notaires et relevant du droit local
+
+des départements du Bas-Rhin, du Haut-Rhin et de la Moselle</th>
+    </tr>
+    <tr>
+      <th>
+
+Numéro</th>
+      <th>
+
+Catégorie</th>
+      <th>
+
+Sous-catégorie</th>
+      <th>
+
+Nature de la prestation</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+223</td>
+      <td align="center" rowspan="21">
+
+Actes et formalités relatifs au livre foncier</td>
+      <td align="center">
+
+Certificat de non-dommageabilité</td>
+      <td align="justify">
+
+Requête en délivrance d'un certificat de non-dommageabilité prévu par la loi d'Alsace-Lorraine du 19 juin 1906 sur le
+certificat de non-dommageabilité</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+224</td>
+      <td rowspan="13" align="center">
+
+Requêtes au livre foncier</td>
+      <td align="center">
+
+Requête en exécution immédiate d'un acte et réquisition</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+225</td>
+      <td align="center">
+
+Réponse à ordonnance intermédiaire</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+226</td>
+      <td align="center">
+
+Requête en exécution différée d'un acte (prénotation)</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+227</td>
+      <td align="center">
+
+Requête en inscription séparée d'un droit</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+228</td>
+      <td align="justify">
+
+Inscription de propriété par suite de décès ou en exécution d'une convention matrimoniale (article 44 de la loi du 1er juin
+1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+229</td>
+      <td align="justify">
+
+Option par le conjoint survivant pour l'acquisition ou l'attribution de biens propres du précédé ou pour le prélèvement de
+biens communs</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+230</td>
+      <td align="center">
+
+Autres requêtes</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+231</td>
+      <td align="center">
+
+Requête en réinscription d'un droit par suite de péremption
+
+de l'inscription initiale</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+232</td>
+      <td align="center">
+
+Requête en radiation de droits autres que privilèges
+
+et hypothèques et réquisition</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+233</td>
+      <td align="center">
+
+Retrait d'une requête</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+234</td>
+      <td align="center">
+
+Requête en renouvellement d'inscription de privilèges
+
+et hypothèques</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+235</td>
+      <td align="justify">
+
+Formalités relatives au privilège du vendeur visé à l'article 43 du décret n° 2009-1193 du 7 octobre 2009, et le cas échéant
+du droit de résolution.</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+236</td>
+      <td align="center">
+
+Mainlevée de droits autres que privilèges et hypothèques</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+237</td>
+      <td align="center">
+
+Inscription d'une pré-notation</td>
+      <td align="justify">
+
+Consentement à l'inscription d'une pré-notation prévue par l'article 39 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+238</td>
+      <td align="justify" rowspan="6">
+
+Actes et formalités afférents à la prescription acquisitive prévue par l'article 44-1 de la loi du 1er juin 1924</td>
+      <td align="justify">
+
+Requête au juge du livre foncier aux fins d'inscription d'un droit portant sur un immeuble acquis par prescription ou par
+accession</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+239</td>
+      <td align="center">
+
+Requête en exécution du jugement au livre foncier</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+240</td>
+      <td align="center">
+
+Acte de notoriété constatant la prescription acquisitive
+
+si l'immeuble n'est pas inscrit au livre foncier</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+241</td>
+      <td align="center">
+
+Attestation à titre de preuve de prescription acquisitive</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+242</td>
+      <td align="center">
+
+Production des pièces cadastrales</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+243</td>
+      <td align="center">
+
+Production d'autres preuves</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+244</td>
+      <td align="center" rowspan="2">
+
+Actes et formalités en matière de successions</td>
+      <td align="center" rowspan="2">
+
+Actes et formalités afférents à l'affirmation sous foi de serment</td>
+      <td align="center">
+
+Rédaction d'une affirmation sous foi de serment</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+245</td>
+      <td align="center">
+
+Requête en délivrance</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+246</td>
+      <td align="justify" rowspan="42">
+
+Actes et formalités relatifs au partage judiciaire et aux ventes volontaires judiciaires</td>
+      <td rowspan="4" align="justify">
+
+Actes et formalités pris en application de l'article 221 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (ouverture)</td>
+      <td align="center">
+
+Demande de partage judiciaire</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+247</td>
+      <td align="center">
+
+Désignation du fondé de pouvoir à l'étranger</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+248</td>
+      <td align="justify">
+
+Dépôt au rang des minutes du notaire du mandat de fondé de pouvoir à l'étranger avec reconnaissance d'écriture et de
+signature</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+249</td>
+      <td align="justify">
+
+Dépôt au rang des minutes du notaire du mandat de fondé de pouvoir à l'étranger sans reconnaissance d'écriture et de
+signature</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+250</td>
+      <td align="justify">
+
+Demande relative à une proposition de partage en application de l'article 224 de la loi du 1er juin 1924 mettant en vigueur
+la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Demande relative à une proposition de partage</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+251</td>
+      <td align="justify" rowspan="4">
+
+Actes et formalités pris en application de l'article 225 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (débats)</td>
+      <td align="center">
+
+Convocations et communication des propositions de partage</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+252</td>
+      <td align="center">
+
+Procès-verbal des débats avec présence des parties</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+253</td>
+      <td align="center">
+
+Procès-verbal des débats en l'absence des parties</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+254</td>
+      <td align="center">
+
+Transmission au greffe du procès-verbal des débats</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+255</td>
+      <td rowspan="4" align="justify">
+
+Actes et formalités pris en application de l'article 227 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (expertise)</td>
+      <td align="center">
+
+Procès-verbal d'assermentation</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+256</td>
+      <td align="center">
+
+Rédaction du rapport d'expertise rédigé par le notaire sur déclaration de l'expert</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+257</td>
+      <td align="center">
+
+Avis que l'expertise a été dressée, par intéressé</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+258</td>
+      <td align="center">
+
+Délivrance, à la demande de l'intéressé, d'une copie du rapport d'expertise en application du dernier alinéa de l'article
+227</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+259</td>
+      <td align="justify" rowspan="2">
+
+Actes et formalités pris en application de l'article 231 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (tirage au sort)</td>
+      <td align="center">
+
+Convocation au tirage au sort</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+260</td>
+      <td align="center">
+
+Procès-verbal de tirage au sort</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+261</td>
+      <td rowspan="6" align="justify">
+
+Actes et formalités pris en application de l'article 232 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (difficultés et partage)</td>
+      <td align="center">
+
+Procès-verbal de difficultés</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+262</td>
+      <td align="center">
+
+Remise au greffe du procès-verbal</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+263</td>
+      <td align="center">
+
+Renvoi des parties à se pourvoir par voie d'assignation</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+264</td>
+      <td align="center">
+
+Rédaction de l'acte de partage</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+265</td>
+      <td align="center">
+
+Transmission de la minute au tribunal</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+266</td>
+      <td align="center">
+
+Information des non-comparants</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+267</td>
+      <td align="justify" rowspan="2">
+
+Fixation du jour de la passation de l'acte de partage prévue à l'article 234 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Rédaction</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+268</td>
+      <td align="center">
+
+Notification</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+269</td>
+      <td align="center">
+
+Retrait de procédure</td>
+      <td align="center">
+
+Retrait de procédure, par copartageant</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+270</td>
+      <td rowspan="4" align="justify">
+
+Actes et formalités pris en application de l'article 245 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle (cahier des charges)</td>
+      <td align="center">
+
+Etablissement du cahier des charges sur les conditions de la vente</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+271</td>
+      <td align="center">
+
+Convocation pour lecture</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+272</td>
+      <td align="center">
+
+Procès-verbal de lecture</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+273</td>
+      <td align="center">
+
+Requête en homologation du cahier des charges</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+274</td>
+      <td align="justify" rowspan="2">
+
+Publications et affiches prévues par les articles 246 à 248 de la loi du 1er juin 1924 mettant en vigueur la législation
+civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="justify">
+
+Publications prévues par les articles 246 et 247 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+275</td>
+      <td align="justify">
+
+Envoi de l'affiche mentionnée à l'article 248 de la loi du 1er juin 1924 mettant en vigueur la législation civile française
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+276</td>
+      <td align="justify" rowspan="5">
+
+Actes et formalités pris en application des articles 250 à 254 de la loi du 1er juin 1924 mettant en vigueur la législation
+civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="justify">
+
+Procès-verbal d'adjudication prévu par l'article 250 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+277</td>
+      <td align="justify">
+
+Procuration pour enchères prévue par l'article 253 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+278</td>
+      <td align="justify">
+
+Déclaration de command, par copartageant, prévue par l'article 254 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+279</td>
+      <td align="justify">
+
+Ratification d'adjudication inférieure à la mise à prix, par copartageant ratifiant, mentionnée à l'article 254 de la loi du
+1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+280</td>
+      <td align="justify">
+
+Demande de nouvelles enchères dans les conditions prévues à l'article 254 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+281</td>
+      <td align="center">
+
+Autres ventes volontaires judiciaires</td>
+      <td align="justify">
+
+Autres ventes volontaires judiciaires, mentionnées à l'article 261 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+282</td>
+      <td rowspan="6" align="justify">
+
+Actes et formalités relatifs à l'aliénation des biens immobiliers d'une personne protégée</td>
+      <td align="justify">
+
+Demande au tribunal des tutelles au titre de l'article 257 de la loi du 1er juin 1924 mettant en vigueur la législation
+civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+283</td>
+      <td align="justify">
+
+Actes et formalités pris en application de l'article 258 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+284</td>
+      <td align="justify">
+
+Consentement des intéressés à la vente en application de l'article 259 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+285</td>
+      <td align="justify">
+
+Requête en autorisation de vente par adjudication en application de l'article 260 de la loi du 1er juin 1924 mettant en
+vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+286</td>
+      <td align="justify">
+
+Requête en vente volontaire d'immeuble par acceptation de succession à concurrence de l'actif net ou en vacance de succession
+en application de l'article 261 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+287</td>
+      <td align="justify">
+
+Requête en autorisation de vente en cas de personne protégée étrangère en application de l'article 262 de la loi du 1er juin
+1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+288</td>
+      <td align="justify" rowspan="33">
+
+Actes et formalités relatifs à l'exécution forcée immobilière ou aux ventes réalisées dans le cadre d'une procédure
+collective</td>
+      <td rowspan="2" align="justify">
+
+Actes et formalités pris en application de l'article 141 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Demande introductive</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+289</td>
+      <td align="center">
+
+Désignation du fondé de pouvoir à l'étranger</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+290</td>
+      <td rowspan="2" align="justify">
+
+Actes et formalités pris en application de l'article 145 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Requête en désignation du curateur</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+291</td>
+      <td align="center">
+
+Requête au tribunal des tutelles en nomination d'administrateur des biens de non-présent (article 113 du code civil)</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+292</td>
+      <td align="justify" rowspan="4">
+
+Actes et formalités pris en application des articles 147 et 148 de la loi du 1er juin 1924 mettant en vigueur la législation
+civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Convocation</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+293</td>
+      <td align="center">
+
+Procès-verbal des débats</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+294</td>
+      <td align="center">
+
+Mise à jour au livre foncier</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+295</td>
+      <td align="justify">
+
+Etablissement du cahier des charges prévu à l'article 148 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+296</td>
+      <td align="center">
+
+Désignation d'un fondé de pouvoir</td>
+      <td align="center">
+
+Désignation d'un fondé de pouvoir (Article 21 annexe du code de procédure civile)</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+297</td>
+      <td align="justify" rowspan="2">
+
+Dépôt de procuration entre les mains du notaire (Article 22 annexe du code de procédure civile)</td>
+      <td align="center">
+
+Dépôt avec reconnaissance d'écriture et de signature</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+298</td>
+      <td align="center">
+
+Dépôt sans reconnaissance d'écriture et de signature</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+299</td>
+      <td align="center">
+
+Légalisation de signature</td>
+      <td align="center">
+
+Légalisation de signature (article 22 annexe
+
+du code de procédure civile)</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+300</td>
+      <td align="center">
+
+Visite des lieux et procès-verbal</td>
+      <td align="center">
+
+Visite des lieux et procès-verbal</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+301</td>
+      <td align="justify" rowspan="2">
+
+Publications en application de l'article 150 de la loi du 1er juin 1924 mettant en vigueur la législation civile française
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Affichage, par texte et par destinataire</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+302</td>
+      <td align="center">
+
+Envoi d'exemplaires, par destinataire</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+303</td>
+      <td align="justify" rowspan="4">
+
+Actes et formalités pris en application des articles 153 à 157 et 164 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="justify">
+
+Procès-verbal d'adjudication, le cahier des charges étant automatiquement rédigé par le notaire, prévu aux articles 153 et
+157 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-
+Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+304</td>
+      <td align="justify">
+
+Abandon de procédure prévu aux articles 153 et 157 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+305</td>
+      <td align="justify">
+
+Déclaration de command prévu par l'article 155 de la loi du 1er juin 1924 mettant en vigueur la législation civile française
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+306</td>
+      <td align="center">
+
+Notification de séquestre judiciaire de l'immeuble prévue
+
+par l'article 164 de la loi du 1er juin 1924, par notification</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+307</td>
+      <td align="justify" rowspan="2">
+
+Actes et formalités pris en application de l'article 195 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Distribution amiable</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+308</td>
+      <td align="center">
+
+Retrait de procédure</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+309</td>
+      <td rowspan="3" align="justify">
+
+Actes et formalités relatifs à l'ouverture de la procédure de distribution en application des articles 196 et 197 de la loi
+du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la
+Moselle</td>
+      <td align="center">
+
+Procès-verbal d'ouverture</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+310</td>
+      <td align="center">
+
+Sommation de produire</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+311</td>
+      <td align="center">
+
+Procès-verbal de production</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+312</td>
+      <td align="justify" rowspan="2">
+
+Actes et formalités relatifs à la collocation prévue par l'article 200 de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Etat de collocation</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+313</td>
+      <td align="center">
+
+Clôture de collocation</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+314</td>
+      <td align="justify" rowspan="2">
+
+Actes et formalités prévus par l'article 201 de la loi du 1er juin 1924 mettant en vigueur la législation civile française
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle</td>
+      <td align="center">
+
+Fixation du jour</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+315</td>
+      <td align="center">
+
+Sommation de comparaître et avis</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+316</td>
+      <td align="justify">
+
+Mandat de représentation en exécution forcée, administration forcée ou distribution</td>
+      <td align="center">
+
+Mandat de représentation en exécution forcée, administration forcée ou distribution</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+317</td>
+      <td align="justify">
+
+Notification aux créanciers de l'ordonnance de vente sur demande du tribunal ou du liquidateur</td>
+      <td align="center">
+
+Notification aux créanciers de l'ordonnance de vente sur demande du tribunal ou du liquidateur</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+318</td>
+      <td rowspan="3" align="center">
+
+Actes et formalités relatifs à la procédure de purge</td>
+      <td align="center">
+
+Offre de purge</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+319</td>
+      <td align="center">
+
+Procédure de revente sur surenchère</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+320</td>
+      <td align="center">
+
+Envoi des offres de purge aux huissiers</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+321</td>
+      <td colspan="2" rowspan="3" align="center">
+
+Actes et formalités relatifs aux associations et fondations</td>
+      <td align="center">
+
+Rédaction des statuts, en cas d'apport de biens soumis à publicité foncière</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+322</td>
+      <td align="center">
+
+Requête en inscription de l'association (article 28 annexe du code de procédure civile)</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+323</td>
+      <td align="center">
+
+Partage ou dévolution après dissolution</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+324</td>
+      <td colspan="2" align="center" rowspan="4">
+
+Autres actes et formalités</td>
+      <td align="justify">
+
+Pourvoi en matière de livre foncier, de certificat d'héritier, de certificat d'exécuteur testamentaire, de certificat de non-
+dommageabilité, d'associations, d'exécution forcée, d'administration forcée, de partage judiciaire, et de procédure de taxe</
+td>
+    </tr>
+    <tr>
+      <td align="center">
+
+325</td>
+      <td align="justify">
+
+Etablissement d'une procuration en matière de partage judiciaire, d'exécution forcée, de soumission à l'exécution forcée dans
+un acte, et d'administration forcée</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+326</td>
+      <td align="center">
+
+Légalisation authentique prévue par l'article 56 du décret n° 2009-1193 du 7 octobre 2009 susvisé</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+327</td>
+      <td align="center">
+
+Légalisation dans le cadre d'une requête séparée au livre foncier</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau 6 annexé à l'article R. 444-3
 
 <table border="1">
   <tbody>
@@ -6172,7 +7297,7 @@ SOUS-CATÉGORIE</th>
 NATURE DE LA PRESTATION</th>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 1</td>
       <td align="left" rowspan="36">
@@ -6182,40 +7307,40 @@ immobilière ou licitation judiciaire)</td>
       <td align="left" rowspan="4">
 
 Actes</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Actes de procédure réalisés dans le cadre d'une saisie immobilière</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 2</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Actes de procédure réalisés dans le cadre d'une licitation d'immeubles par adjudication judiciaire</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 3</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Actes de procédure réalisés dans le cadre d'une licitation de meubles par adjudication judiciaire</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 4</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Actes de procédure réalisés dans le cadre de la distribution du prix d'un immeuble ou d'un meuble vendu par adjudication
 judiciaire</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 5</td>
-      <td rowspan="32" align="left">
+      <td align="left" rowspan="32">
 
 Formalités</td>
       <td align="left" colspan="2">
@@ -6223,7 +7348,7 @@ Formalités</td>
 Réquisitions et demandes de renseignements sur la personne du débiteur saisi</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 6</td>
       <td colspan="2" align="left">
@@ -6231,16 +7356,16 @@ Réquisitions et demandes de renseignements sur la personne du débiteur saisi</
 Réquisitions et demandes de renseignements sur l'immeuble saisi</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 7</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
-Rédaction du bordereau de publication et éventuellement du bordereau rectificatif, en application des articles R. 321-6 et R.
-321-7 du code des procédures civiles d'exécution</td>
+Rédaction du bordereau de publication et éventuellement du bordereau rectificatif, en application des articles R. 321-6et R.
+321-7du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 8</td>
       <td colspan="2" align="left">
@@ -6248,62 +7373,62 @@ Rédaction du bordereau de publication et éventuellement du bordereau rectifica
 Publication du commandement de payer au service de la publicité foncière</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 9</td>
       <td colspan="2" align="left">
 
 Publication au service de la publicité foncière de la décision de justice ordonnant la suspension des voies d'exécution, le
 report de la vente ou la prorogation du commandement de payer, en application de l'article R. 321-22 du code des procédures
-civiles d'exécution </td>
+civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 10</td>
       <td colspan="2" align="left">
 
 Rédaction de la dénonciation au conjoint du commandement de payer en application du premier alinéa de l'article R. 321-1 du
-code des procédures civiles d'exécution </td>
+code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 11</td>
       <td colspan="2" align="left">
 
 S'il existe un tiers détenteur de l'immeuble saisi, rédaction du commandement à fin de saisie à tiers détenteur, en
-application de l'article R. 321-4 du code des procédures civiles d'exécution </td>
+application de l'article R. 321-4 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 12</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Mention, en marge de publication du commandement de payer, de l'assignation à comparaître à l'audience d'orientation et des
-dénonciations, en application de l'article R. 322-9 du code des procédures civiles d'exécution </td>
+dénonciations, en application de l'article R. 322-9 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 13</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Rédaction du cahier des conditions de la vente ou du cahier des charges</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 14</td>
       <td align="left" colspan="2">
 
 Dépôt au greffe du cahier des conditions de la vente ou du cahier des charges, de la copie de l'assignation et du procès-
-verbal de descriptif de l'immeuble saisi, en application des articles R. 322-10 et R. 322-11 du code des procédures civiles
+verbal de descriptif de l'immeuble saisi, en application des articles R. 322-10et R. 322-11du code des procédures civiles
 d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 15</td>
       <td align="left" colspan="2">
@@ -6311,7 +7436,7 @@ d'exécution</td>
 Dire au cahier des conditions de la vente pour renseignements complémentaires</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 16</td>
       <td align="left" colspan="2">
@@ -6319,7 +7444,7 @@ Dire au cahier des conditions de la vente pour renseignements complémentaires</
 Rédaction d'une signification de jugement à avocat et à partie</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 17</td>
       <td colspan="2" align="left">
@@ -6328,7 +7453,7 @@ Lettre en recommandé avec accusé de réception au syndic de copropriété conc
 application des articles R. 1334-14 à R. 1334-29-7 du code de la santé publique </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 18</td>
       <td colspan="2" align="left">
@@ -6336,16 +7461,16 @@ application des articles R. 1334-14 à R. 1334-29-7 du code de la santé publiqu
 Déclaration au greffe pour informations complémentaires</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 19</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Si l'immeuble saisi est soumis à un droit de préemption urbain, rédaction de la déclaration d'intention d'aliéner et envoi en
 mairie en cinq exemplaires</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 20</td>
       <td align="left" colspan="2">
@@ -6353,42 +7478,42 @@ mairie en cinq exemplaires</td>
 Formalités de publicité légale prévues aux articles R. 322-32 à R. 322-70 du code des procédures civiles d'exécution </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 21</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Dépôt au greffe de l'avis de publicité pour apposition</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 22</td>
       <td colspan="2" align="left">
 
 Lettre en recommandé avec accusé de réception au locataire ou, si l'immeuble est occupé par le propriétaire, à la mairie, en
-application de l'article L. 616 du code de la construction et de l'habitation </td>
+application de l'article L. 616 du code de la construction et de l'habitation</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 23</td>
       <td colspan="2" align="left">
 
 Rédaction d'une notification aux fins de purge des droits de préemption et de substitution, en application de l'article 10 de
-la loi n° 75-1351 du 31 décembre 1975 relative à la protection des occupants de locaux à usage d'habitation</td>
+la loi n° 75-1351 du 31 décembre 1975relative à la protection des occupants de locaux à usage d'habitation</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 24</td>
       <td colspan="2" align="left">
 
 Levée auprès du greffe du certificat constatant le défaut de consignation du prix ou de paiement des frais, en application de
-l'article R. 322-67 du code des procédures civiles d'exécution </td>
+l'article R. 322-67 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 25</td>
       <td colspan="2" align="left">
@@ -6396,50 +7521,50 @@ l'article R. 322-67 du code des procédures civiles d'exécution </td>
 Rédaction d'une sommation de payer à l'avocat de l'adjudicataire</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 26</td>
       <td align="left" colspan="2">
 
-Déclaration d'adjudicataire au greffe, en application de l'article R. 322-46 du code des procédures civiles d'exécution </td>
+Déclaration d'adjudicataire au greffe, en application de l'article R. 322-46 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 27</td>
       <td align="left" colspan="2">
 
 Concernant les lots de copropriété, notification au syndic de l'avis de mutation en application de l'article 5-1 du décret n°
-67-223 du 17 mars 1967 </td>
+67-223 du 17 mars 1967</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 28</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Concernant les lots de copropriété, notification au syndic du transfert de propriété en application de l'article 6 du décret
-n° 67-223 du 17 mars 1967 </td>
+n° 67-223 du 17 mars 1967</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 29</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Concernant les lots de copropriété, notification aux créanciers inscrits de l'opposition à la vente formulée par le syndic,
-en application de l'article 6-1 du décret n° 67-223 du 17 mars 1967 </td>
+en application de l'article 6-1 du décret n° 67-223 du 17 mars 1967</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 30</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Dépôt d'une déclaration de surenchère au greffe du juge de l'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 31</td>
       <td colspan="2" align="left">
@@ -6448,16 +7573,16 @@ Rédaction de la dénonciation de la surenchère au créancier poursuivant, au p
 greffe</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 32</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 S'il n'existe qu'un seul créancier, notification au débiteur du montant versé au créancier poursuivant, en application de
-l'article R. 332-1 du code des procédures civiles d'exécution </td>
+l'article R. 332-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 33</td>
       <td align="left" rowspan="3">
@@ -6466,19 +7591,19 @@ S'il existe plusieurs créanciers</td>
       <td align="left">
 
 Notification de la demande de la déclaration actualisée des créances, en application de l'article R. 332-2 du code des
-procédures civiles d'exécution </td>
+procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 34</td>
       <td align="left">
 
-Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4 et R. 332-5 du code des
+Notification du projet de distribution du prix aux créanciers, en application des articles R. 332-4et R. 332-5du code des
 procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 35</td>
       <td align="left">
@@ -6486,7 +7611,7 @@ procédures civiles d'exécution</td>
 Notification du projet de distribution du prix au syndic de copropriété, au débiteur saisi et au Trésor public</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 36</td>
       <td align="left" colspan="2">
@@ -6494,10 +7619,10 @@ Notification du projet de distribution du prix au syndic de copropriété, au d�
 Réquisition auprès du service de la publicité foncière aux fins de radiation des inscriptions et publications</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 37</td>
-      <td align="left" rowspan="4">
+      <td rowspan="4" align="left">
 
 Prestations de postulation réalisées dans le cadre d'un partage ou d'une licitation par adjudication volontaire</td>
       <td align="left" rowspan="3">
@@ -6509,15 +7634,15 @@ Actes de procédure réalisés dans le cadre d'une demande contestée en partage
 de licitation par adjudication volontaire</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 38</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Actes de procédure réalisés dans le cadre d'une demande non contestée en partage de biens immeubles</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 39</td>
       <td align="left" colspan="2">
@@ -6526,7 +7651,7 @@ Actes de procédure réalisés dans le cadre d'une demande contestée en homolog
 partager</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 40</td>
       <td align="left">
@@ -6537,35 +7662,35 @@ Formalités</td>
 Publication du jugement au service de la publicité foncière</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 41</td>
       <td align="left" rowspan="7">
 
 Prestations de postulation réalisées en matière de sûretés judiciaires</td>
-      <td align="left" rowspan="2">
+      <td rowspan="2" align="left">
 
 Actes</td>
       <td align="left" colspan="2">
 
 Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire avec demande d'obtention d'un titre exécutoire, en
-application de l'article R. 531-1 du code des procédures civiles d'exécution </td>
+application de l'article R. 531-1 du code des procédures civiles d'exécution</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 42</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Actes de procédure réalisés pour l'inscription d'une sûreté judiciaire sans demande d'obtention d'un titre exécutoire en
-application de l'article R. 531-1 du code des procédures civiles d'exécution ou en application de l'article 2412 du code
-civil </td>
+application de l'article R. 531-1 du code des procédures civiles d'exécutionou en application de l'article 2412 du code
+civil</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 43</td>
-      <td rowspan="5" align="left">
+      <td align="left" rowspan="5">
 
 Formalités</td>
       <td align="left" colspan="2">
@@ -6573,15 +7698,15 @@ Formalités</td>
 Réquisitions et demandes de renseignements sur la personne du débiteur</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 44</td>
-      <td align="left" colspan="2">
+      <td colspan="2" align="left">
 
 Réquisitions et demandes de renseignements sur l'immeuble</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 45</td>
       <td colspan="2" align="left">
@@ -6589,16 +7714,16 @@ Réquisitions et demandes de renseignements sur l'immeuble</td>
 Réquisitions et demandes de renseignements sur la société</td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 46</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Formalités de publicité provisoire, en application des articles R. 532-1 à R. 532-9 du code des procédures civiles
 d'exécution </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 47</td>
       <td align="left" colspan="2">
@@ -6607,7 +7732,7 @@ Formalités de publicité définitive en application des articles R. 533-1 à R.
 </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="center">
 
 48</td>
       <td align="left">
@@ -6616,10 +7741,10 @@ Incidents</td>
       <td align="left">
 
 Incidents</td>
-      <td colspan="2" align="left">
+      <td align="left" colspan="2">
 
 Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 771 du code de procédure
-civile et contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution)</
+civileet contestations et demandes incidentes mentionnées à l'article R. 311-6 du code des procédures civiles d'exécution)</
 td>
     </tr>
   </tbody>
@@ -6627,9 +7752,223 @@ td>
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - 1873-1 à 1873-18
+  - Loi du 17 mars 1909 - art. 17
+  - Loi du 17 mars 1909 - art. 22
+  - Loi du 17 mars 1909 - art. 3
+  - Loi du 1 juin 1924 - art. 142
+  - Loi du 1 juin 1924 - art. 161
+  - Loi du 1 juin 1924 - art. 225
+  - Ordonnance n°45-2590 du 2 novembre 1945 - art. 6-1
+  - Loi n°65-557 du 10 juillet 1965 - art. 19
+  - Loi n°65-557 du 10 juillet 1965 - art. 20
+  - Loi n°65-557 du 10 juillet 1965 - art. 46
+  - Décret n°67-223 du 17 mars 1967 - art. 5-1
+  - Décret n°67-223 du 17 mars 1967 - art. 6
+  - Décret n°67-223 du 17 mars 1967 - art. 6-1
+  - Décret n°67-967 du 27 octobre 1967
+  - Loi n°75-1351 du 31 décembre 1975 - art. 10
+  - Loi n°76-519 du 15 juin 1976
+  - Loi n°84-595 du 12 juillet 1984
+  - Loi n°86-1290 du 23 décembre 1986
+  - Loi n°89-462 du 6 juillet 1989 - art. 14-1
+  - Loi n°89-462 du 6 juillet 1989 - art. 24
+  - Loi n°89-462 du 6 juillet 1989 - art. 3-2
+  - Ordonnance n°2006-346 du 23 mars 2006
+  - Code de la propriété intellectuelle
+  - Code général des impôts, CGI. - art. 1686
+  - Code général des impôts, CGI. - art. 1687
+  - Livre des procédures fiscales - art. L57
+  - Livre des procédures fiscales - art. L76
+  - Code de procédure civile - art. 1304
+  - Code de procédure civile - art. 1308
+  - Code de procédure civile - art. 1317
+  - Code de procédure civile - art. 1319
+  - Code de procédure civile - art. 1320
+  - Code de procédure civile - art. 1323
+  - Code de procédure civile - art. 1324
+  - Code de procédure civile - art. 1345
+  - Code de procédure civile - art. 1407
+  - Code de procédure civile - art. 1425-1
+  - Code de procédure civile - art. 1426
+  - Code de procédure civile - art. 1428
+  - Code de procédure civile - art. 659
+  - Code de procédure civile - art. 670-1
+  - Code de procédure civile - art. 671
+  - Code de procédure civile - art. 684
+  - Code de procédure civile - art. 688-2
+  - Code de procédure civile - art. 771
+  - Code de procédure civile - art. 982
+  - Code pénal - art. 225-19
+  - Code civil
+  - Code civil - art. 1346
+  - Code civil - art. 1346-1
+  - Code civil - art. 1346-2
+  - Code civil - art. 1390
+  - Code civil - art. 1690
+  - Code civil - art. 176
+  - Code civil - art. 1775
+  - Code civil - art. 1831-1
+  - Code civil - art. 2012
+  - Code civil - art. 205
+  - Code civil - art. 229-1
+  - Code civil - art. 2338
+  - Code civil - art. 2412
+  - Code civil - art. 255
+  - Code civil - art. 280-1
+  - Code civil - art. 311-20
+  - Code civil - art. 348-3
+  - Code civil - art. 373-2-3
+  - Code civil - art. 477
+  - Code civil - art. 491
+  - Code civil - art. 771
+  - Code civil - art. 809-2
+  - Code civil - art. 815-1
+  - Code civil - art. 882
+  - Code civil - art. 960
+  - Code rural
+  - Code monétaire et financier - art. D514-17
+  - Code monétaire et financier - art. D514-2
+  - Code monétaire et financier - art. L131-47
+  - Code monétaire et financier - art. L131-73
+  - Code monétaire et financier - art. L561-46
+  - Code du travail - art. R3252-13
+  - Code de la construction et de l'habitation. - art. L271-4
+  - Code de la construction et de l'habitation. - art. L290-1
+  - Code de la construction et de l'habitation. - art. L616
+  - Code de la construction et de l'habitation. - art. L711-2
+  - Code de la construction et de l'habitation. - art. L711-4
+  - Code de la construction et de l'habitation. - art. L711-5
+  - Code de l'aviation civile - art. L123-2
+  - Code de l'aviation civile - art. R123-9
+  - Code du domaine public fluvial et de la navigation intérieure
+  - Code du domaine public fluvial et de la navigation intérieure - art. 101
+  - Code des transports - art. R4121-4
+  - Code des transports - art. R4124-6
+  - Code des procédures civiles d'exécution
+  - Code des procédures civiles d'exécution - art. L125-1
+  - Code des procédures civiles d'exécution - art. L152-1
+  - Code des procédures civiles d'exécution - art. L152-2
+  - Code des procédures civiles d'exécution - art. L213-5
+  - Code des procédures civiles d'exécution - art. L221-3
+  - Code des procédures civiles d'exécution - art. R151-2
+  - Code des procédures civiles d'exécution - art. R151-3
+  - Code des procédures civiles d'exécution - art. R153-1
+  - Code des procédures civiles d'exécution - art. R211-1
+  - Code des procédures civiles d'exécution - art. R211-11
+  - Code des procédures civiles d'exécution - art. R211-3
+  - Code des procédures civiles d'exécution - art. R211-6
+  - Code des procédures civiles d'exécution - art. R211-7
+  - Code des procédures civiles d'exécution - art. R213-7
+  - Code des procédures civiles d'exécution - art. R221-1
+  - Code des procédures civiles d'exécution - art. R221-14
+  - Code des procédures civiles d'exécution - art. R221-16
+  - Code des procédures civiles d'exécution - art. R221-19
+  - Code des procédures civiles d'exécution - art. R221-2
+  - Code des procédures civiles d'exécution - art. R221-26
+  - Code des procédures civiles d'exécution - art. R221-3
+  - Code des procédures civiles d'exécution - art. R221-31
+  - Code des procédures civiles d'exécution - art. R221-32
+  - Code des procédures civiles d'exécution - art. R221-34
+  - Code des procédures civiles d'exécution - art. R221-35
+  - Code des procédures civiles d'exécution - art. R221-36
+  - Code des procédures civiles d'exécution - art. R221-41
+  - Code des procédures civiles d'exécution - art. R221-42
+  - Code des procédures civiles d'exécution - art. R221-46
+  - Code des procédures civiles d'exécution - art. R221-47
+  - Code des procédures civiles d'exécution - art. R221-53
+  - Code des procédures civiles d'exécution - art. R221-57
+  - Code des procédures civiles d'exécution - art. R221-60
+  - Code des procédures civiles d'exécution - art. R222-10
+  - Code des procédures civiles d'exécution - art. R222-11
+  - Code des procédures civiles d'exécution - art. R222-17
+  - Code des procédures civiles d'exécution - art. R222-2
+  - Code des procédures civiles d'exécution - art. R222-22
+  - Code des procédures civiles d'exécution - art. R222-4
+  - Code des procédures civiles d'exécution - art. R222-6
+  - Code des procédures civiles d'exécution - art. R222-7
+  - Code des procédures civiles d'exécution - art. R223-11
+  - Code des procédures civiles d'exécution - art. R223-12
+  - Code des procédures civiles d'exécution - art. R223-13
+  - Code des procédures civiles d'exécution - art. R223-2
+  - Code des procédures civiles d'exécution - art. R223-3
+  - Code des procédures civiles d'exécution - art. R223-4
+  - Code des procédures civiles d'exécution - art. R223-8
+  - Code des procédures civiles d'exécution - art. R223-9
+  - Code des procédures civiles d'exécution - art. R224-1
+  - Code des procédures civiles d'exécution - art. R224-3
+  - Code des procédures civiles d'exécution - art. R224-5
+  - Code des procédures civiles d'exécution - art. R224-7
+  - Code des procédures civiles d'exécution - art. R232-5
+  - Code des procédures civiles d'exécution - art. R232-6
+  - Code des procédures civiles d'exécution - art. R233-1
+  - Code des procédures civiles d'exécution - art. R233-6
+  - Code des procédures civiles d'exécution - art. R233-7
+  - Code des procédures civiles d'exécution - art. R233-8
+  - Code des procédures civiles d'exécution - art. R251-2
+  - Code des procédures civiles d'exécution - art. R251-4
+  - Code des procédures civiles d'exécution - art. R251-5
+  - Code des procédures civiles d'exécution - art. R251-6
+  - Code des procédures civiles d'exécution - art. R251-8
+  - Code des procédures civiles d'exécution - art. R311-6
+  - Code des procédures civiles d'exécution - art. R321-1
+  - Code des procédures civiles d'exécution - art. R321-18
+  - Code des procédures civiles d'exécution - art. R321-22
+  - Code des procédures civiles d'exécution - art. R321-4
+  - Code des procédures civiles d'exécution - art. R321-5
+  - Code des procédures civiles d'exécution - art. R321-6
+  - Code des procédures civiles d'exécution - art. R321-7
+  - Code des procédures civiles d'exécution - art. R322-10
+  - Code des procédures civiles d'exécution - art. R322-11
+  - Code des procédures civiles d'exécution - art. R322-32
+  - Code des procédures civiles d'exécution - art. R322-33
+  - Code des procédures civiles d'exécution - art. R322-4
+  - Code des procédures civiles d'exécution - art. R322-46
+  - Code des procédures civiles d'exécution - art. R322-6
+  - Code des procédures civiles d'exécution - art. R322-67
+  - Code des procédures civiles d'exécution - art. R322-9
+  - Code des procédures civiles d'exécution - art. R332-1
+  - Code des procédures civiles d'exécution - art. R332-2
+  - Code des procédures civiles d'exécution - art. R332-4
+  - Code des procédures civiles d'exécution - art. R332-5
+  - Code des procédures civiles d'exécution - art. R411-1
+  - Code des procédures civiles d'exécution - art. R432-1
+  - Code des procédures civiles d'exécution - art. R432-2
+  - Code des procédures civiles d'exécution - art. R433-5
+  - Code des procédures civiles d'exécution - art. R433-6
+  - Code des procédures civiles d'exécution - art. R433-7
+  - Code des procédures civiles d'exécution - art. R442-1
+  - Code des procédures civiles d'exécution - art. R511-8
+  - Code des procédures civiles d'exécution - art. R522-1
+  - Code des procédures civiles d'exécution - art. R522-11
+  - Code des procédures civiles d'exécution - art. R522-12
+  - Code des procédures civiles d'exécution - art. R522-5
+  - Code des procédures civiles d'exécution - art. R522-7
+  - Code des procédures civiles d'exécution - art. R522-8
+  - Code des procédures civiles d'exécution - art. R523-1
+  - Code des procédures civiles d'exécution - art. R523-7
+  - Code des procédures civiles d'exécution - art. R523-8
+  - Code des procédures civiles d'exécution - art. R523-9
+  - Code des procédures civiles d'exécution - art. R524-1
+  - Code des procédures civiles d'exécution - art. R524-2
+  - Code des procédures civiles d'exécution - art. R524-4
+  - Code des procédures civiles d'exécution - art. R524-5
+  - Code des procédures civiles d'exécution - art. R525-4
+  - Code des procédures civiles d'exécution - art. R531-1
+  - Code des procédures civiles d'exécution - art. R532-3
+  - Code des procédures civiles d'exécution - art. R532-4
+  - Code des procédures civiles d'exécution - art. R532-5
+  - L. 5114-22 à L. 5114-25
+  - L. 5114-27 à L. 5114-29
+
 _Modifié par_:
 
-  - Décret n°2017-862 du 9 mai 2017 - art. Annexe
+  - Décret n°2018-200 du 23 mars 2018 - art. 6
+  - Décret n°2018-200 du 23 mars 2018 - art. 7
+  - Décret n°2018-200 du 23 mars 2018 - art. 8
+  - Décret n°2018-200 du 23 mars 2018 - art. 9
 
 _Cité par_:
 
@@ -6642,9 +7981,3 @@ _Cité par_:
   - Code de commerce - art. A743-8 (V)
   - Code de commerce - art. R444-4 (V)
   - Code de commerce - art. R444-57 (V)
-
-_Cite_:
-
-  - Code de commerce - art. R444-3
-  - Code monétaire et financier - art. D514-17
-  - Code monétaire et financier - art. D514-2
