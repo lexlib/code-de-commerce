@@ -1,112 +1,112 @@
 # Article Annexe V
 
-(ANNEXE À L'ARTICLE A. 762-4) 
+(ANNEXE À L'ARTICLE A. 762-4)
 
-FORMULAIRE DE DÉCLARATION D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'EXPOSITION ENREGISTRÉ 
+FORMULAIRE DE DÉCLARATION D'UN SALON PROFESSIONNEL SE TENANT HORS D'UN PARC D'EXPOSITION ENREGISTRÉ
 
-(Articles L. 762-2 et R. 762-10 du code de commerce) 
+(Articles L. 762-2 et R. 762-10 du code de commerce)
 
-Nouvelle session du salon 
+Nouvelle session du salon
 
-Identification 
+Identification
 
-Dénomination (4) : 
+Dénomination (4) :
 
-Sigle (1) (4) : 
+Sigle (1) (4) :
 
-Adresse de site internet (1) (4) : 
+Adresse de site internet (1) (4) :
 
-Localisation (adresse et descriptif succinct du lieu) (4) : 
+Localisation (adresse et descriptif succinct du lieu) (4) :
 
-Jour d'ouverture au public (4) : 
+Jour d'ouverture au public (4) :
 
 Jour de fermeture au public (4) :
 
-Précision éventuelle sur les dates (4) : 
+Précision éventuelle sur les dates (4) :
 
-Conditions d'accès des visiteurs (2) (4) : 
+Conditions d'accès des visiteurs (2) (4) :
 
-― accès gratuit ; 
+― accès gratuit ;
 
-― titre payant ; 
+― titre payant ;
 
-― carte d'invitation. 
+― carte d'invitation.
 
-Secteur d'activité (4) : 
+Secteur d'activité (4) :
 
 Liste limitative de produits ou services présentés déterminée par l'organisateur, dite nomenclature (si salon tel que défini
-aux 1° et 2° de l'article R. 762-4) (4) : 
+aux 1° et 2° de l'article R. 762-4) (4) :
 
-Caractéristiques chiffrées de la session précédente 
+Caractéristiques chiffrées de la session précédente
 
-(Dates : du...... au......) 
+(Dates : du...... au......)
 
 Surface nette (en mètres carrés) (3) (4) :
 
-Fréquentation (3) : 
+Fréquentation (3) :
 
-Nombre d'exposants (3) (4) : 
+Nombre d'exposants (3) (4) :
 
-Nombre de visites (3) (4) : 
+Nombre de visites (3) (4) :
 
-Nombre de visiteurs (3) (4) : 
+Nombre de visiteurs (3) (4) :
 
-Nombre de visiteurs professionnels (1) (3) (4) : 
+Nombre de visiteurs professionnels (1) (3) (4) :
 
-Dont nombre de visiteurs étrangers (1) (3) (4) : 
+Dont nombre de visiteurs étrangers (1) (3) (4) :
 
-Nombre d'exposants étrangers (1) (3) (4) : 
+Nombre d'exposants étrangers (1) (3) (4) :
 
-Surface nette occupée par les exposants étrangers (1) (3) (4) : 
+Surface nette occupée par les exposants étrangers (1) (3) (4) :
 
-Dénomination de l'organisme de certification (4) : 
+Dénomination de l'entreprise d'inspection (4) :
 
-Numéro SIRET : 
+Numéro SIRET :
 
-Adresse : 
+Adresse :
 
-Code postal : Ville : 
+Code postal : Ville :
 
-Organisateur 
+Organisateur
 
-Dénomination sociale ou nom, prénom (s) (si personne physique) (4) : 
+Dénomination sociale ou nom, prénom (s) (si personne physique) (4) :
 
-Sigle (1) (4) : Numéro d'identification SIRET (4) : 
+Sigle (1) (4) : Numéro d'identification SIRET (4) :
 
-Adresse (4) : 
+Adresse (4) :
 
-Code postal (4) : Ville (4) : 
+Code postal (4) : Ville (4) :
 
 Téléphone (4) : Télécopie (4) :
 
-Mél (1) (4) : 
+Mél (1) (4) :
 
-Adresse de site internet (1) (4) : 
+Adresse de site internet (1) (4) :
 
-Responsable 
+Responsable
 
-(Si différent de l'organisateur) 
+(Si différent de l'organisateur)
 
-Nom, prénom (s) : 
+Nom, prénom (s) :
 
-Fonction : 
+Fonction :
 
-Téléphone : Téléphone portable (1) : 
+Téléphone : Téléphone portable (1) :
 
-Mél (1) : 
+Mél (1) :
 
 J'atteste sur l'honneur que les exposants ne sont autorisés à délivrer sur place et à titre onéreux, dans le cadre d'une
-vente à emporter, que des marchandises dont la valeur n'excède pas 80 €. 
+vente à emporter, que des marchandises dont la valeur n'excède pas 80 €.
 
-Date : 
+Date :
 
-Signature 
+Signature
 
-(1) Donnée facultative. 
+(1) Donnée facultative.
 
-(2) Rayer les mentions inutiles. 
+(2) Rayer les mentions inutiles.
 
-(3) La définition de ces caractéristiques figure à l'article A. 762-1. 
+(3) La définition de ces caractéristiques figure à l'article A. 762-1.
 
 (4) Donnée publiée sur le site internet public du ministère chargé du commerce. Les informations recueillies font l'objet
 d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres
@@ -121,14 +121,14 @@ qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (sec
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
-  - Code de commerce - art. A762-1
+  - Code de commerce - art. A762-1 (VD)
   - Code de commerce - art. L762-2
   - Code de commerce - art. R762-10
   - Code de commerce - art. R762-4
 
 _Modifié par_:
 
-  - Arrêté du 24 octobre 2012 - art. 3
+  - Arrêté du 9 février 2018 - art. 1
 
 _Cité par_:
 
