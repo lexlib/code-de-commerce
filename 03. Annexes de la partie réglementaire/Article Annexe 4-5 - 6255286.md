@@ -6,166 +6,94 @@ JURIDIQUE À JOINDRE AU DOSSIER DE NOTIFICATION D'UNE OPÉRATION DE CONCENTRATIO
 
 Activité :
 
-<table width="740" border="1" cellpadding="0" align="center" cellspacing="1">
-  <thead>
+<table border="1">
+  <tbody>
     <tr>
-      <td width="143">
-
-</td>
-      <td width="104" colspan="2">
+      <th> </th>
+      <th colspan="2">
 
 Exercice
 
 N
 
-clos le :
-
-</td>
-      <td width="104" colspan="2">
+clos le :</th>
+      <th colspan="2">
 
 Exercice
 
 N-1
 
-clos le :
-
-</td>
-      <td width="104" colspan="2">
+clos le :</th>
+      <th colspan="2">
 
 Exercice
 
 N-2
 
-clos le :
-
-</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-
-Comptes de résultat
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
+clos le :</th>
     </tr>
     <tr>
-      <td valign="top">
+      <td align="left">
 
-Chiffres d'affaires total hors taxes
+Comptes de résultat</td>
+      <td align="left" colspan="2">
+      </td><td align="left" colspan="2">
+      </td><td colspan="2" align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-Chiffres d'affaires hors taxes réalisé auprès des clients situés dans l'Union européenne
+Chiffre d'affaires total hors taxes
 
-Chiffre d'affaire hors taxes réalisé auprès des clients situés en France
+Chiffre d'affaires hors taxes réalisé auprès des clients situés dans l'Union européenne
+
+Chiffre d'affaires hors taxes réalisé auprès des clients situés en France
 
 Valeur ajoutée brute
 
-Excédent brut d'exploitation
+Excédent brut d'exploitation</td>
+      <td colspan="2" align="left">
+      </td><td colspan="2" align="left">
+      </td><td colspan="2" align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
 
-</td>
-      <td valign="top">
+Eléments du bilan</td>
+      <td align="left">
 
-</td>
-      <td valign="top">
+Brut</td>
+      <td align="left">
 
-</td>
-      <td valign="top">
+Net</td>
+      <td align="left">
 
-</td>
-      <td valign="top">
+Brut</td>
+      <td align="left">
 
-</td>
-      <td valign="top">
+Net</td>
+      <td align="left">
 
-</td>
-      <td valign="top">
+Brut</td>
+      <td align="left">
 
-</td>
+Net</td>
     </tr>
     <tr>
-      <td valign="top">
-
-Eléments du Bilan
-
-</td>
-      <td valign="top">
-
-Brut
-
-</td>
-      <td valign="top">
-
-Net
-
-</td>
-      <td valign="top">
-
-Brut
-
-</td>
-      <td valign="top">
-
-Net
-
-</td>
-      <td valign="top">
-
-Brut
-
-</td>
-      <td valign="top">
-
-Net
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
+      <td align="left">
 
 Immobilisations incorporelles utilisées pour l'activité
 
-Immobilisations corporelles utilisées pour l'activité
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
+Immobilisations corporelles utilisées pour l'activité</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
     <tr>
-      <td valign="top">
+      <td align="left">
 
 Créances de l'actif circulant pour l'activité
 
@@ -176,86 +104,10 @@ Dettes financières relatives à l'activité
 Autres dettes relatives à l'activité
 
 </td>
-      <td valign="top" colspan="2">
-
-</td>
-      <td valign="top" colspan="2">
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Investissement et cessions
-
-</td>
-      <td valign="top" colspan="2">
-
-</td>
-      <td valign="top" colspan="2">
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Acquisition d'immobilisations corporelles et incorporelles
-
-Prix de cessions des immobilisations corporelles et incorporelles cédées
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-      <td valign="top" colspan="2">
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Autres renseignements
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Dépenses de recherche et développement
-
-Dépenses de publicité
-
-Effectifs moyens
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-      <td colspan="2" valign="top">
-
-</td>
-      <td valign="top" colspan="2">
-
-</td>
-    </tr>
+      <td colspan="2" align="left">
+      </td><td colspan="2" align="left">
+      </td><td align="left" colspan="2">
+    </td></tr>
   </tbody>
 </table>
 
@@ -263,4 +115,8 @@ Effectifs moyens
 
 _Codifié par_:
 
-  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+  - Décret n°2007-431 du 25 mars 2007
+
+_Modifié par_:
+
+  - Décret n°2019-339 du 18 avril 2019 - art. 2
