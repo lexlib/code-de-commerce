@@ -1,34 +1,34 @@
 # Article Annexe 9-7
 
-JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 442-6,
+JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DU III DE L'ARTICLE L. 442-4, 
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS 
 
-<table cellpadding="0" align="center" border="1" width="740">
+<table align="center" cellpadding="0" border="1">
   <tbody>
     <tr>
-      <td width="227">
+      <td>
 
 SIÈGE DES TRIBUNAUX 
 
-de grande instance
+de grande instance 
 
 </td>
-      <td width="491">
+      <td>
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td width="227">
+      <td>
 
 Paris. 
 
 </td>
-      <td width="491">
+      <td>
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre 
+Ressort du tribunal supérieur d'appel de Saint-Pierre
 
 </td>
     </tr>
@@ -39,8 +39,8 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2019-599 du 17 juin 2019 - art. 1
 
 _Cite_:
 
-  - Code de commerce - art. L442-6
+  - Code de commerce - art. L442-4
