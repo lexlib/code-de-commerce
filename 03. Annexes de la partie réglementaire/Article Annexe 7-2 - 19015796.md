@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
-<table border="1" cellpadding="0" align="center">
+<table cellpadding="0" border="1" align="center">
   <tbody>
     <tr>
       <td>
@@ -2067,7 +2067,7 @@ Bobigny
 </td>
       <td>
 
-73
+78
 
 </td>
       <td>
@@ -3114,4 +3114,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1195 du 26 juillet 2017 - art.
+  - Décret n°2019-627 du 24 juin 2019 - art.
