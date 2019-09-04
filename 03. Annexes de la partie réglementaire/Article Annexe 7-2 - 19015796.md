@@ -2,7 +2,7 @@
 
 NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 
-<table border="1" cellpadding="0" align="center">
+<table border="1" align="center" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -1627,7 +1627,7 @@ Rodez
 </td>
       <td>
 
-13
+17
 
 </td>
       <td>
@@ -3114,4 +3114,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-627 du 24 juin 2019 - art.
+  - Décret n°2019-925 du 2 septembre 2019 - art.
