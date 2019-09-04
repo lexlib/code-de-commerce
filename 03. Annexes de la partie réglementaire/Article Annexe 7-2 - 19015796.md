@@ -1627,7 +1627,7 @@ Rodez
 </td>
       <td>
 
-13
+17
 
 </td>
       <td>
@@ -3114,4 +3114,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2019-627 du 24 juin 2019 - art.
+  - Décret n°2019-925 du 2 septembre 2019 - art.
