@@ -1122,7 +1122,7 @@ Rédaction de la déclaration de créance et le certificat constatant cette déc
       <td>
 
 Mention de changement de siège de fonds, le certificat d'inscription des ventes, les cessions ou nantissements en ce qu'ils
-s'appliquent aux brevets d'invention et aux licences, aux marques de fabrique et de commerce, aux dessins et modèles
+s'appliquent aux brevets d'invention et aux licences, aux marques de produits ou de services, aux dessins et modèles
 industriels</td>
     </tr>
     <tr>
@@ -2363,7 +2363,7 @@ décret n° 67-967 du 27 octobre 1967 relatif au statut des navires et autres b�
 Saisie-contrefaçon</td>
       <td>
 
-Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-7 du code de la propriété intellectuelle</td>
+Acte de saisie-contrefaçon, prévu aux articles L. 521-1, L. 615-5, L. 716-4-6 du code de la propriété intellectuelle</td>
     </tr>
     <tr>
       <td align="center">
@@ -7973,10 +7973,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-200 du 23 mars 2018 - art. 6
-  - Décret n°2018-200 du 23 mars 2018 - art. 7
-  - Décret n°2018-200 du 23 mars 2018 - art. 8
-  - Décret n°2018-200 du 23 mars 2018 - art. 9
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 14
 
 _Cité par_:
 
