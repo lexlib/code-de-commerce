@@ -4,17 +4,17 @@ JURIDICTION COMPÉTENTE POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7,
 
 DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
-<table align="center" border="1" cellpadding="0" cellspacing="1" width="740">
+<table align="center" border="1" cellpadding="0" cellspacing="1">
   <thead>
     <tr>
-      <td width="227">
+      <td>
 
 SIÈGE DES TRIBUNAUX
 
-de grande instance
+judiciaires
 
 </td>
-      <td width="491">
+      <td>
 
 RESSORT
 
@@ -23,29 +23,30 @@ RESSORT
   </thead>
   <tbody>
     <tr>
-      <td valign="top" width="227">
+      <td>
 
-Paris. 
+Paris.
 
 </td>
-      <td valign="top" width="491">
+      <td>
 
-Ressort du tribunal supérieur d'appel de Saint-Pierre 
+Ressort du tribunal supérieur d'appel de Saint-Pierre
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2007-431 du 25 mars 2007
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 

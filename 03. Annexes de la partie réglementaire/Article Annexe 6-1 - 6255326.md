@@ -892,28 +892,28 @@ Ressort du TC</td>
 Moselle</td>
       <td align="center">
 
-TGI de Metz</td>
+Tribunal judiciaire de Metz</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Sarreguemines</td>
+Tribunal judiciaire de Sarreguemines</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Thionville</td>
+Tribunal judiciaire de Thionville</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
@@ -1085,19 +1085,19 @@ Le département</td>
 Rhin (Bas-)</td>
       <td align="center">
 
-TGI de Saverne</td>
+Tribunal judiciaire de Saverne</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Strasbourg</td>
+Tribunal judiciaire de Strasbourg</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
@@ -1105,19 +1105,19 @@ Ressort du TGI</td>
 Rhin (Haut-)</td>
       <td align="center">
 
-TGI de Colmar</td>
+Tribunal judiciaire de Colmar</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Mulhouse</td>
+Tribunal judiciaire de Mulhouse</td>
       <td align="center">
 
-Ressort du TGI</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
@@ -1489,14 +1489,15 @@ Le département</td>
 
 **Nota:**
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
+  - Décret n°2019-913 du 30 août 2019 - art. 7
 
 _Cite_:
 
