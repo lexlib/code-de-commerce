@@ -1,10 +1,10 @@
 # Article Annexe 6-1
 
-fJuridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,
+Juridictions compétentes en métropole pour connaître, en application de l'article L. 610-1,
 
-des procédures applicables aux commerçants et artisans 
+des procédures applicables aux commerçants et artisans
 
-<table align="center" border="1" width="740">
+<table border="1" align="center">
   <tbody>
     <tr>
       <td>
@@ -26,2231 +26,1478 @@ RESSORT
     <tr>
       <td align="center">
 
-Ain 
-
-</td>
+Ain</td>
       <td align="center">
 
-TC de Bourg-en-Bresse 
-
-</td>
+TC de Bourg-en-Bresse</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Aisne 
-
-</td>
+Aisne</td>
       <td align="center">
 
-TC de Saint-Quentin 
-
-</td>
+TC de Saint-Quentin</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Soissons 
-
-</td>
+TC de Soissons</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Allier 
-
-</td>
+Allier</td>
       <td align="center">
 
-TC de Cusset 
-
-</td>
+TC de Cusset</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Montluçon 
-
-</td>
+TC de Montluçon</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Alpes-de-Haute-Provence 
-
-</td>
+Alpes-de-Haute-Provence</td>
       <td align="center">
 
-TC de Manosque 
-
-</td>
+TC de Manosque</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Alpes (Hautes-) 
-
-</td>
+Alpes (Hautes-)</td>
       <td align="center">
 
-TC de Gap 
-
-</td>
+TC de Gap</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Alpes-Maritimes 
-
-</td>
+Alpes-Maritimes</td>
       <td align="center">
 
-TC d'Antibes 
-
-</td>
+TC d'Antibes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Cannes 
-
-</td>
+TC de Cannes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Grasse 
-
-</td>
+TC de Grasse</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Nice 
-
-</td>
+TC de Nice</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Ardèche 
-
-</td>
+Ardèche</td>
       <td align="center">
 
-TC d'Aubenas 
-
-</td>
+TC d'Aubenas</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Ardennes 
-
-</td>
+Ardennes</td>
       <td align="center">
 
-TC de Sedan 
-
-</td>
+TC de Sedan</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Ariège 
-
-</td>
+Ariège</td>
       <td align="center">
 
-TC de Foix 
-
-</td>
+TC de Foix</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Aube 
-
-</td>
+Aube</td>
       <td align="center">
 
-TC de Troyes 
-
-</td>
+TC de Troyes</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Aude 
-
-</td>
+Aude</td>
       <td align="center">
 
-TC de Carcassonne 
-
-</td>
+TC de Carcassonne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Narbonne 
-
-</td>
+TC de Narbonne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Aveyron 
-
-</td>
+Aveyron</td>
       <td align="center">
 
-TC de Rodez 
-
-</td>
+TC de Rodez</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Bouches-du-Rhône 
-
-</td>
+Bouches-du-Rhône</td>
       <td align="center">
 
-TC d'Aix-en-Provence 
-
-</td>
+TC d'Aix-en-Provence</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Marseille 
-
-</td>
+TC de Marseille</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Salon-de-Provence 
-
-</td>
+TC de Salon-de-Provence</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Tarascon 
-
-</td>
+TC de Tarascon</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Calvados 
-
-</td>
+Calvados</td>
       <td align="center">
 
-TC de Caen 
-
-</td>
+TC de Caen</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Lisieux 
-
-</td>
+TC de Lisieux</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Cantal 
-
-</td>
+Cantal</td>
       <td align="center">
 
-TC d'Aurillac 
-
-</td>
+TC d'Aurillac</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Charente 
-
-</td>
+Charente</td>
       <td align="center">
 
-TC d'Angoulême 
-
-</td>
+TC d'Angoulême</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Charente-Maritime 
-
-</td>
+Charente-Maritime</td>
       <td align="center">
 
-TC de La Rochelle 
-
-</td>
+TC de La Rochelle</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Saintes 
-
-</td>
+TC de Saintes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Cher 
-
-</td>
+Cher</td>
       <td align="center">
 
-TC de Bourges 
-
-</td>
+TC de Bourges</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Corrèze 
-
-</td>
+Corrèze</td>
       <td align="center">
 
-TC de Brive-la-Gaillarde 
-
-</td>
+TC de Brive-la-Gaillarde</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Corse-du-Sud 
-
-</td>
+Corse-du-Sud</td>
       <td align="center">
 
-TC d'Ajaccio 
-
-</td>
+TC d'Ajaccio</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Corse (Haute) 
-
-</td>
+Corse (Haute)</td>
       <td align="center">
 
-TC de Bastia 
-
-</td>
+TC de Bastia</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Côte-d'Or 
-
-</td>
+Côte-d'Or</td>
       <td align="center">
 
-TC de Dijon 
-
-</td>
+TC de Dijon</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Côtes-d'Armor 
-
-</td>
+Côtes-d'Armor</td>
       <td align="center">
 
-TC de Saint-Brieuc 
-
-</td>
+TC de Saint-Brieuc</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Creuse 
-
-</td>
+Creuse</td>
       <td align="center">
 
-TC de Guéret 
-
-</td>
+TC de Guéret</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Dordogne 
-
-</td>
+Dordogne</td>
       <td align="center">
 
-TC de Bergerac 
-
-</td>
+TC de Bergerac</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Périgueux 
-
-</td>
+TC de Périgueux</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Doubs 
-
-</td>
+Doubs</td>
       <td align="center">
 
-TC de Besançon 
-
-</td>
+TC de Besançon</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Drôme 
-
-</td>
+Drôme</td>
       <td align="center">
 
-TC de Romans-sur-Isère 
-
-</td>
+TC de Romans-sur-Isère</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Essonne 
-
-</td>
+Essonne</td>
       <td align="center">
 
-TC d'Evry 
-
-</td>
+TC d'Evry</td>
       <td align="center">
 
-Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly 
-
-</td>
+Le département, à l'exception de l'emprise de l'aérodrome de Paris-Orly</td>
     </tr>
     <tr>
       <td align="center">
 
-Eure 
-
-</td>
+Eure</td>
       <td align="center">
 
-TC d'Evreux 
-
-</td>
+TC d'Evreux</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Bernay 
-
-</td>
+TC de Bernay</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Eure-et-Loir 
-
-</td>
+Eure-et-Loir</td>
       <td align="center">
 
-TC de Chartres 
-
-</td>
+TC de Chartres</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Finistère 
-
-</td>
+Finistère</td>
       <td align="center">
 
-TC de Brest 
-
-</td>
+TC de Brest</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Quimper 
-
-</td>
+TC de Quimper</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Gard 
-
-</td>
+Gard</td>
       <td align="center">
 
-TC de Nîmes 
-
-</td>
+TC de Nîmes</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Garonne (Haute-) 
-
-</td>
+Garonne (Haute-)</td>
       <td align="center">
 
-TC de Toulouse 
-
-</td>
+TC de Toulouse</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Gers 
-
-</td>
+Gers</td>
       <td align="center">
 
-TC d'Auch 
-
-</td>
+TC d'Auch</td>
       <td align="center">
 
-Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour 
-
-</td>
+Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour</td>
     </tr>
     <tr>
       <td align="center">
 
-Gironde 
-
-</td>
+Gironde</td>
       <td align="center">
 
-TC de Bordeaux 
-
-</td>
+TC de Bordeaux</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Libourne 
-
-</td>
+TC de Libourne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Hérault 
-
-</td>
+Hérault</td>
       <td align="center">
 
-TC de Béziers 
-
-</td>
+TC de Béziers</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Montpellier 
-
-</td>
+TC de Montpellier</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Ille-et-Vilaine 
-
-</td>
+Ille-et-Vilaine</td>
       <td align="center">
 
-TC de Rennes 
-
-</td>
+TC de Rennes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Saint-Malo 
-
-</td>
+TC de Saint-Malo</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Indre 
-
-</td>
+Indre</td>
       <td align="center">
 
-TC de Châteauroux 
-
-</td>
+TC de Châteauroux</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Indre-et-Loire 
-
-</td>
+Indre-et-Loire</td>
       <td align="center">
 
-TC de Tours 
-
-</td>
+TC de Tours</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Isère 
-
-</td>
+Isère</td>
       <td align="center">
 
-TC de Grenoble 
-
-</td>
+TC de Grenoble</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Vienne 
-
-</td>
+TC de Vienne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Jura 
-
-</td>
+Jura</td>
       <td align="center">
 
-TC de Lons-le-Saunier 
-
-</td>
+TC de Lons-le-Saunier</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Landes 
-
-</td>
+Landes</td>
       <td align="center">
 
-TC de Dax 
-
-</td>
+TC de Dax</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Mont-de-Marsan 
-
-</td>
+TC de Mont-de-Marsan</td>
       <td align="center">
 
-Ressort du TC et l'emprise de l'aérodrome d'Aire-sur-l'Adour 
-
-</td>
+Ressort du TC et l'emprise de l'aérodrome d'Aire-sur-l'Adour</td>
     </tr>
     <tr>
       <td align="center">
 
-Loir-et-Cher 
-
-</td>
+Loir-et-Cher</td>
       <td align="center">
 
-TC de Blois 
-
-</td>
+TC de Blois</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Loire 
-
-</td>
+Loire</td>
       <td align="center">
 
-TC de Roanne 
-
-</td>
+TC de Roanne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Saint-Etienne 
-
-</td>
+TC de Saint-Etienne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Loire (Haute-) 
-
-</td>
+Loire (Haute-)</td>
       <td align="center">
 
-TC du Puy-en-Velay 
-
-</td>
+TC du Puy-en-Velay</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Loire-Atlantique 
-
-</td>
+Loire-Atlantique</td>
       <td align="center">
 
-TC de Nantes 
-
-</td>
+TC de Nantes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Saint-Nazaire 
-
-</td>
+TC de Saint-Nazaire</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Loiret 
-
-</td>
+Loiret</td>
       <td align="center">
 
-TC d'Orléans 
-
-</td>
+TC d'Orléans</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Lot 
-
-</td>
+Lot</td>
       <td align="center">
 
-TC de Cahors 
-
-</td>
+TC de Cahors</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Lot-et-Garonne 
-
-</td>
+Lot-et-Garonne</td>
       <td align="center">
 
-TC d'Agen 
-
-</td>
+TC d'Agen</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Lozère 
-
-</td>
+Lozère</td>
       <td align="center">
 
-TC de Mende 
-
-</td>
+TC de Mende</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Maine-et-Loire 
-
-</td>
+Maine-et-Loire</td>
       <td align="center">
 
-TC d'Angers 
-
-</td>
+TC d'Angers</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Manche 
-
-</td>
+Manche</td>
       <td align="center">
 
-TC de Cherbourg-Octeville 
-
-</td>
+TC de Cherbourg-Octeville</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Coutances 
-
-</td>
+TC de Coutances</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Marne 
-
-</td>
+Marne</td>
       <td align="center">
 
-TC de Châlons-en-Champagne 
-
-</td>
+TC de Châlons-en-Champagne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Reims 
-
-</td>
+TC de Reims</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Haute-Marne 
-
-</td>
+Haute-Marne</td>
       <td align="center">
 
-TC de Chaumont 
-
-</td>
+TC de Chaumont</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Mayenne 
-
-</td>
+Mayenne</td>
       <td align="center">
 
-TC de Laval 
-
-</td>
+TC de Laval</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Meurthe-et-Moselle 
-
-</td>
+Meurthe-et-Moselle</td>
       <td align="center">
 
 TC de Val de Briey</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Nancy 
-
-</td>
+TC de Nancy</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Meuse 
-
-</td>
+Meuse</td>
       <td align="center">
 
-TC de Bar-le-Duc 
-
-</td>
+TC de Bar-le-Duc</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Morbihan 
-
-</td>
+Morbihan</td>
       <td align="center">
 
-TC de Lorient 
-
-</td>
+TC de Lorient</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Vannes 
-
-</td>
+TC de Vannes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Moselle 
-
-</td>
+Moselle</td>
       <td align="center">
 
-TGI de Metz 
-
-</td>
+Tribunal judiciaire de Metz</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Sarreguemines 
-
-</td>
+Tribunal judiciaire de Sarreguemines</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Thionville 
-
-</td>
+Tribunal judiciaire de Thionville</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
 
-Nièvre 
-
-</td>
+Nièvre</td>
       <td align="center">
 
-TC de Nevers 
-
-</td>
+TC de Nevers</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Nord 
-
-</td>
+Nord</td>
       <td align="center">
 
-TC de Douai 
-
-</td>
+TC de Douai</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Dunkerque 
-
-</td>
+TC de Dunkerque</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Lille Métropole
-
-</td>
+TC de Lille Métropole</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Valenciennes 
-
-</td>
+TC de Valenciennes</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Oise 
-
-</td>
+Oise</td>
       <td align="center">
 
-TC de Beauvais 
-
-</td>
+TC de Beauvais</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Compiègne 
-
-</td>
+TC de Compiègne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Orne 
-
-</td>
+Orne</td>
       <td align="center">
 
-TC d'Alençon 
-
-</td>
+TC d'Alençon</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Paris 
-
-</td>
+Paris</td>
       <td align="center">
 
-TC de Paris 
-
-</td>
+TC de Paris</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Pas-de-Calais 
-
-</td>
+Pas-de-Calais</td>
       <td align="center">
 
-TC d'Arras 
-
-</td>
+TC d'Arras</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Boulogne-sur-Mer 
-
-</td>
+TC de Boulogne-sur-Mer</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Puy-de-Dôme 
-
-</td>
+Puy-de-Dôme</td>
       <td align="center">
 
-TC de Clermont-Ferrand 
-
-</td>
+TC de Clermont-Ferrand</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Pyrénées-Atlantiques 
-
-</td>
+Pyrénées-Atlantiques</td>
       <td align="center">
 
-TC de Bayonne 
-
-</td>
+TC de Bayonne</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Pau 
-
-</td>
+TC de Pau</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Pyrénées (Hautes-) 
-
-</td>
+Pyrénées (Hautes-)</td>
       <td align="center">
 
-TC de Tarbes 
-
-</td>
+TC de Tarbes</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Pyrénées-Orientales 
-
-</td>
+Pyrénées-Orientales</td>
       <td align="center">
 
-TC de Perpignan 
-
-</td>
+TC de Perpignan</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Rhin (Bas-) 
-
-</td>
+Rhin (Bas-)</td>
       <td align="center">
 
-TGI de Saverne 
-
-</td>
+Tribunal judiciaire de Saverne</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Strasbourg 
-
-</td>
+Tribunal judiciaire de Strasbourg</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
 
-Rhin (Haut-) 
-
-</td>
+Rhin (Haut-)</td>
       <td align="center">
 
-TGI de Colmar 
-
-</td>
+Tribunal judiciaire de Colmar</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TGI de Mulhouse 
-
-</td>
+Tribunal judiciaire de Mulhouse</td>
       <td align="center">
 
-Ressort du TGI 
-
-</td>
+Ressort du tribunal judiciaire</td>
     </tr>
     <tr>
       <td align="center">
 
-Rhône 
-
-</td>
+Rhône</td>
       <td align="center">
 
-TC de Lyon 
-
-</td>
+TC de Lyon</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Villefranche-sur-Saône 
-
-</td>
+TC de Villefranche-sur-Saône</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Saône (Haute-) 
-
-</td>
+Saône (Haute-)</td>
       <td align="center">
 
-TC de Vesoul 
-
-</td>
+TC de Vesoul</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Saône-et-Loire 
-
-</td>
+Saône-et-Loire</td>
       <td align="center">
 
-TC de Chalon-sur-Saône 
-
-</td>
+TC de Chalon-sur-Saône</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Mâcon 
-
-</td>
+TC de Mâcon</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Sarthe 
-
-</td>
+Sarthe</td>
       <td align="center">
 
-TC du Mans 
-
-</td>
+TC du Mans</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Savoie 
-
-</td>
+Savoie</td>
       <td align="center">
 
-TC de Chambéry 
-
-</td>
+TC de Chambéry</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Savoie (Haute-) 
-
-</td>
+Savoie (Haute-)</td>
       <td align="center">
 
-TC d'Annecy 
-
-</td>
+TC d'Annecy</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Thonon-les-Bains 
-
-</td>
+TC de Thonon-les-Bains</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Seine (Hauts-de-) 
-
-</td>
+Seine (Hauts-de-)</td>
       <td align="center">
 
-TC de Nanterre 
-
-</td>
+TC de Nanterre</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Seine-Maritime 
-
-</td>
+Seine-Maritime</td>
       <td align="center">
 
-TC de Dieppe 
-
-</td>
+TC de Dieppe</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC du Havre 
-
-</td>
+TC du Havre</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Rouen 
-
-</td>
+TC de Rouen</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Seine-et-Marne 
-
-</td>
+Seine-et-Marne</td>
       <td align="center">
 
-TC de Meaux 
-
-</td>
+TC de Meaux</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Melun 
-
-</td>
+TC de Melun</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Seine-Saint-Denis 
-
-</td>
+Seine-Saint-Denis</td>
       <td align="center">
 
-TC de Bobigny 
-
-</td>
+TC de Bobigny</td>
       <td align="center">
 
-Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle 
-
-</td>
+Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle</td>
     </tr>
     <tr>
       <td align="center">
 
-Sèvres (Deux-) 
-
-</td>
+Sèvres (Deux-)</td>
       <td align="center">
 
-TC de Niort 
-
-</td>
+TC de Niort</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Somme 
-
-</td>
+Somme</td>
       <td align="center">
 
-TC d'Amiens 
-
-</td>
+TC d'Amiens</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Tarn 
-
-</td>
+Tarn</td>
       <td align="center">
 
-TC d'Albi 
-
-</td>
+TC d'Albi</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Castres 
-
-</td>
+TC de Castres</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Tarn-et-Garonne 
-
-</td>
+Tarn-et-Garonne</td>
       <td align="center">
 
-TC de Montauban 
-
-</td>
+TC de Montauban</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Territoire de Belfort 
-
-</td>
+Territoire de Belfort</td>
       <td align="center">
 
-TC de Belfort 
-
-</td>
+TC de Belfort</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Val-de-Marne 
-
-</td>
+Val-de-Marne</td>
       <td align="center">
 
-TC de Créteil 
-
-</td>
+TC de Créteil</td>
       <td align="center">
 
-Le département et l'emprise de l'aérodrome de Paris-Orly 
-
-</td>
+Le département et l'emprise de l'aérodrome de Paris-Orly</td>
     </tr>
     <tr>
       <td align="center">
 
-Val-d'Oise 
-
-</td>
+Val-d'Oise</td>
       <td align="center">
 
-TC de Pontoise 
-
-</td>
+TC de Pontoise</td>
       <td align="center">
 
-Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle 
-
-</td>
+Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy-Charles-de-Gaulle</td>
     </tr>
     <tr>
       <td align="center">
 
-Var 
-
-</td>
+Var</td>
       <td align="center">
 
-TC de Draguignan 
-
-</td>
+TC de Draguignan</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Fréjus 
-
-</td>
+TC de Fréjus</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Toulon 
-
-</td>
+TC de Toulon</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Vaucluse 
-
-</td>
+Vaucluse</td>
       <td align="center">
 
-TC d'Avignon 
-
-</td>
+TC d'Avignon</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Vendée 
-
-</td>
+Vendée</td>
       <td align="center">
 
-TC de La Roche-sur-Yon 
-
-</td>
+TC de La Roche-sur-Yon</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Vienne 
-
-</td>
+Vienne</td>
       <td align="center">
 
-TC de Poitiers 
-
-</td>
+TC de Poitiers</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Vienne (Haute-) 
-
-</td>
+Vienne (Haute-)</td>
       <td align="center">
 
-TC de Limoges 
-
-</td>
+TC de Limoges</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Vosges 
-
-</td>
+Vosges</td>
       <td align="center">
 
-TC d'Epinal 
-
-</td>
+TC d'Epinal</td>
       <td align="center">
 
-Le département 
-
-</td>
+Le département</td>
     </tr>
     <tr>
       <td align="center">
 
-Yonne 
-
-</td>
+Yonne</td>
       <td align="center">
 
-TC d'Auxerre 
-
-</td>
+TC d'Auxerre</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
       </td><td align="center">
 
-TC de Sens 
-
-</td>
+TC de Sens</td>
       <td align="center">
 
-Ressort du TC 
-
-</td>
+Ressort du TC</td>
     </tr>
     <tr>
       <td align="center">
 
-Yvelines 
-
-</td>
+Yvelines</td>
       <td align="center">
 
-TC de Versailles 
-
-</td>
+TC de Versailles</td>
       <td align="center">
 
-Le département
-
-</td>
+Le département</td>
     </tr>
   </tbody>
 </table>
 
 **Nota:**
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
+  - Décret n°2019-913 du 30 août 2019 - art. 7
 
 _Cite_:
 
