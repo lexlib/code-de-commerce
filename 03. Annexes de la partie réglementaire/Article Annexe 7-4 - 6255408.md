@@ -1,6 +1,6 @@
 # Article Annexe 7-4
 
-Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
+Nombre d'assesseurs des chambres commerciales des tribunaux judiciaires
 
 des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
@@ -16,7 +16,7 @@ DÉPARTEMENTS
 
 SIÈGE DE LA CHAMBRE COMMERCIALE
 
-du tribunal de grande instance
+du tribunal judiciaire
 
 </td>
       <td>
@@ -25,7 +25,7 @@ NOMBRE D'ASSESSEURS
 
 de la chambre commerciale
 
-du tribunal de grande instance
+du tribunal judiciaire
 
 </td>
     </tr>
@@ -214,10 +214,8 @@ Cour d'appel de Cayenne
 </td>
     </tr>
     <tr>
-      <td>Guyane</td>
+      <td>GuyaneCayenne</td>
       <td>
-
-Cayenne
 
 </td>
       <td>
@@ -306,11 +304,16 @@ Saint-Pierre
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-554 du 14 avril 2017 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 

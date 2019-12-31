@@ -1,29 +1,29 @@
 # Article Annexe 9-6
 
-JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DU III DE L'ARTICLE L. 442-4, 
+JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DU III DE L'ARTICLE L. 442-4,
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS 
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 <table align="center" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
 
-SIÈGE DES TRIBUNAUX 
+SIÈGE DES TRIBUNAUX
 
-de grande instance 
+judiciaires
 
 </td>
       <td>
 
-RESSORT 
+RESSORT
 
 </td>
     </tr>
     <tr>
       <td>
 
-Paris. 
+Paris.
 
 </td>
       <td>
@@ -35,11 +35,16 @@ Ressort du tribunal supérieur d'appel de Saint-Pierre
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-599 du 17 juin 2019 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
