@@ -1,300 +1,298 @@
 # Article Annexe 7-4
 
-Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
+Nombre d'assesseurs des chambres commerciales des   tribunaux judiciaires 
 
-des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
+des départements du Bas-Rhin, du Haut-Rhin et de la Moselle 
 
-<table border="1" align="center" cellpadding="0">
+<table align="center" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
 
-DÉPARTEMENTS
+DÉPARTEMENTS 
 
 </td>
       <td>
 
-SIÈGE DE LA CHAMBRE COMMERCIALE
+SIÈGE DE LA CHAMBRE COMMERCIALE 
 
-du tribunal de grande instance
+du tribunal de grande instance 
 
 </td>
       <td>
 
-NOMBRE D'ASSESSEURS
+NOMBRE D'ASSESSEURS 
 
-de la chambre commerciale
+de la chambre commerciale 
 
-du tribunal de grande instance
+du tribunal de grande instance 
 
 </td>
     </tr>
     <tr>
       <td colspan="3">
 
-Cour d'appel de Colmar
+Cour d'appel de Colmar 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Bas-Rhin
+Bas-Rhin 
 
 </td>
       <td>
 
-Saverne
+Saverne 
 
 </td>
       <td>
 
-8
+8 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Strasbourg
+Strasbourg 
 
 </td>
       <td>
 
-32
+32 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Haut-Rhin
+Haut-Rhin 
 
 </td>
       <td>
 
-Colmar
+Colmar 
 
 </td>
       <td>
 
-12
+12 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mulhouse
+Mulhouse 
 
 </td>
       <td>
 
-22
+22 
 
 </td>
     </tr>
     <tr>
       <td colspan="3">
 
-Cour d'appel de Metz
+Cour d'appel de Metz 
 
 </td>
     </tr>
     <tr>
       <td rowspan="3">
 
-Moselle
+Moselle 
 
 </td>
       <td>
 
-Metz
+Metz 
 
 </td>
       <td>
 
-19
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Sarreguemines
-
-</td>
-      <td>
-
-12
+19 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Thionville
+Sarreguemines 
 
 </td>
       <td>
 
-12
+12 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Thionville 
+
+</td>
+      <td>
+
+12 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
+Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer 
 
-<table align="center" cellpadding="0" border="1">
+<table align="center" border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
 
-DÉPARTEMENTS
+DÉPARTEMENTS 
 
 </td>
       <td>
 
-SIÈGE DU TRIBUNAL MIXTE
+SIÈGE DU TRIBUNAL MIXTE 
 
-de commerce
+de commerce 
 
 </td>
       <td>
 
-NOMBRE DE JUGES ÉLUS
+NOMBRE DE JUGES ÉLUS 
 
-du tribunal mixte de commerce
+du tribunal mixte de commerce 
 
 </td>
     </tr>
     <tr>
       <td colspan="3">
 
-Cour d'appel de Basse-Terre
+Cour d'appel de Basse-Terre 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Guadeloupe
+Guadeloupe 
 
 </td>
       <td>
 
-Basse-Terre
+Basse-Terre 
 
 </td>
       <td>
 
-5
+5 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Pointe-à-Pitre
+Pointe-à-Pitre 
 
 </td>
       <td>
 
-9
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3">
-
-Cour d'appel de Cayenne
-
-</td>
-    </tr>
-    <tr>
-      <td>Guyane</td>
-      <td>
-
-Cayenne
-
-</td>
-      <td>
-
-8
+9 
 
 </td>
     </tr>
     <tr>
       <td colspan="3">
 
-Cour d'appel de Fort-de-France
+Cour d'appel de Cayenne 
 
 </td>
     </tr>
     <tr>
+      <td>GuyaneCayenne</td>
       <td>
-
-Martinique
 
 </td>
       <td>
 
-Fort-de-France
-
-</td>
-      <td>
-
-9
+8 
 
 </td>
     </tr>
     <tr>
       <td colspan="3">
 
-Cour d'appel de Saint-Denis de La Réunion
+Cour d'appel de Fort-de-France 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mayotte
+Martinique 
 
 </td>
       <td>
 
-Mamoudzou
+Fort-de-France 
 
 </td>
       <td>
 
-5
+9 
 
 </td>
     </tr>
     <tr>
-      <td align="center" rowspan="2">
+      <td colspan="3">
 
-La Réunion
+Cour d'appel de Saint-Denis de La Réunion 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Mayotte 
+
+</td>
+      <td>
+
+Mamoudzou 
+
+</td>
+      <td>
+
+5 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center">
+
+La Réunion 
 
 </td>
       <td align="center">
 
-Saint-Denis
+Saint-Denis 
 
 </td>
       <td align="center">
 
-8
+8 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Saint-Pierre
+Saint-Pierre 
 
 </td>
       <td>
@@ -306,11 +304,16 @@ Saint-Pierre
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-554 du 14 avril 2017 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 

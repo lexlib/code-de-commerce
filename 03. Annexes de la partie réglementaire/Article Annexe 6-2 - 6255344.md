@@ -2,2381 +2,2371 @@
 
 Juridictions compétentes par département en métropole pour connaître, en application de l'article L. 610-1,
 
-des procédures applicables aux personnes qui ne sont ni commerçants ni artisans 
+des procédures applicables aux personnes qui ne sont ni commerçants ni artisans
 
-<table cellspacing="0" border="1" width="740" align="center" cellpadding="0">
+<table cellpadding="0" cellspacing="0" align="center" border="1">
   <tbody>
     <tr>
-      <td width="229">
+      <td>
 
 DÉPARTEMENT
 
 </td>
-      <td width="221">
+      <td>
 
 JURIDICTION
 
 </td>
-      <td width="220">
+      <td>
 
 RESSORT
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Ain 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Bourg-en-Bresse 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="3" width="229" valign="top">
-
-Aisne 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Laon 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Saint-Quentin 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Soissons 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="3" width="229" valign="top">
-
-Allier 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Cusset 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Montluçon 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td>TGI de Moulins 
+Ain
 
 </td>
       <td>
 
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Alpes-de-Haute-Provence 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Digne-les-Bains 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Alpes (Hautes-) 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Gap 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" rowspan="2" valign="top">
-
-Alpes-Maritimes 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Grasse 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Nice 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Ardèche 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Privas 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Ardennes 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Charleville-Mézières 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Ariège 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Foix 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Aube 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Troyes 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="229" valign="top">
-
-Aude 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Carcassonne 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Narbonne 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Aveyron 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Rodez 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="3" width="229" valign="top">
-
-Bouches-du-Rhône 
-
-</td>
-      <td valign="top" width="221">
-
-TGI d'Aix-en-Provence 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Marseille 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Tarascon 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" rowspan="2" valign="top">
-
-Calvados 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Caen 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Lisieux 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Cantal 
-
-</td>
-      <td valign="top" width="221">
-
-TGI d'Aurillac 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Charente 
-
-</td>
-      <td width="221" valign="top">
-
-TGI d'Angoulême 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="229" valign="top">
-
-Charente-Maritime 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de la Rochelle 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Saintes 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Cher 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Bourges 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" rowspan="2" valign="top">
-
-Corrèze 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Brive-la-Gaillarde 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td>TGI de Tulle 
+Tribunal judiciaire de Bourg-en-Bresse
 
 </td>
       <td>
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Corse-du-Sud 
-
-</td>
-      <td width="221" valign="top">
-
-TGI d'Ajaccio 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Corse (Haute-) 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Bastia 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Côte-d'Or 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Dijon 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Côtes-d'Armor 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Saint-Brieuc 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Creuse 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Guéret 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" rowspan="2" width="229">
-
-Dordogne 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Bergerac 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Périgueux 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229" rowspan="2">
-
-Doubs 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Besançon 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Montbéliard 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Drôme 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Valence 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Essonne 
-
-</td>
-      <td width="221" valign="top">
-
-TGI d'Evry 
-
-</td>
-      <td width="220" valign="top">
-
-Le département à l'exception de l'emprise de l'aérodrome de Paris-Orly 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Eure 
-
-</td>
-      <td valign="top" width="221">
-
-TGI d'Evreux 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Eure-et-Loir 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Chartres 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="229" valign="top">
-
-Finistère 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Brest 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Quimper 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="229" valign="top">
-
-Gard 
-
-</td>
-      <td width="221" valign="top">
-
-TGI d'Alès 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Nîmes 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229" rowspan="2">
-
-Garonne (Haute-) 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Toulouse 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td>TGI de Saint-Gaudens 
-
-</td>
-      <td>
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Gers 
-
-</td>
-      <td width="221" valign="top">
-
-TGI d'Auch 
-
-</td>
-      <td width="220" valign="top">
-
-Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="229" valign="top">
-
-Gironde 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Bordeaux 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Libourne 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" width="229" valign="top">
-
-Hérault 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Béziers 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Montpellier 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229" rowspan="2">
-
-Ille-et-Vilaine 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Rennes 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Saint-Malo 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Indre 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Châteauroux 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Indre-et-Loire 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Tours 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="3" valign="top">
-
-Isère
-
-</td>
-      <td>TGI de Bourgoin-Jallieu 
-
-</td>
-      <td>
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Grenoble 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Vienne 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Jura 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Lons-le-Saunier 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2" valign="top" width="229">
-
-Landes 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Dax 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Mont-de-Marsan 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Loir-et-Cher 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Blois 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" rowspan="2" width="229">
-
-Loire 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Roanne 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI de Saint-Etienne 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
-
-Loire (Haute-) 
-
-</td>
-      <td width="221" valign="top">
-
-TGI du Puy-en-Velay 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229" rowspan="2">
-
-Loire-Atlantique 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Nantes 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Saint-Nazaire 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top" rowspan="2">
-
-Loiret 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Montargis 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
-
-TGI d'Orléans 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Lot 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Cahors 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Lot-et-Garonne 
-
-</td>
-      <td valign="top" width="221">
-
-TGI d'Agen 
-
-</td>
-      <td valign="top" width="220">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Lozère 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Mende 
-
-</td>
-      <td width="220" valign="top">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" rowspan="2" valign="top">
-
-Maine-et-Loire 
-
-</td>
-      <td width="221" valign="top">
-
-TGI d'Angers 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td>TGI de Saumur 
-
-</td>
-      <td>
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="229" rowspan="2">
-
-Manche 
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Cherbourg-Octeville 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Coutances 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" rowspan="2" valign="top">
-
-Marne 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Châlons-en-Champagne 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="221">
-
-TGI de Reims 
-
-</td>
-      <td valign="top" width="220">
-
-Ressort du TGI 
-
-</td>
-    </tr>
-    <tr>
-      <td width="229" valign="top">
-
-Marne (Haute-)
-
-</td>
-      <td valign="top" width="221">
-
-TGI de Chaumont
-
-</td>
-      <td width="220" valign="top">
 
 Le département
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td rowspan="3">
 
-Mayenne 
+Aisne
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Laval 
+Tribunal judiciaire de Laon
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td>
 
-Meurthe-et-Moselle 
+Tribunal judiciaire de Saint-Quentin
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Val de Briey
+Ressort du tribunal judiciaire
 
 </td>
-      <td valign="top" width="220">
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Soissons
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3">
+
+Allier
+
+</td>
+      <td>
+
+Tribunal judiciaire de Cusset
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Montluçon
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>Tribunal judiciaire de Moulins</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Alpes-de-Haute-Provence
+
+</td>
+      <td>
+
+Tribunal judiciaire de Digne-les-Bains
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Alpes (Hautes-)
+
+</td>
+      <td>
+
+Tribunal judiciaire de Gap
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Alpes-Maritimes
+
+</td>
+      <td>
+
+Tribunal judiciaire de Grasse
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Nice
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ardèche
+
+</td>
+      <td>
+
+Tribunal judiciaire de Privas
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ardennes
+
+</td>
+      <td>
+
+Tribunal judiciaire de Charleville-Mézières
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ariège
+
+</td>
+      <td>
+
+Tribunal judiciaire de Foix
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Aube
+
+</td>
+      <td>
+
+Tribunal judiciaire de Troyes
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Aude
+
+</td>
+      <td>
+
+Tribunal judiciaire de Carcassonne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Narbonne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Aveyron
+
+</td>
+      <td>
+
+Tribunal judiciaire de Rodez
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3">
+
+Bouches-du-Rhône
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Aix-en-Provence
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Marseille
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Tarascon
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Calvados
+
+</td>
+      <td>
+
+Tribunal judiciaire de Caen
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Lisieux
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cantal
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Aurillac
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Charente
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Angoulême
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Charente-Maritime
+
+</td>
+      <td>
+
+Tribunal judiciaire de la Rochelle
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Saintes
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cher
+
+</td>
+      <td>
+
+Tribunal judiciaire de Bourges
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Corrèze
+
+</td>
+      <td>
+
+Tribunal judiciaire de Brive-la-Gaillarde
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>Tribunal judiciaire de Tulle</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Corse-du-Sud
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Ajaccio
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Corse (Haute-)
+
+</td>
+      <td>
+
+Tribunal judiciaire de Bastia
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Côte-d'Or
+
+</td>
+      <td>
+
+Tribunal judiciaire de Dijon
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Côtes-d'Armor
+
+</td>
+      <td>
+
+Tribunal judiciaire de Saint-Brieuc
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Creuse
+
+</td>
+      <td>
+
+Tribunal judiciaire de Guéret
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Dordogne
+
+</td>
+      <td>
+
+Tribunal judiciaire de Bergerac
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Périgueux
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Doubs
+
+</td>
+      <td>
+
+Tribunal judiciaire de Besançon
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Montbéliard
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Drôme
+
+</td>
+      <td>
+
+Tribunal judiciaire de Valence
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Essonne
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Evry
+
+</td>
+      <td>
+
+Le département à l'exception de l'emprise de l'aérodrome de Paris-Orly
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Eure
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Evreux
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Eure-et-Loir
+
+</td>
+      <td>
+
+Tribunal judiciaire de Chartres
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Finistère
+
+</td>
+      <td>
+
+Tribunal judiciaire de Brest
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Quimper
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Gard
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Alès
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Nîmes
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Garonne (Haute-)
+
+</td>
+      <td>
+
+Tribunal judiciaire de Toulouse
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>Tribunal judiciaire de Saint-Gaudens</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Gers
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Auch
+
+</td>
+      <td>
+
+Le département, à l'exception de l'emprise de l'aérodrome d'Aire-sur-l'Adour
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Gironde
+
+</td>
+      <td>
+
+Tribunal judiciaire de Bordeaux
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Libourne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Hérault
+
+</td>
+      <td>
+
+Tribunal judiciaire de Béziers
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Montpellier
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Ille-et-Vilaine
+
+</td>
+      <td>
+
+Tribunal judiciaire de Rennes
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Saint-Malo
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Indre
+
+</td>
+      <td>
+
+Tribunal judiciaire de Châteauroux
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Indre-et-Loire
+
+</td>
+      <td>
+
+Tribunal judiciaire de Tours
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3">
+
+Isère
+
+</td>
+      <td>Tribunal judiciaire de Bourgoin-Jallieu</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Grenoble
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Vienne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Jura
+
+</td>
+      <td>
+
+Tribunal judiciaire de Lons-le-Saunier
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Landes
+
+</td>
+      <td>
+
+Tribunal judiciaire de Dax
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Mont-de-Marsan
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire, et l'emprise de l'aérodrome de l'Aire-sur-l'Adour
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Loir-et-Cher
+
+</td>
+      <td>
+
+Tribunal judiciaire de Blois
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Loire
+
+</td>
+      <td>
+
+Tribunal judiciaire de Roanne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Saint-Etienne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Loire (Haute-)
+
+</td>
+      <td>
+
+Tribunal judiciaire du Puy-en-Velay
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Loire-Atlantique
+
+</td>
+      <td>
+
+Tribunal judiciaire de Nantes
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Saint-Nazaire
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Loiret
+
+</td>
+      <td>
+
+Tribunal judiciaire de Montargis
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire d'Orléans
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lot
+
+</td>
+      <td>
+
+Tribunal judiciaire de Cahors
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lot-et-Garonne
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Agen
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lozère
+
+</td>
+      <td>
+
+Tribunal judiciaire de Mende
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Maine-et-Loire
+
+</td>
+      <td>
+
+Tribunal judiciaire d'Angers
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>Tribunal judiciaire de Saumur</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Manche
+
+</td>
+      <td>
+
+Tribunal judiciaire de Cherbourg-Octeville
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Coutances
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Marne
+
+</td>
+      <td>
+
+Tribunal judiciaire de Châlons-en-Champagne
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tribunal judiciaire de Reims
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Marne (Haute-)
+
+</td>
+      <td>
+
+Tribunal judiciaire de Chaumont
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Mayenne
+
+</td>
+      <td>
+
+Tribunal judiciaire de Laval
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Meurthe-et-Moselle
+
+</td>
+      <td>
+
+Tribunal judiciaire de Val de Briey
+
+</td>
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Nancy 
+Tribunal judiciaire de Nancy
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2">
 
-Meuse 
+Meuse
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Bar-le-Duc 
+Tribunal judiciaire de Bar-le-Duc
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Verdun 
+Tribunal judiciaire de Verdun
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="2" valign="top">
+      <td rowspan="2">
 
-Morbihan 
+Morbihan
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Lorient 
+Tribunal judiciaire de Lorient
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Vannes 
+Tribunal judiciaire de Vannes
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="229">
+      <td rowspan="3">
 
-Moselle 
+Moselle
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Metz 
+Tribunal judiciaire de Metz
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Sarreguemines 
+Tribunal judiciaire de Sarreguemines
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Thionville 
+Tribunal judiciaire de Thionville
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Nièvre 
+Nièvre
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Nevers 
+Tribunal judiciaire de Nevers
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="6" width="229">
+      <td rowspan="6">
 
-Nord 
+Nord
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Avesnes-sur-Helpe 
+Tribunal judiciaire d'Avesnes-sur-Helpe
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Cambrai 
+Tribunal judiciaire de Cambrai
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Douai 
+Tribunal judiciaire de Douai
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Dunkerque 
+Tribunal judiciaire de Dunkerque
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Lille 
+Tribunal judiciaire de Lille
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Valenciennes 
+Tribunal judiciaire de Valenciennes
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="229">
+      <td rowspan="3">
 
-Oise 
+Oise
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Beauvais 
+Tribunal judiciaire de Beauvais
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Compiègne 
+Tribunal judiciaire de Compiègne
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Senlis 
+Tribunal judiciaire de Senlis
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td rowspan="2">
 
-Orne 
+Orne
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Alençon 
+Tribunal judiciaire d'Alençon
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Argentan 
+Tribunal judiciaire d'Argentan
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Paris 
+Paris
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Paris 
+Tribunal judiciaire de Paris
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td rowspan="4" valign="top" width="229">
+      <td rowspan="4">
 
-Pas-de-Calais 
+Pas-de-Calais
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Arras 
+Tribunal judiciaire d'Arras
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Béthune 
+Tribunal judiciaire de Béthune
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Boulogne-sur-Mer 
+Tribunal judiciaire de Boulogne-sur-Mer
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Saint-Omer 
+Tribunal judiciaire de Saint-Omer
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Puy-de-Dôme 
+Puy-de-Dôme
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Clermont-Ferrand 
+Tribunal judiciaire de Clermont-Ferrand
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2">
 
-Pyrénées-Atlantiques 
+Pyrénées-Atlantiques
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Bayonne 
+Tribunal judiciaire de Bayonne
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Pau 
+Tribunal judiciaire de Pau
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Pyrénées (Hautes-) 
+Pyrénées (Hautes-)
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Tarbes 
+Tribunal judiciaire de Tarbes
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Pyrénées-Orientales 
+Pyrénées-Orientales
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Perpignan 
+Tribunal judiciaire de Perpignan
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td rowspan="2">
 
-Rhin (Bas-) 
+Rhin (Bas-)
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Saverne 
+Tribunal judiciaire de Saverne
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Strasbourg 
+Tribunal judiciaire de Strasbourg
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2">
 
-Rhin (Haut-) 
+Rhin (Haut-)
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Colmar 
+Tribunal judiciaire de Colmar
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Mulhouse 
+Tribunal judiciaire de Mulhouse
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2">
 
-Rhône 
+Rhône
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Lyon 
+Tribunal judiciaire de Lyon
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Villefranche-sur-Saône 
+Tribunal judiciaire de Villefranche-sur-Saône
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Saône (Haute-) 
+Saône (Haute-)
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Vesoul 
+Tribunal judiciaire de Vesoul
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td rowspan="2">
 
-Saône-et-Loire 
+Saône-et-Loire
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Chalon-sur-Saône 
+Tribunal judiciaire de Chalon-sur-Saône
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Mâcon 
+Tribunal judiciaire de Mâcon
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Sarthe 
+Sarthe
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI du Mans 
+Tribunal judiciaire du Mans
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="229">
+      <td rowspan="2">
 
-Savoie 
+Savoie
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI d'Albertville 
+Tribunal judiciaire d'Albertville
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Chambéry 
+Tribunal judiciaire de Chambéry
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="3">
+      <td rowspan="3">
 
-Savoie (Haute-) 
+Savoie (Haute-)
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Annecy 
+Tribunal judiciaire d'Annecy
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Bonneville 
+Tribunal judiciaire de Bonneville
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Thonon-les-Bains 
+Tribunal judiciaire de Thonon-les-Bains
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Seine (Hauts-de-) 
+Seine (Hauts-de-)
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI Nanterre 
+Tribunal judiciaire Nanterre
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="229" valign="top">
+      <td rowspan="3">
 
-Seine-Maritime 
+Seine-Maritime
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Dieppe 
+Tribunal judiciaire de Dieppe
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI du Havre 
+Tribunal judiciaire du Havre
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Rouen 
+Tribunal judiciaire de Rouen
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" rowspan="3" valign="top">
+      <td rowspan="3">
 
-Seine-et-Marne 
+Seine-et-Marne
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Fontainebleau 
+Tribunal judiciaire de Fontainebleau
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Meaux 
+Tribunal judiciaire de Meaux
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI, à l'exception de l'emprise de l'aérodrome de Roissy -Charles-de-Gaulle 
+Ressort du tribunal judiciaire, à l'exception de l'emprise de l'aérodrome de Roissy -Charles-de-Gaulle
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Melun 
+Tribunal judiciaire de Melun
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Seine-Saint-Denis 
+Seine-Saint-Denis
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Bobigny 
+Tribunal judiciaire de Bobigny
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy -Charles-de-Gaulle 
+Le département et l'emprise des aérodromes de Paris-Le Bourget et de Roissy -Charles-de-Gaulle
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Sèvres (Deux-) 
+Sèvres (Deux-)
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI Niort 
+Tribunal judiciaire Niort
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Somme 
+Somme
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI d'Amiens 
+Tribunal judiciaire d'Amiens
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="229" valign="top">
+      <td rowspan="2">
 
-Tarn 
+Tarn
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI d'Albi 
+Tribunal judiciaire d'Albi
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Castres 
+Tribunal judiciaire de Castres
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Tarn-et-Garonne 
+Tarn-et-Garonne
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Montauban 
+Tribunal judiciaire de Montauban
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Territoire de Belfort 
+Territoire de Belfort
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Belfort 
+Tribunal judiciaire de Belfort
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Val-de-Marne 
+Val-de-Marne
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Créteil 
+Tribunal judiciaire de Créteil
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département et l'emprise de l'aérodrome de Paris-Orly 
+Le département et l'emprise de l'aérodrome de Paris-Orly
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Val-d'Oise 
+Val-d'Oise
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Pontoise 
+Tribunal judiciaire de Pontoise
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy -Charles-de-Gaulle 
+Le département, à l'exception de l'emprise des aérodromes de Paris-Le Bourget et de Roissy -Charles-de-Gaulle
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229" rowspan="2">
+      <td rowspan="2">
 
-Var 
+Var
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Draguignan 
+Tribunal judiciaire de Draguignan
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Toulon
+Tribunal judiciaire de Toulon
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top" rowspan="2">
+      <td rowspan="2">
 
-Vaucluse 
+Vaucluse
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Avignon 
+Tribunal judiciaire d'Avignon
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Carpentras
+Tribunal judiciaire de Carpentras
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Vendée 
+Vendée
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de La Roche-sur-Yon 
+Tribunal judiciaire de La Roche-sur-Yon
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI des Sables-d'Olonne
+Tribunal judiciaire des Sables-d'Olonne
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Ressort du TGI
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Vienne 
+Vienne
 
 </td>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Poitiers 
+Tribunal judiciaire de Poitiers
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td width="229" valign="top">
+      <td>
 
-Vienne (Haute-) 
+Vienne (Haute-)
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI de Limoges 
+Tribunal judiciaire de Limoges
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Vosges 
+Vosges
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Epinal 
+Tribunal judiciaire d'Epinal
 
 </td>
-      <td valign="top" width="220">
+      <td>
 
-Le département 
+Le département
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="229">
+      <td rowspan="2">
 
 Yonne f
 
 </td>
-      <td valign="top" width="221">
+      <td>
 
-TGI d'Auxerre 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
+Tribunal judiciaire d'Auxerre
 
 </td>
-    </tr>
-    <tr>
-      <td width="221" valign="top">
+      <td>
 
-TGI de Sens 
-
-</td>
-      <td width="220" valign="top">
-
-Ressort du TGI 
+Ressort du tribunal judiciaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-Yvelines 
-
-</td>
-      <td width="221" valign="top">
-
-TGI de Versailles 
+Tribunal judiciaire de Sens
 
 </td>
-      <td width="220" valign="top">
+      <td>
 
-Le département 
+Ressort du tribunal judiciaire
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Yvelines
+
+</td>
+      <td>
+
+Tribunal judiciaire de Versailles
+
+</td>
+      <td>
+
+Le département
 
 </td>
     </tr>
@@ -2385,14 +2375,15 @@ Le département
 
 **Nota:**
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
+  - Décret n°2019-913 du 30 août 2019 - art. 7
 
 _Cite_:
 

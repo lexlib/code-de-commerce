@@ -1,1461 +1,1461 @@
 # Article Annexe 7-1
 
-Siège et ressort des tribunaux de commerce
+Siège et ressort des tribunaux de commerce 
 
-<table border="1" align="center" cellspacing="0" cellpadding="0">
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td rowspan="2">
 
-DÉPARTEMENT
+DÉPARTEMENT 
 
 </td>
       <td rowspan="2">
 
-TRIBUNAL
+TRIBUNAL 
 
-de grande instance
+de grande instance 
 
 </td>
       <td colspan="2">
 
-SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE
+SIÈGE ET RESSORT DES TRIBUNAUX DE COMMERCE 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Siège
+Siège 
 
 </td>
       <td>
 
-Ressort
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel d'Agen
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Gers
-
-</td>
-      <td>
-
-Auch
-
-</td>
-      <td>
-
-Auch
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Auch
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lot
-
-</td>
-      <td>
-
-Cahors
-
-</td>
-      <td>
-
-Cahors
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Cahors
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Lot-et-Garonne
-
-</td>
-      <td>
-
-Agen f
-
-</td>
-      <td>
-
-Agen
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Agen
+Ressort 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel d'Aix-en-Provence
+Cour d'appel d'Agen 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Alpes-de-Haute-Provence
+Gers 
 
 </td>
       <td>
 
-Digne-les Bains
+Auch 
 
 </td>
       <td>
 
-Manosque
+Auch 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Digne-les-Bains
+Ressort du tribunal de grande instance d'Auch 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lot 
+
+</td>
+      <td>
+
+Cahors 
+
+</td>
+      <td>
+
+Cahors 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Cahors 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lot-et-Garonne 
+
+</td>
+      <td>
+
+Agen f 
+
+</td>
+      <td>
+
+Agen 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance d'Agen 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel d'Aix-en-Provence 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Alpes-de-Haute-Provence 
+
+</td>
+      <td>
+
+Digne-les Bains 
+
+</td>
+      <td>
+
+Manosque 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Digne-les-Bains 
 
 </td>
     </tr>
     <tr>
       <td rowspan="4">
 
-Alpes-Maritimes
+Alpes-Maritimes 
 
 </td>
       <td>
 
-Nice
+Nice 
 
 </td>
       <td>
 
-Nice
+Nice 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Nice
+Ressort du tribunal de grande instance de Nice 
 
 </td>
     </tr>
     <tr>
       <td rowspan="3">
 
-Grasse
+Grasse 
 
 </td>
       <td>
 
-Grasse
+Grasse 
 
 </td>
       <td>
 
-Ressort du tribunal d'instance de Grasse et des cantons de Carros, de Coursegoules et de Vence
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Antibes
-
-</td>
-      <td>
-
-Ressort des tribunaux d'instance d'Antibes et de Cagnes-sur-Mer à l'exception des cantons de Carros, de Coursegoules et de
-Vence
+Ressort du tribunal d'instance de Grasse et des cantons de Carros, de Coursegoules et de Vence 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Cannes
+Antibes 
 
 </td>
       <td>
 
-Ressort du tribunal d'instance de Cannes
+Ressort des tribunaux judiciaires d'Antibes et de Cagnes-sur-Mer à l'exception des cantons de Carros, de Coursegoules et de
+Vence 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cannes 
+
+</td>
+      <td>
+
+Ressort du tribunal d'instance de Cannes 
 
 </td>
     </tr>
     <tr>
       <td rowspan="4">
 
-Bouches-du-Rhône
+Bouches-du-Rhône 
 
 </td>
       <td rowspan="2">
 
-Aix-en-Provence
+Aix-en-Provence 
 
 </td>
       <td>
 
-Aix-en-Provence
+Aix-en-Provence 
 
 </td>
       <td>
 
-Ressort des tribunaux d'instance d'Aix-en-Provence et de Martigues, à l'exception des cantons de Berre-l'Etang, Istres-Sud et
-Istres-Nord et Vitrolles
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Salon-de-Provence
-
-</td>
-      <td>
-
-Ressort du tribunal d'instance de Salon-de-Provence et cantons de Berre-l'Etang, Istres-Sud et Istres-Nord et Vitrolles
+Ressort des tribunaux judiciaires d'Aix-en-Provence et de Martigues, à l'exception des cantons de Berre-l'Etang, Istres-Sud
+et Istres-Nord et Vitrolles 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Marseille
+Salon-de-Provence 
 
 </td>
       <td>
 
-Marseille
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Marseille
+Ressort du tribunal d'instance de Salon-de-Provence et cantons de Berre-l'Etang, Istres-Sud et Istres-Nord et Vitrolles 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Tarascon
+Marseille 
 
 </td>
       <td>
 
-Tarascon
+Marseille 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Tarascon
+Ressort du tribunal de grande instance de Marseille 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Tarascon 
+
+</td>
+      <td>
+
+Tarascon 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Tarascon 
 
 </td>
     </tr>
     <tr>
       <td rowspan="3">
 
-Var
+Var 
 
 </td>
       <td rowspan="2">
 
-Draguignan
+Draguignan 
 
 </td>
       <td>
 
-Draguignan
+Draguignan 
 
 </td>
       <td>
 
-Ressort des tribunaux d'instance de Draguignan et de Brignoles
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Fréjus
-
-</td>
-      <td>
-
-Ressort du tribunal d'instance de Fréjus
+Ressort des tribunaux judiciaires de Draguignan et de Brignoles 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Toulon
+Fréjus 
 
 </td>
       <td>
 
-Toulon
+Ressort du tribunal d'instance de Fréjus 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Toulon 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Toulon
+Toulon 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Toulon 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel d'Amiens
+Cour d'appel d'Amiens 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Aisne
+Aisne 
 
 </td>
       <td>
 
-Saint-Quentin
+Saint-Quentin 
 
-Laon
-
-</td>
-      <td>
-
-Saint-Quentin
+Laon 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Saint-Quentin et de Laon
+Saint-Quentin 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires de Saint-Quentin et de Laon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Soissons
+Soissons 
 
 </td>
       <td>
 
-Soissons
+Soissons 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Soissons
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Oise
-
-</td>
-      <td>
-
-Beauvais
-
-</td>
-      <td>
-
-Beauvais
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Beauvais
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Compiègne
-
-Senlis
-
-</td>
-      <td>
-
-Compiègne
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Compiègne et de Senlis
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Somme
-
-</td>
-      <td>
-
-Amiens
-
-</td>
-      <td>
-
-Amiens
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Amiens
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel d'Angers
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Maine-et-Loire
-
-</td>
-      <td>
-
-Angers
-
-Saumur
-
-</td>
-      <td>
-
-Angers
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de d'Angers et de Saumur
-
-</td>
-    </tr>
-    <tr>
-      <td>Mayenne</td>
-      <td>Laval</td>
-      <td>Laval</td>
-      <td>Ressort du tribunal de grande instance de Laval</td>
-    </tr>
-    <tr>
-      <td>Sarthe</td>
-      <td>Le Mans</td>
-      <td>Le Mans</td>
-      <td>Ressort du tribunal de grande instance du Mans</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Bastia
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Corse-du-Sud
-
-</td>
-      <td>
-
-Ajaccio
-
-</td>
-      <td>
-
-Ajaccio
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Ajaccio
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Corse
-
-</td>
-      <td>
-
-Bastia
-
-</td>
-      <td>
-
-Bastia
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Bastia
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Besançon
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Doubs
-
-</td>
-      <td>
-
-Besançon
-
-</td>
-      <td>
-
-Besançon
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Besançon
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Jura
-
-</td>
-      <td>
-
-Lons-le-Saunier
-
-</td>
-      <td>
-
-Lons-le-Saunier
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Lons-le-Saunier
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Saône
-
-</td>
-      <td>
-
-Vesoul
-
-</td>
-      <td>
-
-Vesoul
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Vesoul
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Territoire de Belfort et Doubs
-
-</td>
-      <td>
-
-Belfort
-
-Montbéliard
-
-</td>
-      <td>
-
-Belfort
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Belfort et de Montbéliard
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Bordeaux
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Charente
-
-</td>
-      <td>
-
-Angoulême
-
-</td>
-      <td>
-
-Angoulême
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Angoulême
+Ressort du tribunal de grande instance de Soissons 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Dordogne
+Oise 
 
 </td>
       <td>
 
-Bergerac
+Beauvais 
 
 </td>
       <td>
 
-Bergerac
+Beauvais 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Bergerac
+Ressort du tribunal de grande instance de Beauvais 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Périgueux
+Compiègne 
+
+Senlis 
 
 </td>
       <td>
 
-Périgueux
+Compiègne 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Périgueux
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Gironde
-
-</td>
-      <td>
-
-Bordeaux
-
-</td>
-      <td>
-
-Bordeaux
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Bordeaux
+Ressort des   tribunaux judiciaires de Compiègne et de Senlis 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Libourne
+Somme 
 
 </td>
       <td>
 
-Libourne
+Amiens 
 
 </td>
       <td>
 
-Ressort du tribunal d'instance de Libourne
+Amiens 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance d'Amiens 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Bourges
+Cour d'appel d'Angers 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Cher
+Maine-et-Loire 
 
 </td>
       <td>
 
-Bourges
+Angers 
+
+Saumur 
 
 </td>
       <td>
 
-Bourges
+Angers 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Bourges
+Ressort des   tribunaux judiciaires de d'Angers et de Saumur 
+
+</td>
+    </tr>
+    <tr>
+      <td>MayenneLavalLavalRessort</td>
+      <td>
+      </td><td>
+      </td><td> du tribunal de grande instance de LavalSartheLe</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td> MansLe</td>
+      <td> MansRessort</td>
+      <td> du tribunal de grande instance du MansCour</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+d'appel de Bastia 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Indre
+Corse-du-Sud 
 
 </td>
       <td>
 
-Châteauroux
+Ajaccio 
 
 </td>
       <td>
 
-Châteauroux
+Ajaccio 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Châteauroux
+Ressort du tribunal de grande instance d'Ajaccio 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Nièvre
+Haute-Corse 
 
 </td>
       <td>
 
-Nevers
+Bastia 
 
 </td>
       <td>
 
-Nevers
+Bastia 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Nevers
+Ressort du tribunal de grande instance de Bastia 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Caen
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Calvados
-
-</td>
-      <td>
-
-Caen
-
-</td>
-      <td>
-
-Caen
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Caen
+Cour d'appel de Besançon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Lisieux
+Doubs 
 
 </td>
       <td>
 
-Lisieux
+Besançon 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Lisieux
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Manche
+Besançon 
 
 </td>
       <td>
 
-Coutances
-
-</td>
-      <td>
-
-Coutances
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Coutances
+Ressort du tribunal de grande instance de Besançon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Cherbourg-en-Cotentin
+Jura 
 
 </td>
       <td>
 
-Cherbourg-en-Cotentin
+Lons-le-Saunier 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Cherbourg-en-Cotentin
+Lons-le-Saunier 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Lons-le-Saunier 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Orne
+Haute-Saône 
 
 </td>
       <td>
 
-Alençon
-
-Argentan
+Vesoul 
 
 </td>
       <td>
 
-Alençon
+Vesoul 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance d'Alençon et d'Argentan
+Ressort du tribunal de grande instance de Vesoul 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Territoire de Belfort et Doubs 
+
+</td>
+      <td>
+
+Belfort 
+
+Montbéliard 
+
+</td>
+      <td>
+
+Belfort 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires de Belfort et de Montbéliard 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Chambéry
+Cour d'appel de Bordeaux 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Savoie
+Charente 
 
 </td>
       <td>
 
-Chambéry
-
-Albertville
+Angoulême 
 
 </td>
       <td>
 
-Chambéry
+Angoulême 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Chambéry et d'Albertville
+Ressort du tribunal de grande instance d'Angoulême 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Haute-Savoie
+Dordogne 
 
 </td>
       <td>
 
-Annecy
-
-Bonneville
+Bergerac 
 
 </td>
       <td>
 
-Annecy
+Bergerac 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance d'Annecy et de Bonneville
+Ressort du tribunal de grande instance de Bergerac 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Thonon-les-Bains
+Périgueux 
 
 </td>
       <td>
 
-Thonon-les-Bains
+Périgueux 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Thonon-les-Bains
+Ressort du tribunal de grande instance de Périgueux 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Gironde 
+
+</td>
+      <td>
+
+Bordeaux 
+
+</td>
+      <td>
+
+Bordeaux 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Bordeaux 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Libourne 
+
+</td>
+      <td>
+
+Libourne 
+
+</td>
+      <td>
+
+Ressort du tribunal d'instance de Libourne 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Colmar
+Cour d'appel de Bourges 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cher 
+
+</td>
+      <td>
+
+Bourges 
+
+</td>
+      <td>
+
+Bourges 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Bourges 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Indre 
+
+</td>
+      <td>
+
+Châteauroux 
+
+</td>
+      <td>
+
+Châteauroux 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Châteauroux 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Nièvre 
+
+</td>
+      <td>
+
+Nevers 
+
+</td>
+      <td>
+
+Nevers 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Nevers 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Caen 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Bas-Rhin
+Calvados 
 
 </td>
       <td>
 
-Saverne
+Caen 
+
+</td>
+      <td>
+
+Caen 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Caen 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Lisieux 
+
+</td>
+      <td>
+
+Lisieux 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Lisieux 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Manche 
+
+</td>
+      <td>
+
+Coutances 
+
+</td>
+      <td>
+
+Coutances 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Coutances 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cherbourg-en-Cotentin 
+
+</td>
+      <td>
+
+Cherbourg-en-Cotentin 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Cherbourg-en-Cotentin 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Orne 
+
+</td>
+      <td>
+
+Alençon 
+
+Argentan 
+
+</td>
+      <td>
+
+Alençon 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires d'Alençon et d'Argentan 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Chambéry 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Savoie 
+
+</td>
+      <td>
+
+Chambéry 
+
+Albertville 
+
+</td>
+      <td>
+
+Chambéry 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires de Chambéry et d'Albertville 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Haute-Savoie 
+
+</td>
+      <td>
+
+Annecy 
+
+Bonneville 
+
+</td>
+      <td>
+
+Annecy 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires d'Annecy et de Bonneville 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Thonon-les-Bains 
+
+</td>
+      <td>
+
+Thonon-les-Bains 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Thonon-les-Bains 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Colmar 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Bas-Rhin 
+
+</td>
+      <td>
+
+Saverne 
 
 </td>
       <td>
       </td><td>
 
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Strasbourg
+Strasbourg 
 
 </td>
       <td>
       </td><td>
 
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Haut-Rhin
+Haut-Rhin 
 
 </td>
       <td>
 
-Colmar
+Colmar 
 
 </td>
       <td>
       </td><td>
 
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mulhouse
+Mulhouse 
 
 </td>
       <td>
       </td><td>
 
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Dijon
+Cour d'appel de Dijon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Côte-d'Or
+Côte-d'Or 
 
 </td>
       <td>
 
-Dijon
+Dijon 
 
 </td>
       <td>
 
-Dijon
+Dijon 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Dijon
+Ressort du tribunal de grande instance de Dijon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Haute-Marne
+Haute-Marne 
 
 </td>
       <td>
 
-Chaumont
+Chaumont 
 
 </td>
       <td>
 
-Chaumont
+Chaumont 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Chaumont
+Ressort du tribunal de grande instance de Chaumont 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Saône-et-Loire
+Saône-et-Loire 
 
 </td>
       <td>
 
-Chalon-sur-Saône
+Chalon-sur-Saône 
 
 </td>
       <td>
 
-Chalon-sur-Saône
+Chalon-sur-Saône 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Chalon-sur-Saône
+Ressort du tribunal de grande instance de Chalon-sur-Saône 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mâcon
+Mâcon 
 
 </td>
       <td>
 
-Mâcon
+Mâcon 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Mâcon
+Ressort du tribunal de grande instance de Mâcon 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Douai
+Cour d'appel de Douai 
 
 </td>
     </tr>
     <tr>
       <td rowspan="4">
 
-Nord
+Nord 
 
 </td>
       <td>
 
-Douai
+Douai 
 
-Cambrai
-
-</td>
-      <td>
-
-Douai
+Cambrai 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Douai et de Cambrai
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Dunkerque
+Douai 
 
 </td>
       <td>
 
-Dunkerque
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Dunkerque
+Ressort des   tribunaux judiciaires de Douai et de Cambrai 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Lille
+Dunkerque 
 
 </td>
       <td>
 
-Tourcoing
+Dunkerque 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Lille
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Valenciennes
-
-Avesnes-sur-Helpe
-
-</td>
-      <td>
-
-Valenciennes
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Valenciennes et d'Avesnes-sur-Helpe
+Ressort du tribunal de grande instance de Dunkerque 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Pas-de-Calais
+Lille 
 
 </td>
       <td>
 
-Arras
-
-Béthune
+Tourcoing 
 
 </td>
       <td>
 
-Arras
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance d'Arras et de Béthune
+Ressort du tribunal de grande instance de Lille 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Saint-Omer
+Valenciennes 
+
+Avesnes-sur-Helpe 
 
 </td>
       <td>
 
-Boulogne-sur-Mer
+Valenciennes 
 
 </td>
       <td>
 
-Boulogne-sur-Mer
+Ressort des   tribunaux judiciaires de Valenciennes et d'Avesnes-sur-Helpe 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pas-de-Calais 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Boulogne-sur-Mer et de Saint-Omer
+Arras 
+
+Béthune 
+
+</td>
+      <td>
+
+Arras 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires d'Arras et de Béthune 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Saint-Omer 
+
+</td>
+      <td>
+
+Boulogne-sur-Mer 
+
+</td>
+      <td>
+
+Boulogne-sur-Mer 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires de Boulogne-sur-Mer et de Saint-Omer 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Grenoble
+Cour d'appel de Grenoble 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Hautes-Alpes
+Hautes-Alpes 
 
 </td>
       <td>
 
-Gap
+Gap 
 
 </td>
       <td>
 
-Gap
+Gap 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Gap
+Ressort du tribunal de grande instance de Gap 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Drôme
+Drôme 
 
 </td>
       <td>
 
-Valence
+Valence 
 
 </td>
       <td>
 
-Romans-sur-Isère
+Romans-sur-Isère 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Valence
+Ressort du tribunal de grande instance de Valence 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Isère
+Isère 
 
 </td>
       <td>
 
-Grenoble
+Grenoble 
 
 </td>
       <td>
 
-Grenoble
+Grenoble 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Grenoble
+Ressort du tribunal de grande instance de Grenoble 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Bourgoin-Jallieu
+Bourgoin-Jallieu 
 
-Vienne
-
-</td>
-      <td>
-
-Vienne
+Vienne 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Bourgoin-Jallieu et de Vienne
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Limoges
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Corrèze
+Vienne 
 
 </td>
       <td>
 
-Brive-la-Gaillarde
-
-Tulle
+Ressort des   tribunaux judiciaires de Bourgoin-Jallieu et de Vienne 
 
 </td>
-      <td>
-
-Brive-la-Gaillarde
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Brive-la-Gaillarde et de Tulle
-
-</td>
-    </tr>
-    <tr>
-      <td>Creuse</td>
-      <td>Guéret</td>
-      <td>Guéret</td>
-      <td>Ressort du tribunal de grande instance de Guéret</td>
-    </tr>
-    <tr>
-      <td>Haute-Vienne</td>
-      <td>Limoges</td>
-      <td>Limoges</td>
-      <td>Ressort du tribunal de grande instance de Limoges</td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Lyon
+Cour d'appel de Limoges 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ain
+Corrèze 
 
 </td>
       <td>
 
-Bourg-en-Bresse
+Brive-la-Gaillarde 
+
+Tulle 
 
 </td>
       <td>
 
-Bourg-en-Bresse
+Brive-la-Gaillarde 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Bourg-en-Bresse
+Ressort des   tribunaux judiciaires de Brive-la-Gaillarde et de Tulle 
+
+</td>
+    </tr>
+    <tr>
+      <td>CreuseGuéretGuéretRessort</td>
+      <td>
+      </td><td>
+      </td><td> du tribunal de grande instance de GuéretHaute</td>
+    </tr>
+    <tr>
+      <td>-VienneLimogesLimogesRessort</td>
+      <td>
+      </td><td>
+      </td><td> du tribunal de grande instance de LimogesCour</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+d'appel de Lyon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Loire
+Ain 
 
 </td>
       <td>
 
-Roanne
+Bourg-en-Bresse 
 
 </td>
       <td>
 
-Roanne
+Bourg-en-Bresse 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Roanne
+Ressort du tribunal de grande instance de Bourg-en-Bresse 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Loire 
+
+</td>
+      <td>
+
+Roanne 
+
+</td>
+      <td>
+
+Roanne 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Roanne 
 
 </td>
     </tr>
@@ -1463,1076 +1463,1074 @@ Ressort du tribunal de grande instance de Roanne
       <td>
       </td><td>
 
-Saint-Etienne
+Saint-Etienne 
 
 </td>
       <td>
 
-Saint-Etienne
+Saint-Etienne 
 
 </td>
-      <td>Ressort du tribunal de grande instance de Saint-Etienne</td>
+      <td>Ressort du tribunal de grande instance de Saint-EtienneRhône</td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Rhône
+</td>
+      <td>
+
+Lyon 
 
 </td>
       <td>
 
-Lyon
+Lyon 
 
 </td>
       <td>
 
-Lyon
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Lyon
+Ressort du tribunal de grande instance de Lyon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Villefranche-sur-Saône
+Villefranche-sur-Saône 
 
 </td>
       <td>
 
-Villefranche-sur-Saône
+Villefranche-sur-Saône 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Villefranche-sur-Saône
+Ressort du tribunal de grande instance de Villefranche-sur-Saône 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Metz
+Cour d'appel de Metz 
 
 </td>
     </tr>
     <tr>
       <td rowspan="3">
 
-Moselle
+Moselle 
 
 </td>
       <td>
 
-Metz
-
-</td>
-      <td>
-      </td><td>
-
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Sarreguemines
+Metz 
 
 </td>
       <td>
       </td><td>
 
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Thionville
+Sarreguemines 
 
 </td>
       <td>
       </td><td>
 
-La chambre commerciale du tribunal de grande instance est compétente en matière commerciale
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Thionville 
+
+</td>
+      <td>
+      </td><td>
+
+La chambre commerciale du tribunal de grande instance est compétente en matière commerciale 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Montpellier
+Cour d'appel de Montpellier 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Aude
+Aude 
 
 </td>
       <td>
 
-Carcassonne
+Carcassonne 
 
 </td>
       <td>
 
-Carcassonne
+Carcassonne 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Carcassonne
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Narbonne
-
-</td>
-      <td>
-
-Narbonne
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Narbonne
+Ressort du tribunal de grande instance de Carcassonne 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Aveyron
+Narbonne 
 
 </td>
       <td>
 
-Rodez
+Narbonne 
 
 </td>
       <td>
 
-Rodez
+Ressort du tribunal de grande instance de Narbonne 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Aveyron 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Rodez
+Rodez 
+
+</td>
+      <td>
+
+Rodez 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Rodez 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Hérault
+Hérault 
 
 </td>
       <td>
 
-Béziers
+Béziers 
 
 </td>
       <td>
 
-Béziers
+Béziers 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Béziers
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montpellier
-
-</td>
-      <td>
-
-Montpellier
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Montpellier
+Ressort du tribunal de grande instance de Béziers 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Pyrénées-Orientales
+Montpellier 
 
 </td>
       <td>
 
-Perpignan
+Montpellier 
 
 </td>
       <td>
 
-Perpignan
+Ressort du tribunal de grande instance de Montpellier 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Pyrénées-Orientales 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Perpignan
+Perpignan 
+
+</td>
+      <td>
+
+Perpignan 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Perpignan 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Nancy
+Cour d'appel de Nancy 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Meurthe-et-Moselle
+Meurthe-et-Moselle 
 
 </td>
       <td>
 
-Val de Briey
+Val de Briey 
 
 </td>
       <td>
 
-Val de Briey
+Val de Briey 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Val de Briey
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Nancy
-
-</td>
-      <td>
-
-Nancy
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Nancy
+Ressort du tribunal de grande instance de Val de Briey 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Meuse
+Nancy 
 
 </td>
       <td>
 
-Bar-le-Duc
-
-Verdun
+Nancy 
 
 </td>
       <td>
 
-Bar-le-Duc
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Bar-le-Duc et de Verdun
+Ressort du tribunal de grande instance de Nancy 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vosges
+Meuse 
 
 </td>
       <td>
 
-Epinal
+Bar-le-Duc 
+
+Verdun 
 
 </td>
       <td>
 
-Epinal
+Bar-le-Duc 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance d'Epinal
+Ressort des   tribunaux judiciaires de Bar-le-Duc et de Verdun 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vosges 
+
+</td>
+      <td>
+
+Epinal 
+
+</td>
+      <td>
+
+Epinal 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance d'Epinal 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Nîmes
+Cour d'appel de Nîmes 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ardèche
+Ardèche 
 
 </td>
       <td>
 
-Privas
+Privas 
 
 </td>
       <td>
 
-Aubenas
+Aubenas 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Privas
+Ressort du tribunal de grande instance de Privas 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Gard
+Gard 
 
 </td>
       <td>
 
-Nîmes
+Nîmes 
 
-Alès
-
-</td>
-      <td>
-
-Nîmes
+Alès 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Nîmes et d'Alès
+Nîmes 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires de Nîmes et d'Alès 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Lozère
+Lozère 
 
 </td>
       <td>
 
-Mende
+Mende 
 
 </td>
       <td>
 
-Mende
+Mende 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Mende
+Ressort du tribunal de grande instance de Mende 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vaucluse
+Vaucluse 
 
 </td>
       <td>
 
-Avignon
+Avignon 
 
-Carpentras
-
-</td>
-      <td>
-
-Avignon
+Carpentras 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance d'Avignon et de Carpentras
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel d'Orléans
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Indre-et-Loire
+Avignon 
 
 </td>
       <td>
 
-Tours
-
-</td>
-      <td>
-
-Tours
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Tours
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Loir-et-Cher
-
-</td>
-      <td>
-
-Blois
-
-</td>
-      <td>
-
-Blois
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Blois
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Loiret
-
-</td>
-      <td>
-
-Orléans
-
-Montargis
-
-</td>
-      <td>
-
-Orléans
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance d'Orléans et de Montargis
+Ressort des   tribunaux judiciaires d'Avignon et de Carpentras 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Paris
+Cour d'appel d'Orléans 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Paris
+Indre-et-Loire 
 
 </td>
       <td>
 
-Paris
+Tours 
 
 </td>
       <td>
 
-Paris
+Tours 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Paris
+Ressort du tribunal de grande instance de Tours 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Essonne
+Loir-et-Cher 
 
 </td>
       <td>
 
-Evry
+Blois 
 
 </td>
       <td>
 
-Evry
+Blois 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance d'Evry
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Seine-et-Marne
-
-</td>
-      <td>
-
-Melun
-
-Fontainebleau
-
-</td>
-      <td>
-
-Melun
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Melun et de Fontainebleau
+Ressort du tribunal de grande instance de Blois 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Meaux
+Loiret 
 
 </td>
       <td>
 
-Meaux
+Orléans 
+
+Montargis 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Meaux
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Seine-Saint-Denis
+Orléans 
 
 </td>
       <td>
 
-Bobigny
-
-</td>
-      <td>
-
-Bobigny
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Bobigny
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Val-de-Marne
-
-</td>
-      <td>
-
-Créteil
-
-</td>
-      <td>
-
-Créteil
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Créteil
-
-</td>
-    </tr>
-    <tr>
-      <td rowspan="2">
-
-Yonne
-
-</td>
-      <td>
-
-Auxerre
-
-</td>
-      <td>
-
-Auxerre
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Auxerre
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Sens
-
-</td>
-      <td>
-
-Sens
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Sens
+Ressort des   tribunaux judiciaires d'Orléans et de Montargis 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Pau
+Cour d'appel de Paris 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Paris 
+
+</td>
+      <td>
+
+Paris 
+
+</td>
+      <td>
+
+Paris 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Paris 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Essonne 
+
+</td>
+      <td>
+
+Evry 
+
+</td>
+      <td>
+
+Evry 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance d'Evry 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Landes
+Seine-et-Marne 
 
 </td>
       <td>
 
-Dax
+Melun 
+
+Fontainebleau 
 
 </td>
       <td>
 
-Dax
+Melun 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Dax
+Ressort des   tribunaux judiciaires de Melun et de Fontainebleau 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mont-de-Marsan
+Meaux 
 
 </td>
       <td>
 
-Mont-de-Marsan
+Meaux 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Mont-de-Marsan
+Ressort du tribunal de grande instance de Meaux 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Seine-Saint-Denis 
+
+</td>
+      <td>
+
+Bobigny 
+
+</td>
+      <td>
+
+Bobigny 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Bobigny 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Val-de-Marne 
+
+</td>
+      <td>
+
+Créteil 
+
+</td>
+      <td>
+
+Créteil 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Créteil 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Pyrénées-Atlantiques
+Yonne 
 
 </td>
       <td>
 
-Bayonne
+Auxerre 
 
 </td>
       <td>
 
-Bayonne
+Auxerre 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Bayonne
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Pau
-
-</td>
-      <td>
-
-Pau
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Pau
+Ressort du tribunal de grande instance d'Auxerre 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Hautes-Pyrénées
+Sens 
 
 </td>
       <td>
 
-Tarbes
+Sens 
 
 </td>
       <td>
 
-Tarbes
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Tarbes
+Ressort du tribunal de grande instance de Sens 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Poitiers
+Cour d'appel de Pau 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Charente-Maritime
+Landes 
 
 </td>
       <td>
 
-La Rochelle
+Dax 
 
 </td>
       <td>
 
-La Rochelle
+Dax 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de La Rochelle
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Saintes
-
-</td>
-      <td>
-
-Saintes
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Saintes
+Ressort du tribunal de grande instance de Dax 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Deux-Sèvres
+Mont-de-Marsan 
 
 </td>
       <td>
 
-Niort
+Mont-de-Marsan 
 
 </td>
       <td>
 
-Niort
+Ressort du tribunal de grande instance de Mont-de-Marsan 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Pyrénées-Atlantiques 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Niort
+Bayonne 
+
+</td>
+      <td>
+
+Bayonne 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Bayonne 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vendée
+Pau 
 
 </td>
       <td>
 
-La Roche-sur-Yon
-
-Les Sables-d'Olonne
+Pau 
 
 </td>
       <td>
 
-La Roche-sur-Yon
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de La Roche-sur-Yon et des Sables-d'Olonne
+Ressort du tribunal de grande instance de Pau 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vienne
+Hautes-Pyrénées 
 
 </td>
       <td>
 
-Poitiers
+Tarbes 
 
 </td>
       <td>
 
-Poitiers
+Tarbes 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Poitiers
+Ressort du tribunal de grande instance de Tarbes 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Reims
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Ardennes
-
-</td>
-      <td>
-
-Charleville-Mézières
-
-</td>
-      <td>
-
-Sedan
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Charleville-Mézières
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Aube
-
-</td>
-      <td>
-
-Troyes
-
-</td>
-      <td>
-
-Troyes
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Troyes
+Cour d'appel de Poitiers 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Marne
+Charente-Maritime 
 
 </td>
       <td>
 
-Châlons-en-Champagne
+La Rochelle 
 
 </td>
       <td>
 
-Châlons-en-Champagne
+La Rochelle 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de La Rochelle 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Saintes 
+
+</td>
+      <td>
+
+Saintes 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Saintes 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Deux-Sèvres 
+
+</td>
+      <td>
+
+Niort 
+
+</td>
+      <td>
+
+Niort 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Niort 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vendée 
+
+</td>
+      <td>
+
+La Roche-sur-Yon 
+
+Les Sables-d'Olonne 
+
+</td>
+      <td>
+
+La Roche-sur-Yon 
+
+</td>
+      <td>
+
+Ressort des   tribunaux judiciaires de La Roche-sur-Yon et des Sables-d'Olonne 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Vienne 
+
+</td>
+      <td>
+
+Poitiers 
+
+</td>
+      <td>
+
+Poitiers 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Poitiers 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Reims 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ardennes 
+
+</td>
+      <td>
+
+Charleville-Mézières 
+
+</td>
+      <td>
+
+Sedan 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Charleville-Mézières 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Aube 
+
+</td>
+      <td>
+
+Troyes 
+
+</td>
+      <td>
+
+Troyes 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Troyes 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+
+Marne 
+
+</td>
+      <td>
+
+Châlons-en-Champagne 
+
+</td>
+      <td>
+
+Châlons-en-Champagne 
 
 </td>
       <td>
 
 Ressort du tribunal d'instance de Châlons-en-Champagne, à l'exception des cantons d'Anglure, Avize, Dormans, Epernay 1er
-canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
+canton, Epernay 2e canton, Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Reims
+Reims 
 
 </td>
       <td>
 
-Reims
+Reims 
 
 </td>
       <td>
 
 Ressort du tribunal de grande instance de Reims et cantons d'Anglure, Avize, Dormans, Epernay 1er canton, Epernay 2e canton,
-Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne
+Esternay, Fère-Champenoise, Montmirail, Montmort-Lucy et Sézanne 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Rennes
+Cour d'appel de Rennes 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Côtes-d'Armor
+Côtes-d'Armor 
 
 </td>
       <td>
 
-Saint-Brieuc
+Saint-Brieuc 
 
 </td>
       <td>
 
-Saint-Brieuc
+Saint-Brieuc 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Saint-Brieuc
+Ressort du tribunal de grande instance de Saint-Brieuc 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Finistère
+Finistère 
 
 </td>
       <td>
 
-Brest
+Brest 
 
 </td>
       <td>
 
-Brest
+Brest 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Brest
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Quimper
-
-</td>
-      <td>
-
-Quimper
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Quimper
+Ressort du tribunal de grande instance de Brest 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ille-et-Vilaine et Côtes-d'Armor
+Quimper 
 
 </td>
       <td>
 
-Rennes
+Quimper 
 
 </td>
       <td>
 
-Rennes
+Ressort du tribunal de grande instance de Quimper 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Ille-et-Vilaine et Côtes-d'Armor 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Rennes
+Rennes 
+
+</td>
+      <td>
+
+Rennes 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Rennes 
 
 </td>
     </tr>
@@ -2540,467 +2538,467 @@ Ressort du tribunal de grande instance de Rennes
       <td>
       </td><td>
 
-Saint-Malo
+Saint-Malo 
 
 </td>
       <td>
 
-Saint-Malo
+Saint-Malo 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Saint-Malo
+Ressort du tribunal de grande instance de Saint-Malo 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Loire-Atlantique
+Loire-Atlantique 
 
 </td>
       <td>
 
-Nantes
+Nantes 
 
 </td>
       <td>
 
-Nantes
+Nantes 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Nantes
+Ressort du tribunal de grande instance de Nantes 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Saint-Nazaire
+Saint-Nazaire 
 
 </td>
       <td>
 
-Saint-Nazaire
+Saint-Nazaire 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Saint-Nazaire
+Ressort du tribunal de grande instance de Saint-Nazaire 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Morbihan
+Morbihan 
 
 </td>
       <td>
 
-Lorient
+Lorient 
 
 </td>
       <td>
 
-Lorient
+Lorient 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Lorient
+Ressort du tribunal de grande instance de Lorient 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vannes
+Vannes 
 
 </td>
       <td>
 
-Vannes
+Vannes 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Vannes
+Ressort du tribunal de grande instance de Vannes 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Riom
+Cour d'appel de Riom 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Allier
+Allier 
 
 </td>
       <td>
 
-Cusset
+Cusset 
 
-Moulins
-
-</td>
-      <td>
-
-Cusset
+Moulins 
 
 </td>
       <td>
 
-Ressort des tribunaux de grande instance de Cusset et de Moulins
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Montluçon
+Cusset 
 
 </td>
       <td>
 
-Montluçon
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Montluçon
+Ressort des   tribunaux judiciaires de Cusset et de Moulins 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Cantal
+Montluçon 
 
 </td>
       <td>
 
-Aurillac
+Montluçon 
 
 </td>
       <td>
 
-Aurillac
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance d'Aurillac
+Ressort du tribunal de grande instance de Montluçon 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Haute-Loire
+Cantal 
 
 </td>
       <td>
 
-Le Puy-en-Velay
+Aurillac 
 
 </td>
       <td>
 
-Le Puy-en-Velay
+Aurillac 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance du Puy-en-Velay
+Ressort du tribunal de grande instance d'Aurillac 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Puy-de-Dôme
+Haute-Loire 
 
 </td>
       <td>
 
-Clermont-Ferrand
+Le Puy-en-Velay 
 
 </td>
       <td>
 
-Clermont-Ferrand
+Le Puy-en-Velay 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Clermont-Ferrand
+Ressort du tribunal de grande instance du Puy-en-Velay 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Puy-de-Dôme 
+
+</td>
+      <td>
+
+Clermont-Ferrand 
+
+</td>
+      <td>
+
+Clermont-Ferrand 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Clermont-Ferrand 
 
 </td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Rouen
+Cour d'appel de Rouen 
 
 </td>
     </tr>
     <tr>
       <td rowspan="2">
 
-Eure
+Eure 
 
 </td>
       <td rowspan="2">
 
-Evreux
+Evreux 
 
 </td>
       <td>
 
-Bernay
+Bernay 
 
 </td>
       <td>
 
-Ressort du tribunal d'instance de Bernay
+Ressort du tribunal d'instance de Bernay 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Evreux
+Evreux 
 
 </td>
       <td>
 
-Ressort des tribunaux d'instance d'Evreux et des Andelys
+Ressort des tribunaux judiciaires d'Evreux et des Andelys 
 
 </td>
     </tr>
     <tr>
       <td rowspan="3">
 
-Seine-Maritime
+Seine-Maritime 
 
 </td>
       <td>
 
-Dieppe
+Dieppe 
 
 </td>
       <td>
 
-Dieppe
+Dieppe 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Dieppe
+Ressort du tribunal de grande instance de Dieppe 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Le Havre
+Le Havre 
 
 </td>
       <td>
 
-Le Havre
+Le Havre 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance du Havre
+Ressort du tribunal de grande instance du Havre 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Rouen
+Rouen 
 
 </td>
       <td>
 
-Rouen
+Rouen 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Rouen
+Ressort du tribunal de grande instance de Rouen 
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="4">
-
-Cour d'appel de Toulouse
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Ariège
-
-</td>
-      <td>
-
-Foix
-
-</td>
-      <td>
-
-Foix
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Foix
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Haute-Garonne
-
-</td>
-      <td>
-
-Toulouse
-
-Saint-Gaudens
-
-</td>
-      <td>
-
-Toulouse
-
-</td>
-      <td>
-
-Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens
-
-</td>
-    </tr>
-    <tr>
-      <td>Tarn</td>
-      <td>Albi</td>
-      <td>Albi</td>
-      <td>Ressort du tribunal de grande instance d'Albi</td>
-    </tr>
-    <tr>
-      <td>
-      </td><td>Castres</td>
-      <td>Castres</td>
-      <td>Ressort du tribunal de grande instance de Castres</td>
-    </tr>
-    <tr>
-      <td>Tarn-et-Garonne</td>
-      <td>Montauban</td>
-      <td>Montauban</td>
-      <td>Ressort du tribunal de grande instance de Montauban</td>
     </tr>
     <tr>
       <td colspan="4">
 
-Cour d'appel de Versailles
+Cour d'appel de Toulouse 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Eure-et-Loir
+Ariège 
 
 </td>
       <td>
 
-Chartres
+Foix 
 
 </td>
       <td>
 
-Chartres
+Foix 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Chartres
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Hauts-de-Seine
-
-</td>
-      <td>
-
-Nanterre
-
-</td>
-      <td>
-
-Nanterre
-
-</td>
-      <td>
-
-Ressort du tribunal de grande instance de Nanterre
+Ressort du tribunal de grande instance de Foix 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Val-d'Oise
+Haute-Garonne 
 
 </td>
       <td>
 
-Pontoise
+Toulouse 
+
+Saint-Gaudens 
 
 </td>
       <td>
 
-Pontoise
+Toulouse 
 
 </td>
       <td>
 
-Ressort du tribunal de grande instance de Pontoise
+Ressort des   tribunaux judiciaires de Toulouse et de Saint-Gaudens 
+
+</td>
+    </tr>
+    <tr>
+      <td>TarnAlbiAlbiRessort</td>
+      <td>
+      </td><td>
+      </td><td> du tribunal de grande instance d'AlbiCastresCastresRessort</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td> du tribunal de grande instance de CastresTarn</td>
+    </tr>
+    <tr>
+      <td>-et-GaronneMontaubanMontaubanRessort</td>
+      <td>
+      </td><td>
+      </td><td> du tribunal de grande instance de MontaubanCour</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+d'appel de Versailles 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Yvelines
+Eure-et-Loir 
 
 </td>
       <td>
 
-Versailles
+Chartres 
 
 </td>
       <td>
 
-Versailles
+Chartres 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Chartres 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hauts-de-Seine 
+
+</td>
+      <td>
+
+Nanterre 
+
+</td>
+      <td>
+
+Nanterre 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Nanterre 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Val-d'Oise 
+
+</td>
+      <td>
+
+Pontoise 
+
+</td>
+      <td>
+
+Pontoise 
+
+</td>
+      <td>
+
+Ressort du tribunal de grande instance de Pontoise 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Yvelines 
+
+</td>
+      <td>
+
+Versailles 
+
+</td>
+      <td>
+
+Versailles 
 
 </td>
       <td>
@@ -3014,8 +3012,8 @@ Ressort du tribunal de grande instance de Versailles
 
 **Nota:**
 
-Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
-instances introduites après le 1er janvier 2017.
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -3031,5 +3029,4 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1097 du 13 juin 2017 - art.
-  - Décret n°2017-1097 du 13 juin 2017 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
