@@ -5,106 +5,112 @@
 <table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td rowspan="2" width="139">
+      <td rowspan="2">
 
 DÉPARTEMENT
 
 </td>
-      <td rowspan="2" width="124">
+      <td rowspan="2">
 
-TRIBUNAL de grande instance
+TRIBUNAL judiciaire
 
 </td>
-      <td colspan="2" width="420">
+      <td colspan="2">
 
 SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE
 
 </td>
     </tr>
     <tr>
-      <td width="195">
+      <td>
 
 Siège
 
 </td>
-      <td width="225">
+      <td>
 
 Ressort
 
 </td>
     </tr>
     <tr>
-      <td colspan="4" valign="top" width="683">
+      <td colspan="4">
 
 Cour d'appel de Basse-Terre
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="139">
+      <td rowspan="2">
 
-Guadeloupe 
-
-</td>
-      <td valign="top" width="124">
-
-Basse-Terre 
+Guadeloupe
 
 </td>
-      <td valign="top" width="195">
+      <td>
 
-Basse-Terre 
+Basse-Terre
 
 </td>
-      <td valign="top" width="225">
+      <td>
 
-Ressort du tribunal de grande instance de Basse-Terre 
+Basse-Terre
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+de Basse-Terre
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="124">
+      <td>
 
 Pointe-à-Pitre
 
 </td>
-      <td valign="top" width="195">
+      <td>
 
 Pointe-à-Pitre
 
 </td>
-      <td valign="top" width="225">
+      <td>
 
-Ressort du tribunal de grande instance de Pointe-à-Pitre 
+Ressort du tribunal judiciaire
 
-</td>
-    </tr>
-    <tr>
-      <td colspan="4" valign="top" width="683">
-
-Cour d'appel de Cayenne 
+de Pointe-à-Pitre
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td colspan="4">
 
-Guyane 
-
-</td>
-      <td align="left" valign="top">
-
-Cayenne 
+Cour d'appel de Cayenne
 
 </td>
-      <td align="left" valign="top">
+    </tr>
+    <tr>
+      <td align="left">
+
+Guyane
+
+</td>
+      <td align="left">
 
 Cayenne
 
 </td>
-      <td align="left" valign="top">
+      <td align="left">
 
-Ressort du tribunal de grande instance de Cayenne 
+Cayenne
+
+</td>
+      <td align="left">
+
+Ressort du tribunal judiciaire
+
+de Cayenne
 
 </td>
     </tr>
@@ -116,92 +122,101 @@ Cour d'appel de Fort-de-France
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139">
+      <td>
 
-Martinique 
-
-</td>
-      <td valign="top" width="124">
-
-Fort-de-France 
+Martinique
 
 </td>
-      <td valign="top" width="195">
+      <td>
 
-Fort-de-France 
+Fort-de-France
 
 </td>
-      <td valign="top" width="225">
+      <td>
 
-Ressort du tribunal de grande instance de Fort-de-France 
+Fort-de-France
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+de Fort-de-France
 
 </td>
     </tr>
     <tr>
-      <td colspan="4" valign="top" width="683">
+      <td colspan="4">
 
 Cour d'appel de Saint-Denis-de-la-Réunion
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139">
+      <td>
 
 Mayotte
 
 </td>
-      <td valign="top" width="124">
+      <td>
 
-Mamoudzou 
-
-</td>
-      <td valign="top" width="195">
-
-Mamoudzou 
+Mamoudzou
 
 </td>
-      <td valign="top" width="225">
+      <td>
 
-Ressort du tribunal de grande instance de Mamoudzou 
+Mamoudzou
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire
+
+de Mamoudzou
 
 </td>
     </tr>
     <tr>
       <td>
 
-La Réunion 
+La Réunion
 
 </td>
-      <td>Saint-Denis </td>
-      <td>Saint-Denis </td>
+      <td>Saint-Denis</td>
+      <td>Saint-Denis</td>
       <td>
 
-Ressort du tribunal de grande instance de Saint-Denis 
+Ressort du tribunal judiciaire
+
+de Saint-Denis
 
 </td>
     </tr>
     <tr>
       <td>
-      </td><td>Saint-Pierre 
-
-</td>
-      <td>Saint-Pierre 
-
-</td>
+      </td><td>Saint-Pierre</td>
+      <td>Saint-Pierre</td>
       <td>
 
-Ressort du tribunal de grande instance de Saint-Pierre 
+Ressort du tribunal judiciaire
+
+de Saint-Pierre
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 

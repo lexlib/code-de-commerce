@@ -1,40 +1,39 @@
 # Article Annexe 7-1-2
 
-Siège et ressort des chambres commerciales spécialisées des tribunaux de grande instance des départements du Bas-Rhin, du
-Haut-Rhin et de la Moselle 
+Siège et ressort des chambres commerciales spécialisées des tribunaux judiciaires des départements du Bas-Rhin, du Haut-Rhin
+et de la Moselle
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-SIÈGE 
-
-</th>
+SIÈGE</th>
       <th>
 
-RESSORT 
-
-</th>
+RESSORT</th>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-Strasbourg 
+Strasbourg</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
-
-Tribunaux de grande instance de Colmar, de Metz, de Mulhouse, de Sarreguemines, de Saverne, de Strasbourg, de Thionville</td>
+Tribunaux judiciaires de Colmar, de Metz, de Mulhouse, de Sarreguemines, de Saverne, de Strasbourg, de Thionville</td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-217 du 26 février 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
