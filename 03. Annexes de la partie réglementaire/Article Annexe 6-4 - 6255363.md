@@ -1,143 +1,149 @@
 # Article Annexe 6-4
 
-JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1, 
+JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1,
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS 
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
 
-<table align="center" cellpadding="0" width="740" border="1" cellspacing="1">
+<table cellspacing="1" cellpadding="0" align="center" border="1">
   <thead>
     <tr>
-      <td width="143">
+      <td>
 
-DÉPARTEMENT 
-
-</td>
-      <td width="156">
-
-JURIDICTION 
+DÉPARTEMENT
 
 </td>
-      <td width="156">
+      <td>
 
-RESSORT 
+JURIDICTION
+
+</td>
+      <td>
+
+RESSORT
 
 </td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td>
 
-Guadeloupe. 
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Basse-Terre. 
+Guadeloupe.
 
 </td>
-      <td valign="top">
+      <td>
 
-Ressort du TGI. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-      </td><td valign="top">
-
-Tribunal de grande instance de Pointe-à-Pitre. 
+Tribunal de grande instance de Basse-Terre.
 
 </td>
-      <td valign="top">
+      <td>
 
-Ressort du TGI. 
+Ressort du tribunal judiciaire.
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
+      </td><td>
 
-Guyane. 
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Cayenne. 
+Tribunal de grande instance de Pointe-à-Pitre.
 
 </td>
-      <td valign="top">
+      <td>
 
-Le département. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Martinique. 
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Fort-de-France. 
-
-</td>
-      <td valign="top">
-
-Le département. 
+Ressort du tribunal judiciaire.
 
 </td>
     </tr>
     <tr>
       <td>
 
-Mayotte 
+Guyane.
 
 </td>
       <td>
 
-Tribunal de grande instance de Mamoudzou 
+Tribunal de grande instance de Cayenne.
 
 </td>
       <td>
 
-Le département 
+Le département.
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td>
 
-Réunion. 
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Saint-Denis. 
+Martinique.
 
 </td>
-      <td valign="top">
+      <td>
 
-Ressort du TGI. 
+Tribunal de grande instance de Fort-de-France.
+
+</td>
+      <td>
+
+Le département.
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
-      </td><td valign="top">
+      <td>
 
-Tribunal de grande instance de Saint-Pierre. 
+Mayotte
 
 </td>
-      <td valign="top">
+      <td>
 
-Ressort du TGI.
+Tribunal de grande instance de Mamoudzou
+
+</td>
+      <td>
+
+Le département
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Réunion.
+
+</td>
+      <td>
+
+Tribunal de grande instance de Saint-Denis.
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>
+
+Tribunal de grande instance de Saint-Pierre.
+
+</td>
+      <td>
+
+Ressort du tribunal judiciaire.
 
 </td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -147,11 +153,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-338 du 29 mars 2011 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 7
 
 _Cite_:
 
-  - Code de commerce - art. L610-1 (V)
+  - Code de commerce - art. L610-1
 
 _Cité par_:
 
