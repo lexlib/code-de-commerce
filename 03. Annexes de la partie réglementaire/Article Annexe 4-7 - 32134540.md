@@ -2598,7 +2598,7 @@ et au nantissement des fonds de commerce</td>
 Successions</td>
       <td>
 
-Sommation de prendre parti, prévu à l' article 771 du code civil </td>
+Sommation de prendre parti, prévu à l'article 771 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -7751,12 +7751,17 @@ Incidents</td>
 Incidents</td>
       <td align="left" colspan="2">
 
-Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l' article 771 du code de procédure
+Actes et formalités de procédure réalisés en matière d'incidents (incidents relevant de l'article 789 du code de procédure
 civile et contestations et demandes incidentes mentionnées à l' article R. 311-6 du code des procédures civiles
 d'exécution )</td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+<font color="black">Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicable aux instances en cours.</font>
 
 **Liens relatifs à cet article**
 
@@ -7798,7 +7803,7 @@ _Cite_:
   - Code de procédure civile - art. 1323
   - Code de procédure civile - art. 1324
   - Code de procédure civile - art. 1345
-  - Code de procédure civile - art. 1407
+  - Code de procédure civile - art. 1407 (VD)
   - Code de procédure civile - art. 1425-1
   - Code de procédure civile - art. 1426
   - Code de procédure civile - art. 1428
@@ -7807,7 +7812,6 @@ _Cite_:
   - Code de procédure civile - art. 671
   - Code de procédure civile - art. 684
   - Code de procédure civile - art. 688-2
-  - Code de procédure civile - art. 771
   - Code de procédure civile - art. 982
   - Code pénal - art. 225-19
   - Code civil
@@ -7842,7 +7846,7 @@ _Cite_:
   - Code monétaire et financier - art. L131-47
   - Code monétaire et financier - art. L131-73
   - Code monétaire et financier - art. L561-46
-  - Code du travail - art. R3252-13
+  - Code du travail - art. R3252-13 (VD)
   - Code de la construction et de l'habitation. - art. L271-4
   - Code de la construction et de l'habitation. - art. L290-1
   - Code de la construction et de l'habitation. - art. L616
@@ -7861,7 +7865,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L152-2
   - Code des procédures civiles d'exécution - art. L213-5
   - Code des procédures civiles d'exécution - art. L221-3
-  - Code des procédures civiles d'exécution - art. R151-2
+  - Code des procédures civiles d'exécution - art. R151-2 (VD)
   - Code des procédures civiles d'exécution - art. R151-3
   - Code des procédures civiles d'exécution - art. R153-1
   - Code des procédures civiles d'exécution - art. R211-1
@@ -7920,7 +7924,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R251-5
   - Code des procédures civiles d'exécution - art. R251-6
   - Code des procédures civiles d'exécution - art. R251-8
-  - Code des procédures civiles d'exécution - art. R311-6
+  - Code des procédures civiles d'exécution - art. R311-6 (VD)
   - Code des procédures civiles d'exécution - art. R321-1
   - Code des procédures civiles d'exécution - art. R321-18
   - Code des procédures civiles d'exécution - art. R321-22
@@ -7973,7 +7977,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-1316 du 9 décembre 2019 - art. 14
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 16
 
 _Cité par_:
 
