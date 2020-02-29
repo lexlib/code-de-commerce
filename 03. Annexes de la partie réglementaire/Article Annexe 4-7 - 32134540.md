@@ -112,7 +112,7 @@ Formalités</td>
 Expéditions</td>
       <td>
 
-Expédition ou extrait du procès-verbal prévu à l'article R. 444-50</td>
+Expédition ou extrait du procès-verbal prévu à l'article R. 444-47</td>
     </tr>
     <tr>
       <td align="center">
@@ -2598,7 +2598,7 @@ et au nantissement des fonds de commerce</td>
 Successions</td>
       <td>
 
-Sommation de prendre parti, prévu à l'article 771 du code civil</td>
+Sommation de prendre parti, prévu à l'article 789 du code civil</td>
     </tr>
     <tr>
       <td align="center">
@@ -4238,7 +4238,7 @@ Nature de la prestation</td>
       <td align="center">
 
 1</td>
-      <td align="center" rowspan="187">
+      <td align="center" rowspan="188">
 
 Actes</td>
       <td align="center" rowspan="45">
@@ -4617,10 +4617,10 @@ tiers donneur prévu à l' article 311-20 du code civil </td>
       <td align="center">
 
 44</td>
-      <td rowspan="56">
+      <td rowspan="57">
 
 Actes relatifs principalement aux biens immobiliers et fonciers</td>
-      <td rowspan="30">
+      <td rowspan="31">
 
 Actes relatifs à la propriété et la mutation de propriété</td>
       <td>
@@ -4699,6 +4699,11 @@ Résiliation ou résolution de vente</td>
       <td>
 
 Transfert de propriété ou de jouissance entre collectivités territoriales et/ ou établissements publics</td>
+    </tr>
+    <tr>
+      <td align="center">53-1</td>
+      <td>Transfert de propriété à titre gratuit des biens mobiliers et immobiliers mentionnés à l'article L. 719-14 du code
+de l'éducation</td>
     </tr>
     <tr>
       <td align="center">
@@ -7758,11 +7763,6 @@ d'exécution )</td>
   </tbody>
 </table>
 
-**Nota:**
-
-<font color="black">Conformément au I de l’article 55 du décret n° 2019-1333, les présentes dispositions entrent en vigueur
-le 1er janvier 2020 et sont applicable aux instances en cours.</font>
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -7803,7 +7803,7 @@ _Cite_:
   - Code de procédure civile - art. 1323
   - Code de procédure civile - art. 1324
   - Code de procédure civile - art. 1345
-  - Code de procédure civile - art. 1407 (VD)
+  - Code de procédure civile - art. 1407
   - Code de procédure civile - art. 1425-1
   - Code de procédure civile - art. 1426
   - Code de procédure civile - art. 1428
@@ -7812,6 +7812,7 @@ _Cite_:
   - Code de procédure civile - art. 671
   - Code de procédure civile - art. 684
   - Code de procédure civile - art. 688-2
+  - Code de procédure civile - art. 771
   - Code de procédure civile - art. 982
   - Code pénal - art. 225-19
   - Code civil
@@ -7846,7 +7847,7 @@ _Cite_:
   - Code monétaire et financier - art. L131-47
   - Code monétaire et financier - art. L131-73
   - Code monétaire et financier - art. L561-46
-  - Code du travail - art. R3252-13 (VD)
+  - Code du travail - art. R3252-13
   - Code de la construction et de l'habitation. - art. L271-4
   - Code de la construction et de l'habitation. - art. L290-1
   - Code de la construction et de l'habitation. - art. L616
@@ -7865,7 +7866,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L152-2
   - Code des procédures civiles d'exécution - art. L213-5
   - Code des procédures civiles d'exécution - art. L221-3
-  - Code des procédures civiles d'exécution - art. R151-2 (VD)
+  - Code des procédures civiles d'exécution - art. R151-2
   - Code des procédures civiles d'exécution - art. R151-3
   - Code des procédures civiles d'exécution - art. R153-1
   - Code des procédures civiles d'exécution - art. R211-1
@@ -7924,7 +7925,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. R251-5
   - Code des procédures civiles d'exécution - art. R251-6
   - Code des procédures civiles d'exécution - art. R251-8
-  - Code des procédures civiles d'exécution - art. R311-6 (VD)
+  - Code des procédures civiles d'exécution - art. R311-6
   - Code des procédures civiles d'exécution - art. R321-1
   - Code des procédures civiles d'exécution - art. R321-18
   - Code des procédures civiles d'exécution - art. R321-22
@@ -7977,7 +7978,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 16
+  - Décret n°2020-179 du 28 février 2020 - art. 13
 
 _Cité par_:
 
